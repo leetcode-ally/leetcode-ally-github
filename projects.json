@@ -1,0 +1,118 @@
+{
+  "status": 200,
+  "message": "All Projects fetched sucessfully",
+  "data": {
+    "projects": [
+      {
+        "id": 1,
+        "name": "Leetcode Ally",
+        "description": "It is a React Native application that allows you to access all leetcode questions offline and solve them. You can see the likes/dislikes and difficulty of the questions, add Leetcode friends and monitor their progress along with their daily questions solved, compare your progress with friends and much more.",
+        "link": "https://play.google.com/store/apps/details?id=com.leetos",
+        "type": "Mobile Application",
+        "video": "https://youtu.be/biGczT-ckgQ",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/leetcode-ally-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/leetcode-ally.png"
+      },
+      {
+        "id": 2,
+        "name": "Codeforces Ally",
+        "description": "A React Native application in which you can see all of your codeforces information, your contests, ranks in each contest, submitted codes with date, time and question. You can predict your rank in any contest before codeforces reveals your rank, measure your preformance and much more.",
+        "link": "https://play.google.com/store/apps/details?id=com.ethosforces",
+        "type": "Mobile Application",
+        "video": "https://www.youtube.com/watch?v=Fs9nskYCjR0",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/codeforces-ally-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/codeforces-ally.png"
+      },
+      {
+        "id": 3,
+        "name": "MongoDB Ally",
+        "description": "It is your all-inclusive MongoDB tutorial app for both seasoned developers and curious learners. Dive into NoSQL databases, explore MongoDB's unique features, and master data storage principles through our extensive tutorial library. Experience hands-on learning with interactive examples and exercises, guiding you to implement MongoDB in real-world scenarios. With offline access and light/dark theme, you can learn MongoDB anytime, anywhere.",
+        "link": "https://play.google.com/store/apps/details?id=com.mongosimplifier",
+        "type": "Mobile Application",
+        "video": "https://www.youtube.com/watch?v=Fs9nskYCjR0",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/mongodb-ally-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/mongodb-ally.png"
+      },
+      {
+        "id": 4,
+        "name": "Leetos Extension",
+        "description": "It is an extension that introduces a new feature on the problems page wherein you can sort the questions based on likes and dislikes. Additionally, questions have been assigned stars according to the level of concepts involved and the chances of problems to be asked in interviews.",
+        "link": "https://chrome.google.com/webstore/detail/leetos/nmomaabbkefijibadipbdkinfpiehkof/related?hl=en-GB",
+        "type": "Chrome and Edge Extension",
+        "video": "https://youtu.be/3jv4FlSVcn8",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/leetos-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/leetos.png"
+      },
+      {
+        "id": 5,
+        "name": "Code Fingers",
+        "description": "In this you can add all of your coding profiles of platforms like Leetcode, Codeforces, Hackerearth, Codestudio, GFG, etc. One feature is Wallet that displays count of problems solved across these platforms. You can use the wallet link in your Resume/Portfolio to showcase your coding profiles. You can visualize your performance, analyze your last week, last 30 days and last 6 months performance.",
+        "link": "https://code-fingers.amansaxena.me/",
+        "type": "React Web Application",
+        "video": "https://youtu.be/vgtUqxyNL70",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/code-fingers-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/code-fingers.png"
+      },
+      {
+        "id": 6,
+        "name": "CodeCoffee",
+        "description": "It is an application version of the above mentioned Web Application. It includes same features where you can add all of your coding profiles of platforms like Leetcode, Codeforces, etc. and visualize your performance.",
+        "link": "https://play.google.com/store/apps/details?id=com.codecoffee",
+        "type": "Mobile Application",
+        "video": "https://youtu.be/n3yflPAUUw4",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/codecoffee-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/codecoffee.png"
+      },
+      {
+        "id": 7,
+        "name": "Amaditor",
+        "description": "A Chrome Extension that injects code editor on Codeforces. Editor allows to write code and run it on sample test cases or custom inputs. It also provides expected output for every input for comparison. Code can be directly submitted through the editor. User can save his template, modify or delete it.",
+        "link": "http://amansaxena.me/Amaditor_View/",
+        "type": "Chrome Extension",
+        "video": "https://youtu.be/TR3voLflsWY",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/amaditor-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/amaditor.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mesons",
+        "description": "A React app that contains all your Codeforces, Codechef and Leetcode data. User can make friends and assign them contests. These contests are cross platform thus they may include questions from different platforms at the same time. You can solve daily challenge questions to increase your coins and raise your rank. Different ranks are alloted to user on the basis of their coins.",
+        "link": "https://mesons-web.vercel.app/",
+        "type": "MERN Web Application",
+        "video": "https://youtu.be/H_HACjJSufQ",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/mesons-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/mesons.png"
+      },
+      {
+        "id": 9,
+        "name": "TrackMe",
+        "description": "An Android app which monitors the productivity of your entire day and also monitors it on daily basis. It provides proper and attractive representation of work and other daily activities in the form of pie chats and line charts , you can compare your productivity with your fiend's, you can set timers, reminders and many more.",
+        "link": "http://amansaxena.me/TrackmeHost/",
+        "type": "Mobile Application",
+        "video": "https://youtu.be/RklmUJf9xUI",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/trackme-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/trackme.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Innovadia",
+        "description": "An Android app that provides sources to users for reskilling and upskilling their skills in traditional arts and crafts. Furthermore it proves a market for selling the product created by acquiring skills to the user. User authentication is carefully ensured and a very intuitive user experience and many more features are provided.",
+        "link": "http://amansaxena.me/Innovadia_View/",
+        "type": "Mobile Application",
+        "video": "https://youtu.be/lA-5RMdZsEc",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/innovadia-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/innovadia.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Chit Chat",
+        "description": "A chat web-app with responsive and interactive user interface, user have to login or signup then enter a valid chatroom name or create a new chatroom. Whenever user enter the room, he can see all the messages from beginning. Also there is a voice feature where user speak the message and app convert it into text and then user can sent it.",
+        "link": "https://youtu.be/wVrS0w6ywJA",
+        "type": "React Web Application",
+        "video": "https://youtu.be/wVrS0w6ywJA",
+        "logo": "https://leetcode-ally.github.io/leetcode-ally-github/images/chitchat-logo.png",
+        "img": "https://leetcode-ally.github.io/leetcode-ally-github/images/chitchat.png"
+      }
+    ]
+  }
+}
