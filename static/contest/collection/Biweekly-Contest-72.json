@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-72",
+  "data": [
+    {
+      "id": 2506,
+      "question_id": 2277,
+      "credit": 3,
+      "title": "Count Equal and Divisible Pairs in an Array",
+      "title_slug": "count-equal-and-divisible-pairs-in-an-array",
+      "likes": 607,
+      "dislikes": 25
+    },
+    {
+      "id": 2507,
+      "question_id": 2278,
+      "credit": 4,
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "title_slug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+      "likes": 634,
+      "dislikes": 205
+    },
+    {
+      "id": 2508,
+      "question_id": 2279,
+      "credit": 5,
+      "title": "Maximum Split of Positive Even Integers",
+      "title_slug": "maximum-split-of-positive-even-integers",
+      "likes": 758,
+      "dislikes": 71
+    },
+    {
+      "id": 2509,
+      "question_id": 2280,
+      "credit": 7,
+      "title": "Count Good Triplets in an Array",
+      "title_slug": "count-good-triplets-in-an-array",
+      "likes": 590,
+      "dislikes": 24
+    }
+  ]
+}

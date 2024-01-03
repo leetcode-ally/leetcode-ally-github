@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-324",
+  "data": [
+    {
+      "id": 3058,
+      "question_id": 2594,
+      "credit": 3,
+      "title": "Count Pairs Of Similar Strings",
+      "title_slug": "count-pairs-of-similar-strings",
+      "likes": 470,
+      "dislikes": 32
+    },
+    {
+      "id": 3059,
+      "question_id": 2595,
+      "credit": 4,
+      "title": "Smallest Value After Replacing With Sum of Prime Factors",
+      "title_slug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+      "likes": 362,
+      "dislikes": 24
+    },
+    {
+      "id": 3060,
+      "question_id": 2596,
+      "credit": 6,
+      "title": "Add Edges to Make Degrees of All Nodes Even",
+      "title_slug": "add-edges-to-make-degrees-of-all-nodes-even",
+      "likes": 312,
+      "dislikes": 54
+    },
+    {
+      "id": 3061,
+      "question_id": 2597,
+      "credit": 6,
+      "title": "Cycle Length Queries in a Tree",
+      "title_slug": "cycle-length-queries-in-a-tree",
+      "likes": 327,
+      "dislikes": 28
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "658",
+      "title": "Find K Closest Elements",
+      "titleSlug": "find-k-closest-elements",
+      "content": "<p>Given a <strong>sorted</strong> integer array <code>arr</code>, two integers <code>k</code> and <code>x</code>, return the <code>k</code> closest integers to <code>x</code> in the array. The result should also be sorted in ascending order.</p>\n\n<p>An integer <code>a</code> is closer to <code>x</code> than an integer <code>b</code> if:</p>\n\n<ul>\n\t<li><code>|a - x| &lt; |b - x|</code>, or</li>\n\t<li><code>|a - x| == |b - x|</code> and <code>a &lt; b</code></li>\n</ul>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> arr = [1,2,3,4,5], k = 4, x = 3\n<strong>Output:</strong> [1,2,3,4]\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> arr = [1,2,3,4,5], k = 4, x = -1\n<strong>Output:</strong> [1,2,3,4]\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= k &lt;= arr.length</code></li>\n\t<li><code>1 &lt;= arr.length &lt;= 10<sup>4</sup></code></li>\n\t<li><code>arr</code> is sorted in <strong>ascending</strong> order.</li>\n\t<li><code>-10<sup>4</sup> &lt;= arr[i], x &lt;= 10<sup>4</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 7822,
+      "dislikes": 632,
+      "similarQuestions": "[{\"title\": \"Guess Number Higher or Lower\", \"titleSlug\": \"guess-number-higher-or-lower\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Guess Number Higher or Lower II\", \"titleSlug\": \"guess-number-higher-or-lower-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find K-th Smallest Pair Distance\", \"titleSlug\": \"find-k-th-smallest-pair-distance\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find Closest Number to Zero\", \"titleSlug\": \"find-closest-number-to-zero\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"494.3K\", \"totalSubmission\": \"1M\", \"totalAcceptedRaw\": 494285, \"totalSubmissionRaw\": 1049938, \"acRate\": \"47.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "guess-number-higher-or-lower",
+        "title": "Guess Number Higher or Lower",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "guess-number-higher-or-lower-ii",
+        "title": "Guess Number Higher or Lower II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "find-k-th-smallest-pair-distance",
+        "title": "Find K-th Smallest Pair Distance",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "find-closest-number-to-zero",
+        "title": "Find Closest Number to Zero",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

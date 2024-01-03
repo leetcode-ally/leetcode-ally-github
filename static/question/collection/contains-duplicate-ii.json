@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "219",
+      "title": "Contains Duplicate II",
+      "titleSlug": "contains-duplicate-ii",
+      "content": "<p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <code>true</code> <em>if there are two <strong>distinct indices</strong> </em><code>i</code><em> and </em><code>j</code><em> in the array such that </em><code>nums[i] == nums[j]</code><em> and </em><code>abs(i - j) &lt;= k</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,2,3,1], k = 3\n<strong>Output:</strong> true\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,0,1,1], k = 1\n<strong>Output:</strong> true\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,2,3,1,2,3], k = 2\n<strong>Output:</strong> false\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>\n\t<li><code>0 &lt;= k &lt;= 10<sup>5</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 5802,
+      "dislikes": 2964,
+      "similarQuestions": "[{\"title\": \"Contains Duplicate\", \"titleSlug\": \"contains-duplicate\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Contains Duplicate III\", \"titleSlug\": \"contains-duplicate-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"824.5K\", \"totalSubmission\": \"1.9M\", \"totalAcceptedRaw\": 824534, \"totalSubmissionRaw\": 1866821, \"acRate\": \"44.2%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "contains-duplicate",
+        "title": "Contains Duplicate",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "contains-duplicate-iii",
+        "title": "Contains Duplicate III",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

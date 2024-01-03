@@ -1,0 +1,80 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "78",
+      "title": "Subsets",
+      "titleSlug": "subsets",
+      "content": "<p>Given an integer array <code>nums</code> of <strong>unique</strong> elements, return <em>all possible</em> <span data-keyword=\"subset\"><em>subsets</em></span> <em>(the power set)</em>.</p>\n\n<p>The solution set <strong>must not</strong> contain duplicate subsets. Return the solution in <strong>any order</strong>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,2,3]\n<strong>Output:</strong> [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [0]\n<strong>Output:</strong> [[],[0]]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 10</code></li>\n\t<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>\n\t<li>All the numbers of&nbsp;<code>nums</code> are <strong>unique</strong>.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 16310,
+      "dislikes": 247,
+      "similarQuestions": "[{\"title\": \"Subsets II\", \"titleSlug\": \"subsets-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Generalized Abbreviation\", \"titleSlug\": \"generalized-abbreviation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Letter Case Permutation\", \"titleSlug\": \"letter-case-permutation\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Array Given Subset Sums\", \"titleSlug\": \"find-array-given-subset-sums\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Number of Maximum Bitwise-OR Subsets\", \"titleSlug\": \"count-number-of-maximum-bitwise-or-subsets\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.7M\", \"totalSubmission\": \"2.2M\", \"totalAcceptedRaw\": 1679091, \"totalSubmissionRaw\": 2190007, \"acRate\": \"76.7%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "subsets-ii",
+        "title": "Subsets II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "generalized-abbreviation",
+        "title": "Generalized Abbreviation",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "letter-case-permutation",
+        "title": "Letter Case Permutation",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "find-array-given-subset-sums",
+        "title": "Find Array Given Subset Sums",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  }
+}

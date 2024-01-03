@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-1",
+  "data": [
+    {
+      "id": 753,
+      "question_id": 1066,
+      "credit": 3,
+      "title": "Fixed Point",
+      "title_slug": "fixed-point",
+      "likes": 431,
+      "dislikes": 66
+    },
+    {
+      "id": 754,
+      "question_id": 1075,
+      "credit": 4,
+      "title": "Index Pairs of a String",
+      "title_slug": "index-pairs-of-a-string",
+      "likes": 370,
+      "dislikes": 107
+    },
+    {
+      "id": 755,
+      "question_id": 1067,
+      "credit": 5,
+      "title": "Campus Bikes II",
+      "title_slug": "campus-bikes-ii",
+      "likes": 901,
+      "dislikes": 86
+    },
+    {
+      "id": 756,
+      "question_id": 1068,
+      "credit": 7,
+      "title": "Digit Count in Range",
+      "title_slug": "digit-count-in-range",
+      "likes": 91,
+      "dislikes": 24
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2728",
+      "title": "Count Houses in a Circular Street",
+      "titleSlug": "count-houses-in-a-circular-street",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 45,
+      "dislikes": 6,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.4K\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 1418, \"totalSubmissionRaw\": 1685, \"acRate\": \"84.2%\"}",
+      "hints": [
+        "Close the door of k houses moving in one direction.",
+        "Open the door of the current house.",
+        "Move in one direction and count until you reach the house with the open door."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Close the door of k houses moving in one direction.",
+      "Open the door of the current house.",
+      "Move in one direction and count until you reach the house with the open door."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

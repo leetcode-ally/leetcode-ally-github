@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-369",
+  "data": [
+    {
+      "id": 3596,
+      "question_id": 3183,
+      "credit": 3,
+      "title": "Find the K-or of an Array",
+      "title_slug": "find-the-k-or-of-an-array",
+      "likes": 65,
+      "dislikes": 232
+    },
+    {
+      "id": 3597,
+      "question_id": 3171,
+      "credit": 4,
+      "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+      "title_slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+      "likes": 146,
+      "dislikes": 18
+    },
+    {
+      "id": 3598,
+      "question_id": 3178,
+      "credit": 5,
+      "title": "Minimum Increment Operations to Make Array Beautiful",
+      "title_slug": "minimum-increment-operations-to-make-array-beautiful",
+      "likes": 271,
+      "dislikes": 17
+    },
+    {
+      "id": 3599,
+      "question_id": 3179,
+      "credit": 6,
+      "title": "Maximum Points After Collecting Coins From All Nodes",
+      "title_slug": "maximum-points-after-collecting-coins-from-all-nodes",
+      "likes": 168,
+      "dislikes": 11
+    }
+  ]
+}

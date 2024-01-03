@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-81",
+  "data": [
+    {
+      "id": 353,
+      "question_id": 841,
+      "credit": 4,
+      "title": "Shortest Distance to a Character",
+      "title_slug": "shortest-distance-to-a-character",
+      "likes": 3063,
+      "dislikes": 162
+    },
+    {
+      "id": 354,
+      "question_id": 842,
+      "credit": 5,
+      "title": "Card Flipping Game",
+      "title_slug": "card-flipping-game",
+      "likes": 159,
+      "dislikes": 736
+    },
+    {
+      "id": 355,
+      "question_id": 839,
+      "credit": 6,
+      "title": "Short Encoding of Words",
+      "title_slug": "short-encoding-of-words",
+      "likes": 1719,
+      "dislikes": 644
+    },
+    {
+      "id": 356,
+      "question_id": 843,
+      "credit": 7,
+      "title": "Binary Trees With Factors",
+      "title_slug": "binary-trees-with-factors",
+      "likes": 3256,
+      "dislikes": 250
+    }
+  ]
+}

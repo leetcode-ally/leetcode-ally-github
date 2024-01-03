@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "233",
+      "title": "Number of Digit One",
+      "titleSlug": "number-of-digit-one",
+      "content": "<p>Given an integer <code>n</code>, count <em>the total number of digit </em><code>1</code><em> appearing in all non-negative integers less than or equal to</em> <code>n</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 13\n<strong>Output:</strong> 6\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 0\n<strong>Output:</strong> 0\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= n &lt;= 10<sup>9</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 1446,
+      "dislikes": 1431,
+      "similarQuestions": "[{\"title\": \"Factorial Trailing Zeroes\", \"titleSlug\": \"factorial-trailing-zeroes\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Digit Count in Range\", \"titleSlug\": \"digit-count-in-range\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"86.3K\", \"totalSubmission\": \"251.9K\", \"totalAcceptedRaw\": 86332, \"totalSubmissionRaw\": 251885, \"acRate\": \"34.3%\"}",
+      "hints": [
+        "Beware of overflow."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "factorial-trailing-zeroes",
+        "title": "Factorial Trailing Zeroes",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "digit-count-in-range",
+        "title": "Digit Count in Range",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Beware of overflow."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "339",
+      "title": "Nested List Weight Sum",
+      "titleSlug": "nested-list-weight-sum",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1655,
+      "dislikes": 382,
+      "similarQuestions": "[{\"title\": \"Nested List Weight Sum II\", \"titleSlug\": \"nested-list-weight-sum-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Array Nesting\", \"titleSlug\": \"array-nesting\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Employee Importance\", \"titleSlug\": \"employee-importance\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"245K\", \"totalSubmission\": \"295.8K\", \"totalAcceptedRaw\": 245009, \"totalSubmissionRaw\": 295802, \"acRate\": \"82.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "nested-list-weight-sum-ii",
+        "title": "Nested List Weight Sum II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "array-nesting",
+        "title": "Array Nesting",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "employee-importance",
+        "title": "Employee Importance",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  }
+}

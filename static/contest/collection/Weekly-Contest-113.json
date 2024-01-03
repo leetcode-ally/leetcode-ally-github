@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-113",
+  "data": [
+    {
+      "id": 488,
+      "question_id": 986,
+      "credit": 4,
+      "title": "Largest Time for Given Digits",
+      "title_slug": "largest-time-for-given-digits",
+      "likes": 686,
+      "dislikes": 1042
+    },
+    {
+      "id": 490,
+      "question_id": 988,
+      "credit": 5,
+      "title": "Flip Equivalent Binary Trees",
+      "title_slug": "flip-equivalent-binary-trees",
+      "likes": 2219,
+      "dislikes": 93
+    },
+    {
+      "id": 489,
+      "question_id": 987,
+      "credit": 5,
+      "title": "Reveal Cards In Increasing Order",
+      "title_slug": "reveal-cards-in-increasing-order",
+      "likes": 2455,
+      "dislikes": 342
+    },
+    {
+      "id": 491,
+      "question_id": 989,
+      "credit": 8,
+      "title": "Largest Component Size by Common Factor",
+      "title_slug": "largest-component-size-by-common-factor",
+      "likes": 1579,
+      "dislikes": 88
+    }
+  ]
+}

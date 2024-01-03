@@ -1,0 +1,102 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2617",
+      "title": "Minimum Number of Visited Cells in a Grid",
+      "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+      "content": "<p>You are given a <strong>0-indexed</strong> <code>m x n</code> integer matrix <code>grid</code>. Your initial position is at the <strong>top-left</strong> cell <code>(0, 0)</code>.</p>\n\n<p>Starting from the cell <code>(i, j)</code>, you can move to one of the following cells:</p>\n\n<ul>\n\t<li>Cells <code>(i, k)</code> with <code>j &lt; k &lt;= grid[i][j] + j</code> (rightward movement), or</li>\n\t<li>Cells <code>(k, j)</code> with <code>i &lt; k &lt;= grid[i][j] + i</code> (downward movement).</li>\n</ul>\n\n<p>Return <em>the minimum number of cells you need to visit to reach the <strong>bottom-right</strong> cell</em> <code>(m - 1, n - 1)</code>. If there is no valid path, return <code>-1</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2023/01/25/ex1.png\" style=\"width: 271px; height: 171px;\" />\n<pre>\n<strong>Input:</strong> grid = [[3,4,2,1],[4,2,3,1],[2,1,0,0],[2,4,0,0]]\n<strong>Output:</strong> 4\n<strong>Explanation:</strong> The image above shows one of the paths that visits exactly 4 cells.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2023/01/25/ex2.png\" style=\"width: 271px; height: 171px;\" />\n<pre>\n<strong>Input:</strong> grid = [[3,4,2,1],[4,2,1,1],[2,1,1,0],[3,4,1,0]]\n<strong>Output:</strong> 3\n<strong>Explanation: </strong>The image above shows one of the paths that visits exactly 3 cells.\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2023/01/26/ex3.png\" style=\"width: 181px; height: 81px;\" />\n<pre>\n<strong>Input:</strong> grid = [[2,1,0],[1,0,0]]\n<strong>Output:</strong> -1\n<strong>Explanation:</strong> It can be proven that no path exists.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>m == grid.length</code></li>\n\t<li><code>n == grid[i].length</code></li>\n\t<li><code>1 &lt;= m, n &lt;= 10<sup>5</sup></code></li>\n\t<li><code>1 &lt;= m * n &lt;= 10<sup>5</sup></code></li>\n\t<li><code>0 &lt;= grid[i][j] &lt; m * n</code></li>\n\t<li><code>grid[m - 1][n - 1] == 0</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 347,
+      "dislikes": 27,
+      "similarQuestions": "[{\"title\": \"Jump Game II\", \"titleSlug\": \"jump-game-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game\", \"titleSlug\": \"jump-game\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Binary Indexed Tree",
+          "slug": "binary-indexed-tree"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"7.5K\", \"totalSubmission\": \"30.2K\", \"totalAcceptedRaw\": 7471, \"totalSubmissionRaw\": 30227, \"acRate\": \"24.7%\"}",
+      "hints": [
+        "For each cell (i,j), it is critical to find out the minimum number of steps to reach (i,j), denoted dis[i][j], quickly, given the tight constraint.",
+        "Calculate dis[i][j] going left to right, top to bottom.",
+        "Suppose we want to calculate dis[i][j], keep track of a priority queue that stores (dis[i][k], i, k) for all k ≤ j, and another priority queue that stores (dis[k][j], k, j) for all k ≤ i."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game-ii",
+        "title": "Jump Game II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game",
+        "title": "Jump Game",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "For each cell (i,j), it is critical to find out the minimum number of steps to reach (i,j), denoted dis[i][j], quickly, given the tight constraint.",
+      "Calculate dis[i][j] going left to right, top to bottom.",
+      "Suppose we want to calculate dis[i][j], keep track of a priority queue that stores (dis[i][k], i, k) for all k ≤ j, and another priority queue that stores (dis[k][j], k, j) for all k ≤ i."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ]
+  }
+}

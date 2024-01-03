@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-110",
+  "data": [
+    {
+      "id": 3461,
+      "question_id": 2955,
+      "credit": 3,
+      "title": "Account Balance After Rounded Purchase",
+      "title_slug": "account-balance-after-rounded-purchase",
+      "likes": 182,
+      "dislikes": 38
+    },
+    {
+      "id": 3462,
+      "question_id": 2903,
+      "credit": 4,
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "title_slug": "insert-greatest-common-divisors-in-linked-list",
+      "likes": 423,
+      "dislikes": 12
+    },
+    {
+      "id": 3463,
+      "question_id": 2920,
+      "credit": 5,
+      "title": "Minimum Seconds to Equalize a Circular Array",
+      "title_slug": "minimum-seconds-to-equalize-a-circular-array",
+      "likes": 489,
+      "dislikes": 26
+    },
+    {
+      "id": 3464,
+      "question_id": 2952,
+      "credit": 6,
+      "title": "Minimum Time to Make Array Sum At Most x",
+      "title_slug": "minimum-time-to-make-array-sum-at-most-x",
+      "likes": 212,
+      "dislikes": 10
+    }
+  ]
+}

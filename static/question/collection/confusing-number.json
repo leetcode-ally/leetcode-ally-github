@@ -1,0 +1,50 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1056",
+      "title": "Confusing Number",
+      "titleSlug": "confusing-number",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 298,
+      "dislikes": 175,
+      "similarQuestions": "[{\"title\": \"Strobogrammatic Number\", \"titleSlug\": \"strobogrammatic-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Confusing Number II\", \"titleSlug\": \"confusing-number-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"42.5K\", \"totalSubmission\": \"87.6K\", \"totalAcceptedRaw\": 42484, \"totalSubmissionRaw\": 87561, \"acRate\": \"48.5%\"}",
+      "hints": [
+        "Reverse each digit with their corresponding new digit if an invalid digit is found the return -1. After reversing the digits just compare the reversed number with the original number."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "strobogrammatic-number",
+        "title": "Strobogrammatic Number",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "confusing-number-ii",
+        "title": "Confusing Number II",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Reverse each digit with their corresponding new digit if an invalid digit is found the return -1. After reversing the digits just compare the reversed number with the original number."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  }
+}

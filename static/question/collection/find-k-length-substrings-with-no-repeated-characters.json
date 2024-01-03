@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1100",
+      "title": "Find K-Length Substrings With No Repeated Characters",
+      "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 551,
+      "dislikes": 11,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"39.2K\", \"totalSubmission\": \"52.5K\", \"totalAcceptedRaw\": 39179, \"totalSubmissionRaw\": 52451, \"acRate\": \"74.7%\"}",
+      "hints": [
+        "How to check efficiently each K-length substring?",
+        "First store the first leftmost K-length substring in a hashTable or array of frequencies.",
+        "Then iterate through the rest of characters and erase the first element and add the next element from the right. If in the hashTable we have K different character we add 1 to the counter. After that return as answer the counter."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "How to check efficiently each K-length substring?",
+      "First store the first leftmost K-length substring in a hashTable or array of frequencies.",
+      "Then iterate through the rest of characters and erase the first element and add the next element from the right. If in the hashTable we have K different character we add 1 to the counter. After that return as answer the counter."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

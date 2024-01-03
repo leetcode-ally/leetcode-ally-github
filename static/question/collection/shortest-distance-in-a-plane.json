@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "612",
+      "title": "Shortest Distance in a Plane",
+      "titleSlug": "shortest-distance-in-a-plane",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 215,
+      "dislikes": 70,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"39K\", \"totalSubmission\": \"63.1K\", \"totalAcceptedRaw\": 39016, \"totalSubmissionRaw\": 63115, \"acRate\": \"61.8%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

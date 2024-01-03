@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-350",
+  "data": [
+    {
+      "id": 3369,
+      "question_id": 2857,
+      "credit": 3,
+      "title": "Total Distance Traveled",
+      "title_slug": "total-distance-traveled",
+      "likes": 257,
+      "dislikes": 92
+    },
+    {
+      "id": 3370,
+      "question_id": 2845,
+      "credit": 4,
+      "title": "Find the Value of the Partition",
+      "title_slug": "find-the-value-of-the-partition",
+      "likes": 254,
+      "dislikes": 16
+    },
+    {
+      "id": 3371,
+      "question_id": 2848,
+      "credit": 5,
+      "title": "Special Permutations",
+      "title_slug": "special-permutations",
+      "likes": 512,
+      "dislikes": 59
+    },
+    {
+      "id": 3372,
+      "question_id": 2808,
+      "credit": 6,
+      "title": "Painting the Walls",
+      "title_slug": "painting-the-walls",
+      "likes": 1299,
+      "dislikes": 74
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2153",
+      "title": "The Number of Passengers in Each Bus II",
+      "titleSlug": "the-number-of-passengers-in-each-bus-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 74,
+      "dislikes": 28,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.5K\", \"totalSubmission\": \"6.2K\", \"totalAcceptedRaw\": 2533, \"totalSubmissionRaw\": 6222, \"acRate\": \"40.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

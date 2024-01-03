@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1119",
+      "title": "Remove Vowels from a String",
+      "titleSlug": "remove-vowels-from-a-string",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 346,
+      "dislikes": 112,
+      "similarQuestions": "[{\"title\": \"Reverse Vowels of a String\", \"titleSlug\": \"reverse-vowels-of-a-string\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Remove Digit From Number to Maximize Result\", \"titleSlug\": \"remove-digit-from-number-to-maximize-result\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"100.5K\", \"totalSubmission\": \"110.7K\", \"totalAcceptedRaw\": 100468, \"totalSubmissionRaw\": 110654, \"acRate\": \"90.8%\"}",
+      "hints": [
+        "How to erase vowels in a string?",
+        "Loop over the string and check every character, if it is a vowel ignore it otherwise add it to the answer."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "reverse-vowels-of-a-string",
+        "title": "Reverse Vowels of a String",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "remove-digit-from-number-to-maximize-result",
+        "title": "Remove Digit From Number to Maximize Result",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How to erase vowels in a string?",
+      "Loop over the string and check every character, if it is a vowel ignore it otherwise add it to the answer."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

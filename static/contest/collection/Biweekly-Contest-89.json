@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-89",
+  "data": [
+    {
+      "id": 2950,
+      "question_id": 2528,
+      "credit": 3,
+      "title": "Number of Valid Clock Times",
+      "title_slug": "number-of-valid-clock-times",
+      "likes": 257,
+      "dislikes": 218
+    },
+    {
+      "id": 2951,
+      "question_id": 2529,
+      "credit": 5,
+      "title": "Range Product Queries of Powers",
+      "title_slug": "range-product-queries-of-powers",
+      "likes": 285,
+      "dislikes": 46
+    },
+    {
+      "id": 2952,
+      "question_id": 2530,
+      "credit": 5,
+      "title": "Minimize Maximum of Array",
+      "title_slug": "minimize-maximum-of-array",
+      "likes": 2342,
+      "dislikes": 597
+    },
+    {
+      "id": 2953,
+      "question_id": 2531,
+      "credit": 6,
+      "title": "Create Components With Same Value",
+      "title_slug": "create-components-with-same-value",
+      "likes": 372,
+      "dislikes": 6
+    }
+  ]
+}

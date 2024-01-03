@@ -1,0 +1,92 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "358",
+      "title": "Rearrange String k Distance Apart",
+      "titleSlug": "rearrange-string-k-distance-apart",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 940,
+      "dislikes": 37,
+      "similarQuestions": "[{\"title\": \"Task Scheduler\", \"titleSlug\": \"task-scheduler\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Reorganize String\", \"titleSlug\": \"reorganize-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Construct String With Repeat Limit\", \"titleSlug\": \"construct-string-with-repeat-limit\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"62.3K\", \"totalSubmission\": \"161.7K\", \"totalAcceptedRaw\": 62270, \"totalSubmissionRaw\": 161722, \"acRate\": \"38.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "task-scheduler",
+        "title": "Task Scheduler",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "reorganize-string",
+        "title": "Reorganize String",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "construct-string-with-repeat-limit",
+        "title": "Construct String With Repeat Limit",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  }
+}

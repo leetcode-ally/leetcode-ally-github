@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "422",
+      "title": "Valid Word Square",
+      "titleSlug": "valid-word-square",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 407,
+      "dislikes": 264,
+      "similarQuestions": "[{\"title\": \"Word Squares\", \"titleSlug\": \"word-squares\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Toeplitz Matrix\", \"titleSlug\": \"toeplitz-matrix\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"54.2K\", \"totalSubmission\": \"133.1K\", \"totalAcceptedRaw\": 54156, \"totalSubmissionRaw\": 133098, \"acRate\": \"40.7%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "word-squares",
+        "title": "Word Squares",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "toeplitz-matrix",
+        "title": "Toeplitz Matrix",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

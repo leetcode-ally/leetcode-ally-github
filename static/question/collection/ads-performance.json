@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1322",
+      "title": "Ads Performance",
+      "titleSlug": "ads-performance",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 252,
+      "dislikes": 61,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"39.7K\", \"totalSubmission\": \"66.6K\", \"totalAcceptedRaw\": 39718, \"totalSubmissionRaw\": 66560, \"acRate\": \"59.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

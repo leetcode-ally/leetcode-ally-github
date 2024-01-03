@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-105",
+  "data": [
+    {
+      "id": 3337,
+      "question_id": 2756,
+      "credit": 3,
+      "title": "Buy Two Chocolates",
+      "title_slug": "buy-two-chocolates",
+      "likes": 924,
+      "dislikes": 63
+    },
+    {
+      "id": 3338,
+      "question_id": 2755,
+      "credit": 4,
+      "title": "Extra Characters in a String",
+      "title_slug": "extra-characters-in-a-string",
+      "likes": 1979,
+      "dislikes": 88
+    },
+    {
+      "id": 3339,
+      "question_id": 2754,
+      "credit": 5,
+      "title": "Maximum Strength of a Group",
+      "title_slug": "maximum-strength-of-a-group",
+      "likes": 326,
+      "dislikes": 53
+    },
+    {
+      "id": 3340,
+      "question_id": 2827,
+      "credit": 6,
+      "title": "Greatest Common Divisor Traversal",
+      "title_slug": "greatest-common-divisor-traversal",
+      "likes": 308,
+      "dislikes": 27
+    }
+  ]
+}

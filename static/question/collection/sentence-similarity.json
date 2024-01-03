@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "734",
+      "title": "Sentence Similarity",
+      "titleSlug": "sentence-similarity",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 34,
+      "dislikes": 46,
+      "similarQuestions": "[{\"title\": \"Number of Provinces\", \"titleSlug\": \"number-of-provinces\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Accounts Merge\", \"titleSlug\": \"accounts-merge\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Sentence Similarity II\", \"titleSlug\": \"sentence-similarity-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"64.3K\", \"totalSubmission\": \"145.6K\", \"totalAcceptedRaw\": 64299, \"totalSubmissionRaw\": 145560, \"acRate\": \"44.2%\"}",
+      "hints": [
+        "Two words w1 and w2 are similar if and only if w1 == w2, (w1, w2) was a pair, or (w2, w1) was a pair."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-provinces",
+        "title": "Number of Provinces",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "accounts-merge",
+        "title": "Accounts Merge",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "sentence-similarity-ii",
+        "title": "Sentence Similarity II",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Two words w1 and w2 are similar if and only if w1 == w2, (w1, w2) was a pair, or (w2, w1) was a pair."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

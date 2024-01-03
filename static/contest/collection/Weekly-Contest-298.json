@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-298",
+  "data": [
+    {
+      "id": 2750,
+      "question_id": 1363,
+      "credit": 3,
+      "title": "Greatest English Letter in Upper and Lower Case",
+      "title_slug": "greatest-english-letter-in-upper-and-lower-case",
+      "likes": 455,
+      "dislikes": 28
+    },
+    {
+      "id": 2751,
+      "question_id": 1334,
+      "credit": 4,
+      "title": "Sum of Numbers With Units Digit K",
+      "title_slug": "sum-of-numbers-with-units-digit-k",
+      "likes": 384,
+      "dislikes": 318
+    },
+    {
+      "id": 2752,
+      "question_id": 2395,
+      "credit": 5,
+      "title": "Longest Binary Subsequence Less Than or Equal to K",
+      "title_slug": "longest-binary-subsequence-less-than-or-equal-to-k",
+      "likes": 661,
+      "dislikes": 47
+    },
+    {
+      "id": 2753,
+      "question_id": 1376,
+      "credit": 6,
+      "title": "Selling Pieces of Wood",
+      "title_slug": "selling-pieces-of-wood",
+      "likes": 524,
+      "dislikes": 10
+    }
+  ]
+}

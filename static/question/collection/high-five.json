@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1086",
+      "title": "High Five",
+      "titleSlug": "high-five",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 778,
+      "dislikes": 124,
+      "similarQuestions": "[{\"title\": \"Determine the Winner of a Bowling Game\", \"titleSlug\": \"determine-the-winner-of-a-bowling-game\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"97.7K\", \"totalSubmission\": \"130.7K\", \"totalAcceptedRaw\": 97738, \"totalSubmissionRaw\": 130731, \"acRate\": \"74.8%\"}",
+      "hints": [
+        "How can we solve the problem if we have just one student?",
+        "Given an student sort their grades and get the top 5 average.",
+        "Generalize the idea to do it for many students."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "determine-the-winner-of-a-bowling-game",
+        "title": "Determine the Winner of a Bowling Game",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How can we solve the problem if we have just one student?",
+      "Given an student sort their grades and get the top 5 average.",
+      "Generalize the idea to do it for many students."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

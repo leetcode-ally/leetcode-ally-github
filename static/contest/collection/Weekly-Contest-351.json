@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-351",
+  "data": [
+    {
+      "id": 3381,
+      "question_id": 2831,
+      "credit": 3,
+      "title": "Number of Beautiful Pairs",
+      "title_slug": "number-of-beautiful-pairs",
+      "likes": 187,
+      "dislikes": 31
+    },
+    {
+      "id": 3382,
+      "question_id": 2837,
+      "credit": 4,
+      "title": "Minimum Operations to Make the Integer Zero",
+      "title_slug": "minimum-operations-to-make-the-integer-zero",
+      "likes": 262,
+      "dislikes": 281
+    },
+    {
+      "id": 3383,
+      "question_id": 2867,
+      "credit": 4,
+      "title": "Ways to Split Array Into Good Subarrays",
+      "title_slug": "ways-to-split-array-into-good-subarrays",
+      "likes": 385,
+      "dislikes": 11
+    },
+    {
+      "id": 3384,
+      "question_id": 2846,
+      "credit": 6,
+      "title": "Robot Collisions",
+      "title_slug": "robot-collisions",
+      "likes": 397,
+      "dislikes": 13
+    }
+  ]
+}

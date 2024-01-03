@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1767",
+      "title": "Find the Subtasks That Did Not Execute",
+      "titleSlug": "find-the-subtasks-that-did-not-execute",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 163,
+      "dislikes": 12,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.5K\", \"totalSubmission\": \"13.5K\", \"totalAcceptedRaw\": 10474, \"totalSubmissionRaw\": 13510, \"acRate\": \"77.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

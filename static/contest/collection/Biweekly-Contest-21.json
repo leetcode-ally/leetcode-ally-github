@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-21",
+  "data": [
+    {
+      "id": 1278,
+      "question_id": 1472,
+      "credit": 4,
+      "title": "Increasing Decreasing String",
+      "title_slug": "increasing-decreasing-string",
+      "likes": 742,
+      "dislikes": 838
+    },
+    {
+      "id": 1279,
+      "question_id": 1473,
+      "credit": 4,
+      "title": "Find the Longest Substring Containing Vowels in Even Counts",
+      "title_slug": "find-the-longest-substring-containing-vowels-in-even-counts",
+      "likes": 1575,
+      "dislikes": 58
+    },
+    {
+      "id": 1280,
+      "question_id": 1474,
+      "credit": 5,
+      "title": "Longest ZigZag Path in a Binary Tree",
+      "title_slug": "longest-zigzag-path-in-a-binary-tree",
+      "likes": 3254,
+      "dislikes": 66
+    },
+    {
+      "id": 1281,
+      "question_id": 1475,
+      "credit": 6,
+      "title": "Maximum Sum BST in Binary Tree",
+      "title_slug": "maximum-sum-bst-in-binary-tree",
+      "likes": 2506,
+      "dislikes": 169
+    }
+  ]
+}

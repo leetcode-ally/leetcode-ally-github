@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2689",
+      "title": "Extract Kth Character From The Rope Tree",
+      "titleSlug": "extract-kth-character-from-the-rope-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 30,
+      "dislikes": 18,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.8K\", \"totalSubmission\": \"2.4K\", \"totalAcceptedRaw\": 1774, \"totalSubmissionRaw\": 2392, \"acRate\": \"74.2%\"}",
+      "hints": [
+        "Think of recursive methods.",
+        "Write a recursive function that gives a node of the tree and returns S[node].",
+        "Call the function above on the root of the tree and get k-th character of it."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Think of recursive methods.",
+      "Write a recursive function that gives a node of the tree and returns S[node].",
+      "Call the function above on the root of the tree and get k-th character of it."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ]
+  }
+}

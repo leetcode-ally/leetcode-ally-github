@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-372",
+  "data": [
+    {
+      "id": 3636,
+      "question_id": 3207,
+      "credit": 3,
+      "title": "Make Three Strings Equal",
+      "title_slug": "make-three-strings-equal",
+      "likes": 120,
+      "dislikes": 31
+    },
+    {
+      "id": 3637,
+      "question_id": 3195,
+      "credit": 4,
+      "title": "Separate Black and White Balls",
+      "title_slug": "separate-black-and-white-balls",
+      "likes": 138,
+      "dislikes": 4
+    },
+    {
+      "id": 3638,
+      "question_id": 3192,
+      "credit": 5,
+      "title": "Maximum Xor Product",
+      "title_slug": "maximum-xor-product",
+      "likes": 153,
+      "dislikes": 62
+    },
+    {
+      "id": 3639,
+      "question_id": 3181,
+      "credit": 6,
+      "title": "Find Building Where Alice and Bob Can Meet",
+      "title_slug": "find-building-where-alice-and-bob-can-meet",
+      "likes": 174,
+      "dislikes": 3
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-77",
+  "data": [
+    {
+      "id": 337,
+      "question_id": 824,
+      "credit": 4,
+      "title": "Number of Lines To Write String",
+      "title_slug": "number-of-lines-to-write-string",
+      "likes": 571,
+      "dislikes": 1305
+    },
+    {
+      "id": 338,
+      "question_id": 822,
+      "credit": 4,
+      "title": "Unique Morse Code Words",
+      "title_slug": "unique-morse-code-words",
+      "likes": 2462,
+      "dislikes": 1520
+    },
+    {
+      "id": 339,
+      "question_id": 825,
+      "credit": 5,
+      "title": "Max Increase to Keep City Skyline",
+      "title_slug": "max-increase-to-keep-city-skyline",
+      "likes": 2488,
+      "dislikes": 506
+    },
+    {
+      "id": 340,
+      "question_id": 823,
+      "credit": 9,
+      "title": "Split Array With Same Average",
+      "title_slug": "split-array-with-same-average",
+      "likes": 1231,
+      "dislikes": 133
+    }
+  ]
+}

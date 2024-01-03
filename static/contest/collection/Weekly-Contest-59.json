@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-59",
+  "data": [
+    {
+      "id": 252,
+      "question_id": 728,
+      "credit": 3,
+      "title": "Self Dividing Numbers",
+      "title_slug": "self-dividing-numbers",
+      "likes": 1713,
+      "dislikes": 368
+    },
+    {
+      "id": 253,
+      "question_id": 729,
+      "credit": 5,
+      "title": "My Calendar I",
+      "title_slug": "my-calendar-i",
+      "likes": 4111,
+      "dislikes": 106
+    },
+    {
+      "id": 254,
+      "question_id": 730,
+      "credit": 8,
+      "title": "Count Different Palindromic Subsequences",
+      "title_slug": "count-different-palindromic-subsequences",
+      "likes": 1874,
+      "dislikes": 95
+    },
+    {
+      "id": 255,
+      "question_id": 731,
+      "credit": 8,
+      "title": "My Calendar II",
+      "title_slug": "my-calendar-ii",
+      "likes": 1687,
+      "dislikes": 145
+    }
+  ]
+}

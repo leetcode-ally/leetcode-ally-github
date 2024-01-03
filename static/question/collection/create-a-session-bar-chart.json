@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1435",
+      "title": "Create a Session Bar Chart",
+      "titleSlug": "create-a-session-bar-chart",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 145,
+      "dislikes": 258,
+      "similarQuestions": "[{\"title\": \"Count Salary Categories\", \"titleSlug\": \"count-salary-categories\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"21.8K\", \"totalSubmission\": \"28.9K\", \"totalAcceptedRaw\": 21849, \"totalSubmissionRaw\": 28939, \"acRate\": \"75.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-salary-categories",
+        "title": "Count Salary Categories",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

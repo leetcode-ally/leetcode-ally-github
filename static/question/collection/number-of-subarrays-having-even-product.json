@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2495",
+      "title": "Number of Subarrays Having Even Product",
+      "titleSlug": "number-of-subarrays-having-even-product",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 40,
+      "dislikes": 3,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.5K\", \"totalSubmission\": \"2.3K\", \"totalAcceptedRaw\": 1484, \"totalSubmissionRaw\": 2286, \"acRate\": \"64.9%\"}",
+      "hints": [
+        "The product of elements in a subarray is even if it contains at least one even element.",
+        "Iterate from left to right and save the last index of an even number. Let that saved index be “j”.",
+        "It can be seen that every subarray starting from earlier than index “j” and ending at the current index has an even product."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "The product of elements in a subarray is even if it contains at least one even element.",
+      "Iterate from left to right and save the last index of an even number. Let that saved index be “j”.",
+      "It can be seen that every subarray starting from earlier than index “j” and ending at the current index has an even product."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-346",
+  "data": [
+    {
+      "id": 3322,
+      "question_id": 2800,
+      "credit": 3,
+      "title": "Minimum String Length After Removing Substrings",
+      "title_slug": "minimum-string-length-after-removing-substrings",
+      "likes": 357,
+      "dislikes": 9
+    },
+    {
+      "id": 3323,
+      "question_id": 2816,
+      "credit": 4,
+      "title": "Lexicographically Smallest Palindrome",
+      "title_slug": "lexicographically-smallest-palindrome",
+      "likes": 305,
+      "dislikes": 15
+    },
+    {
+      "id": 3324,
+      "question_id": 2802,
+      "credit": 5,
+      "title": "Find the Punishment Number of an Integer",
+      "title_slug": "find-the-punishment-number-of-an-integer",
+      "likes": 451,
+      "dislikes": 28
+    },
+    {
+      "id": 3325,
+      "question_id": 2803,
+      "credit": 6,
+      "title": "Modify Graph Edge Weights",
+      "title_slug": "modify-graph-edge-weights",
+      "likes": 257,
+      "dislikes": 45
+    }
+  ]
+}

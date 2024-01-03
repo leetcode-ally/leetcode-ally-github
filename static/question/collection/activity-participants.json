@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1355",
+      "title": "Activity Participants",
+      "titleSlug": "activity-participants",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 139,
+      "dislikes": 48,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"27.6K\", \"totalSubmission\": \"38K\", \"totalAcceptedRaw\": 27550, \"totalSubmissionRaw\": 37967, \"acRate\": \"72.6%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

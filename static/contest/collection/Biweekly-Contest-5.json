@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-5",
+  "data": [
+    {
+      "id": 857,
+      "question_id": 1098,
+      "credit": 3,
+      "title": "Largest Unique Number",
+      "title_slug": "largest-unique-number",
+      "likes": 305,
+      "dislikes": 16
+    },
+    {
+      "id": 858,
+      "question_id": 1090,
+      "credit": 3,
+      "title": "Armstrong Number",
+      "title_slug": "armstrong-number",
+      "likes": 201,
+      "dislikes": 20
+    },
+    {
+      "id": 859,
+      "question_id": 1100,
+      "credit": 5,
+      "title": "Connecting Cities With Minimum Cost",
+      "title_slug": "connecting-cities-with-minimum-cost",
+      "likes": 1097,
+      "dislikes": 59
+    },
+    {
+      "id": 860,
+      "question_id": 1101,
+      "credit": 7,
+      "title": "Parallel Courses",
+      "title_slug": "parallel-courses",
+      "likes": 1106,
+      "dislikes": 24
+    }
+  ]
+}

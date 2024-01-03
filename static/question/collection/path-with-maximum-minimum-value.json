@@ -1,0 +1,92 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1102",
+      "title": "Path With Maximum Minimum Value",
+      "titleSlug": "path-with-maximum-minimum-value",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1278,
+      "dislikes": 123,
+      "similarQuestions": "[{\"title\": \"Path With Minimum Effort\", \"titleSlug\": \"path-with-minimum-effort\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"60.5K\", \"totalSubmission\": \"113.1K\", \"totalAcceptedRaw\": 60523, \"totalSubmissionRaw\": 113070, \"acRate\": \"53.5%\"}",
+      "hints": [
+        "What if we sort each cell of the matrix by the value?",
+        "Don't include small values in your path if you can only include large values.",
+        "Let's keep adding a possible cell to use in the path incrementally with decreasing values.",
+        "If the start and end cells are connected then we don't need to add more cells.",
+        "Use union-find data structure to check connectivity and return as answer the value of the given cell that makes start and end cells connected."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "path-with-minimum-effort",
+        "title": "Path With Minimum Effort",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "What if we sort each cell of the matrix by the value?",
+      "Don't include small values in your path if you can only include large values.",
+      "Let's keep adding a possible cell to use in the path incrementally with decreasing values.",
+      "If the start and end cells are connected then we don't need to add more cells.",
+      "Use union-find data structure to check connectivity and return as answer the value of the given cell that makes start and end cells connected."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

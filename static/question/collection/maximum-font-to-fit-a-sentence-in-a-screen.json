@@ -1,0 +1,61 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1618",
+      "title": "Maximum Font to Fit a Sentence in a Screen",
+      "titleSlug": "maximum-font-to-fit-a-sentence-in-a-screen",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 106,
+      "dislikes": 22,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.6K\", \"totalSubmission\": \"11K\", \"totalAcceptedRaw\": 6634, \"totalSubmissionRaw\": 10952, \"acRate\": \"60.6%\"}",
+      "hints": [
+        "Use <i>binary search</i>  to find the last valid font."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Use <i>binary search</i>  to find the last valid font."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

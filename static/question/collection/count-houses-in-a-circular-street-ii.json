@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2753",
+      "title": "Count Houses in a Circular Street II",
+      "titleSlug": "count-houses-in-a-circular-street-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 22,
+      "dislikes": 0,
+      "similarQuestions": "[]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"534\", \"totalSubmission\": \"715\", \"totalAcceptedRaw\": 534, \"totalSubmissionRaw\": 715, \"acRate\": \"74.7%\"}",
+      "hints": [
+        "First, imagine that there is exactly one open door and try to solve the problem.",
+        "Now close an opened door.",
+        "Then visit k houses by going right. If there is no open door, your assumption of having exactly one open door was right, and you have the answer.",
+        "If there is still an open door, go to step 1."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "First, imagine that there is exactly one open door and try to solve the problem.",
+      "Now close an opened door.",
+      "Then visit k houses by going right. If there is no open door, your assumption of having exactly one open door was right, and you have the answer.",
+      "If there is still an open door, go to step 1."
+    ],
+    "relatedTopics": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-322",
+  "data": [
+    {
+      "id": 3034,
+      "question_id": 2580,
+      "credit": 3,
+      "title": "Circular Sentence",
+      "title_slug": "circular-sentence",
+      "likes": 339,
+      "dislikes": 8
+    },
+    {
+      "id": 3035,
+      "question_id": 2581,
+      "credit": 4,
+      "title": "Divide Players Into Teams of Equal Skill",
+      "title_slug": "divide-players-into-teams-of-equal-skill",
+      "likes": 455,
+      "dislikes": 9
+    },
+    {
+      "id": 3036,
+      "question_id": 2582,
+      "credit": 5,
+      "title": "Minimum Score of a Path Between Two Cities",
+      "title_slug": "minimum-score-of-a-path-between-two-cities",
+      "likes": 1719,
+      "dislikes": 287
+    },
+    {
+      "id": 3037,
+      "question_id": 2583,
+      "credit": 6,
+      "title": "Divide Nodes Into the Maximum Number of Groups",
+      "title_slug": "divide-nodes-into-the-maximum-number-of-groups",
+      "likes": 378,
+      "dislikes": 19
+    }
+  ]
+}

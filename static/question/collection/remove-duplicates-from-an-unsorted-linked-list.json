@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1836",
+      "title": "Remove Duplicates From an Unsorted Linked List",
+      "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 362,
+      "dislikes": 11,
+      "similarQuestions": "[{\"title\": \"Remove Duplicates from Sorted List II\", \"titleSlug\": \"remove-duplicates-from-sorted-list-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Remove Duplicates from Sorted List\", \"titleSlug\": \"remove-duplicates-from-sorted-list\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"26.4K\", \"totalSubmission\": \"37K\", \"totalAcceptedRaw\": 26410, \"totalSubmissionRaw\": 36989, \"acRate\": \"71.4%\"}",
+      "hints": [
+        "Is there a way we can know beforehand which nodes to delete?",
+        "Count the number of appearances for each number."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "remove-duplicates-from-sorted-list-ii",
+        "title": "Remove Duplicates from Sorted List II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "remove-duplicates-from-sorted-list",
+        "title": "Remove Duplicates from Sorted List",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Is there a way we can know beforehand which nodes to delete?",
+      "Count the number of appearances for each number."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  }
+}

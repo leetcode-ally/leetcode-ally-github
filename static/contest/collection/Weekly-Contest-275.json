@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-275",
+  "data": [
+    {
+      "id": 2450,
+      "question_id": 2254,
+      "credit": 3,
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "title_slug": "check-if-every-row-and-column-contains-all-numbers",
+      "likes": 930,
+      "dislikes": 48
+    },
+    {
+      "id": 2451,
+      "question_id": 2255,
+      "credit": 4,
+      "title": "Minimum Swaps to Group All 1's Together II",
+      "title_slug": "minimum-swaps-to-group-all-1s-together-ii",
+      "likes": 1048,
+      "dislikes": 15
+    },
+    {
+      "id": 2452,
+      "question_id": 2256,
+      "credit": 5,
+      "title": "Count Words Obtained After Adding a Letter",
+      "title_slug": "count-words-obtained-after-adding-a-letter",
+      "likes": 641,
+      "dislikes": 153
+    },
+    {
+      "id": 2453,
+      "question_id": 2257,
+      "credit": 6,
+      "title": "Earliest Possible Day of Full Bloom",
+      "title_slug": "earliest-possible-day-of-full-bloom",
+      "likes": 1530,
+      "dislikes": 79
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-358",
+  "data": [
+    {
+      "id": 3470,
+      "question_id": 2902,
+      "credit": 3,
+      "title": "Max Pair Sum in an Array",
+      "title_slug": "max-pair-sum-in-an-array",
+      "likes": 288,
+      "dislikes": 99
+    },
+    {
+      "id": 3471,
+      "question_id": 2871,
+      "credit": 4,
+      "title": "Double a Number Represented as a Linked List",
+      "title_slug": "double-a-number-represented-as-a-linked-list",
+      "likes": 422,
+      "dislikes": 6
+    },
+    {
+      "id": 3472,
+      "question_id": 3000,
+      "credit": 5,
+      "title": "Minimum Absolute Difference Between Elements With Constraint",
+      "title_slug": "minimum-absolute-difference-between-elements-with-constraint",
+      "likes": 629,
+      "dislikes": 64
+    },
+    {
+      "id": 3473,
+      "question_id": 3001,
+      "credit": 6,
+      "title": "Apply Operations to Maximize Score",
+      "title_slug": "apply-operations-to-maximize-score",
+      "likes": 303,
+      "dislikes": 9
+    }
+  ]
+}

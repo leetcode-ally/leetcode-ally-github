@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "776",
+      "title": "Split BST",
+      "titleSlug": "split-bst",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1000,
+      "dislikes": 101,
+      "similarQuestions": "[{\"title\": \"Delete Node in a BST\", \"titleSlug\": \"delete-node-in-a-bst\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"104.2K\", \"totalSubmission\": \"125.7K\", \"totalAcceptedRaw\": 104247, \"totalSubmissionRaw\": 125659, \"acRate\": \"83.0%\"}",
+      "hints": [
+        "Use recursion.  If root.val <= V, you split root.right into two halves, then join it's left half back on root.right."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "delete-node-in-a-bst",
+        "title": "Delete Node in a BST",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use recursion.  If root.val <= V, you split root.right into two halves, then join it's left half back on root.right."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-64",
+  "data": [
+    {
+      "id": 2314,
+      "question_id": 2163,
+      "credit": 3,
+      "title": "Kth Distinct String in an Array",
+      "title_slug": "kth-distinct-string-in-an-array",
+      "likes": 725,
+      "dislikes": 27
+    },
+    {
+      "id": 2315,
+      "question_id": 2164,
+      "credit": 4,
+      "title": "Two Best Non-Overlapping Events",
+      "title_slug": "two-best-non-overlapping-events",
+      "likes": 787,
+      "dislikes": 18
+    },
+    {
+      "id": 2316,
+      "question_id": 2165,
+      "credit": 5,
+      "title": "Plates Between Candles",
+      "title_slug": "plates-between-candles",
+      "likes": 1111,
+      "dislikes": 48
+    },
+    {
+      "id": 2317,
+      "question_id": 2166,
+      "credit": 6,
+      "title": "Number of Valid Move Combinations On Chessboard",
+      "title_slug": "number-of-valid-move-combinations-on-chessboard",
+      "likes": 56,
+      "dislikes": 284
+    }
+  ]
+}

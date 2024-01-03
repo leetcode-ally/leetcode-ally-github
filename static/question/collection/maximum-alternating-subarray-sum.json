@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2036",
+      "title": "Maximum Alternating Subarray Sum",
+      "titleSlug": "maximum-alternating-subarray-sum",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 90,
+      "dislikes": 6,
+      "similarQuestions": "[{\"title\": \"Maximum Alternating Subsequence Sum\", \"titleSlug\": \"maximum-alternating-subsequence-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.7K\", \"totalSubmission\": \"6.6K\", \"totalAcceptedRaw\": 2666, \"totalSubmissionRaw\": 6571, \"acRate\": \"40.6%\"}",
+      "hints": [
+        "How can Kadane's Algorithm help us?",
+        "If you convert all the numbers at odd indices to the negative version of that number, the problem simplifies to finding the maximum subarray sum.",
+        "However, this strategy needs you to start each subarray at an even index.",
+        "Do the same except converting all the numbers at even indices to the negative version of that number."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "maximum-alternating-subsequence-sum",
+        "title": "Maximum Alternating Subsequence Sum",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How can Kadane's Algorithm help us?",
+      "If you convert all the numbers at odd indices to the negative version of that number, the problem simplifies to finding the maximum subarray sum.",
+      "However, this strategy needs you to start each subarray at an even index.",
+      "Do the same except converting all the numbers at even indices to the negative version of that number."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

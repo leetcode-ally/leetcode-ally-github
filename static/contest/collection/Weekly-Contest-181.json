@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-181",
+  "data": [
+    {
+      "id": 1298,
+      "question_id": 1505,
+      "credit": 3,
+      "title": "Create Target Array in the Given Order",
+      "title_slug": "create-target-array-in-the-given-order",
+      "likes": 1909,
+      "dislikes": 1828
+    },
+    {
+      "id": 1299,
+      "question_id": 1284,
+      "credit": 4,
+      "title": "Four Divisors",
+      "title_slug": "four-divisors",
+      "likes": 383,
+      "dislikes": 187
+    },
+    {
+      "id": 1300,
+      "question_id": 1507,
+      "credit": 5,
+      "title": "Check if There is a Valid Path in a Grid",
+      "title_slug": "check-if-there-is-a-valid-path-in-a-grid",
+      "likes": 793,
+      "dislikes": 309
+    },
+    {
+      "id": 1301,
+      "question_id": 1508,
+      "credit": 6,
+      "title": "Longest Happy Prefix",
+      "title_slug": "longest-happy-prefix",
+      "likes": 1255,
+      "dislikes": 34
+    }
+  ]
+}

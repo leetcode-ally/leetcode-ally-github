@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1532",
+      "title": "The Most Recent Three Orders",
+      "titleSlug": "the-most-recent-three-orders",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 147,
+      "dislikes": 10,
+      "similarQuestions": "[{\"title\": \"The Most Recent Orders for Each Product\", \"titleSlug\": \"the-most-recent-orders-for-each-product\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"25.7K\", \"totalSubmission\": \"37.6K\", \"totalAcceptedRaw\": 25669, \"totalSubmissionRaw\": 37617, \"acRate\": \"68.2%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "the-most-recent-orders-for-each-product",
+        "title": "The Most Recent Orders for Each Product",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

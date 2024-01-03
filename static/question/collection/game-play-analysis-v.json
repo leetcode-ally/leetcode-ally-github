@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1097",
+      "title": "Game Play Analysis V",
+      "titleSlug": "game-play-analysis-v",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 176,
+      "dislikes": 31,
+      "similarQuestions": "[{\"title\": \"Game Play Analysis IV\", \"titleSlug\": \"game-play-analysis-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"21.7K\", \"totalSubmission\": \"42K\", \"totalAcceptedRaw\": 21681, \"totalSubmissionRaw\": 42027, \"acRate\": \"51.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "game-play-analysis-iv",
+        "title": "Game Play Analysis IV",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

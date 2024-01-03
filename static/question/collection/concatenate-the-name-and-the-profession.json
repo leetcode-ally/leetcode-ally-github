@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2504",
+      "title": "Concatenate the Name and the Profession",
+      "titleSlug": "concatenate-the-name-and-the-profession",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 27,
+      "dislikes": 4,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3K\", \"totalSubmission\": \"4.3K\", \"totalAcceptedRaw\": 3042, \"totalSubmissionRaw\": 4302, \"acRate\": \"70.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

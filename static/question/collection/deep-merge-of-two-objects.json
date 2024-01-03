@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2755",
+      "title": "Deep Merge of Two Objects",
+      "titleSlug": "deep-merge-of-two-objects",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 12,
+      "dislikes": 3,
+      "similarQuestions": "[]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"330\", \"totalSubmission\": \"540\", \"totalAcceptedRaw\": 330, \"totalSubmissionRaw\": 540, \"acRate\": \"61.1%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": []
+  }
+}

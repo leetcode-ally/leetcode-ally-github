@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-89",
+  "data": [
+    {
+      "id": 385,
+      "question_id": 882,
+      "credit": 2,
+      "title": "Peak Index in a Mountain Array",
+      "title_slug": "peak-index-in-a-mountain-array",
+      "likes": 7166,
+      "dislikes": 1901
+    },
+    {
+      "id": 386,
+      "question_id": 883,
+      "credit": 6,
+      "title": "Car Fleet",
+      "title_slug": "car-fleet",
+      "likes": 3237,
+      "dislikes": 811
+    },
+    {
+      "id": 387,
+      "question_id": 885,
+      "credit": 6,
+      "title": "Exam Room",
+      "title_slug": "exam-room",
+      "likes": 1273,
+      "dislikes": 463
+    },
+    {
+      "id": 388,
+      "question_id": 884,
+      "credit": 10,
+      "title": "K-Similar Strings",
+      "title_slug": "k-similar-strings",
+      "likes": 1103,
+      "dislikes": 59
+    }
+  ]
+}

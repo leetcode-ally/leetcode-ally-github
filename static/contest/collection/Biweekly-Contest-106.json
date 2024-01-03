@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-106",
+  "data": [
+    {
+      "id": 3361,
+      "question_id": 2824,
+      "credit": 3,
+      "title": "Check if The Number is Fascinating",
+      "title_slug": "check-if-the-number-is-fascinating",
+      "likes": 211,
+      "dislikes": 11
+    },
+    {
+      "id": 3362,
+      "question_id": 2786,
+      "credit": 4,
+      "title": "Find the Longest Semi-Repetitive Substring",
+      "title_slug": "find-the-longest-semi-repetitive-substring",
+      "likes": 266,
+      "dislikes": 73
+    },
+    {
+      "id": 3363,
+      "question_id": 2787,
+      "credit": 5,
+      "title": "Movement of Robots",
+      "title_slug": "movement-of-robots",
+      "likes": 459,
+      "dislikes": 87
+    },
+    {
+      "id": 3364,
+      "question_id": 2826,
+      "credit": 6,
+      "title": "Find a Good Subset of the Matrix",
+      "title_slug": "find-a-good-subset-of-the-matrix",
+      "likes": 202,
+      "dislikes": 20
+    }
+  ]
+}

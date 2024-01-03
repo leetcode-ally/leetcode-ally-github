@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1082",
+      "title": "Sales Analysis I",
+      "titleSlug": "sales-analysis-i",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 191,
+      "dislikes": 72,
+      "similarQuestions": "[{\"title\": \"Sales Analysis II\", \"titleSlug\": \"sales-analysis-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"55.7K\", \"totalSubmission\": \"75K\", \"totalAcceptedRaw\": 55716, \"totalSubmissionRaw\": 75013, \"acRate\": \"74.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "sales-analysis-ii",
+        "title": "Sales Analysis II",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-74",
+  "data": [
+    {
+      "id": 321,
+      "question_id": 810,
+      "credit": 7,
+      "title": "Valid Tic-Tac-Toe State",
+      "title_slug": "valid-tic-tac-toe-state",
+      "likes": 537,
+      "dislikes": 1134
+    },
+    {
+      "id": 322,
+      "question_id": 808,
+      "credit": 7,
+      "title": "Number of Matching Subsequences",
+      "title_slug": "number-of-matching-subsequences",
+      "likes": 5385,
+      "dislikes": 230
+    },
+    {
+      "id": 323,
+      "question_id": 811,
+      "credit": 7,
+      "title": "Number of Subarrays with Bounded Maximum",
+      "title_slug": "number-of-subarrays-with-bounded-maximum",
+      "likes": 2229,
+      "dislikes": 115
+    },
+    {
+      "id": 324,
+      "question_id": 809,
+      "credit": 7,
+      "title": "Preimage Size of Factorial Zeroes Function",
+      "title_slug": "preimage-size-of-factorial-zeroes-function",
+      "likes": 419,
+      "dislikes": 93
+    }
+  ]
+}

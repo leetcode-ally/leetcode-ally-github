@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2474",
+      "title": "Customers With Strictly Increasing Purchases",
+      "titleSlug": "customers-with-strictly-increasing-purchases",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 36,
+      "dislikes": 5,
+      "similarQuestions": "[{\"title\": \"Report Contiguous Dates\", \"titleSlug\": \"report-contiguous-dates\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find the Start and End Number of Continuous Ranges\", \"titleSlug\": \"find-the-start-and-end-number-of-continuous-ranges\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.1K\", \"totalSubmission\": \"5.1K\", \"totalAcceptedRaw\": 2099, \"totalSubmissionRaw\": 5075, \"acRate\": \"41.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "report-contiguous-dates",
+        "title": "Report Contiguous Dates",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-the-start-and-end-number-of-continuous-ranges",
+        "title": "Find the Start and End Number of Continuous Ranges",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

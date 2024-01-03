@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2505",
+      "title": "Bitwise OR of All Subsequence Sums",
+      "titleSlug": "bitwise-or-of-all-subsequence-sums",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 27,
+      "dislikes": 4,
+      "similarQuestions": "[{\"title\": \"Bitwise ORs of Subarrays\", \"titleSlug\": \"bitwise-ors-of-subarrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"825\", \"totalSubmission\": \"1.4K\", \"totalAcceptedRaw\": 825, \"totalSubmissionRaw\": 1404, \"acRate\": \"58.8%\"}",
+      "hints": [
+        "All the bits in the array elements will be set in the final result. Why?",
+        "Also, all the bits in the prefix sum array will be set in the final result. Why?",
+        "It can be proven that the final result will contain only the bits mentioned in the above hints."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "bitwise-ors-of-subarrays",
+        "title": "Bitwise ORs of Subarrays",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "All the bits in the array elements will be set in the final result. Why?",
+      "Also, all the bits in the prefix sum array will be set in the final result. Why?",
+      "It can be proven that the final result will contain only the bits mentioned in the above hints."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-82",
+  "data": [
+    {
+      "id": 357,
+      "question_id": 851,
+      "credit": 4,
+      "title": "Goat Latin",
+      "title_slug": "goat-latin",
+      "likes": 880,
+      "dislikes": 1221
+    },
+    {
+      "id": 358,
+      "question_id": 852,
+      "credit": 5,
+      "title": "Friends Of Appropriate Ages",
+      "title_slug": "friends-of-appropriate-ages",
+      "likes": 681,
+      "dislikes": 1174
+    },
+    {
+      "id": 359,
+      "question_id": 853,
+      "credit": 7,
+      "title": "Most Profit Assigning Work",
+      "title_slug": "most-profit-assigning-work",
+      "likes": 1529,
+      "dislikes": 133
+    },
+    {
+      "id": 360,
+      "question_id": 854,
+      "credit": 8,
+      "title": "Making A Large Island",
+      "title_slug": "making-a-large-island",
+      "likes": 3689,
+      "dislikes": 66
+    }
+  ]
+}

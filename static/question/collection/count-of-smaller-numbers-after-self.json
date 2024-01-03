@@ -1,0 +1,118 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "315",
+      "title": "Count of Smaller Numbers After Self",
+      "titleSlug": "count-of-smaller-numbers-after-self",
+      "content": "<p>Given an integer array <code>nums</code>, return<em> an integer array </em><code>counts</code><em> where </em><code>counts[i]</code><em> is the number of smaller elements to the right of </em><code>nums[i]</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [5,2,6,1]\n<strong>Output:</strong> [2,1,1,0]\n<strong>Explanation:</strong>\nTo the right of 5 there are <b>2</b> smaller elements (2 and 1).\nTo the right of 2 there is only <b>1</b> smaller element (1).\nTo the right of 6 there is <b>1</b> smaller element (1).\nTo the right of 1 there is <b>0</b> smaller element.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [-1]\n<strong>Output:</strong> [0]\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [-1,-1]\n<strong>Output:</strong> [0,0]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 8631,
+      "dislikes": 233,
+      "similarQuestions": "[{\"title\": \"Count of Range Sum\", \"titleSlug\": \"count-of-range-sum\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Queue Reconstruction by Height\", \"titleSlug\": \"queue-reconstruction-by-height\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Reverse Pairs\", \"titleSlug\": \"reverse-pairs\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"How Many Numbers Are Smaller Than the Current Number\", \"titleSlug\": \"how-many-numbers-are-smaller-than-the-current-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Count Good Triplets in an Array\", \"titleSlug\": \"count-good-triplets-in-an-array\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count the Number of K-Big Indices\", \"titleSlug\": \"count-the-number-of-k-big-indices\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Binary Indexed Tree",
+          "slug": "binary-indexed-tree"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Merge Sort",
+          "slug": "merge-sort"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"308.4K\", \"totalSubmission\": \"727.3K\", \"totalAcceptedRaw\": 308396, \"totalSubmissionRaw\": 727257, \"acRate\": \"42.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-of-range-sum",
+        "title": "Count of Range Sum",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "queue-reconstruction-by-height",
+        "title": "Queue Reconstruction by Height",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "reverse-pairs",
+        "title": "Reverse Pairs",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+        "title": "How Many Numbers Are Smaller Than the Current Number",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-good-triplets-in-an-array",
+        "title": "Count Good Triplets in an Array",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-the-number-of-k-big-indices",
+        "title": "Count the Number of K-Big Indices",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  }
+}

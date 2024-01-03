@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-100",
+  "data": [
+    {
+      "id": 3215,
+      "question_id": 2663,
+      "credit": 3,
+      "title": "Distribute Money to Maximum Children",
+      "title_slug": "distribute-money-to-maximum-children",
+      "likes": 252,
+      "dislikes": 774
+    },
+    {
+      "id": 3216,
+      "question_id": 2664,
+      "credit": 4,
+      "title": "Maximize Greatness of an Array",
+      "title_slug": "maximize-greatness-of-an-array",
+      "likes": 396,
+      "dislikes": 12
+    },
+    {
+      "id": 3218,
+      "question_id": 2695,
+      "credit": 4,
+      "title": "Find Score of an Array After Marking All Elements",
+      "title_slug": "find-score-of-an-array-after-marking-all-elements",
+      "likes": 337,
+      "dislikes": 4
+    },
+    {
+      "id": 3217,
+      "question_id": 2665,
+      "credit": 5,
+      "title": "Minimum Time to Repair Cars",
+      "title_slug": "minimum-time-to-repair-cars",
+      "likes": 508,
+      "dislikes": 25
+    }
+  ]
+}

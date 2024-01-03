@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1874",
+      "title": "Minimize Product Sum of Two Arrays",
+      "titleSlug": "minimize-product-sum-of-two-arrays",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 238,
+      "dislikes": 27,
+      "similarQuestions": "[{\"title\": \"Choose Numbers From Two Arrays in Range\", \"titleSlug\": \"choose-numbers-from-two-arrays-in-range\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"18.3K\", \"totalSubmission\": \"20.5K\", \"totalAcceptedRaw\": 18331, \"totalSubmissionRaw\": 20477, \"acRate\": \"89.5%\"}",
+      "hints": [
+        "Is there a particular way we should order the arrays such that the product sum is minimized?",
+        "Would you want to multiply two numbers that are closer to one another or further?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "choose-numbers-from-two-arrays-in-range",
+        "title": "Choose Numbers From Two Arrays in Range",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Is there a particular way we should order the arrays such that the product sum is minimized?",
+      "Would you want to multiply two numbers that are closer to one another or further?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

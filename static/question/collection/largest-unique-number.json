@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1133",
+      "title": "Largest Unique Number",
+      "titleSlug": "largest-unique-number",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 305,
+      "dislikes": 16,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"52.6K\", \"totalSubmission\": \"76.9K\", \"totalAcceptedRaw\": 52644, \"totalSubmissionRaw\": 76920, \"acRate\": \"68.4%\"}",
+      "hints": [
+        "Find the number of occurrences of each value.",
+        "Use an array or a hash table to do that.",
+        "Look for the largest value with number of occurrences = 1."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Find the number of occurrences of each value.",
+      "Use an array or a hash table to do that.",
+      "Look for the largest value with number of occurrences = 1."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

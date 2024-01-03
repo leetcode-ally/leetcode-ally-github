@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1990",
+      "title": "Count the Number of Experiments",
+      "titleSlug": "count-the-number-of-experiments",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 21,
+      "dislikes": 188,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.1K\", \"totalSubmission\": \"12.5K\", \"totalAcceptedRaw\": 6141, \"totalSubmissionRaw\": 12533, \"acRate\": \"49.0%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

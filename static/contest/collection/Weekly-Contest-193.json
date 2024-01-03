@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-193",
+  "data": [
+    {
+      "id": 1446,
+      "question_id": 1603,
+      "credit": 3,
+      "title": "Running Sum of 1d Array",
+      "title_slug": "running-sum-of-1d-array",
+      "likes": 7567,
+      "dislikes": 338
+    },
+    {
+      "id": 1447,
+      "question_id": 1604,
+      "credit": 4,
+      "title": "Least Number of Unique Integers after K Removals",
+      "title_slug": "least-number-of-unique-integers-after-k-removals",
+      "likes": 1441,
+      "dislikes": 142
+    },
+    {
+      "id": 1448,
+      "question_id": 1605,
+      "credit": 5,
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "title_slug": "minimum-number-of-days-to-make-m-bouquets",
+      "likes": 3492,
+      "dislikes": 90
+    },
+    {
+      "id": 1449,
+      "question_id": 1296,
+      "credit": 6,
+      "title": "Kth Ancestor of a Tree Node",
+      "title_slug": "kth-ancestor-of-a-tree-node",
+      "likes": 1866,
+      "dislikes": 113
+    }
+  ]
+}

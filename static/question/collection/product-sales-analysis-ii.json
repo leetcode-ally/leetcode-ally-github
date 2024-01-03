@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1069",
+      "title": "Product Sales Analysis II",
+      "titleSlug": "product-sales-analysis-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 77,
+      "dislikes": 180,
+      "similarQuestions": "[{\"title\": \"Product Sales Analysis I\", \"titleSlug\": \"product-sales-analysis-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis III\", \"titleSlug\": \"product-sales-analysis-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis IV\", \"titleSlug\": \"product-sales-analysis-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis V\", \"titleSlug\": \"product-sales-analysis-v\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"51.3K\", \"totalSubmission\": \"62.6K\", \"totalAcceptedRaw\": 51259, \"totalSubmissionRaw\": 62650, \"acRate\": \"81.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "product-sales-analysis-i",
+        "title": "Product Sales Analysis I",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "product-sales-analysis-iii",
+        "title": "Product Sales Analysis III",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "product-sales-analysis-iv",
+        "title": "Product Sales Analysis IV",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "product-sales-analysis-v",
+        "title": "Product Sales Analysis V",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "271",
+      "title": "Encode and Decode Strings",
+      "titleSlug": "encode-and-decode-strings",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1398,
+      "dislikes": 377,
+      "similarQuestions": "[{\"title\": \"Count and Say\", \"titleSlug\": \"count-and-say\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Serialize and Deserialize Binary Tree\", \"titleSlug\": \"serialize-and-deserialize-binary-tree\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"String Compression\", \"titleSlug\": \"string-compression\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Binary Substrings\", \"titleSlug\": \"count-binary-substrings\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"178.2K\", \"totalSubmission\": \"392K\", \"totalAcceptedRaw\": 178172, \"totalSubmissionRaw\": 392020, \"acRate\": \"45.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-and-say",
+        "title": "Count and Say",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "serialize-and-deserialize-binary-tree",
+        "title": "Serialize and Deserialize Binary Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "string-compression",
+        "title": "String Compression",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "count-binary-substrings",
+        "title": "Count Binary Substrings",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ]
+  }
+}

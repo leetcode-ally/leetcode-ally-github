@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-227",
+  "data": [
+    {
+      "id": 1856,
+      "question_id": 1878,
+      "credit": 3,
+      "title": "Check if Array Is Sorted and Rotated",
+      "title_slug": "check-if-array-is-sorted-and-rotated",
+      "likes": 2757,
+      "dislikes": 114
+    },
+    {
+      "id": 1857,
+      "question_id": 1879,
+      "credit": 4,
+      "title": "Maximum Score From Removing Stones",
+      "title_slug": "maximum-score-from-removing-stones",
+      "likes": 903,
+      "dislikes": 53
+    },
+    {
+      "id": 1858,
+      "question_id": 1880,
+      "credit": 5,
+      "title": "Largest Merge Of Two Strings",
+      "title_slug": "largest-merge-of-two-strings",
+      "likes": 524,
+      "dislikes": 71
+    },
+    {
+      "id": 1859,
+      "question_id": 1881,
+      "credit": 6,
+      "title": "Closest Subsequence Sum",
+      "title_slug": "closest-subsequence-sum",
+      "likes": 842,
+      "dislikes": 66
+    }
+  ]
+}

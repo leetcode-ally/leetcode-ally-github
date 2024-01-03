@@ -1,0 +1,70 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1554",
+      "title": "Strings Differ by One Character",
+      "titleSlug": "strings-differ-by-one-character",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 364,
+      "dislikes": 93,
+      "similarQuestions": "[{\"title\": \"Count Words Obtained After Adding a Letter\", \"titleSlug\": \"count-words-obtained-after-adding-a-letter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"23.5K\", \"totalSubmission\": \"56.1K\", \"totalAcceptedRaw\": 23464, \"totalSubmissionRaw\": 56057, \"acRate\": \"41.9%\"}",
+      "hints": [
+        "BruteForce, check all pairs and verify if they differ in one character. O(n^2 * m) where n is the number of words and m is the length of each string.",
+        "O(m^2 * n), Use hashset, to insert all possible combinations adding a character \"*\". For example: If dict[i] = \"abc\", insert (\"*bc\", \"a*c\" and \"ab*\")."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-words-obtained-after-adding-a-letter",
+        "title": "Count Words Obtained After Adding a Letter",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "BruteForce, check all pairs and verify if they differ in one character. O(n^2 * m) where n is the number of words and m is the length of each string.",
+      "O(m^2 * n), Use hashset, to insert all possible combinations adding a character \"*\". For example: If dict[i] = \"abc\", insert (\"*bc\", \"a*c\" and \"ab*\")."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ]
+  }
+}

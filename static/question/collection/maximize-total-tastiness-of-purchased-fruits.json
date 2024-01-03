@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2431",
+      "title": "Maximize Total Tastiness of Purchased Fruits",
+      "titleSlug": "maximize-total-tastiness-of-purchased-fruits",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 43,
+      "dislikes": 0,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.8K\", \"totalSubmission\": \"2.8K\", \"totalAcceptedRaw\": 1781, \"totalSubmissionRaw\": 2766, \"acRate\": \"64.4%\"}",
+      "hints": [
+        "We have multiple options within the given budget. Trying all of them will take exponential time. How can we improve that?",
+        "We can use dynamic programming to speed up the algorithm.",
+        "We have three options for each fruit. To skip it, to buy it with a coupon, or to buy it without a coupon."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "We have multiple options within the given budget. Trying all of them will take exponential time. How can we improve that?",
+      "We can use dynamic programming to speed up the algorithm.",
+      "We have three options for each fruit. To skip it, to buy it with a coupon, or to buy it without a coupon."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-83",
+  "data": [
+    {
+      "id": 361,
+      "question_id": 857,
+      "credit": 3,
+      "title": "Positions of Large Groups",
+      "title_slug": "positions-of-large-groups",
+      "likes": 844,
+      "dislikes": 122
+    },
+    {
+      "id": 362,
+      "question_id": 858,
+      "credit": 5,
+      "title": "Masking Personal Information",
+      "title_slug": "masking-personal-information",
+      "likes": 160,
+      "dislikes": 439
+    },
+    {
+      "id": 363,
+      "question_id": 856,
+      "credit": 7,
+      "title": "Consecutive Numbers Sum",
+      "title_slug": "consecutive-numbers-sum",
+      "likes": 1346,
+      "dislikes": 1374
+    },
+    {
+      "id": 364,
+      "question_id": 855,
+      "credit": 9,
+      "title": "Count Unique Characters of All Substrings of a Given String",
+      "title_slug": "count-unique-characters-of-all-substrings-of-a-given-string",
+      "likes": 2095,
+      "dislikes": 242
+    }
+  ]
+}

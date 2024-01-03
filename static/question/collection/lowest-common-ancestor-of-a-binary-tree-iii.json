@@ -1,0 +1,88 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1650",
+      "title": "Lowest Common Ancestor of a Binary Tree III",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1278,
+      "dislikes": 46,
+      "similarQuestions": "[{\"title\": \"Lowest Common Ancestor of a Binary Search Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-search-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree II\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree IV\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"189.7K\", \"totalSubmission\": \"241.6K\", \"totalAcceptedRaw\": 189718, \"totalSubmissionRaw\": 241558, \"acRate\": \"78.5%\"}",
+      "hints": [
+        "Store the path from p to the root.",
+        "Traverse the path from q to the root, the first common point of the two paths is the LCA."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Store the path from p to the root.",
+      "Traverse the path from q to the root, the first common point of the two paths is the LCA."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

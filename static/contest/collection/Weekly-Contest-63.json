@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-63",
+  "data": [
+    {
+      "id": 272,
+      "question_id": 747,
+      "credit": 3,
+      "title": "Min Cost Climbing Stairs",
+      "title_slug": "min-cost-climbing-stairs",
+      "likes": 11026,
+      "dislikes": 1676
+    },
+    {
+      "id": 273,
+      "question_id": 749,
+      "credit": 5,
+      "title": "Shortest Completing Word",
+      "title_slug": "shortest-completing-word",
+      "likes": 518,
+      "dislikes": 1082
+    },
+    {
+      "id": 274,
+      "question_id": 751,
+      "credit": 6,
+      "title": "Number Of Corner Rectangles",
+      "title_slug": "number-of-corner-rectangles",
+      "likes": 613,
+      "dislikes": 91
+    },
+    {
+      "id": 275,
+      "question_id": 750,
+      "credit": 9,
+      "title": "Contain Virus",
+      "title_slug": "contain-virus",
+      "likes": 377,
+      "dislikes": 452
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "titleSlug": "reverse-vowels-of-a-string",
+      "content": "<p>Given a string <code>s</code>, reverse only all the vowels in the string and return it.</p>\n\n<p>The vowels are <code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, and <code>&#39;u&#39;</code>, and they can appear in both lower and upper cases, more than once.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"hello\"\n<strong>Output:</strong> \"holle\"\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \"leetcode\"\n<strong>Output:</strong> \"leotcede\"\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 3 * 10<sup>5</sup></code></li>\n\t<li><code>s</code> consist of <strong>printable ASCII</strong> characters.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 4258,
+      "dislikes": 2723,
+      "similarQuestions": "[{\"title\": \"Reverse String\", \"titleSlug\": \"reverse-string\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Remove Vowels from a String\", \"titleSlug\": \"remove-vowels-from-a-string\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Faulty Keyboard\", \"titleSlug\": \"faulty-keyboard\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Sort Vowels in a String\", \"titleSlug\": \"sort-vowels-in-a-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"703.9K\", \"totalSubmission\": \"1.4M\", \"totalAcceptedRaw\": 703869, \"totalSubmissionRaw\": 1352340, \"acRate\": \"52.0%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "reverse-string",
+        "title": "Reverse String",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "remove-vowels-from-a-string",
+        "title": "Remove Vowels from a String",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "faulty-keyboard",
+        "title": "Faulty Keyboard",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "sort-vowels-in-a-string",
+        "title": "Sort Vowels in a String",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1151",
+      "title": "Minimum Swaps to Group All 1's Together",
+      "titleSlug": "minimum-swaps-to-group-all-1s-together",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1167,
+      "dislikes": 15,
+      "similarQuestions": "[{\"title\": \"Minimum Adjacent Swaps for K Consecutive Ones\", \"titleSlug\": \"minimum-adjacent-swaps-for-k-consecutive-ones\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Swaps to Group All 1's Together II\", \"titleSlug\": \"minimum-swaps-to-group-all-1s-together-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Time Needed to Rearrange a Binary String\", \"titleSlug\": \"time-needed-to-rearrange-a-binary-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"60.8K\", \"totalSubmission\": \"100.4K\", \"totalAcceptedRaw\": 60765, \"totalSubmissionRaw\": 100400, \"acRate\": \"60.5%\"}",
+      "hints": [
+        "How many 1's should be grouped together ? Is not a fixed number?",
+        "Yeah it's just the number of 1's the whole array has. Let's name this number as ones",
+        "Every subarray of size of ones, needs some number of swaps to reach, Can you find the number of swaps needed to group all 1's in this subarray?",
+        "It's the number of zeros in that subarray.",
+        "Do you need to count the number of zeros all over again for every position ?",
+        "Use Sliding Window technique."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-swaps-to-group-all-1s-together-ii",
+        "title": "Minimum Swaps to Group All 1's Together II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "time-needed-to-rearrange-a-binary-string",
+        "title": "Time Needed to Rearrange a Binary String",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How many 1's should be grouped together ? Is not a fixed number?",
+      "Yeah it's just the number of 1's the whole array has. Let's name this number as ones",
+      "Every subarray of size of ones, needs some number of swaps to reach, Can you find the number of swaps needed to group all 1's in this subarray?",
+      "It's the number of zeros in that subarray.",
+      "Do you need to count the number of zeros all over again for every position ?",
+      "Use Sliding Window technique."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

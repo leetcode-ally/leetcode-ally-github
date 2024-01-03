@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-220",
+  "data": [
+    {
+      "id": 1768,
+      "question_id": 1812,
+      "credit": 3,
+      "title": "Reformat Phone Number",
+      "title_slug": "reformat-phone-number",
+      "likes": 330,
+      "dislikes": 197
+    },
+    {
+      "id": 1769,
+      "question_id": 1813,
+      "credit": 4,
+      "title": "Maximum Erasure Value",
+      "title_slug": "maximum-erasure-value",
+      "likes": 2730,
+      "dislikes": 45
+    },
+    {
+      "id": 1770,
+      "question_id": 1814,
+      "credit": 5,
+      "title": "Jump Game VI",
+      "title_slug": "jump-game-vi",
+      "likes": 3340,
+      "dislikes": 108
+    },
+    {
+      "id": 1771,
+      "question_id": 1815,
+      "credit": 6,
+      "title": "Checking Existence of Edge Length Limited Paths",
+      "title_slug": "checking-existence-of-edge-length-limited-paths",
+      "likes": 1903,
+      "dislikes": 45
+    }
+  ]
+}

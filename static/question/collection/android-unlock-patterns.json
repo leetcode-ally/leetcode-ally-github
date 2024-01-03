@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "351",
+      "title": "Android Unlock Patterns",
+      "titleSlug": "android-unlock-patterns",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 152,
+      "dislikes": 179,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"71.1K\", \"totalSubmission\": \"137.4K\", \"totalAcceptedRaw\": 71116, \"totalSubmissionRaw\": 137414, \"acRate\": \"51.8%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  }
+}

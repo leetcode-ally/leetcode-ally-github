@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "311",
+      "title": "Sparse Matrix Multiplication",
+      "titleSlug": "sparse-matrix-multiplication",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1030,
+      "dislikes": 351,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"184.5K\", \"totalSubmission\": \"271.8K\", \"totalAcceptedRaw\": 184542, \"totalSubmissionRaw\": 271814, \"acRate\": \"67.9%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

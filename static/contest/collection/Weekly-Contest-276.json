@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-276",
+  "data": [
+    {
+      "id": 2462,
+      "question_id": 2260,
+      "credit": 3,
+      "title": "Divide a String Into Groups of Size k",
+      "title_slug": "divide-a-string-into-groups-of-size-k",
+      "likes": 444,
+      "dislikes": 20
+    },
+    {
+      "id": 2463,
+      "question_id": 1303,
+      "credit": 4,
+      "title": "Minimum Moves to Reach Target Score",
+      "title_slug": "minimum-moves-to-reach-target-score",
+      "likes": 911,
+      "dislikes": 20
+    },
+    {
+      "id": 2464,
+      "question_id": 2262,
+      "credit": 5,
+      "title": "Solving Questions With Brainpower",
+      "title_slug": "solving-questions-with-brainpower",
+      "likes": 2249,
+      "dislikes": 56
+    },
+    {
+      "id": 2465,
+      "question_id": 2263,
+      "credit": 6,
+      "title": "Maximum Running Time of N Computers",
+      "title_slug": "maximum-running-time-of-n-computers",
+      "likes": 1967,
+      "dislikes": 53
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1264",
+      "title": "Page Recommendations",
+      "titleSlug": "page-recommendations",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 240,
+      "dislikes": 20,
+      "similarQuestions": "[{\"title\": \"Page Recommendations II\", \"titleSlug\": \"page-recommendations-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Strong Friendship\", \"titleSlug\": \"strong-friendship\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"38.3K\", \"totalSubmission\": \"58.5K\", \"totalAcceptedRaw\": 38287, \"totalSubmissionRaw\": 58532, \"acRate\": \"65.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "page-recommendations-ii",
+        "title": "Page Recommendations II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "strong-friendship",
+        "title": "Strong Friendship",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

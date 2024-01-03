@@ -1,0 +1,48 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "161",
+      "title": "One Edit Distance",
+      "titleSlug": "one-edit-distance",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1365,
+      "dislikes": 185,
+      "similarQuestions": "[{\"title\": \"Edit Distance\", \"titleSlug\": \"edit-distance\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"199.3K\", \"totalSubmission\": \"582.1K\", \"totalAcceptedRaw\": 199266, \"totalSubmissionRaw\": 582062, \"acRate\": \"34.2%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "edit-distance",
+        "title": "Edit Distance",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

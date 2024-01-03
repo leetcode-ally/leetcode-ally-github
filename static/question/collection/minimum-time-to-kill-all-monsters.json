@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2403",
+      "title": "Minimum Time to Kill All Monsters",
+      "titleSlug": "minimum-time-to-kill-all-monsters",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 45,
+      "dislikes": 4,
+      "similarQuestions": "[{\"title\": \"Closest Room\", \"titleSlug\": \"closest-room\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Eliminate Maximum Number of Monsters\", \"titleSlug\": \"eliminate-maximum-number-of-monsters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Ways to Build Sturdy Brick Wall\", \"titleSlug\": \"number-of-ways-to-build-sturdy-brick-wall\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"2.1K\", \"totalAcceptedRaw\": 1163, \"totalSubmissionRaw\": 2085, \"acRate\": \"55.8%\"}",
+      "hints": [
+        "Each monster can only have two states. They are either alive or dead.",
+        "We can use bitmasks to represent every possible combination of alive and dead monsters.",
+        "Let dp[mask] represent the minimum number of days needed to reach the state mask."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "closest-room",
+        "title": "Closest Room",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "eliminate-maximum-number-of-monsters",
+        "title": "Eliminate Maximum Number of Monsters",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-ways-to-build-sturdy-brick-wall",
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Each monster can only have two states. They are either alive or dead.",
+      "We can use bitmasks to represent every possible combination of alive and dead monsters.",
+      "Let dp[mask] represent the minimum number of days needed to reach the state mask."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ]
+  }
+}

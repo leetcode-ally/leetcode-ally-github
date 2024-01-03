@@ -1,0 +1,50 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1018",
+      "title": "Binary Prefix Divisible By 5",
+      "titleSlug": "binary-prefix-divisible-by-5",
+      "content": "<p>You are given a binary array <code>nums</code> (<strong>0-indexed</strong>).</p>\n\n<p>We define <code>x<sub>i</sub></code> as the number whose binary representation is the subarray <code>nums[0..i]</code> (from most-significant-bit to least-significant-bit).</p>\n\n<ul>\n\t<li>For example, if <code>nums = [1,0,1]</code>, then <code>x<sub>0</sub> = 1</code>, <code>x<sub>1</sub> = 2</code>, and <code>x<sub>2</sub> = 5</code>.</li>\n</ul>\n\n<p>Return <em>an array of booleans </em><code>answer</code><em> where </em><code>answer[i]</code><em> is </em><code>true</code><em> if </em><code>x<sub>i</sub></code><em> is divisible by </em><code>5</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [0,1,1]\n<strong>Output:</strong> [true,false,false]\n<strong>Explanation:</strong> The input numbers in binary are 0, 01, 011; which are 0, 1, and 3 in base-10.\nOnly the first number is divisible by 5, so answer[0] is true.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,1,1]\n<strong>Output:</strong> [false,false,false]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 710,
+      "dislikes": 182,
+      "similarQuestions": "[{\"title\": \"Average Value of Even Numbers That Are Divisible by Three\", \"titleSlug\": \"average-value-of-even-numbers-that-are-divisible-by-three\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Maximum Divisibility Score\", \"titleSlug\": \"find-the-maximum-divisibility-score\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"51.9K\", \"totalSubmission\": \"111K\", \"totalAcceptedRaw\": 51909, \"totalSubmissionRaw\": 111011, \"acRate\": \"46.8%\"}",
+      "hints": [
+        "If X is the first i digits of the array as a binary number, then 2X + A[i] is the first i+1 digits."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "average-value-of-even-numbers-that-are-divisible-by-three",
+        "title": "Average Value of Even Numbers That Are Divisible by Three",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "find-the-maximum-divisibility-score",
+        "title": "Find the Maximum Divisibility Score",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "If X is the first i digits of the array as a binary number, then 2X + A[i] is the first i+1 digits."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  }
+}

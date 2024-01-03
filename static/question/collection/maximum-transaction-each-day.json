@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1831",
+      "title": "Maximum Transaction Each Day",
+      "titleSlug": "maximum-transaction-each-day",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 82,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"16K\", \"totalSubmission\": \"19.7K\", \"totalAcceptedRaw\": 15996, \"totalSubmissionRaw\": 19707, \"acRate\": \"81.2%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-317",
+  "data": [
+    {
+      "id": 2978,
+      "question_id": 2542,
+      "credit": 3,
+      "title": "Average Value of Even Numbers That Are Divisible by Three",
+      "title_slug": "average-value-of-even-numbers-that-are-divisible-by-three",
+      "likes": 309,
+      "dislikes": 34
+    },
+    {
+      "id": 2979,
+      "question_id": 2543,
+      "credit": 4,
+      "title": "Most Popular Video Creator",
+      "title_slug": "most-popular-video-creator",
+      "likes": 248,
+      "dislikes": 356
+    },
+    {
+      "id": 2980,
+      "question_id": 2544,
+      "credit": 5,
+      "title": "Minimum Addition to Make Integer Beautiful",
+      "title_slug": "minimum-addition-to-make-integer-beautiful",
+      "likes": 511,
+      "dislikes": 23
+    },
+    {
+      "id": 2981,
+      "question_id": 2545,
+      "credit": 6,
+      "title": "Height of Binary Tree After Subtree Removal Queries",
+      "title_slug": "height-of-binary-tree-after-subtree-removal-queries",
+      "likes": 748,
+      "dislikes": 17
+    }
+  ]
+}

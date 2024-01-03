@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2291",
+      "title": "Maximum Profit From Trading Stocks",
+      "titleSlug": "maximum-profit-from-trading-stocks",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 139,
+      "dislikes": 5,
+      "similarQuestions": "[{\"title\": \"Best Time to Buy and Sell Stock\", \"titleSlug\": \"best-time-to-buy-and-sell-stock\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock II\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock III\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Best Time to Buy and Sell Stock IV\", \"titleSlug\": \"best-time-to-buy-and-sell-stock-iv\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.8K\", \"totalSubmission\": \"12.8K\", \"totalAcceptedRaw\": 5807, \"totalSubmissionRaw\": 12820, \"acRate\": \"45.3%\"}",
+      "hints": [
+        "Think of the 0-1 Knapsack Problem.",
+        "For the ith stock, the weight is present[i], and the value is future[i] - present[i]."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "title": "Best Time to Buy and Sell Stock",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+        "title": "Best Time to Buy and Sell Stock II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+        "title": "Best Time to Buy and Sell Stock III",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+        "title": "Best Time to Buy and Sell Stock IV",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Think of the 0-1 Knapsack Problem.",
+      "For the ith stock, the weight is present[i], and the value is future[i] - present[i]."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-196",
+  "data": [
+    {
+      "id": 1478,
+      "question_id": 1626,
+      "credit": 3,
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "title_slug": "can-make-arithmetic-progression-from-sequence",
+      "likes": 2125,
+      "dislikes": 107
+    },
+    {
+      "id": 1479,
+      "question_id": 1627,
+      "credit": 4,
+      "title": "Last Moment Before All Ants Fall Out of a Plank",
+      "title_slug": "last-moment-before-all-ants-fall-out-of-a-plank",
+      "likes": 1442,
+      "dislikes": 387
+    },
+    {
+      "id": 1480,
+      "question_id": 1628,
+      "credit": 5,
+      "title": "Count Submatrices With All Ones",
+      "title_slug": "count-submatrices-with-all-ones",
+      "likes": 2025,
+      "dislikes": 158
+    },
+    {
+      "id": 1481,
+      "question_id": 1629,
+      "credit": 7,
+      "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+      "title_slug": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+      "likes": 471,
+      "dislikes": 24
+    }
+  ]
+}

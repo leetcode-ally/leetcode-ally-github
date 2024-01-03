@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "800",
+      "title": "Similar RGB Color",
+      "titleSlug": "similar-rgb-color",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 105,
+      "dislikes": 679,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"17K\", \"totalSubmission\": \"25.3K\", \"totalAcceptedRaw\": 17011, \"totalSubmissionRaw\": 25260, \"acRate\": \"67.3%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  }
+}

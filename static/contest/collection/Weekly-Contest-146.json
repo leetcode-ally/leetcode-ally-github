@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-146",
+  "data": [
+    {
+      "id": 845,
+      "question_id": 1227,
+      "credit": 3,
+      "title": "Number of Equivalent Domino Pairs",
+      "title_slug": "number-of-equivalent-domino-pairs",
+      "likes": 658,
+      "dislikes": 324
+    },
+    {
+      "id": 846,
+      "question_id": 1229,
+      "credit": 5,
+      "title": "Shortest Path with Alternating Colors",
+      "title_slug": "shortest-path-with-alternating-colors",
+      "likes": 3396,
+      "dislikes": 176
+    },
+    {
+      "id": 847,
+      "question_id": 1228,
+      "credit": 6,
+      "title": "Minimum Cost Tree From Leaf Values",
+      "title_slug": "minimum-cost-tree-from-leaf-values",
+      "likes": 4173,
+      "dislikes": 265
+    },
+    {
+      "id": 848,
+      "question_id": 1230,
+      "credit": 7,
+      "title": "Maximum of Absolute Value Expression",
+      "title_slug": "maximum-of-absolute-value-expression",
+      "likes": 616,
+      "dislikes": 402
+    }
+  ]
+}

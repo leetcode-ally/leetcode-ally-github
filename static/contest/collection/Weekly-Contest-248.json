@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-248",
+  "data": [
+    {
+      "id": 2122,
+      "question_id": 2048,
+      "credit": 3,
+      "title": "Build Array from Permutation",
+      "title_slug": "build-array-from-permutation",
+      "likes": 3163,
+      "dislikes": 355
+    },
+    {
+      "id": 2123,
+      "question_id": 2049,
+      "credit": 4,
+      "title": "Eliminate Maximum Number of Monsters",
+      "title_slug": "eliminate-maximum-number-of-monsters",
+      "likes": 1469,
+      "dislikes": 225
+    },
+    {
+      "id": 2124,
+      "question_id": 2050,
+      "credit": 4,
+      "title": "Count Good Numbers",
+      "title_slug": "count-good-numbers",
+      "likes": 1220,
+      "dislikes": 385
+    },
+    {
+      "id": 2125,
+      "question_id": 2051,
+      "credit": 6,
+      "title": "Longest Common Subpath",
+      "title_slug": "longest-common-subpath",
+      "likes": 461,
+      "dislikes": 35
+    }
+  ]
+}

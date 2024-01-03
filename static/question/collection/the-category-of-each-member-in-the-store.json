@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2051",
+      "title": "The Category of Each Member in the Store",
+      "titleSlug": "the-category-of-each-member-in-the-store",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 53,
+      "dislikes": 7,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.8K\", \"totalSubmission\": \"9.9K\", \"totalAcceptedRaw\": 6828, \"totalSubmissionRaw\": 9892, \"acRate\": \"69.0%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

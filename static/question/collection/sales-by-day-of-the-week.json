@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1479",
+      "title": "Sales by Day of the Week",
+      "titleSlug": "sales-by-day-of-the-week",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 149,
+      "dislikes": 37,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"16.6K\", \"totalSubmission\": \"21.2K\", \"totalAcceptedRaw\": 16646, \"totalSubmissionRaw\": 21196, \"acRate\": \"78.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

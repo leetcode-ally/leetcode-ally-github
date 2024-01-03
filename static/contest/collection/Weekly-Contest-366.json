@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-366",
+  "data": [
+    {
+      "id": 3564,
+      "question_id": 3172,
+      "credit": 3,
+      "title": "Divisible and Non-divisible Sums Difference",
+      "title_slug": "divisible-and-non-divisible-sums-difference",
+      "likes": 144,
+      "dislikes": 12
+    },
+    {
+      "id": 3565,
+      "question_id": 3151,
+      "credit": 4,
+      "title": "Minimum Processing Time",
+      "title_slug": "minimum-processing-time",
+      "likes": 131,
+      "dislikes": 27
+    },
+    {
+      "id": 3566,
+      "question_id": 3033,
+      "credit": 5,
+      "title": "Apply Operations to Make Two Strings Equal",
+      "title_slug": "apply-operations-to-make-two-strings-equal",
+      "likes": 299,
+      "dislikes": 63
+    },
+    {
+      "id": 3567,
+      "question_id": 3153,
+      "credit": 6,
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "title_slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "likes": 162,
+      "dislikes": 3
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-22",
+  "data": [
+    {
+      "id": 1302,
+      "question_id": 1486,
+      "credit": 3,
+      "title": "Find the Distance Value Between Two Arrays",
+      "title_slug": "find-the-distance-value-between-two-arrays",
+      "likes": 853,
+      "dislikes": 2961
+    },
+    {
+      "id": 1303,
+      "question_id": 1487,
+      "credit": 4,
+      "title": "Cinema Seat Allocation",
+      "title_slug": "cinema-seat-allocation",
+      "likes": 836,
+      "dislikes": 384
+    },
+    {
+      "id": 1304,
+      "question_id": 1488,
+      "credit": 5,
+      "title": "Sort Integers by The Power Value",
+      "title_slug": "sort-integers-by-the-power-value",
+      "likes": 1404,
+      "dislikes": 110
+    },
+    {
+      "id": 1305,
+      "question_id": 1489,
+      "credit": 7,
+      "title": "Pizza With 3n Slices",
+      "title_slug": "pizza-with-3n-slices",
+      "likes": 1015,
+      "dislikes": 16
+    }
+  ]
+}

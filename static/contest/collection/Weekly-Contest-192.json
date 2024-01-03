@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-192",
+  "data": [
+    {
+      "id": 1430,
+      "question_id": 1580,
+      "credit": 3,
+      "title": "Shuffle the Array",
+      "title_slug": "shuffle-the-array",
+      "likes": 5553,
+      "dislikes": 280
+    },
+    {
+      "id": 1431,
+      "question_id": 1581,
+      "credit": 4,
+      "title": "The k Strongest Values in an Array",
+      "title_slug": "the-k-strongest-values-in-an-array",
+      "likes": 674,
+      "dislikes": 146
+    },
+    {
+      "id": 1432,
+      "question_id": 1582,
+      "credit": 5,
+      "title": "Design Browser History",
+      "title_slug": "design-browser-history",
+      "likes": 3668,
+      "dislikes": 218
+    },
+    {
+      "id": 1433,
+      "question_id": 1583,
+      "credit": 6,
+      "title": "Paint House III",
+      "title_slug": "paint-house-iii",
+      "likes": 2029,
+      "dislikes": 147
+    }
+  ]
+}

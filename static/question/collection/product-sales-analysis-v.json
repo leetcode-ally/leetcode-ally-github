@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2329",
+      "title": "Product Sales Analysis V",
+      "titleSlug": "product-sales-analysis-v",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 30,
+      "dislikes": 6,
+      "similarQuestions": "[{\"title\": \"Product Sales Analysis I\", \"titleSlug\": \"product-sales-analysis-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis II\", \"titleSlug\": \"product-sales-analysis-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis III\", \"titleSlug\": \"product-sales-analysis-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.8K\", \"totalSubmission\": \"8.4K\", \"totalAcceptedRaw\": 5797, \"totalSubmissionRaw\": 8428, \"acRate\": \"68.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "product-sales-analysis-i",
+        "title": "Product Sales Analysis I",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "product-sales-analysis-ii",
+        "title": "Product Sales Analysis II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "product-sales-analysis-iii",
+        "title": "Product Sales Analysis III",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

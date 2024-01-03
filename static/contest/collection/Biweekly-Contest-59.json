@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-59",
+  "data": [
+    {
+      "id": 2194,
+      "question_id": 2088,
+      "credit": 3,
+      "title": "Minimum Time to Type Word Using Special Typewriter",
+      "title_slug": "minimum-time-to-type-word-using-special-typewriter",
+      "likes": 659,
+      "dislikes": 26
+    },
+    {
+      "id": 2195,
+      "question_id": 2089,
+      "credit": 4,
+      "title": "Maximum Matrix Sum",
+      "title_slug": "maximum-matrix-sum",
+      "likes": 529,
+      "dislikes": 19
+    },
+    {
+      "id": 2196,
+      "question_id": 2090,
+      "credit": 5,
+      "title": "Number of Ways to Arrive at Destination",
+      "title_slug": "number-of-ways-to-arrive-at-destination",
+      "likes": 2542,
+      "dislikes": 105
+    },
+    {
+      "id": 2197,
+      "question_id": 2091,
+      "credit": 6,
+      "title": "Number of Ways to Separate Numbers",
+      "title_slug": "number-of-ways-to-separate-numbers",
+      "likes": 499,
+      "dislikes": 55
+    }
+  ]
+}

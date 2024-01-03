@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1256",
+      "title": "Encode Number",
+      "titleSlug": "encode-number",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 75,
+      "dislikes": 245,
+      "similarQuestions": "[{\"title\": \"Convert to Base -2\", \"titleSlug\": \"convert-to-base-2\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"7.5K\", \"totalSubmission\": \"10.7K\", \"totalAcceptedRaw\": 7479, \"totalSubmissionRaw\": 10731, \"acRate\": \"69.7%\"}",
+      "hints": [
+        "Try to find the number of binary digits returned by the function.",
+        "The pattern is to start counting from zero after determining the number of binary digits."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "convert-to-base-2",
+        "title": "Convert to Base -2",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to find the number of binary digits returned by the function.",
+      "The pattern is to start counting from zero after determining the number of binary digits."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  }
+}

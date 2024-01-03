@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-308",
+  "data": [
+    {
+      "id": 2866,
+      "question_id": 2469,
+      "credit": 3,
+      "title": "Longest Subsequence With Limited Sum",
+      "title_slug": "longest-subsequence-with-limited-sum",
+      "likes": 1792,
+      "dislikes": 161
+    },
+    {
+      "id": 2867,
+      "question_id": 2470,
+      "credit": 4,
+      "title": "Removing Stars From a String",
+      "title_slug": "removing-stars-from-a-string",
+      "likes": 2680,
+      "dislikes": 183
+    },
+    {
+      "id": 2868,
+      "question_id": 2471,
+      "credit": 4,
+      "title": "Minimum Amount of Time to Collect Garbage",
+      "title_slug": "minimum-amount-of-time-to-collect-garbage",
+      "likes": 1429,
+      "dislikes": 219
+    },
+    {
+      "id": 2869,
+      "question_id": 2472,
+      "credit": 6,
+      "title": "Build a Matrix With Conditions",
+      "title_slug": "build-a-matrix-with-conditions",
+      "likes": 735,
+      "dislikes": 8
+    }
+  ]
+}

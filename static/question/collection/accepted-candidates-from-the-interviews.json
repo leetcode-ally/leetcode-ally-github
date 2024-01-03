@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2041",
+      "title": "Accepted Candidates From the Interviews",
+      "titleSlug": "accepted-candidates-from-the-interviews",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 50,
+      "dislikes": 27,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"8.2K\", \"totalSubmission\": \"10.6K\", \"totalAcceptedRaw\": 8238, \"totalSubmissionRaw\": 10573, \"acRate\": \"77.9%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1788",
+      "title": "Maximize the Beauty of the Garden",
+      "titleSlug": "maximize-the-beauty-of-the-garden",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 74,
+      "dislikes": 6,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2K\", \"totalSubmission\": \"3K\", \"totalAcceptedRaw\": 2047, \"totalSubmissionRaw\": 3041, \"acRate\": \"67.3%\"}",
+      "hints": [
+        "Consider every possible beauty and its first and last index in flowers.",
+        "Remove all flowers with negative beauties within those indices."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Consider every possible beauty and its first and last index in flowers.",
+      "Remove all flowers with negative beauties within those indices."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

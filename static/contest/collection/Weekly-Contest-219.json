@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-219",
+  "data": [
+    {
+      "id": 1760,
+      "question_id": 1806,
+      "credit": 3,
+      "title": "Count of Matches in Tournament",
+      "title_slug": "count-of-matches-in-tournament",
+      "likes": 1703,
+      "dislikes": 236
+    },
+    {
+      "id": 1761,
+      "question_id": 1807,
+      "credit": 4,
+      "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "title_slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+      "likes": 2344,
+      "dislikes": 1455
+    },
+    {
+      "id": 1762,
+      "question_id": 1808,
+      "credit": 5,
+      "title": "Stone Game VII",
+      "title_slug": "stone-game-vii",
+      "likes": 961,
+      "dislikes": 160
+    },
+    {
+      "id": 1763,
+      "question_id": 1367,
+      "credit": 6,
+      "title": "Maximum Height by Stacking Cuboids ",
+      "title_slug": "maximum-height-by-stacking-cuboids",
+      "likes": 1080,
+      "dislikes": 30
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-126",
+  "data": [
+    {
+      "id": 595,
+      "question_id": 1044,
+      "credit": 3,
+      "title": "Find Common Characters",
+      "title_slug": "find-common-characters",
+      "likes": 3414,
+      "dislikes": 283
+    },
+    {
+      "id": 596,
+      "question_id": 1045,
+      "credit": 5,
+      "title": "Check If Word Is Valid After Substitutions",
+      "title_slug": "check-if-word-is-valid-after-substitutions",
+      "likes": 943,
+      "dislikes": 467
+    },
+    {
+      "id": 597,
+      "question_id": 1046,
+      "credit": 6,
+      "title": "Max Consecutive Ones III",
+      "title_slug": "max-consecutive-ones-iii",
+      "likes": 7989,
+      "dislikes": 105
+    },
+    {
+      "id": 599,
+      "question_id": 1042,
+      "credit": 9,
+      "title": "Minimum Cost to Merge Stones",
+      "title_slug": "minimum-cost-to-merge-stones",
+      "likes": 2383,
+      "dislikes": 103
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-35",
+  "data": [
+    {
+      "id": 1610,
+      "question_id": 1693,
+      "credit": 3,
+      "title": "Sum of All Odd Length Subarrays",
+      "title_slug": "sum-of-all-odd-length-subarrays",
+      "likes": 3585,
+      "dislikes": 283
+    },
+    {
+      "id": 1611,
+      "question_id": 1695,
+      "credit": 5,
+      "title": "Maximum Sum Obtained of Any Permutation",
+      "title_slug": "maximum-sum-obtained-of-any-permutation",
+      "likes": 735,
+      "dislikes": 37
+    },
+    {
+      "id": 1612,
+      "question_id": 1694,
+      "credit": 5,
+      "title": "Make Sum Divisible by P",
+      "title_slug": "make-sum-divisible-by-p",
+      "likes": 1465,
+      "dislikes": 60
+    },
+    {
+      "id": 1613,
+      "question_id": 1696,
+      "credit": 6,
+      "title": "Strange Printer II",
+      "title_slug": "strange-printer-ii",
+      "likes": 604,
+      "dislikes": 17
+    }
+  ]
+}

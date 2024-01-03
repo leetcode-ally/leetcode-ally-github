@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-42",
+  "data": [
+    {
+      "id": 1780,
+      "question_id": 1802,
+      "credit": 3,
+      "title": "Number of Students Unable to Eat Lunch",
+      "title_slug": "number-of-students-unable-to-eat-lunch",
+      "likes": 1592,
+      "dislikes": 115
+    },
+    {
+      "id": 1781,
+      "question_id": 1803,
+      "credit": 4,
+      "title": "Average Waiting Time",
+      "title_slug": "average-waiting-time",
+      "likes": 492,
+      "dislikes": 51
+    },
+    {
+      "id": 1782,
+      "question_id": 1804,
+      "credit": 5,
+      "title": "Maximum Binary String After Change",
+      "title_slug": "maximum-binary-string-after-change",
+      "likes": 478,
+      "dislikes": 49
+    },
+    {
+      "id": 1783,
+      "question_id": 1805,
+      "credit": 6,
+      "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+      "title_slug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+      "likes": 692,
+      "dislikes": 23
+    }
+  ]
+}

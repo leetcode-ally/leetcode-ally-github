@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-222",
+  "data": [
+    {
+      "id": 1792,
+      "question_id": 1829,
+      "credit": 3,
+      "title": "Maximum Units on a Truck",
+      "title_slug": "maximum-units-on-a-truck",
+      "likes": 3723,
+      "dislikes": 208
+    },
+    {
+      "id": 1793,
+      "question_id": 1830,
+      "credit": 4,
+      "title": "Count Good Meals",
+      "title_slug": "count-good-meals",
+      "likes": 989,
+      "dislikes": 232
+    },
+    {
+      "id": 1794,
+      "question_id": 1831,
+      "credit": 5,
+      "title": "Ways to Split Array Into Three Subarrays",
+      "title_slug": "ways-to-split-array-into-three-subarrays",
+      "likes": 1363,
+      "dislikes": 100
+    },
+    {
+      "id": 1795,
+      "question_id": 1832,
+      "credit": 6,
+      "title": "Minimum Operations to Make a Subsequence",
+      "title_slug": "minimum-operations-to-make-a-subsequence",
+      "likes": 655,
+      "dislikes": 10
+    }
+  ]
+}

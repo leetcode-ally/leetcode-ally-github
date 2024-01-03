@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2534",
+      "title": "Time Taken to Cross the Door",
+      "titleSlug": "time-taken-to-cross-the-door",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 72,
+      "dislikes": 13,
+      "similarQuestions": "[{\"title\": \"The Latest Time to Catch a Bus\", \"titleSlug\": \"the-latest-time-to-catch-a-bus\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.2K\", \"totalSubmission\": \"8K\", \"totalAcceptedRaw\": 4226, \"totalSubmissionRaw\": 8043, \"acRate\": \"52.5%\"}",
+      "hints": [
+        "Use a queue to store the people who want to enter or exit and their corresponding times.",
+        "Simulate the process described in the statement and apply the 4 rules to the people crossing the door."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "the-latest-time-to-catch-a-bus",
+        "title": "The Latest Time to Catch a Bus",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use a queue to store the people who want to enter or exit and their corresponding times.",
+      "Simulate the process described in the statement and apply the 4 rules to the people crossing the door."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  }
+}

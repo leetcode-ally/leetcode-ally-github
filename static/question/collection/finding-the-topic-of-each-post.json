@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2199",
+      "title": "Finding the Topic of Each Post",
+      "titleSlug": "finding-the-topic-of-each-post",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 40,
+      "dislikes": 12,
+      "similarQuestions": "[{\"title\": \"Group Sold Products By The Date\", \"titleSlug\": \"group-sold-products-by-the-date\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.3K\", \"totalSubmission\": \"4.9K\", \"totalAcceptedRaw\": 2329, \"totalSubmissionRaw\": 4909, \"acRate\": \"47.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "group-sold-products-by-the-date",
+        "title": "Group Sold Products By The Date",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

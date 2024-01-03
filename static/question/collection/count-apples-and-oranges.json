@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1715",
+      "title": "Count Apples and Oranges",
+      "titleSlug": "count-apples-and-oranges",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 80,
+      "dislikes": 19,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"14.1K\", \"totalSubmission\": \"18.6K\", \"totalAcceptedRaw\": 14076, \"totalSubmissionRaw\": 18647, \"acRate\": \"75.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

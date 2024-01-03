@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1867",
+      "title": "Orders With Maximum Quantity Above Average",
+      "titleSlug": "orders-with-maximum-quantity-above-average",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 73,
+      "dislikes": 257,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"14.9K\", \"totalSubmission\": \"21K\", \"totalAcceptedRaw\": 14940, \"totalSubmissionRaw\": 21020, \"acRate\": \"71.1%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-82",
+  "data": [
+    {
+      "id": 2786,
+      "question_id": 2416,
+      "credit": 3,
+      "title": "Evaluate Boolean Binary Tree",
+      "title_slug": "evaluate-boolean-binary-tree",
+      "likes": 895,
+      "dislikes": 26
+    },
+    {
+      "id": 2787,
+      "question_id": 2417,
+      "credit": 4,
+      "title": "The Latest Time to Catch a Bus",
+      "title_slug": "the-latest-time-to-catch-a-bus",
+      "likes": 415,
+      "dislikes": 703
+    },
+    {
+      "id": 2788,
+      "question_id": 2418,
+      "credit": 5,
+      "title": "Minimum Sum of Squared Difference",
+      "title_slug": "minimum-sum-of-squared-difference",
+      "likes": 604,
+      "dislikes": 37
+    },
+    {
+      "id": 2789,
+      "question_id": 2419,
+      "credit": 7,
+      "title": "Subarray With Elements Greater Than Varying Threshold",
+      "title_slug": "subarray-with-elements-greater-than-varying-threshold",
+      "likes": 511,
+      "dislikes": 6
+    }
+  ]
+}

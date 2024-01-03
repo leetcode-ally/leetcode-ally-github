@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-188",
+  "data": [
+    {
+      "id": 1382,
+      "question_id": 1552,
+      "credit": 3,
+      "title": "Build an Array With Stack Operations",
+      "title_slug": "build-an-array-with-stack-operations",
+      "likes": 920,
+      "dislikes": 463
+    },
+    {
+      "id": 1383,
+      "question_id": 1553,
+      "credit": 4,
+      "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+      "title_slug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+      "likes": 1336,
+      "dislikes": 58
+    },
+    {
+      "id": 1384,
+      "question_id": 1554,
+      "credit": 5,
+      "title": "Minimum Time to Collect All Apples in a Tree",
+      "title_slug": "minimum-time-to-collect-all-apples-in-a-tree",
+      "likes": 3513,
+      "dislikes": 304
+    },
+    {
+      "id": 1385,
+      "question_id": 1555,
+      "credit": 7,
+      "title": "Number of Ways of Cutting a Pizza",
+      "title_slug": "number-of-ways-of-cutting-a-pizza",
+      "likes": 1775,
+      "dislikes": 94
+    }
+  ]
+}

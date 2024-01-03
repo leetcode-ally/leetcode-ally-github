@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-356",
+  "data": [
+    {
+      "id": 3447,
+      "question_id": 2876,
+      "credit": 3,
+      "title": "Number of Employees Who Met the Target",
+      "title_slug": "number-of-employees-who-met-the-target",
+      "likes": 389,
+      "dislikes": 49
+    },
+    {
+      "id": 3448,
+      "question_id": 2856,
+      "credit": 4,
+      "title": "Count Complete Subarrays in an Array",
+      "title_slug": "count-complete-subarrays-in-an-array",
+      "likes": 485,
+      "dislikes": 11
+    },
+    {
+      "id": 3449,
+      "question_id": 2877,
+      "credit": 4,
+      "title": "Shortest String That Contains Three Strings",
+      "title_slug": "shortest-string-that-contains-three-strings",
+      "likes": 303,
+      "dislikes": 246
+    },
+    {
+      "id": 3450,
+      "question_id": 2921,
+      "credit": 6,
+      "title": "Count Stepping Numbers in Range",
+      "title_slug": "count-stepping-numbers-in-range",
+      "likes": 314,
+      "dislikes": 9
+    }
+  ]
+}

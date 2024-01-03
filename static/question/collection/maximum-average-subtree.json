@@ -1,0 +1,70 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1120",
+      "title": "Maximum Average Subtree",
+      "titleSlug": "maximum-average-subtree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 825,
+      "dislikes": 36,
+      "similarQuestions": "[{\"title\": \"Count Nodes Equal to Sum of Descendants\", \"titleSlug\": \"count-nodes-equal-to-sum-of-descendants\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Nodes Equal to Average of Subtree\", \"titleSlug\": \"count-nodes-equal-to-average-of-subtree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"66.9K\", \"totalSubmission\": \"100.7K\", \"totalAcceptedRaw\": 66906, \"totalSubmissionRaw\": 100662, \"acRate\": \"66.5%\"}",
+      "hints": [
+        "Can you find the sum of values and the number of nodes for every sub-tree ?",
+        "Can you find the sum of values and the number of nodes for a sub-tree given the sum of values and the number of nodes of it's left and right sub-trees ?",
+        "Use depth first search to recursively find the solution for the children of a node then use their solutions to compute the current node's solution."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+        "title": "Count Nodes Equal to Sum of Descendants",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-nodes-equal-to-average-of-subtree",
+        "title": "Count Nodes Equal to Average of Subtree",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Can you find the sum of values and the number of nodes for every sub-tree ?",
+      "Can you find the sum of values and the number of nodes for a sub-tree given the sum of values and the number of nodes of it's left and right sub-trees ?",
+      "Use depth first search to recursively find the solution for the children of a node then use their solutions to compute the current node's solution."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

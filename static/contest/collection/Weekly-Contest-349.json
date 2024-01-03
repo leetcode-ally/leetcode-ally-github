@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-349",
+  "data": [
+    {
+      "id": 3357,
+      "question_id": 2836,
+      "credit": 3,
+      "title": "Neither Minimum nor Maximum",
+      "title_slug": "neither-minimum-nor-maximum",
+      "likes": 305,
+      "dislikes": 14
+    },
+    {
+      "id": 3358,
+      "question_id": 2828,
+      "credit": 4,
+      "title": "Lexicographically Smallest String After Substring Operation",
+      "title_slug": "lexicographically-smallest-string-after-substring-operation",
+      "likes": 198,
+      "dislikes": 174
+    },
+    {
+      "id": 3359,
+      "question_id": 2810,
+      "credit": 5,
+      "title": "Collecting Chocolates",
+      "title_slug": "collecting-chocolates",
+      "likes": 273,
+      "dislikes": 526
+    },
+    {
+      "id": 3360,
+      "question_id": 2839,
+      "credit": 7,
+      "title": "Maximum Sum Queries",
+      "title_slug": "maximum-sum-queries",
+      "likes": 299,
+      "dislikes": 15
+    }
+  ]
+}

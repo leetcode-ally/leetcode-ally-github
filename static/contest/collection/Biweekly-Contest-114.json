@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-114",
+  "data": [
+    {
+      "id": 3554,
+      "question_id": 3044,
+      "credit": 3,
+      "title": "Minimum Operations to Collect Elements",
+      "title_slug": "minimum-operations-to-collect-elements",
+      "likes": 139,
+      "dislikes": 13
+    },
+    {
+      "id": 3555,
+      "question_id": 3094,
+      "credit": 4,
+      "title": "Minimum Number of Operations to Make Array Empty",
+      "title_slug": "minimum-number-of-operations-to-make-array-empty",
+      "likes": 160,
+      "dislikes": 6
+    },
+    {
+      "id": 3556,
+      "question_id": 3080,
+      "credit": 5,
+      "title": "Split Array Into Maximum Number of Subarrays",
+      "title_slug": "split-array-into-maximum-number-of-subarrays",
+      "likes": 191,
+      "dislikes": 27
+    },
+    {
+      "id": 3557,
+      "question_id": 3058,
+      "credit": 6,
+      "title": "Maximum Number of K-Divisible Components",
+      "title_slug": "maximum-number-of-k-divisible-components",
+      "likes": 174,
+      "dislikes": 3
+    }
+  ]
+}

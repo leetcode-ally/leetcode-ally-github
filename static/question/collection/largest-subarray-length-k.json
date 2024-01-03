@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1708",
+      "title": "Largest Subarray Length K",
+      "titleSlug": "largest-subarray-length-k",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 96,
+      "dislikes": 111,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"8K\", \"totalSubmission\": \"12.4K\", \"totalAcceptedRaw\": 7966, \"totalSubmissionRaw\": 12391, \"acRate\": \"64.3%\"}",
+      "hints": [
+        "Search for the largest integer in the range [0, n - k]",
+        "This integer is the first element in the subarray. You should take it with the k - 1 elements after it."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Search for the largest integer in the range [0, n - k]",
+      "This integer is the first element in the subarray. You should take it with the k - 1 elements after it."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

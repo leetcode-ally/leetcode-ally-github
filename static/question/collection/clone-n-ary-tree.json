@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1490",
+      "title": "Clone N-ary Tree",
+      "titleSlug": "clone-n-ary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 398,
+      "dislikes": 14,
+      "similarQuestions": "[{\"title\": \"Clone Graph\", \"titleSlug\": \"clone-graph\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Copy List with Random Pointer\", \"titleSlug\": \"copy-list-with-random-pointer\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Clone Binary Tree With Random Pointer\", \"titleSlug\": \"clone-binary-tree-with-random-pointer\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"27.6K\", \"totalSubmission\": \"33.1K\", \"totalAcceptedRaw\": 27563, \"totalSubmissionRaw\": 33135, \"acRate\": \"83.2%\"}",
+      "hints": [
+        "Traverse the tree, keep a hashtable with you and create a clone node for each node in the tree.",
+        "Start traversing the original tree again and connect each child pointer in the cloned tree the same way as the original tree with the help of the hashtable."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "clone-graph",
+        "title": "Clone Graph",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "copy-list-with-random-pointer",
+        "title": "Copy List with Random Pointer",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "clone-binary-tree-with-random-pointer",
+        "title": "Clone Binary Tree With Random Pointer",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Traverse the tree, keep a hashtable with you and create a clone node for each node in the tree.",
+      "Start traversing the original tree again and connect each child pointer in the cloned tree the same way as the original tree with the help of the hashtable."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  }
+}

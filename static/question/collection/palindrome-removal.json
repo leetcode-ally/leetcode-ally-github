@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1246",
+      "title": "Palindrome Removal",
+      "titleSlug": "palindrome-removal",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 308,
+      "dislikes": 13,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.5K\", \"totalSubmission\": \"22.5K\", \"totalAcceptedRaw\": 10476, \"totalSubmissionRaw\": 22451, \"acRate\": \"46.7%\"}",
+      "hints": [
+        "Use dynamic programming.",
+        "Let dp[i][j] be the solution for the sub-array from index i to index j.",
+        "Notice that if we have S[i] == S[j] one transition could be just dp(i + 1, j + 1) because in the last turn we would have a palindrome and we can extend this palindrome from both sides, the other transitions are not too difficult to deduce."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Use dynamic programming.",
+      "Let dp[i][j] be the solution for the sub-array from index i to index j.",
+      "Notice that if we have S[i] == S[j] one transition could be just dp(i + 1, j + 1) because in the last turn we would have a palindrome and we can extend this palindrome from both sides, the other transitions are not too difficult to deduce."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

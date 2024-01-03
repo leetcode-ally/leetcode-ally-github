@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-66",
+  "data": [
+    {
+      "id": 284,
+      "question_id": 762,
+      "credit": 2,
+      "title": "Find Anagram Mappings",
+      "title_slug": "find-anagram-mappings",
+      "likes": 603,
+      "dislikes": 230
+    },
+    {
+      "id": 285,
+      "question_id": 760,
+      "credit": 4,
+      "title": "Bold Words in String",
+      "title_slug": "bold-words-in-string",
+      "likes": 262,
+      "dislikes": 123
+    },
+    {
+      "id": 286,
+      "question_id": 761,
+      "credit": 8,
+      "title": "Employee Free Time",
+      "title_slug": "employee-free-time",
+      "likes": 1846,
+      "dislikes": 124
+    },
+    {
+      "id": 287,
+      "question_id": 763,
+      "credit": 8,
+      "title": "Special Binary String",
+      "title_slug": "special-binary-string",
+      "likes": 682,
+      "dislikes": 206
+    }
+  ]
+}

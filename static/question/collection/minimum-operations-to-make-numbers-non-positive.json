@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2702",
+      "title": "Minimum Operations to Make Numbers Non-positive",
+      "titleSlug": "minimum-operations-to-make-numbers-non-positive",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 30,
+      "dislikes": 0,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"707\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 707, \"totalSubmissionRaw\": 1345, \"acRate\": \"52.6%\"}",
+      "hints": [
+        "Given a candidate, can you check if it is possible to decrement all values to be less than or equal to 0 within the given steps in O(N) time?",
+        "If so, run a binary search to look for the minimum such valid candidate."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Given a candidate, can you check if it is possible to decrement all values to be less than or equal to 0 within the given steps in O(N) time?",
+      "If so, run a binary search to look for the minimum such valid candidate."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  }
+}

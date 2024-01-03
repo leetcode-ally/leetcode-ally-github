@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "624",
+      "title": "Maximum Distance in Arrays",
+      "titleSlug": "maximum-distance-in-arrays",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 744,
+      "dislikes": 70,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"46.9K\", \"totalSubmission\": \"110.6K\", \"totalAcceptedRaw\": 46897, \"totalSubmissionRaw\": 110631, \"acRate\": \"42.4%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

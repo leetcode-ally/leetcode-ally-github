@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "597",
+      "title": "Friend Requests I: Overall Acceptance Rate",
+      "titleSlug": "friend-requests-i-overall-acceptance-rate",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 298,
+      "dislikes": 758,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"72K\", \"totalSubmission\": \"171.2K\", \"totalAcceptedRaw\": 71952, \"totalSubmissionRaw\": 171174, \"acRate\": \"42.0%\"}",
+      "hints": [
+        "Still remember how to count the number of rows in a table?",
+        "What is the keyword to filter the duplicated records in a table?"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Still remember how to count the number of rows in a table?",
+      "What is the keyword to filter the duplicated records in a table?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

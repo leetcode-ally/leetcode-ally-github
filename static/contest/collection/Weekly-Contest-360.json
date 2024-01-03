@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-360",
+  "data": [
+    {
+      "id": 3493,
+      "question_id": 3019,
+      "credit": 3,
+      "title": "Furthest Point From Origin",
+      "title_slug": "furthest-point-from-origin",
+      "likes": 214,
+      "dislikes": 30
+    },
+    {
+      "id": 3494,
+      "question_id": 3026,
+      "credit": 4,
+      "title": "Find the Minimum Possible Sum of a Beautiful Array",
+      "title_slug": "find-the-minimum-possible-sum-of-a-beautiful-array",
+      "likes": 279,
+      "dislikes": 40
+    },
+    {
+      "id": 3495,
+      "question_id": 3025,
+      "credit": 5,
+      "title": "Minimum Operations to Form Subsequence With Target Sum",
+      "title_slug": "minimum-operations-to-form-subsequence-with-target-sum",
+      "likes": 507,
+      "dislikes": 125
+    },
+    {
+      "id": 3496,
+      "question_id": 3032,
+      "credit": 5,
+      "title": "Maximize Value of Function in a Ball Passing Game",
+      "title_slug": "maximize-value-of-function-in-a-ball-passing-game",
+      "likes": 207,
+      "dislikes": 84
+    }
+  ]
+}

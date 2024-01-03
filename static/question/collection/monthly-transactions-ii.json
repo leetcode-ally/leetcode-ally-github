@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1205",
+      "title": "Monthly Transactions II",
+      "titleSlug": "monthly-transactions-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 149,
+      "dislikes": 535,
+      "similarQuestions": "[{\"title\": \"Monthly Transactions I\", \"titleSlug\": \"monthly-transactions-i\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"21.5K\", \"totalSubmission\": \"51.4K\", \"totalAcceptedRaw\": 21513, \"totalSubmissionRaw\": 51351, \"acRate\": \"41.9%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "monthly-transactions-i",
+        "title": "Monthly Transactions I",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

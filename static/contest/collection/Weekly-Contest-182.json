@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-182",
+  "data": [
+    {
+      "id": 1310,
+      "question_id": 1510,
+      "credit": 3,
+      "title": "Find Lucky Integer in an Array",
+      "title_slug": "find-lucky-integer-in-an-array",
+      "likes": 1103,
+      "dislikes": 29
+    },
+    {
+      "id": 1311,
+      "question_id": 1511,
+      "credit": 4,
+      "title": "Count Number of Teams",
+      "title_slug": "count-number-of-teams",
+      "likes": 2640,
+      "dislikes": 184
+    },
+    {
+      "id": 1312,
+      "question_id": 1512,
+      "credit": 5,
+      "title": "Design Underground System",
+      "title_slug": "design-underground-system",
+      "likes": 3450,
+      "dislikes": 169
+    },
+    {
+      "id": 1313,
+      "question_id": 1513,
+      "credit": 8,
+      "title": "Find All Good Strings",
+      "title_slug": "find-all-good-strings",
+      "likes": 474,
+      "dislikes": 127
+    }
+  ]
+}

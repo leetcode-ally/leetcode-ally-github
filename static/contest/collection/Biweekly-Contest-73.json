@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-73",
+  "data": [
+    {
+      "id": 2554,
+      "question_id": 2312,
+      "credit": 3,
+      "title": "Most Frequent Number Following Key In an Array",
+      "title_slug": "most-frequent-number-following-key-in-an-array",
+      "likes": 347,
+      "dislikes": 209
+    },
+    {
+      "id": 2555,
+      "question_id": 1333,
+      "credit": 4,
+      "title": "Sort the Jumbled Numbers",
+      "title_slug": "sort-the-jumbled-numbers",
+      "likes": 357,
+      "dislikes": 43
+    },
+    {
+      "id": 2556,
+      "question_id": 1431,
+      "credit": 5,
+      "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+      "title_slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+      "likes": 1022,
+      "dislikes": 18
+    },
+    {
+      "id": 2557,
+      "question_id": 1356,
+      "credit": 6,
+      "title": "Minimum Number of Moves to Make Palindrome",
+      "title_slug": "minimum-number-of-moves-to-make-palindrome",
+      "likes": 921,
+      "dislikes": 69
+    }
+  ]
+}

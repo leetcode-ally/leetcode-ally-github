@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-85",
+  "data": [
+    {
+      "id": 369,
+      "question_id": 866,
+      "credit": 3,
+      "title": "Rectangle Overlap",
+      "title_slug": "rectangle-overlap",
+      "likes": 1931,
+      "dislikes": 454
+    },
+    {
+      "id": 370,
+      "question_id": 868,
+      "credit": 6,
+      "title": "Push Dominoes",
+      "title_slug": "push-dominoes",
+      "likes": 3325,
+      "dislikes": 218
+    },
+    {
+      "id": 371,
+      "question_id": 867,
+      "credit": 7,
+      "title": "New 21 Game",
+      "title_slug": "new-21-game",
+      "likes": 1943,
+      "dislikes": 1791
+    },
+    {
+      "id": 372,
+      "question_id": 869,
+      "credit": 10,
+      "title": "Similar String Groups",
+      "title_slug": "similar-string-groups",
+      "likes": 2287,
+      "dislikes": 214
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1597",
+      "title": "Build Binary Expression Tree From Infix Expression",
+      "titleSlug": "build-binary-expression-tree-from-infix-expression",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 263,
+      "dislikes": 45,
+      "similarQuestions": "[{\"title\": \"Basic Calculator III\", \"titleSlug\": \"basic-calculator-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Check If Two Expression Trees are Equivalent\", \"titleSlug\": \"check-if-two-expression-trees-are-equivalent\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"12.6K\", \"totalSubmission\": \"20.2K\", \"totalAcceptedRaw\": 12630, \"totalSubmissionRaw\": 20173, \"acRate\": \"62.6%\"}",
+      "hints": [
+        "Convert infix expression to postfix expression.",
+        "Build an expression tree from the postfix expression."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "basic-calculator-iii",
+        "title": "Basic Calculator III",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "check-if-two-expression-trees-are-equivalent",
+        "title": "Check If Two Expression Trees are Equivalent",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Convert infix expression to postfix expression.",
+      "Build an expression tree from the postfix expression."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

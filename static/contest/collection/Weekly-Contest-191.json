@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-191",
+  "data": [
+    {
+      "id": 1418,
+      "question_id": 1574,
+      "credit": 3,
+      "title": "Maximum Product of Two Elements in an Array",
+      "title_slug": "maximum-product-of-two-elements-in-an-array",
+      "likes": 2402,
+      "dislikes": 229
+    },
+    {
+      "id": 1419,
+      "question_id": 1575,
+      "credit": 4,
+      "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+      "title_slug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+      "likes": 2602,
+      "dislikes": 348
+    },
+    {
+      "id": 1420,
+      "question_id": 1576,
+      "credit": 5,
+      "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+      "title_slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+      "likes": 3888,
+      "dislikes": 107
+    },
+    {
+      "id": 1421,
+      "question_id": 1577,
+      "credit": 7,
+      "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+      "title_slug": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+      "likes": 277,
+      "dislikes": 168
+    }
+  ]
+}

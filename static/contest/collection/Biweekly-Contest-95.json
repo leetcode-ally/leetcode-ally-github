@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-95",
+  "data": [
+    {
+      "id": 3099,
+      "question_id": 2619,
+      "credit": 3,
+      "title": "Categorize Box According to Criteria",
+      "title_slug": "categorize-box-according-to-criteria",
+      "likes": 181,
+      "dislikes": 51
+    },
+    {
+      "id": 3100,
+      "question_id": 2620,
+      "credit": 4,
+      "title": "Find Consecutive Integers from a Data Stream",
+      "title_slug": "find-consecutive-integers-from-a-data-stream",
+      "likes": 274,
+      "dislikes": 32
+    },
+    {
+      "id": 3101,
+      "question_id": 2621,
+      "credit": 5,
+      "title": "Find Xor-Beauty of Array",
+      "title_slug": "find-xor-beauty-of-array",
+      "likes": 329,
+      "dislikes": 50
+    },
+    {
+      "id": 3102,
+      "question_id": 2618,
+      "credit": 6,
+      "title": "Maximize the Minimum Powered City",
+      "title_slug": "maximize-the-minimum-powered-city",
+      "likes": 434,
+      "dislikes": 7
+    }
+  ]
+}

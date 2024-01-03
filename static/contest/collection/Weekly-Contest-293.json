@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-293",
+  "data": [
+    {
+      "id": 2686,
+      "question_id": 1353,
+      "credit": 3,
+      "title": "Find Resultant Array After Removing Anagrams",
+      "title_slug": "find-resultant-array-after-removing-anagrams",
+      "likes": 614,
+      "dislikes": 163
+    },
+    {
+      "id": 2687,
+      "question_id": 2355,
+      "credit": 4,
+      "title": "Maximum Consecutive Floors Without Special Floors",
+      "title_slug": "maximum-consecutive-floors-without-special-floors",
+      "likes": 377,
+      "dislikes": 35
+    },
+    {
+      "id": 2688,
+      "question_id": 2356,
+      "credit": 5,
+      "title": "Largest Combination With Bitwise AND Greater Than Zero",
+      "title_slug": "largest-combination-with-bitwise-and-greater-than-zero",
+      "likes": 532,
+      "dislikes": 15
+    },
+    {
+      "id": 2689,
+      "question_id": 2357,
+      "credit": 7,
+      "title": "Count Integers in Intervals",
+      "title_slug": "count-integers-in-intervals",
+      "likes": 538,
+      "dislikes": 55
+    }
+  ]
+}

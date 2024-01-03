@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-283",
+  "data": [
+    {
+      "id": 2558,
+      "question_id": 2304,
+      "credit": 3,
+      "title": "Cells in a Range on an Excel Sheet",
+      "title_slug": "cells-in-a-range-on-an-excel-sheet",
+      "likes": 587,
+      "dislikes": 87
+    },
+    {
+      "id": 2559,
+      "question_id": 2305,
+      "credit": 4,
+      "title": "Append K Integers With Minimal Sum",
+      "title_slug": "append-k-integers-with-minimal-sum",
+      "likes": 692,
+      "dislikes": 301
+    },
+    {
+      "id": 2560,
+      "question_id": 2306,
+      "credit": 4,
+      "title": "Create Binary Tree From Descriptions",
+      "title_slug": "create-binary-tree-from-descriptions",
+      "likes": 895,
+      "dislikes": 18
+    },
+    {
+      "id": 2561,
+      "question_id": 2307,
+      "credit": 6,
+      "title": "Replace Non-Coprime Numbers in Array",
+      "title_slug": "replace-non-coprime-numbers-in-array",
+      "likes": 417,
+      "dislikes": 12
+    }
+  ]
+}

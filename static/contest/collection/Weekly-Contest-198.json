@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-198",
+  "data": [
+    {
+      "id": 1502,
+      "question_id": 1642,
+      "credit": 3,
+      "title": "Water Bottles",
+      "title_slug": "water-bottles",
+      "likes": 992,
+      "dislikes": 77
+    },
+    {
+      "id": 1503,
+      "question_id": 1643,
+      "credit": 5,
+      "title": "Number of Nodes in the Sub-Tree With the Same Label",
+      "title_slug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+      "likes": 2197,
+      "dislikes": 797
+    },
+    {
+      "id": 1504,
+      "question_id": 1644,
+      "credit": 6,
+      "title": "Maximum Number of Non-Overlapping Substrings",
+      "title_slug": "maximum-number-of-non-overlapping-substrings",
+      "likes": 786,
+      "dislikes": 72
+    },
+    {
+      "id": 1505,
+      "question_id": 1645,
+      "credit": 7,
+      "title": "Find a Value of a Mysterious Function Closest to Target",
+      "title_slug": "find-a-value-of-a-mysterious-function-closest-to-target",
+      "likes": 358,
+      "dislikes": 15
+    }
+  ]
+}

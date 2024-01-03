@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "469",
+      "title": "Convex Polygon",
+      "titleSlug": "convex-polygon",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 97,
+      "dislikes": 235,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.6K\", \"totalSubmission\": \"26.8K\", \"totalAcceptedRaw\": 10566, \"totalSubmissionRaw\": 26843, \"acRate\": \"39.4%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "194",
+      "title": "Transpose File",
+      "titleSlug": "transpose-file",
+      "content": "<p>Given a text file <code>file.txt</code>, transpose its content.</p>\n\n<p>You may assume that each row has the same number of columns, and each field is separated by the <code>&#39; &#39;</code> character.</p>\n\n<p><strong class=\"example\">Example:</strong></p>\n\n<p>If <code>file.txt</code> has the following content:</p>\n\n<pre>\nname age\nalice 21\nryan 30\n</pre>\n\n<p>Output the following:</p>\n\n<pre>\nname alice ryan\nage 21 30\n</pre>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 143,
+      "dislikes": 283,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Shell",
+          "slug": "shell"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"23.7K\", \"totalSubmission\": \"92.2K\", \"totalAcceptedRaw\": 23681, \"totalSubmissionRaw\": 92212, \"acRate\": \"25.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Shell",
+        "slug": "shell"
+      }
+    ]
+  }
+}

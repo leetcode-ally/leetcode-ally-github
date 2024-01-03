@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-53",
+  "data": [
+    {
+      "id": 2058,
+      "question_id": 1987,
+      "credit": 3,
+      "title": "Substrings of Size Three with Distinct Characters",
+      "title_slug": "substrings-of-size-three-with-distinct-characters",
+      "likes": 1426,
+      "dislikes": 41
+    },
+    {
+      "id": 2059,
+      "question_id": 1988,
+      "credit": 4,
+      "title": "Minimize Maximum Pair Sum in Array",
+      "title_slug": "minimize-maximum-pair-sum-in-array",
+      "likes": 1889,
+      "dislikes": 415
+    },
+    {
+      "id": 2060,
+      "question_id": 1990,
+      "credit": 5,
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "title_slug": "get-biggest-three-rhombus-sums-in-a-grid",
+      "likes": 199,
+      "dislikes": 504
+    },
+    {
+      "id": 2061,
+      "question_id": 1989,
+      "credit": 6,
+      "title": "Minimum XOR Sum of Two Arrays",
+      "title_slug": "minimum-xor-sum-of-two-arrays",
+      "likes": 660,
+      "dislikes": 11
+    }
+  ]
+}

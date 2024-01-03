@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-164",
+  "data": [
+    {
+      "id": 1098,
+      "question_id": 1395,
+      "credit": 3,
+      "title": "Minimum Time Visiting All Points",
+      "title_slug": "minimum-time-visiting-all-points",
+      "likes": 2149,
+      "dislikes": 217
+    },
+    {
+      "id": 1099,
+      "question_id": 1396,
+      "credit": 4,
+      "title": "Count Servers that Communicate",
+      "title_slug": "count-servers-that-communicate",
+      "likes": 1260,
+      "dislikes": 80
+    },
+    {
+      "id": 1100,
+      "question_id": 1397,
+      "credit": 4,
+      "title": "Search Suggestions System",
+      "title_slug": "search-suggestions-system",
+      "likes": 4517,
+      "dislikes": 225
+    },
+    {
+      "id": 1101,
+      "question_id": 1398,
+      "credit": 6,
+      "title": "Number of Ways to Stay in the Same Place After Some Steps",
+      "title_slug": "number-of-ways-to-stay-in-the-same-place-after-some-steps",
+      "likes": 1495,
+      "dislikes": 62
+    }
+  ]
+}

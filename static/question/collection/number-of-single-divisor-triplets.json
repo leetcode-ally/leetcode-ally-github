@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2198",
+      "title": "Number of Single Divisor Triplets",
+      "titleSlug": "number-of-single-divisor-triplets",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 25,
+      "dislikes": 11,
+      "similarQuestions": "[{\"title\": \"Count Array Pairs Divisible by K\", \"titleSlug\": \"count-array-pairs-divisible-by-k\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1K\", \"totalSubmission\": \"1.8K\", \"totalAcceptedRaw\": 1014, \"totalSubmissionRaw\": 1811, \"acRate\": \"56.0%\"}",
+      "hints": [
+        "The maximum value of nums.length is very large, but the maximum value of nums[i] is not.",
+        "Count the number of times each value appears in nums. Brute force through every possible combination of values and count how many single divisor triplets can be made with that combination of values."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-array-pairs-divisible-by-k",
+        "title": "Count Array Pairs Divisible by K",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "The maximum value of nums.length is very large, but the maximum value of nums[i] is not.",
+      "Count the number of times each value appears in nums. Brute force through every possible combination of values and count how many single divisor triplets can be made with that combination of values."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  }
+}

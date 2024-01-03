@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-295",
+  "data": [
+    {
+      "id": 2710,
+      "question_id": 2372,
+      "credit": 3,
+      "title": "Rearrange Characters to Make Target String",
+      "title_slug": "rearrange-characters-to-make-target-string",
+      "likes": 451,
+      "dislikes": 33
+    },
+    {
+      "id": 2711,
+      "question_id": 2373,
+      "credit": 4,
+      "title": "Apply Discount to Prices",
+      "title_slug": "apply-discount-to-prices",
+      "likes": 176,
+      "dislikes": 1070
+    },
+    {
+      "id": 2712,
+      "question_id": 2374,
+      "credit": 5,
+      "title": "Steps to Make Array Non-decreasing",
+      "title_slug": "steps-to-make-array-non-decreasing",
+      "likes": 1268,
+      "dislikes": 128
+    },
+    {
+      "id": 2713,
+      "question_id": 2375,
+      "credit": 6,
+      "title": "Minimum Obstacle Removal to Reach Corner",
+      "title_slug": "minimum-obstacle-removal-to-reach-corner",
+      "likes": 883,
+      "dislikes": 15
+    }
+  ]
+}

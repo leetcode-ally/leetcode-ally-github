@@ -1,0 +1,90 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2096",
+      "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+      "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+      "content": "<p>You are given the <code>root</code> of a <strong>binary tree</strong> with <code>n</code> nodes. Each node is uniquely assigned a value from <code>1</code> to <code>n</code>. You are also given an integer <code>startValue</code> representing the value of the start node <code>s</code>, and a different integer <code>destValue</code> representing the value of the destination node <code>t</code>.</p>\n\n<p>Find the <strong>shortest path</strong> starting from node <code>s</code> and ending at node <code>t</code>. Generate step-by-step directions of such path as a string consisting of only the <strong>uppercase</strong> letters <code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>, and <code>&#39;U&#39;</code>. Each letter indicates a specific direction:</p>\n\n<ul>\n\t<li><code>&#39;L&#39;</code> means to go from a node to its <strong>left child</strong> node.</li>\n\t<li><code>&#39;R&#39;</code> means to go from a node to its <strong>right child</strong> node.</li>\n\t<li><code>&#39;U&#39;</code> means to go from a node to its <strong>parent</strong> node.</li>\n</ul>\n\n<p>Return <em>the step-by-step directions of the <strong>shortest path</strong> from node </em><code>s</code><em> to node</em> <code>t</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2021/11/15/eg1.png\" style=\"width: 214px; height: 163px;\" />\n<pre>\n<strong>Input:</strong> root = [5,1,2,3,null,6,4], startValue = 3, destValue = 6\n<strong>Output:</strong> &quot;UURL&quot;\n<strong>Explanation:</strong> The shortest path is: 3 &rarr; 1 &rarr; 5 &rarr; 2 &rarr; 6.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2021/11/15/eg2.png\" style=\"width: 74px; height: 102px;\" />\n<pre>\n<strong>Input:</strong> root = [2,1], startValue = 2, destValue = 1\n<strong>Output:</strong> &quot;L&quot;\n<strong>Explanation:</strong> The shortest path is: 2 &rarr; 1.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The number of nodes in the tree is <code>n</code>.</li>\n\t<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>\n\t<li><code>1 &lt;= Node.val &lt;= n</code></li>\n\t<li>All the values in the tree are <strong>unique</strong>.</li>\n\t<li><code>1 &lt;= startValue, destValue &lt;= n</code></li>\n\t<li><code>startValue != destValue</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 2261,
+      "dislikes": 112,
+      "similarQuestions": "[{\"title\": \"Path Sum II\", \"titleSlug\": \"path-sum-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Binary Tree Paths\", \"titleSlug\": \"binary-tree-paths\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Distance in a Binary Tree\", \"titleSlug\": \"find-distance-in-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"92.9K\", \"totalSubmission\": \"190.5K\", \"totalAcceptedRaw\": 92907, \"totalSubmissionRaw\": 190496, \"acRate\": \"48.8%\"}",
+      "hints": [
+        "The shortest path between any two nodes in a tree must pass through their Lowest Common Ancestor (LCA). The path will travel upwards from node s to the LCA and then downwards from the LCA to node t.",
+        "Find the path strings from root → s, and root → t. Can you use these two strings to prepare the final answer?",
+        "Remove the longest common prefix of the two path strings to get the path LCA → s, and LCA → t. Each step in the path of LCA → s should be reversed as 'U'."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "path-sum-ii",
+        "title": "Path Sum II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "binary-tree-paths",
+        "title": "Binary Tree Paths",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-distance-in-a-binary-tree",
+        "title": "Find Distance in a Binary Tree",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "The shortest path between any two nodes in a tree must pass through their Lowest Common Ancestor (LCA). The path will travel upwards from node s to the LCA and then downwards from the LCA to node t.",
+      "Find the path strings from root → s, and root → t. Can you use these two strings to prepare the final answer?",
+      "Remove the longest common prefix of the two path strings to get the path LCA → s, and LCA → t. Each step in the path of LCA → s should be reversed as 'U'."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "531",
+      "title": "Lonely Pixel I",
+      "titleSlug": "lonely-pixel-i",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 425,
+      "dislikes": 41,
+      "similarQuestions": "[{\"title\": \"Lonely Pixel II\", \"titleSlug\": \"lonely-pixel-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"41.7K\", \"totalSubmission\": \"66.9K\", \"totalAcceptedRaw\": 41654, \"totalSubmissionRaw\": 66947, \"acRate\": \"62.2%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lonely-pixel-ii",
+        "title": "Lonely Pixel II",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

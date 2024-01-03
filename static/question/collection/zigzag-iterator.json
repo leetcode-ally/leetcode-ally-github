@@ -1,0 +1,88 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "281",
+      "title": "Zigzag Iterator",
+      "titleSlug": "zigzag-iterator",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 658,
+      "dislikes": 36,
+      "similarQuestions": "[{\"title\": \"Binary Search Tree Iterator\", \"titleSlug\": \"binary-search-tree-iterator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Flatten 2D Vector\", \"titleSlug\": \"flatten-2d-vector\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Peeking Iterator\", \"titleSlug\": \"peeking-iterator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Flatten Nested List Iterator\", \"titleSlug\": \"flatten-nested-list-iterator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Merge Strings Alternately\", \"titleSlug\": \"merge-strings-alternately\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Iterator",
+          "slug": "iterator"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"90.6K\", \"totalSubmission\": \"142.7K\", \"totalAcceptedRaw\": 90591, \"totalSubmissionRaw\": 142731, \"acRate\": \"63.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-search-tree-iterator",
+        "title": "Binary Search Tree Iterator",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "flatten-2d-vector",
+        "title": "Flatten 2D Vector",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "peeking-iterator",
+        "title": "Peeking Iterator",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "flatten-nested-list-iterator",
+        "title": "Flatten Nested List Iterator",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "merge-strings-alternately",
+        "title": "Merge Strings Alternately",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ]
+  }
+}

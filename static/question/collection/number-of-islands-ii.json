@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "305",
+      "title": "Number of Islands II",
+      "titleSlug": "number-of-islands-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 1795,
+      "dislikes": 63,
+      "similarQuestions": "[{\"title\": \"Number of Islands\", \"titleSlug\": \"number-of-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Process Restricted Friend Requests\", \"titleSlug\": \"process-restricted-friend-requests\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"136.7K\", \"totalSubmission\": \"345.5K\", \"totalAcceptedRaw\": 136720, \"totalSubmissionRaw\": 345475, \"acRate\": \"39.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-islands",
+        "title": "Number of Islands",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "process-restricted-friend-requests",
+        "title": "Process Restricted Friend Requests",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ]
+  }
+}

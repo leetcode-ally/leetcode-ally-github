@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1983",
+      "title": "Widest Pair of Indices With Equal Range Sum",
+      "titleSlug": "widest-pair-of-indices-with-equal-range-sum",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 88,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.3K\", \"totalSubmission\": \"4.3K\", \"totalAcceptedRaw\": 2297, \"totalSubmissionRaw\": 4287, \"acRate\": \"53.6%\"}",
+      "hints": [
+        "Keep prefix sums of both arrays.",
+        "Can the difference between the prefix sums at an index help us?",
+        "What happens if the difference between the two prefix sums at an index a is x, and x again at a different index b?",
+        "This means that the sum of nums1 from index a + 1 to index b is equal to the sum of nums2 from index a + 1 to index b."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Keep prefix sums of both arrays.",
+      "Can the difference between the prefix sums at an index help us?",
+      "What happens if the difference between the two prefix sums at an index a is x, and x again at a different index b?",
+      "This means that the sum of nums1 from index a + 1 to index b is equal to the sum of nums2 from index a + 1 to index b."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

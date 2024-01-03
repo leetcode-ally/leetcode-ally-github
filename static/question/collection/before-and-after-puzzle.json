@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1181",
+      "title": "Before and After Puzzle",
+      "titleSlug": "before-and-after-puzzle",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 72,
+      "dislikes": 152,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.5K\", \"totalSubmission\": \"20.8K\", \"totalAcceptedRaw\": 9483, \"totalSubmissionRaw\": 20820, \"acRate\": \"45.5%\"}",
+      "hints": [
+        "What if you check every pair of strings (bruteforce)?",
+        "For every two strings, check if they can form a puzzle by comparing their last and first words."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "What if you check every pair of strings (bruteforce)?",
+      "For every two strings, check if they can form a puzzle by comparing their last and first words."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

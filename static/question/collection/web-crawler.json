@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1236",
+      "title": "Web Crawler",
+      "titleSlug": "web-crawler",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 279,
+      "dislikes": 318,
+      "similarQuestions": "[{\"title\": \"Web Crawler Multithreaded\", \"titleSlug\": \"web-crawler-multithreaded\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"36.1K\", \"totalSubmission\": \"53.3K\", \"totalAcceptedRaw\": 36115, \"totalSubmissionRaw\": 53339, \"acRate\": \"67.7%\"}",
+      "hints": [
+        "Use DFS/BFS to search start from the startURL. Remember to get rid of duplicate URLs."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "web-crawler-multithreaded",
+        "title": "Web Crawler Multithreaded",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Use DFS/BFS to search start from the startURL. Remember to get rid of duplicate URLs."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

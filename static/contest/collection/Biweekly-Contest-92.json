@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-92",
+  "data": [
+    {
+      "id": 3026,
+      "question_id": 2575,
+      "credit": 3,
+      "title": "Minimum Cuts to Divide a Circle",
+      "title_slug": "minimum-cuts-to-divide-a-circle",
+      "likes": 201,
+      "dislikes": 49
+    },
+    {
+      "id": 3028,
+      "question_id": 2606,
+      "credit": 4,
+      "title": "Difference Between Ones and Zeros in Row and Column",
+      "title_slug": "difference-between-ones-and-zeros-in-row-and-column",
+      "likes": 1125,
+      "dislikes": 81
+    },
+    {
+      "id": 3027,
+      "question_id": 2576,
+      "credit": 4,
+      "title": "Minimum Penalty for a Shop",
+      "title_slug": "minimum-penalty-for-a-shop",
+      "likes": 1829,
+      "dislikes": 90
+    },
+    {
+      "id": 3029,
+      "question_id": 2577,
+      "credit": 6,
+      "title": "Count Palindromic Subsequences",
+      "title_slug": "count-palindromic-subsequences",
+      "likes": 459,
+      "dislikes": 21
+    }
+  ]
+}

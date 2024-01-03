@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-104",
+  "data": [
+    {
+      "id": 452,
+      "question_id": 950,
+      "credit": 3,
+      "title": "X of a Kind in a Deck of Cards",
+      "title_slug": "x-of-a-kind-in-a-deck-of-cards",
+      "likes": 1773,
+      "dislikes": 477
+    },
+    {
+      "id": 453,
+      "question_id": 951,
+      "credit": 5,
+      "title": "Partition Array into Disjoint Intervals",
+      "title_slug": "partition-array-into-disjoint-intervals",
+      "likes": 1616,
+      "dislikes": 76
+    },
+    {
+      "id": 454,
+      "question_id": 952,
+      "credit": 6,
+      "title": "Word Subsets",
+      "title_slug": "word-subsets",
+      "likes": 2675,
+      "dislikes": 227
+    },
+    {
+      "id": 455,
+      "question_id": 949,
+      "credit": 8,
+      "title": "Cat and Mouse",
+      "title_slug": "cat-and-mouse",
+      "likes": 887,
+      "dislikes": 152
+    }
+  ]
+}

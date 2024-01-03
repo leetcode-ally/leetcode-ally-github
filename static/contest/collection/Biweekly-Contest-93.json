@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-93",
+  "data": [
+    {
+      "id": 3050,
+      "question_id": 2589,
+      "credit": 3,
+      "title": "Maximum Value of a String in an Array",
+      "title_slug": "maximum-value-of-a-string-in-an-array",
+      "likes": 371,
+      "dislikes": 18
+    },
+    {
+      "id": 3051,
+      "question_id": 2590,
+      "credit": 4,
+      "title": "Maximum Star Sum of a Graph",
+      "title_slug": "maximum-star-sum-of-a-graph",
+      "likes": 347,
+      "dislikes": 42
+    },
+    {
+      "id": 3052,
+      "question_id": 2591,
+      "credit": 5,
+      "title": "Frog Jump II",
+      "title_slug": "frog-jump-ii",
+      "likes": 623,
+      "dislikes": 93
+    },
+    {
+      "id": 3053,
+      "question_id": 2592,
+      "credit": 7,
+      "title": "Minimum Total Cost to Make Arrays Unequal",
+      "title_slug": "minimum-total-cost-to-make-arrays-unequal",
+      "likes": 214,
+      "dislikes": 8
+    }
+  ]
+}

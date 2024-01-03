@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-78",
+  "data": [
+    {
+      "id": 341,
+      "question_id": 829,
+      "credit": 5,
+      "title": "Subdomain Visit Count",
+      "title_slug": "subdomain-visit-count",
+      "likes": 1499,
+      "dislikes": 1291
+    },
+    {
+      "id": 342,
+      "question_id": 827,
+      "credit": 5,
+      "title": "Expressive Words",
+      "title_slug": "expressive-words",
+      "likes": 838,
+      "dislikes": 1881
+    },
+    {
+      "id": 343,
+      "question_id": 826,
+      "credit": 7,
+      "title": "Soup Servings",
+      "title_slug": "soup-servings",
+      "likes": 940,
+      "dislikes": 2561
+    },
+    {
+      "id": 344,
+      "question_id": 828,
+      "credit": 9,
+      "title": "Chalkboard XOR Game",
+      "title_slug": "chalkboard-xor-game",
+      "likes": 212,
+      "dislikes": 278
+    }
+  ]
+}

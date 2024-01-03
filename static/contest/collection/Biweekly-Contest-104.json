@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-104",
+  "data": [
+    {
+      "id": 3314,
+      "question_id": 2727,
+      "credit": 3,
+      "title": "Number of Senior Citizens",
+      "title_slug": "number-of-senior-citizens",
+      "likes": 256,
+      "dislikes": 13
+    },
+    {
+      "id": 3315,
+      "question_id": 2728,
+      "credit": 4,
+      "title": "Sum in a Matrix",
+      "title_slug": "sum-in-a-matrix",
+      "likes": 308,
+      "dislikes": 51
+    },
+    {
+      "id": 3316,
+      "question_id": 2730,
+      "credit": 5,
+      "title": "Maximum OR",
+      "title_slug": "maximum-or",
+      "likes": 358,
+      "dislikes": 43
+    },
+    {
+      "id": 3317,
+      "question_id": 2784,
+      "credit": 6,
+      "title": "Power of Heroes",
+      "title_slug": "power-of-heroes",
+      "likes": 298,
+      "dislikes": 16
+    }
+  ]
+}

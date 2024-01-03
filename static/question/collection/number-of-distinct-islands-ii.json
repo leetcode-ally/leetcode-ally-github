@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "711",
+      "title": "Number of Distinct Islands II",
+      "titleSlug": "number-of-distinct-islands-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 257,
+      "dislikes": 262,
+      "similarQuestions": "[{\"title\": \"Number of Distinct Islands\", \"titleSlug\": \"number-of-distinct-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.5K\", \"totalSubmission\": \"20K\", \"totalAcceptedRaw\": 10526, \"totalSubmissionRaw\": 19959, \"acRate\": \"52.7%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-distinct-islands",
+        "title": "Number of Distinct Islands",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ]
+  }
+}

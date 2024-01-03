@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-179",
+  "data": [
+    {
+      "id": 1274,
+      "question_id": 1490,
+      "credit": 3,
+      "title": "Generate a String With Characters That Have Odd Counts",
+      "title_slug": "generate-a-string-with-characters-that-have-odd-counts",
+      "likes": 464,
+      "dislikes": 1257
+    },
+    {
+      "id": 1275,
+      "question_id": 1491,
+      "credit": 4,
+      "title": "Number of Times Binary String Is Prefix-Aligned",
+      "title_slug": "number-of-times-binary-string-is-prefix-aligned",
+      "likes": 923,
+      "dislikes": 128
+    },
+    {
+      "id": 1276,
+      "question_id": 1492,
+      "credit": 5,
+      "title": "Time Needed to Inform All Employees",
+      "title_slug": "time-needed-to-inform-all-employees",
+      "likes": 3962,
+      "dislikes": 279
+    },
+    {
+      "id": 1277,
+      "question_id": 1493,
+      "credit": 6,
+      "title": "Frog Position After T Seconds",
+      "title_slug": "frog-position-after-t-seconds",
+      "likes": 761,
+      "dislikes": 140
+    }
+  ]
+}

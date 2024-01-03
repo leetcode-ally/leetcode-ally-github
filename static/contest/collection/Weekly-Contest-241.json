@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-241",
+  "data": [
+    {
+      "id": 2030,
+      "question_id": 1993,
+      "credit": 3,
+      "title": "Sum of All Subset XOR Totals",
+      "title_slug": "sum-of-all-subset-xor-totals",
+      "likes": 1541,
+      "dislikes": 136
+    },
+    {
+      "id": 2031,
+      "question_id": 1994,
+      "credit": 4,
+      "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+      "title_slug": "minimum-number-of-swaps-to-make-the-binary-string-alternating",
+      "likes": 563,
+      "dislikes": 35
+    },
+    {
+      "id": 2032,
+      "question_id": 1995,
+      "credit": 5,
+      "title": "Finding Pairs With a Certain Sum",
+      "title_slug": "finding-pairs-with-a-certain-sum",
+      "likes": 570,
+      "dislikes": 101
+    },
+    {
+      "id": 2033,
+      "question_id": 1996,
+      "credit": 6,
+      "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+      "title_slug": "number-of-ways-to-rearrange-sticks-with-k-sticks-visible",
+      "likes": 675,
+      "dislikes": 20
+    }
+  ]
+}

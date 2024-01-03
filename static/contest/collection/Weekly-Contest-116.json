@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-116",
+  "data": [
+    {
+      "id": 512,
+      "question_id": 1001,
+      "credit": 2,
+      "title": "N-Repeated Element in Size 2N Array",
+      "title_slug": "n-repeated-element-in-size-2n-array",
+      "likes": 1315,
+      "dislikes": 327
+    },
+    {
+      "id": 513,
+      "question_id": 1002,
+      "credit": 5,
+      "title": "Maximum Width Ramp",
+      "title_slug": "maximum-width-ramp",
+      "likes": 1612,
+      "dislikes": 47
+    },
+    {
+      "id": 514,
+      "question_id": 1003,
+      "credit": 5,
+      "title": "Minimum Area Rectangle II",
+      "title_slug": "minimum-area-rectangle-ii",
+      "likes": 355,
+      "dislikes": 447
+    },
+    {
+      "id": 515,
+      "question_id": 1004,
+      "credit": 9,
+      "title": "Least Operators to Express Number",
+      "title_slug": "least-operators-to-express-number",
+      "likes": 311,
+      "dislikes": 68
+    }
+  ]
+}

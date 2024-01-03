@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-65",
+  "data": [
+    {
+      "id": 2338,
+      "question_id": 2177,
+      "credit": 3,
+      "title": "Check Whether Two Strings are Almost Equivalent",
+      "title_slug": "check-whether-two-strings-are-almost-equivalent",
+      "likes": 507,
+      "dislikes": 20
+    },
+    {
+      "id": 2339,
+      "question_id": 2178,
+      "credit": 4,
+      "title": "Walking Robot Simulation II",
+      "title_slug": "walking-robot-simulation-ii",
+      "likes": 156,
+      "dislikes": 302
+    },
+    {
+      "id": 2340,
+      "question_id": 2179,
+      "credit": 5,
+      "title": "Most Beautiful Item for Each Query",
+      "title_slug": "most-beautiful-item-for-each-query",
+      "likes": 564,
+      "dislikes": 14
+    },
+    {
+      "id": 2341,
+      "question_id": 2180,
+      "credit": 6,
+      "title": "Maximum Number of Tasks You Can Assign",
+      "title_slug": "maximum-number-of-tasks-you-can-assign",
+      "likes": 499,
+      "dislikes": 19
+    }
+  ]
+}

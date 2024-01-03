@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-273",
+  "data": [
+    {
+      "id": 2426,
+      "question_id": 2238,
+      "credit": 3,
+      "title": "A Number After a Double Reversal",
+      "title_slug": "a-number-after-a-double-reversal",
+      "likes": 633,
+      "dislikes": 36
+    },
+    {
+      "id": 2427,
+      "question_id": 2239,
+      "credit": 4,
+      "title": "Execution of All Suffix Instructions Staying in a Grid",
+      "title_slug": "execution-of-all-suffix-instructions-staying-in-a-grid",
+      "likes": 512,
+      "dislikes": 47
+    },
+    {
+      "id": 2428,
+      "question_id": 2240,
+      "credit": 5,
+      "title": "Intervals Between Identical Elements",
+      "title_slug": "intervals-between-identical-elements",
+      "likes": 859,
+      "dislikes": 36
+    },
+    {
+      "id": 2429,
+      "question_id": 2241,
+      "credit": 6,
+      "title": "Recover the Original Array",
+      "title_slug": "recover-the-original-array",
+      "likes": 359,
+      "dislikes": 31
+    }
+  ]
+}

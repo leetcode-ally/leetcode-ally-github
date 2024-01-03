@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1244",
+      "title": "Design A Leaderboard",
+      "titleSlug": "design-a-leaderboard",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 750,
+      "dislikes": 94,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"69.8K\", \"totalSubmission\": \"102.6K\", \"totalAcceptedRaw\": 69779, \"totalSubmissionRaw\": 102569, \"acRate\": \"68.0%\"}",
+      "hints": [
+        "What data structure can we use to keep the players' data?",
+        "Keep a map (dictionary) of player scores.",
+        "For each top(K) function call, find the maximum K scores and add them."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "What data structure can we use to keep the players' data?",
+      "Keep a map (dictionary) of player scores.",
+      "For each top(K) function call, find the maximum K scores and add them."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

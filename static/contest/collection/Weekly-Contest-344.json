@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-344",
+  "data": [
+    {
+      "id": 3295,
+      "question_id": 2777,
+      "credit": 3,
+      "title": "Find the Distinct Difference Array",
+      "title_slug": "find-the-distinct-difference-array",
+      "likes": 296,
+      "dislikes": 28
+    },
+    {
+      "id": 3296,
+      "question_id": 2778,
+      "credit": 4,
+      "title": "Frequency Tracker",
+      "title_slug": "frequency-tracker",
+      "likes": 304,
+      "dislikes": 26
+    },
+    {
+      "id": 3299,
+      "question_id": 2779,
+      "credit": 5,
+      "title": "Number of Adjacent Elements With the Same Color",
+      "title_slug": "number-of-adjacent-elements-with-the-same-color",
+      "likes": 330,
+      "dislikes": 89
+    },
+    {
+      "id": 3300,
+      "question_id": 2780,
+      "credit": 5,
+      "title": "Make Costs of Paths Equal in a Binary Tree",
+      "title_slug": "make-costs-of-paths-equal-in-a-binary-tree",
+      "likes": 539,
+      "dislikes": 10
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2174",
+      "title": "Remove All Ones With Row and Column Flips II",
+      "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 85,
+      "dislikes": 23,
+      "similarQuestions": "[{\"title\": \"Set Matrix Zeroes\", \"titleSlug\": \"set-matrix-zeroes\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Flips to Convert Binary Matrix to Zero Matrix\", \"titleSlug\": \"minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Remove All Ones With Row and Column Flips\", \"titleSlug\": \"remove-all-ones-with-row-and-column-flips\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.6K\", \"totalSubmission\": \"6.7K\", \"totalAcceptedRaw\": 4584, \"totalSubmissionRaw\": 6739, \"acRate\": \"68.0%\"}",
+      "hints": [
+        "With the given constraints, could a brute force solution pass?",
+        "What would a brute force solution look like?",
+        "We can try every single possibility of choosing to do an operation on a cell with a 1 or choosing to ignore it."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "set-matrix-zeroes",
+        "title": "Set Matrix Zeroes",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips",
+        "title": "Remove All Ones With Row and Column Flips",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "With the given constraints, could a brute force solution pass?",
+      "What would a brute force solution look like?",
+      "We can try every single possibility of choosing to do an operation on a cell with a 1 or choosing to ignore it."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

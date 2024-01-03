@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "431",
+      "title": "Encode N-ary Tree to Binary Tree",
+      "titleSlug": "encode-n-ary-tree-to-binary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 510,
+      "dislikes": 26,
+      "similarQuestions": "[{\"title\": \"Serialize and Deserialize N-ary Tree\", \"titleSlug\": \"serialize-and-deserialize-n-ary-tree\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"20.8K\", \"totalSubmission\": \"26.3K\", \"totalAcceptedRaw\": 20824, \"totalSubmissionRaw\": 26264, \"acRate\": \"79.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "serialize-and-deserialize-n-ary-tree",
+        "title": "Serialize and Deserialize N-ary Tree",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2371",
+      "title": "Minimize Maximum Value in a Grid",
+      "titleSlug": "minimize-maximum-value-in-a-grid",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 83,
+      "dislikes": 3,
+      "similarQuestions": "[{\"title\": \"Candy\", \"titleSlug\": \"candy\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.1K\", \"totalSubmission\": \"3.2K\", \"totalAcceptedRaw\": 2132, \"totalSubmissionRaw\": 3249, \"acRate\": \"65.6%\"}",
+      "hints": [
+        "Can you think of which element in the grid you should replace first?",
+        "Replace the elements in the matrix from the smallest number to the largest. Replace each element with the smallest possible number so far."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "candy",
+        "title": "Candy",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Can you think of which element in the grid you should replace first?",
+      "Replace the elements in the matrix from the smallest number to the largest. Replace each element with the smallest possible number so far."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

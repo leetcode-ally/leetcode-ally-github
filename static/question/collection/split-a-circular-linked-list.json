@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2674",
+      "title": "Split a Circular Linked List",
+      "titleSlug": "split-a-circular-linked-list",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 30,
+      "dislikes": 5,
+      "similarQuestions": "[{\"title\": \"Split Linked List in Parts\", \"titleSlug\": \"split-linked-list-in-parts\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"850\", \"totalSubmission\": \"1.1K\", \"totalAcceptedRaw\": 850, \"totalSubmissionRaw\": 1126, \"acRate\": \"75.5%\"}",
+      "hints": [
+        "Do a while loop to calculate the size of the linked list.",
+        "Determine the size of the first half and create a new linked list in its size.",
+        "Do not forget that this half itself should be circular!",
+        "Use the previous hints for the second half."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "split-linked-list-in-parts",
+        "title": "Split Linked List in Parts",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Do a while loop to calculate the size of the linked list.",
+      "Determine the size of the first half and create a new linked list in its size.",
+      "Do not forget that this half itself should be circular!",
+      "Use the previous hints for the second half."
+    ],
+    "relatedTopics": []
+  }
+}

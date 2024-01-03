@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-27",
+  "data": [
+    {
+      "id": 1422,
+      "question_id": 1556,
+      "credit": 3,
+      "title": "Make Two Arrays Equal by Reversing Subarrays",
+      "title_slug": "make-two-arrays-equal-by-reversing-subarrays",
+      "likes": 1010,
+      "dislikes": 141
+    },
+    {
+      "id": 1423,
+      "question_id": 1557,
+      "credit": 4,
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "title_slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+      "likes": 2198,
+      "dislikes": 92
+    },
+    {
+      "id": 1424,
+      "question_id": 1558,
+      "credit": 5,
+      "title": "Course Schedule IV",
+      "title_slug": "course-schedule-iv",
+      "likes": 1376,
+      "dislikes": 63
+    },
+    {
+      "id": 1425,
+      "question_id": 1559,
+      "credit": 6,
+      "title": "Cherry Pickup II",
+      "title_slug": "cherry-pickup-ii",
+      "likes": 3356,
+      "dislikes": 34
+    }
+  ]
+}

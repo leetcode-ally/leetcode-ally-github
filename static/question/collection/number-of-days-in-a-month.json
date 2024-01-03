@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1118",
+      "title": "Number of Days in a Month",
+      "titleSlug": "number-of-days-in-a-month",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 40,
+      "dislikes": 172,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"8.1K\", \"totalSubmission\": \"14K\", \"totalAcceptedRaw\": 8123, \"totalSubmissionRaw\": 14024, \"acRate\": \"57.9%\"}",
+      "hints": [
+        "Does February have 28 days or 29 days?",
+        "Think of Leap years."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Does February have 28 days or 29 days?",
+      "Think of Leap years."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  }
+}

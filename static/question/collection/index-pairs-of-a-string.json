@@ -1,0 +1,61 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1065",
+      "title": "Index Pairs of a String",
+      "titleSlug": "index-pairs-of-a-string",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 370,
+      "dislikes": 107,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"26.8K\", \"totalSubmission\": \"40K\", \"totalAcceptedRaw\": 26833, \"totalSubmissionRaw\": 40033, \"acRate\": \"67.0%\"}",
+      "hints": [
+        "For each string of the set, look for matches and store those matches indices."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "For each string of the set, look for matches and store those matches indices."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

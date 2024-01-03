@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-46",
+  "data": [
+    {
+      "id": 1876,
+      "question_id": 1873,
+      "credit": 3,
+      "title": "Longest Nice Substring",
+      "title_slug": "longest-nice-substring",
+      "likes": 1263,
+      "dislikes": 840
+    },
+    {
+      "id": 1877,
+      "question_id": 1874,
+      "credit": 4,
+      "title": "Form Array by Concatenating Subarrays of Another Array",
+      "title_slug": "form-array-by-concatenating-subarrays-of-another-array",
+      "likes": 310,
+      "dislikes": 36
+    },
+    {
+      "id": 1878,
+      "question_id": 1876,
+      "credit": 6,
+      "title": "Map of Highest Peak",
+      "title_slug": "map-of-highest-peak",
+      "likes": 778,
+      "dislikes": 46
+    },
+    {
+      "id": 1879,
+      "question_id": 1875,
+      "credit": 7,
+      "title": "Tree of Coprimes",
+      "title_slug": "tree-of-coprimes",
+      "likes": 386,
+      "dislikes": 30
+    }
+  ]
+}

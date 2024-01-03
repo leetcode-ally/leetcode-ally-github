@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1196",
+      "title": "How Many Apples Can You Put into the Basket",
+      "titleSlug": "how-many-apples-can-you-put-into-the-basket",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 211,
+      "dislikes": 16,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"31K\", \"totalSubmission\": \"46.4K\", \"totalAcceptedRaw\": 30979, \"totalSubmissionRaw\": 46350, \"acRate\": \"66.8%\"}",
+      "hints": [
+        "What if you think in a greedy approach?",
+        "The best apple to take in one step is the one with the smallest weight.",
+        "Sort the array and take apples with smaller weight first."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "What if you think in a greedy approach?",
+      "The best apple to take in one step is the one with the smallest weight.",
+      "Sort the array and take apples with smaller weight first."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

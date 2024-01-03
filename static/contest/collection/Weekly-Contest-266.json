@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-266",
+  "data": [
+    {
+      "id": 2342,
+      "question_id": 2186,
+      "credit": 3,
+      "title": "Count Vowel Substrings of a String",
+      "title_slug": "count-vowel-substrings-of-a-string",
+      "likes": 883,
+      "dislikes": 210
+    },
+    {
+      "id": 2343,
+      "question_id": 2187,
+      "credit": 4,
+      "title": "Vowels of All Substrings",
+      "title_slug": "vowels-of-all-substrings",
+      "likes": 791,
+      "dislikes": 26
+    },
+    {
+      "id": 2344,
+      "question_id": 2188,
+      "credit": 5,
+      "title": "Minimized Maximum of Products Distributed to Any Store",
+      "title_slug": "minimized-maximum-of-products-distributed-to-any-store",
+      "likes": 965,
+      "dislikes": 35
+    },
+    {
+      "id": 2345,
+      "question_id": 2189,
+      "credit": 6,
+      "title": "Maximum Path Quality of a Graph",
+      "title_slug": "maximum-path-quality-of-a-graph",
+      "likes": 605,
+      "dislikes": 43
+    }
+  ]
+}

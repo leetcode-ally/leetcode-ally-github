@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-289",
+  "data": [
+    {
+      "id": 2642,
+      "question_id": 2361,
+      "credit": 3,
+      "title": "Calculate Digit Sum of a String",
+      "title_slug": "calculate-digit-sum-of-a-string",
+      "likes": 528,
+      "dislikes": 41
+    },
+    {
+      "id": 2643,
+      "question_id": 2362,
+      "credit": 4,
+      "title": "Minimum Rounds to Complete All Tasks",
+      "title_slug": "minimum-rounds-to-complete-all-tasks",
+      "likes": 2680,
+      "dislikes": 78
+    },
+    {
+      "id": 2644,
+      "question_id": 2363,
+      "credit": 5,
+      "title": "Maximum Trailing Zeros in a Cornered Path",
+      "title_slug": "maximum-trailing-zeros-in-a-cornered-path",
+      "likes": 172,
+      "dislikes": 395
+    },
+    {
+      "id": 2645,
+      "question_id": 2364,
+      "credit": 6,
+      "title": "Longest Path With Different Adjacent Characters",
+      "title_slug": "longest-path-with-different-adjacent-characters",
+      "likes": 2308,
+      "dislikes": 59
+    }
+  ]
+}

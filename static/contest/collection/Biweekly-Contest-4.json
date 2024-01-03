@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-4",
+  "data": [
+    {
+      "id": 829,
+      "question_id": 1088,
+      "credit": 3,
+      "title": "Number of Days in a Month",
+      "title_slug": "number-of-days-in-a-month",
+      "likes": 40,
+      "dislikes": 172
+    },
+    {
+      "id": 830,
+      "question_id": 1089,
+      "credit": 3,
+      "title": "Remove Vowels from a String",
+      "title_slug": "remove-vowels-from-a-string",
+      "likes": 345,
+      "dislikes": 112
+    },
+    {
+      "id": 831,
+      "question_id": 1091,
+      "credit": 5,
+      "title": "Maximum Average Subtree",
+      "title_slug": "maximum-average-subtree",
+      "likes": 825,
+      "dislikes": 36
+    },
+    {
+      "id": 832,
+      "question_id": 1118,
+      "credit": 6,
+      "title": "Divide Array Into Increasing Sequences",
+      "title_slug": "divide-array-into-increasing-sequences",
+      "likes": 120,
+      "dislikes": 29
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-148",
+  "data": [
+    {
+      "id": 873,
+      "question_id": 1247,
+      "credit": 4,
+      "title": "Decrease Elements To Make Array Zigzag",
+      "title_slug": "decrease-elements-to-make-array-zigzag",
+      "likes": 411,
+      "dislikes": 165
+    },
+    {
+      "id": 874,
+      "question_id": 1248,
+      "credit": 5,
+      "title": "Binary Tree Coloring Game",
+      "title_slug": "binary-tree-coloring-game",
+      "likes": 1316,
+      "dislikes": 206
+    },
+    {
+      "id": 875,
+      "question_id": 1249,
+      "credit": 6,
+      "title": "Snapshot Array",
+      "title_slug": "snapshot-array",
+      "likes": 3615,
+      "dislikes": 480
+    },
+    {
+      "id": 876,
+      "question_id": 1251,
+      "credit": 8,
+      "title": "Longest Chunked Palindrome Decomposition",
+      "title_slug": "longest-chunked-palindrome-decomposition",
+      "likes": 636,
+      "dislikes": 29
+    }
+  ]
+}

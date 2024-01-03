@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-15",
+  "data": [
+    {
+      "id": 1134,
+      "question_id": 1221,
+      "credit": 2,
+      "title": "Element Appearing More Than 25% In Sorted Array",
+      "title_slug": "element-appearing-more-than-25-in-sorted-array",
+      "likes": 1645,
+      "dislikes": 73
+    },
+    {
+      "id": 1135,
+      "question_id": 1222,
+      "credit": 4,
+      "title": "Remove Covered Intervals",
+      "title_slug": "remove-covered-intervals",
+      "likes": 2185,
+      "dislikes": 58
+    },
+    {
+      "id": 1136,
+      "question_id": 1211,
+      "credit": 5,
+      "title": "Iterator for Combination",
+      "title_slug": "iterator-for-combination",
+      "likes": 1348,
+      "dislikes": 103
+    },
+    {
+      "id": 1137,
+      "question_id": 1224,
+      "credit": 7,
+      "title": "Minimum Falling Path Sum II",
+      "title_slug": "minimum-falling-path-sum-ii",
+      "likes": 1578,
+      "dislikes": 81
+    }
+  ]
+}

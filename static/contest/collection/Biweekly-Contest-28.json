@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-28",
+  "data": [
+    {
+      "id": 1442,
+      "question_id": 1570,
+      "credit": 3,
+      "title": "Final Prices With a Special Discount in a Shop",
+      "title_slug": "final-prices-with-a-special-discount-in-a-shop",
+      "likes": 1989,
+      "dislikes": 109
+    },
+    {
+      "id": 1443,
+      "question_id": 1572,
+      "credit": 4,
+      "title": "Subrectangle Queries",
+      "title_slug": "subrectangle-queries",
+      "likes": 597,
+      "dislikes": 1407
+    },
+    {
+      "id": 1444,
+      "question_id": 1573,
+      "credit": 5,
+      "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+      "title_slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "likes": 1656,
+      "dislikes": 83
+    },
+    {
+      "id": 1445,
+      "question_id": 1571,
+      "credit": 7,
+      "title": "Allocate Mailboxes",
+      "title_slug": "allocate-mailboxes",
+      "likes": 1064,
+      "dislikes": 19
+    }
+  ]
+}

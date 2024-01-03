@@ -1,0 +1,61 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1168",
+      "title": "Optimize Water Distribution in a Village",
+      "titleSlug": "optimize-water-distribution-in-a-village",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 1090,
+      "dislikes": 39,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Minimum Spanning Tree",
+          "slug": "minimum-spanning-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"44K\", \"totalSubmission\": \"68K\", \"totalAcceptedRaw\": 43973, \"totalSubmissionRaw\": 68014, \"acRate\": \"64.7%\"}",
+      "hints": [
+        "What if we model this problem as a graph problem?",
+        "A house is a node and a pipe is a weighted edge.",
+        "How to represent building wells in the graph model?",
+        "Add a virtual node, connect it to houses with edges weighted by the costs to build wells in these houses.",
+        "The problem is now reduced to a Minimum Spanning Tree problem."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "What if we model this problem as a graph problem?",
+      "A house is a node and a pipe is a weighted edge.",
+      "How to represent building wells in the graph model?",
+      "Add a virtual node, connect it to houses with edges weighted by the costs to build wells in these houses.",
+      "The problem is now reduced to a Minimum Spanning Tree problem."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      }
+    ]
+  }
+}

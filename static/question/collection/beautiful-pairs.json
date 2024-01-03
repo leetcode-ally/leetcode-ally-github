@@ -1,0 +1,77 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2613",
+      "title": "Beautiful Pairs",
+      "titleSlug": "beautiful-pairs",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 15,
+      "dislikes": 2,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"455\", \"totalSubmission\": \"1K\", \"totalAcceptedRaw\": 455, \"totalSubmissionRaw\": 1003, \"acRate\": \"45.4%\"}",
+      "hints": [
+        "Use Range Queries Data Structures to optimize the algorithm"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Use Range Queries Data Structures to optimize the algorithm"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "723",
+      "title": "Candy Crush",
+      "titleSlug": "candy-crush",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1000,
+      "dislikes": 520,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"70.3K\", \"totalSubmission\": \"91.5K\", \"totalAcceptedRaw\": 70340, \"totalSubmissionRaw\": 91493, \"acRate\": \"76.9%\"}",
+      "hints": [
+        "Carefully perform the \"crush\" and \"gravity\" steps.  In the crush step, flag each candy that should be removed, then go through and crush each flagged candy.  In the gravity step, collect the candy in each column and then rewrite the column appropriately.  Do these steps repeatedly until there's no work left to do."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Carefully perform the \"crush\" and \"gravity\" steps.  In the crush step, flag each candy that should be removed, then go through and crush each flagged candy.  In the gravity step, collect the candy in each column and then rewrite the column appropriately.  Do these steps repeatedly until there's no work left to do."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  }
+}

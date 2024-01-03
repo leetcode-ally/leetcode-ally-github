@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-303",
+  "data": [
+    {
+      "id": 2806,
+      "question_id": 2427,
+      "credit": 3,
+      "title": "First Letter to Appear Twice",
+      "title_slug": "first-letter-to-appear-twice",
+      "likes": 949,
+      "dislikes": 54
+    },
+    {
+      "id": 2807,
+      "question_id": 2428,
+      "credit": 4,
+      "title": "Equal Row and Column Pairs",
+      "title_slug": "equal-row-and-column-pairs",
+      "likes": 2019,
+      "dislikes": 123
+    },
+    {
+      "id": 2808,
+      "question_id": 2429,
+      "credit": 5,
+      "title": "Design a Food Rating System",
+      "title_slug": "design-a-food-rating-system",
+      "likes": 1434,
+      "dislikes": 286
+    },
+    {
+      "id": 2809,
+      "question_id": 2430,
+      "credit": 6,
+      "title": "Number of Excellent Pairs",
+      "title_slug": "number-of-excellent-pairs",
+      "likes": 568,
+      "dislikes": 19
+    }
+  ]
+}

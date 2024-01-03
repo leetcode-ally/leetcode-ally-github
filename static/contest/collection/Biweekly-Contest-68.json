@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-68",
+  "data": [
+    {
+      "id": 2410,
+      "question_id": 2219,
+      "credit": 3,
+      "title": "Maximum Number of Words Found in Sentences",
+      "title_slug": "maximum-number-of-words-found-in-sentences",
+      "likes": 1658,
+      "dislikes": 54
+    },
+    {
+      "id": 2411,
+      "question_id": 2220,
+      "credit": 4,
+      "title": "Find All Possible Recipes from Given Supplies",
+      "title_slug": "find-all-possible-recipes-from-given-supplies",
+      "likes": 1750,
+      "dislikes": 86
+    },
+    {
+      "id": 2412,
+      "question_id": 2221,
+      "credit": 5,
+      "title": "Check if a Parentheses String Can Be Valid",
+      "title_slug": "check-if-a-parentheses-string-can-be-valid",
+      "likes": 1042,
+      "dislikes": 38
+    },
+    {
+      "id": 2413,
+      "question_id": 2222,
+      "credit": 7,
+      "title": "Abbreviating the Product of a Range",
+      "title_slug": "abbreviating-the-product-of-a-range",
+      "likes": 86,
+      "dislikes": 148
+    }
+  ]
+}

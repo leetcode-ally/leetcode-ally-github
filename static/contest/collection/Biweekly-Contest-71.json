@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-71",
+  "data": [
+    {
+      "id": 2482,
+      "question_id": 2264,
+      "credit": 3,
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "likes": 1339,
+      "dislikes": 131
+    },
+    {
+      "id": 2483,
+      "question_id": 2265,
+      "credit": 4,
+      "title": "Partition Array According to Given Pivot",
+      "title_slug": "partition-array-according-to-given-pivot",
+      "likes": 1023,
+      "dislikes": 76
+    },
+    {
+      "id": 2484,
+      "question_id": 2266,
+      "credit": 5,
+      "title": "Minimum Cost to Set Cooking Time",
+      "title_slug": "minimum-cost-to-set-cooking-time",
+      "likes": 196,
+      "dislikes": 611
+    },
+    {
+      "id": 2485,
+      "question_id": 2267,
+      "credit": 6,
+      "title": "Minimum Difference in Sums After Removal of Elements",
+      "title_slug": "minimum-difference-in-sums-after-removal-of-elements",
+      "likes": 641,
+      "dislikes": 14
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "286",
+      "title": "Walls and Gates",
+      "titleSlug": "walls-and-gates",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 3028,
+      "dislikes": 54,
+      "similarQuestions": "[{\"title\": \"Surrounded Regions\", \"titleSlug\": \"surrounded-regions\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Islands\", \"titleSlug\": \"number-of-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Shortest Distance from All Buildings\", \"titleSlug\": \"shortest-distance-from-all-buildings\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Robot Room Cleaner\", \"titleSlug\": \"robot-room-cleaner\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Rotting Oranges\", \"titleSlug\": \"rotting-oranges\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"294.2K\", \"totalSubmission\": \"482.4K\", \"totalAcceptedRaw\": 294222, \"totalSubmissionRaw\": 482384, \"acRate\": \"61.0%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "surrounded-regions",
+        "title": "Surrounded Regions",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-islands",
+        "title": "Number of Islands",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "shortest-distance-from-all-buildings",
+        "title": "Shortest Distance from All Buildings",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "robot-room-cleaner",
+        "title": "Robot Room Cleaner",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "rotting-oranges",
+        "title": "Rotting Oranges",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2436",
+      "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+      "titleSlug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 35,
+      "dislikes": 10,
+      "similarQuestions": "[{\"title\": \"Minimum Subarrays in a Valid Split\", \"titleSlug\": \"minimum-subarrays-in-a-valid-split\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2K\", \"totalSubmission\": \"2.7K\", \"totalAcceptedRaw\": 1997, \"totalSubmissionRaw\": 2732, \"acRate\": \"73.1%\"}",
+      "hints": [
+        "How does the GCD of an array change when you add more elements to a subarray?",
+        "The GCD will always decrease when increasing the size of the subarray,",
+        "Keep adding elements to a subarray and if adding a new element will make the GCD = 1, add a new split and a new subarray."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-subarrays-in-a-valid-split",
+        "title": "Minimum Subarrays in a Valid Split",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "How does the GCD of an array change when you add more elements to a subarray?",
+      "The GCD will always decrease when increasing the size of the subarray,",
+      "Keep adding elements to a subarray and if adding a new element will make the GCD = 1, add a new split and a new subarray."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  }
+}

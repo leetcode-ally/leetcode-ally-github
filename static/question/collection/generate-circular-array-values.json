@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2757",
+      "title": "Generate Circular Array Values",
+      "titleSlug": "generate-circular-array-values",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 9,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"261\", \"totalSubmission\": \"329\", \"totalAcceptedRaw\": 261, \"totalSubmissionRaw\": 329, \"acRate\": \"79.3%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": []
+  }
+}

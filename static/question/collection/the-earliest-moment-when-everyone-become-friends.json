@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1101",
+      "title": "The Earliest Moment When Everyone Become Friends",
+      "titleSlug": "the-earliest-moment-when-everyone-become-friends",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 940,
+      "dislikes": 29,
+      "similarQuestions": "[{\"title\": \"Number of Provinces\", \"titleSlug\": \"number-of-provinces\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"78.4K\", \"totalSubmission\": \"121.8K\", \"totalAcceptedRaw\": 78431, \"totalSubmissionRaw\": 121828, \"acRate\": \"64.4%\"}",
+      "hints": [
+        "Sort the log items by their timestamp.",
+        "How can we model this problem as a graph problem?",
+        "Let's use a union-find data structure. At the beginning we have a graph with N nodes but no edges.",
+        "Then we loop through the events and if unite each node until the number of connected components reach to 1. Notice that each time two different connected components are united the number of connected components decreases by 1."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-provinces",
+        "title": "Number of Provinces",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Sort the log items by their timestamp.",
+      "How can we model this problem as a graph problem?",
+      "Let's use a union-find data structure. At the beginning we have a graph with N nodes but no edges.",
+      "Then we loop through the events and if unite each node until the number of connected components reach to 1. Notice that each time two different connected components are united the number of connected components decreases by 1."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

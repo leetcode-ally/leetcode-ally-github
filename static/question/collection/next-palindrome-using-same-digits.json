@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1842",
+      "title": "Next Palindrome Using Same Digits",
+      "titleSlug": "next-palindrome-using-same-digits",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 116,
+      "dislikes": 17,
+      "similarQuestions": "[{\"title\": \"Next Greater Element III\", \"titleSlug\": \"next-greater-element-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find the Closest Palindrome\", \"titleSlug\": \"find-the-closest-palindrome\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.3K\", \"totalSubmission\": \"10K\", \"totalAcceptedRaw\": 5282, \"totalSubmissionRaw\": 9954, \"acRate\": \"53.1%\"}",
+      "hints": [
+        "Is it possible to swap one character in the first half of the palindrome to make the next one?",
+        "Are there different cases for when the length is odd and even?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "next-greater-element-iii",
+        "title": "Next Greater Element III",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "find-the-closest-palindrome",
+        "title": "Find the Closest Palindrome",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Is it possible to swap one character in the first half of the palindrome to make the next one?",
+      "Are there different cases for when the length is odd and even?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

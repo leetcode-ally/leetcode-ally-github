@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-40",
+  "data": [
+    {
+      "id": 1732,
+      "question_id": 1764,
+      "credit": 3,
+      "title": "Maximum Repeating Substring",
+      "title_slug": "maximum-repeating-substring",
+      "likes": 643,
+      "dislikes": 239
+    },
+    {
+      "id": 1733,
+      "question_id": 1765,
+      "credit": 4,
+      "title": "Merge In Between Linked Lists",
+      "title_slug": "merge-in-between-linked-lists",
+      "likes": 1477,
+      "dislikes": 184
+    },
+    {
+      "id": 1734,
+      "question_id": 1767,
+      "credit": 5,
+      "title": "Design Front Middle Back Queue",
+      "title_slug": "design-front-middle-back-queue",
+      "likes": 717,
+      "dislikes": 99
+    },
+    {
+      "id": 1735,
+      "question_id": 1766,
+      "credit": 6,
+      "title": "Minimum Number of Removals to Make Mountain Array",
+      "title_slug": "minimum-number-of-removals-to-make-mountain-array",
+      "likes": 1523,
+      "dislikes": 20
+    }
+  ]
+}

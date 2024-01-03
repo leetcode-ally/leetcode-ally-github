@@ -1,0 +1,90 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "270",
+      "title": "Closest Binary Search Tree Value",
+      "titleSlug": "closest-binary-search-tree-value",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 1743,
+      "dislikes": 120,
+      "similarQuestions": "[{\"title\": \"Count Complete Tree Nodes\", \"titleSlug\": \"count-complete-tree-nodes\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Closest Binary Search Tree Value II\", \"titleSlug\": \"closest-binary-search-tree-value-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Search in a Binary Search Tree\", \"titleSlug\": \"search-in-a-binary-search-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Closest Nodes Queries in a Binary Search Tree\", \"titleSlug\": \"closest-nodes-queries-in-a-binary-search-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"311K\", \"totalSubmission\": \"590.6K\", \"totalAcceptedRaw\": 310961, \"totalSubmissionRaw\": 590649, \"acRate\": \"52.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "count-complete-tree-nodes",
+        "title": "Count Complete Tree Nodes",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "closest-binary-search-tree-value-ii",
+        "title": "Closest Binary Search Tree Value II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "search-in-a-binary-search-tree",
+        "title": "Search in a Binary Search Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "closest-nodes-queries-in-a-binary-search-tree",
+        "title": "Closest Nodes Queries in a Binary Search Tree",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

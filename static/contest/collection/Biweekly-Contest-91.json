@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-91",
+  "data": [
+    {
+      "id": 3002,
+      "question_id": 2561,
+      "credit": 3,
+      "title": "Number of Distinct Averages",
+      "title_slug": "number-of-distinct-averages",
+      "likes": 344,
+      "dislikes": 22
+    },
+    {
+      "id": 3003,
+      "question_id": 2562,
+      "credit": 5,
+      "title": "Count Ways To Build Good Strings",
+      "title_slug": "count-ways-to-build-good-strings",
+      "likes": 1636,
+      "dislikes": 144
+    },
+    {
+      "id": 3004,
+      "question_id": 2564,
+      "credit": 5,
+      "title": "Most Profitable Path in a Tree",
+      "title_slug": "most-profitable-path-in-a-tree",
+      "likes": 629,
+      "dislikes": 59
+    },
+    {
+      "id": 3005,
+      "question_id": 2563,
+      "credit": 6,
+      "title": "Split Message Based on Limit",
+      "title_slug": "split-message-based-on-limit",
+      "likes": 124,
+      "dislikes": 137
+    }
+  ]
+}

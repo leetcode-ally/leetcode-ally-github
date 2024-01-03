@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "296",
+      "title": "Best Meeting Point",
+      "titleSlug": "best-meeting-point",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 1150,
+      "dislikes": 100,
+      "similarQuestions": "[{\"title\": \"Shortest Distance from All Buildings\", \"titleSlug\": \"shortest-distance-from-all-buildings\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Moves to Equal Array Elements II\", \"titleSlug\": \"minimum-moves-to-equal-array-elements-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"77.4K\", \"totalSubmission\": \"127.3K\", \"totalAcceptedRaw\": 77352, \"totalSubmissionRaw\": 127334, \"acRate\": \"60.7%\"}",
+      "hints": [
+        "Try to solve it in one dimension first. How can this solution apply to the two dimension case?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "shortest-distance-from-all-buildings",
+        "title": "Shortest Distance from All Buildings",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+        "title": "Minimum Moves to Equal Array Elements II",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to solve it in one dimension first. How can this solution apply to the two dimension case?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

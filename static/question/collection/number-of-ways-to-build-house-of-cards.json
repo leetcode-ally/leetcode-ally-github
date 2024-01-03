@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2189",
+      "title": "Number of Ways to Build House of Cards",
+      "titleSlug": "number-of-ways-to-build-house-of-cards",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 64,
+      "dislikes": 14,
+      "similarQuestions": "[{\"title\": \"Champagne Tower\", \"titleSlug\": \"champagne-tower\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.9K\", \"totalSubmission\": \"2.9K\", \"totalAcceptedRaw\": 1854, \"totalSubmissionRaw\": 2925, \"acRate\": \"63.4%\"}",
+      "hints": [
+        "If a row has k triangles, how many cards does it take to build that row? It takes 3 * k - 1 cards.",
+        "If you still have i cards left, and on the previous row there were k triangles, what are the possible ways to build the current row? You can start at 1 triangle and continue adding more until you run out of cards or reach k - 1 triangles."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "champagne-tower",
+        "title": "Champagne Tower",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "If a row has k triangles, how many cards does it take to build that row? It takes 3 * k - 1 cards.",
+      "If you still have i cards left, and on the previous row there were k triangles, what are the possible ways to build the current row? You can start at 1 triangle and continue adding more until you run out of cards or reach k - 1 triangles."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

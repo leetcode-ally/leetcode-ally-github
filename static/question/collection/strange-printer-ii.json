@@ -1,0 +1,80 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1591",
+      "title": "Strange Printer II",
+      "titleSlug": "strange-printer-ii",
+      "content": "<p>There is a strange printer with the following two special requirements:</p>\n\n<ul>\n\t<li>On each turn, the printer will print a solid rectangular pattern of a single color on the grid. This will cover up the existing colors in the rectangle.</li>\n\t<li>Once the printer has used a color for the above operation, <strong>the same color cannot be used again</strong>.</li>\n</ul>\n\n<p>You are given a <code>m x n</code> matrix <code>targetGrid</code>, where <code>targetGrid[row][col]</code> is the color in the position <code>(row, col)</code> of the grid.</p>\n\n<p>Return <code>true</code><em> if it is possible to print the matrix </em><code>targetGrid</code><em>,</em><em> otherwise, return </em><code>false</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2021/12/23/print1.jpg\" style=\"width: 600px; height: 175px;\" />\n<pre>\n<strong>Input:</strong> targetGrid = [[1,1,1,1],[1,2,2,1],[1,2,2,1],[1,1,1,1]]\n<strong>Output:</strong> true\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2021/12/23/print2.jpg\" style=\"width: 600px; height: 367px;\" />\n<pre>\n<strong>Input:</strong> targetGrid = [[1,1,1,1],[1,1,3,3],[1,1,3,4],[5,5,1,4]]\n<strong>Output:</strong> true\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> targetGrid = [[1,2,1],[2,1,2],[1,2,1]]\n<strong>Output:</strong> false\n<strong>Explanation:</strong> It is impossible to form targetGrid because it is not allowed to print the same color in different turns.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>m == targetGrid.length</code></li>\n\t<li><code>n == targetGrid[i].length</code></li>\n\t<li><code>1 &lt;= m, n &lt;= 60</code></li>\n\t<li><code>1 &lt;= targetGrid[row][col] &lt;= 60</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 604,
+      "dislikes": 17,
+      "similarQuestions": "[{\"title\": \"Strange Printer\", \"titleSlug\": \"strange-printer\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Longest Cycle in a Graph\", \"titleSlug\": \"longest-cycle-in-a-graph\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Sort Array by Moving Items to Empty Space\", \"titleSlug\": \"sort-array-by-moving-items-to-empty-space\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.2K\", \"totalSubmission\": \"17.4K\", \"totalAcceptedRaw\": 10239, \"totalSubmissionRaw\": 17407, \"acRate\": \"58.8%\"}",
+      "hints": [
+        "Try thinking in reverse. Given the grid, how can you tell if a colour was painted last?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "strange-printer",
+        "title": "Strange Printer",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "longest-cycle-in-a-graph",
+        "title": "Longest Cycle in a Graph",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "sort-array-by-moving-items-to-empty-space",
+        "title": "Sort Array by Moving Items to Empty Space",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Try thinking in reverse. Given the grid, how can you tell if a colour was painted last?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

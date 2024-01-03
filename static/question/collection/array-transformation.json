@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1243",
+      "title": "Array Transformation",
+      "titleSlug": "array-transformation",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 148,
+      "dislikes": 67,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"12.7K\", \"totalSubmission\": \"24.6K\", \"totalAcceptedRaw\": 12717, \"totalSubmissionRaw\": 24552, \"acRate\": \"51.8%\"}",
+      "hints": [
+        "Try to simulate the process.",
+        "For every iteration, find the new array using the old one and the given rules."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Try to simulate the process.",
+      "For every iteration, find the new array using the old one and the given rules."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  }
+}

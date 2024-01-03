@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "694",
+      "title": "Number of Distinct Islands",
+      "titleSlug": "number-of-distinct-islands",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 2180,
+      "dislikes": 136,
+      "similarQuestions": "[{\"title\": \"Number of Islands\", \"titleSlug\": \"number-of-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Distinct Islands II\", \"titleSlug\": \"number-of-distinct-islands-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Sub Islands\", \"titleSlug\": \"count-sub-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"157.6K\", \"totalSubmission\": \"258K\", \"totalAcceptedRaw\": 157583, \"totalSubmissionRaw\": 258016, \"acRate\": \"61.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-islands",
+        "title": "Number of Islands",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "number-of-distinct-islands-ii",
+        "title": "Number of Distinct Islands II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-sub-islands",
+        "title": "Count Sub Islands",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ]
+  }
+}

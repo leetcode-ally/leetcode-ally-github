@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-304",
+  "data": [
+    {
+      "id": 2818,
+      "question_id": 2436,
+      "credit": 3,
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "title_slug": "make-array-zero-by-subtracting-equal-amounts",
+      "likes": 1097,
+      "dislikes": 47
+    },
+    {
+      "id": 2819,
+      "question_id": 2437,
+      "credit": 4,
+      "title": "Maximum Number of Groups Entering a Competition",
+      "title_slug": "maximum-number-of-groups-entering-a-competition",
+      "likes": 635,
+      "dislikes": 107
+    },
+    {
+      "id": 2820,
+      "question_id": 2438,
+      "credit": 5,
+      "title": "Find Closest Node to Given Two Nodes",
+      "title_slug": "find-closest-node-to-given-two-nodes",
+      "likes": 1630,
+      "dislikes": 388
+    },
+    {
+      "id": 2821,
+      "question_id": 2439,
+      "credit": 6,
+      "title": "Longest Cycle in a Graph",
+      "title_slug": "longest-cycle-in-a-graph",
+      "likes": 2255,
+      "dislikes": 45
+    }
+  ]
+}

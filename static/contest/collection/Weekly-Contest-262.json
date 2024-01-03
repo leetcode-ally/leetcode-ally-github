@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-262",
+  "data": [
+    {
+      "id": 2290,
+      "question_id": 2159,
+      "credit": 3,
+      "title": "Two Out of Three",
+      "title_slug": "two-out-of-three",
+      "likes": 713,
+      "dislikes": 46
+    },
+    {
+      "id": 2291,
+      "question_id": 2160,
+      "credit": 4,
+      "title": "Minimum Operations to Make a Uni-Value Grid",
+      "title_slug": "minimum-operations-to-make-a-uni-value-grid",
+      "likes": 527,
+      "dislikes": 40
+    },
+    {
+      "id": 2292,
+      "question_id": 2161,
+      "credit": 5,
+      "title": "Stock Price Fluctuation ",
+      "title_slug": "stock-price-fluctuation",
+      "likes": 1113,
+      "dislikes": 59
+    },
+    {
+      "id": 2293,
+      "question_id": 2162,
+      "credit": 6,
+      "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "title_slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+      "likes": 2755,
+      "dislikes": 154
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1941",
+      "title": "Check if All Characters Have Equal Number of Occurrences",
+      "titleSlug": "check-if-all-characters-have-equal-number-of-occurrences",
+      "content": "<p>Given a string <code>s</code>, return <code>true</code><em> if </em><code>s</code><em> is a <strong>good</strong> string, or </em><code>false</code><em> otherwise</em>.</p>\n\n<p>A string <code>s</code> is <strong>good</strong> if <strong>all</strong> the characters that appear in <code>s</code> have the <strong>same</strong> number of occurrences (i.e., the same frequency).</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;abacbc&quot;\n<strong>Output:</strong> true\n<strong>Explanation:</strong> The characters that appear in s are &#39;a&#39;, &#39;b&#39;, and &#39;c&#39;. All characters occur 2 times in s.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;aaabb&quot;\n<strong>Output:</strong> false\n<strong>Explanation:</strong> The characters that appear in s are &#39;a&#39; and &#39;b&#39;.\n&#39;a&#39; occurs 3 times while &#39;b&#39; occurs 2 times, which is not the same number of times.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 1000</code></li>\n\t<li><code>s</code> consists of lowercase English letters.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 825,
+      "dislikes": 20,
+      "similarQuestions": "[{\"title\": \"Rings and Rods\", \"titleSlug\": \"rings-and-rods\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Make Number of Distinct Characters Equal\", \"titleSlug\": \"make-number-of-distinct-characters-equal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"82.3K\", \"totalSubmission\": \"106.8K\", \"totalAcceptedRaw\": 82269, \"totalSubmissionRaw\": 106837, \"acRate\": \"77.0%\"}",
+      "hints": [
+        "Build a dictionary containing the frequency of each character appearing in s",
+        "Check if all values in the dictionary are the same."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "rings-and-rods",
+        "title": "Rings and Rods",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "make-number-of-distinct-characters-equal",
+        "title": "Make Number of Distinct Characters Equal",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Build a dictionary containing the frequency of each character appearing in s",
+      "Check if all values in the dictionary are the same."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  }
+}

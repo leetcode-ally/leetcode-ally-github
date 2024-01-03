@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "157",
+      "title": "Read N Characters Given Read4",
+      "titleSlug": "read-n-characters-given-read4",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 560,
+      "dislikes": 3440,
+      "similarQuestions": "[{\"title\": \"Read N Characters Given read4 II - Call Multiple Times\", \"titleSlug\": \"read-n-characters-given-read4-ii-call-multiple-times\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"186.3K\", \"totalSubmission\": \"451.1K\", \"totalAcceptedRaw\": 186256, \"totalSubmissionRaw\": 451090, \"acRate\": \"41.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "read-n-characters-given-read4-ii-call-multiple-times",
+        "title": "Read N Characters Given read4 II - Call Multiple Times",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

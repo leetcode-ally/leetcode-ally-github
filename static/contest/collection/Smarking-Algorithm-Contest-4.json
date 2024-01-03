@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Smarking-Algorithm-Contest-4",
+  "data": [
+    {
+      "id": 47,
+      "question_id": 455,
+      "credit": 5,
+      "title": "Assign Cookies",
+      "title_slug": "assign-cookies",
+      "likes": 3585,
+      "dislikes": 333
+    },
+    {
+      "id": 50,
+      "question_id": 459,
+      "credit": 5,
+      "title": "Repeated Substring Pattern",
+      "title_slug": "repeated-substring-pattern",
+      "likes": 6236,
+      "dislikes": 500
+    },
+    {
+      "id": 49,
+      "question_id": 454,
+      "credit": 7,
+      "title": "4Sum II",
+      "title_slug": "4sum-ii",
+      "likes": 4830,
+      "dislikes": 138
+    },
+    {
+      "id": 48,
+      "question_id": 456,
+      "credit": 11,
+      "title": "132 Pattern",
+      "title_slug": "132-pattern",
+      "likes": 6991,
+      "dislikes": 411
+    }
+  ]
+}

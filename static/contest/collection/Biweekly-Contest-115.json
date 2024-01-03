@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-115",
+  "data": [
+    {
+      "id": 3572,
+      "question_id": 3164,
+      "credit": 3,
+      "title": "Last Visited Integers",
+      "title_slug": "last-visited-integers",
+      "likes": 84,
+      "dislikes": 156
+    },
+    {
+      "id": 3573,
+      "question_id": 3143,
+      "credit": 4,
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "title_slug": "longest-unequal-adjacent-groups-subsequence-i",
+      "likes": 94,
+      "dislikes": 31
+    },
+    {
+      "id": 3574,
+      "question_id": 3142,
+      "credit": 5,
+      "title": "Longest Unequal Adjacent Groups Subsequence II",
+      "title_slug": "longest-unequal-adjacent-groups-subsequence-ii",
+      "likes": 178,
+      "dislikes": 17
+    },
+    {
+      "id": 3575,
+      "question_id": 3091,
+      "credit": 6,
+      "title": "Count of Sub-Multisets With Bounded Sum",
+      "title_slug": "count-of-sub-multisets-with-bounded-sum",
+      "likes": 128,
+      "dislikes": 20
+    }
+  ]
+}

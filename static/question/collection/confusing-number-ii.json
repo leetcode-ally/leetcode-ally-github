@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1088",
+      "title": "Confusing Number II",
+      "titleSlug": "confusing-number-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 485,
+      "dislikes": 142,
+      "similarQuestions": "[{\"title\": \"Confusing Number\", \"titleSlug\": \"confusing-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"36.5K\", \"totalSubmission\": \"77.5K\", \"totalAcceptedRaw\": 36541, \"totalSubmissionRaw\": 77462, \"acRate\": \"47.2%\"}",
+      "hints": [
+        "Which set of digits have the valid numbers?",
+        "Only 0, 1, 6, 8, 9 are the valid set of digits, do a backtracking to generate all the numbers containing this digits and check they are valid."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "confusing-number",
+        "title": "Confusing Number",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Which set of digits have the valid numbers?",
+      "Only 0, 1, 6, 8, 9 are the valid set of digits, do a backtracking to generate all the numbers containing this digits and check they are valid."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ]
+  }
+}

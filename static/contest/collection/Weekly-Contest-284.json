@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-284",
+  "data": [
+    {
+      "id": 2566,
+      "question_id": 2320,
+      "credit": 3,
+      "title": "Find All K-Distant Indices in an Array",
+      "title_slug": "find-all-k-distant-indices-in-an-array",
+      "likes": 386,
+      "dislikes": 61
+    },
+    {
+      "id": 2567,
+      "question_id": 1312,
+      "credit": 4,
+      "title": "Count Artifacts That Can Be Extracted",
+      "title_slug": "count-artifacts-that-can-be-extracted",
+      "likes": 198,
+      "dislikes": 192
+    },
+    {
+      "id": 2568,
+      "question_id": 1346,
+      "credit": 5,
+      "title": "Maximize the Topmost Element After K Moves",
+      "title_slug": "maximize-the-topmost-element-after-k-moves",
+      "likes": 586,
+      "dislikes": 314
+    },
+    {
+      "id": 2569,
+      "question_id": 2321,
+      "credit": 6,
+      "title": "Minimum Weighted Subgraph With the Required Paths",
+      "title_slug": "minimum-weighted-subgraph-with-the-required-paths",
+      "likes": 645,
+      "dislikes": 18
+    }
+  ]
+}

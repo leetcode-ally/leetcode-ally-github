@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2669",
+      "title": "Count Artist Occurrences On Spotify Ranking List",
+      "titleSlug": "count-artist-occurrences-on-spotify-ranking-list",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 14,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.9K\", \"totalSubmission\": \"2.8K\", \"totalAcceptedRaw\": 1908, \"totalSubmissionRaw\": 2774, \"acRate\": \"68.8%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

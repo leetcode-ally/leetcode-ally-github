@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "248",
+      "title": "Strobogrammatic Number III",
+      "titleSlug": "strobogrammatic-number-iii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 297,
+      "dislikes": 186,
+      "similarQuestions": "[{\"title\": \"Strobogrammatic Number\", \"titleSlug\": \"strobogrammatic-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Strobogrammatic Number II\", \"titleSlug\": \"strobogrammatic-number-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"36.1K\", \"totalSubmission\": \"85.8K\", \"totalAcceptedRaw\": 36088, \"totalSubmissionRaw\": 85808, \"acRate\": \"42.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "strobogrammatic-number",
+        "title": "Strobogrammatic Number",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "strobogrammatic-number-ii",
+        "title": "Strobogrammatic Number II",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  }
+}

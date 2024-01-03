@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1902",
+      "title": "Depth of BST Given Insertion Order",
+      "titleSlug": "depth-of-bst-given-insertion-order",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 95,
+      "dislikes": 11,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.1K\", \"totalSubmission\": \"4.8K\", \"totalAcceptedRaw\": 2150, \"totalSubmissionRaw\": 4789, \"acRate\": \"44.9%\"}",
+      "hints": [
+        "There are at most 2 possible places where a new node can be inserted?",
+        "How can we keep track of the depth of each node?"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "There are at most 2 possible places where a new node can be inserted?",
+      "How can we keep track of the depth of each node?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  }
+}

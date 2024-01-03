@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1858",
+      "title": "Longest Word With All Prefixes",
+      "titleSlug": "longest-word-with-all-prefixes",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 173,
+      "dislikes": 6,
+      "similarQuestions": "[{\"title\": \"Longest Word in Dictionary\", \"titleSlug\": \"longest-word-in-dictionary\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"7K\", \"totalSubmission\": \"10.4K\", \"totalAcceptedRaw\": 7048, \"totalSubmissionRaw\": 10383, \"acRate\": \"67.9%\"}",
+      "hints": [
+        "Add all the words to a trie.",
+        "Check the longest path where all the nodes are words."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "longest-word-in-dictionary",
+        "title": "Longest Word in Dictionary",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Add all the words to a trie.",
+      "Check the longest path where all the nodes are words."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2361",
+      "title": "Minimum Costs Using the Train Line",
+      "titleSlug": "minimum-costs-using-the-train-line",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 175,
+      "dislikes": 29,
+      "similarQuestions": "[{\"title\": \"Bus Routes\", \"titleSlug\": \"bus-routes\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Distance Between Bus Stops\", \"titleSlug\": \"distance-between-bus-stops\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.4K\", \"totalSubmission\": \"11.8K\", \"totalAcceptedRaw\": 9392, \"totalSubmissionRaw\": 11850, \"acRate\": \"79.3%\"}",
+      "hints": [
+        "Notice and evaluate the different ways there are to move from one stop to the next.",
+        "From the express route at a previous stop, we can use either the express route or the regular route to the next stop without paying expressCost.",
+        "From the regular route at a previous stop, we can either use the express route after paying expressCost or use the regular route without paying expressCost.",
+        "Iterate through the stops and compare the above cases to obtain the minimum costs for each stop."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "bus-routes",
+        "title": "Bus Routes",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "distance-between-bus-stops",
+        "title": "Distance Between Bus Stops",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Notice and evaluate the different ways there are to move from one stop to the next.",
+      "From the express route at a previous stop, we can use either the express route or the regular route to the next stop without paying expressCost.",
+      "From the regular route at a previous stop, we can either use the express route after paying expressCost or use the regular route without paying expressCost.",
+      "Iterate through the stops and compare the above cases to obtain the minimum costs for each stop."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

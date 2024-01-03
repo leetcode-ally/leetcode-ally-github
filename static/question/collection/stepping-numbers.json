@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1215",
+      "title": "Stepping Numbers",
+      "titleSlug": "stepping-numbers",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 180,
+      "dislikes": 20,
+      "similarQuestions": "[{\"title\": \"Count Stepping Numbers in Range\", \"titleSlug\": \"count-stepping-numbers-in-range\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.1K\", \"totalSubmission\": \"19.4K\", \"totalAcceptedRaw\": 9076, \"totalSubmissionRaw\": 19393, \"acRate\": \"46.8%\"}",
+      "hints": [
+        "Try to generate the numbers using recursion.",
+        "In one step in the recursion, add a valid digit to the right of the current number.",
+        "Save the number if it's in the range between low and high."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-stepping-numbers-in-range",
+        "title": "Count Stepping Numbers in Range",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to generate the numbers using recursion.",
+      "In one step in the recursion, add a valid digit to the right of the current number.",
+      "Save the number if it's in the range between low and high."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  }
+}

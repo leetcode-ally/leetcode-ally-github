@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "613",
+      "title": "Shortest Distance in a Line",
+      "titleSlug": "shortest-distance-in-a-line",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 314,
+      "dislikes": 40,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"67.7K\", \"totalSubmission\": \"84.3K\", \"totalAcceptedRaw\": 67673, \"totalSubmissionRaw\": 84257, \"acRate\": \"80.3%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

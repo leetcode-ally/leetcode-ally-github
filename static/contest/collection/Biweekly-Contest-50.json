@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-50",
+  "data": [
+    {
+      "id": 1986,
+      "question_id": 1938,
+      "credit": 3,
+      "title": "Minimum Operations to Make the Array Increasing",
+      "title_slug": "minimum-operations-to-make-the-array-increasing",
+      "likes": 1169,
+      "dislikes": 55
+    },
+    {
+      "id": 1987,
+      "question_id": 1939,
+      "credit": 4,
+      "title": "Queries on Number of Points Inside a Circle",
+      "title_slug": "queries-on-number-of-points-inside-a-circle",
+      "likes": 1105,
+      "dislikes": 80
+    },
+    {
+      "id": 1988,
+      "question_id": 1940,
+      "credit": 5,
+      "title": "Maximum XOR for Each Query",
+      "title_slug": "maximum-xor-for-each-query",
+      "likes": 737,
+      "dislikes": 57
+    },
+    {
+      "id": 1989,
+      "question_id": 1941,
+      "credit": 6,
+      "title": "Minimum Number of Operations to Make String Sorted",
+      "title_slug": "minimum-number-of-operations-to-make-string-sorted",
+      "likes": 173,
+      "dislikes": 124
+    }
+  ]
+}

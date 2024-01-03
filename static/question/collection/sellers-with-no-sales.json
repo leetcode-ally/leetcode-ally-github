@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1607",
+      "title": "Sellers With No Sales",
+      "titleSlug": "sellers-with-no-sales",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 126,
+      "dislikes": 14,
+      "similarQuestions": "[{\"title\": \"Customer Who Visited but Did Not Make Any Transactions\", \"titleSlug\": \"customer-who-visited-but-did-not-make-any-transactions\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"29.9K\", \"totalSubmission\": \"55.2K\", \"totalAcceptedRaw\": 29868, \"totalSubmissionRaw\": 55235, \"acRate\": \"54.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+        "title": "Customer Who Visited but Did Not Make Any Transactions",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

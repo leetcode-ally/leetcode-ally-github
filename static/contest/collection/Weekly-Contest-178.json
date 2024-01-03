@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-178",
+  "data": [
+    {
+      "id": 1262,
+      "question_id": 1482,
+      "credit": 3,
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "likes": 5253,
+      "dislikes": 120
+    },
+    {
+      "id": 1263,
+      "question_id": 1483,
+      "credit": 4,
+      "title": "Rank Teams by Votes",
+      "title_slug": "rank-teams-by-votes",
+      "likes": 1370,
+      "dislikes": 154
+    },
+    {
+      "id": 1264,
+      "question_id": 1484,
+      "credit": 5,
+      "title": "Linked List in Binary Tree",
+      "title_slug": "linked-list-in-binary-tree",
+      "likes": 2170,
+      "dislikes": 65
+    },
+    {
+      "id": 1265,
+      "question_id": 1485,
+      "credit": 7,
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "title_slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+      "likes": 1674,
+      "dislikes": 18
+    }
+  ]
+}

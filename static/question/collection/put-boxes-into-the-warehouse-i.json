@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1564",
+      "title": "Put Boxes Into the Warehouse I",
+      "titleSlug": "put-boxes-into-the-warehouse-i",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 320,
+      "dislikes": 27,
+      "similarQuestions": "[{\"title\": \"Put Boxes Into the Warehouse II\", \"titleSlug\": \"put-boxes-into-the-warehouse-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"15K\", \"totalSubmission\": \"22.4K\", \"totalAcceptedRaw\": 14988, \"totalSubmissionRaw\": 22365, \"acRate\": \"67.0%\"}",
+      "hints": [
+        "Sort the boxes in ascending order, try to process the box with the smallest height first."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "put-boxes-into-the-warehouse-ii",
+        "title": "Put Boxes Into the Warehouse II",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Sort the boxes in ascending order, try to process the box with the smallest height first."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

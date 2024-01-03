@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-368",
+  "data": [
+    {
+      "id": 3582,
+      "question_id": 3176,
+      "credit": 3,
+      "title": "Minimum Sum of Mountain Triplets I",
+      "title_slug": "minimum-sum-of-mountain-triplets-i",
+      "likes": 127,
+      "dislikes": 6
+    },
+    {
+      "id": 3583,
+      "question_id": 3186,
+      "credit": 4,
+      "title": "Minimum Sum of Mountain Triplets II",
+      "title_slug": "minimum-sum-of-mountain-triplets-ii",
+      "likes": 165,
+      "dislikes": 4
+    },
+    {
+      "id": 3584,
+      "question_id": 3166,
+      "credit": 5,
+      "title": "Minimum Number of Groups to Create a Valid Assignment",
+      "title_slug": "minimum-number-of-groups-to-create-a-valid-assignment",
+      "likes": 241,
+      "dislikes": 154
+    },
+    {
+      "id": 3585,
+      "question_id": 2879,
+      "credit": 7,
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "title_slug": "minimum-changes-to-make-k-semi-palindromes",
+      "likes": 55,
+      "dislikes": 79
+    }
+  ]
+}

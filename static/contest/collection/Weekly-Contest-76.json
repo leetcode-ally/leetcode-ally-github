@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-76",
+  "data": [
+    {
+      "id": 330,
+      "question_id": 818,
+      "credit": 4,
+      "title": "Similar RGB Color",
+      "title_slug": "similar-rgb-color",
+      "likes": 105,
+      "dislikes": 679
+    },
+    {
+      "id": 334,
+      "question_id": 819,
+      "credit": 6,
+      "title": "Minimum Swaps To Make Sequences Increasing",
+      "title_slug": "minimum-swaps-to-make-sequences-increasing",
+      "likes": 2748,
+      "dislikes": 135
+    },
+    {
+      "id": 335,
+      "question_id": 820,
+      "credit": 7,
+      "title": "Find Eventual Safe States",
+      "title_slug": "find-eventual-safe-states",
+      "likes": 5435,
+      "dislikes": 439
+    },
+    {
+      "id": 336,
+      "question_id": 821,
+      "credit": 11,
+      "title": "Bricks Falling When Hit",
+      "title_slug": "bricks-falling-when-hit",
+      "likes": 1073,
+      "dislikes": 187
+    }
+  ]
+}

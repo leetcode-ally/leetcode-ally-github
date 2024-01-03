@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2158",
+      "title": "Amount of New Area Painted Each Day",
+      "titleSlug": "amount-of-new-area-painted-each-day",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 401,
+      "dislikes": 40,
+      "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Describe the Painting\", \"titleSlug\": \"describe-the-painting\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Average Height of Buildings in Each Segment\", \"titleSlug\": \"average-height-of-buildings-in-each-segment\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"27.2K\", \"totalSubmission\": \"49.5K\", \"totalAcceptedRaw\": 27227, \"totalSubmissionRaw\": 49529, \"acRate\": \"55.0%\"}",
+      "hints": [
+        "What’s a good way to keep track of intervals that you have already painted?",
+        "Create an array of all 1’s, and when you have painted an interval, set the values in that interval to 0.",
+        "Using this array, how can you quickly calculate the amount of new area that you paint on a given day?",
+        "Calculate the sum of the new array in the interval that you paint."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "merge-intervals",
+        "title": "Merge Intervals",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "describe-the-painting",
+        "title": "Describe the Painting",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "average-height-of-buildings-in-each-segment",
+        "title": "Average Height of Buildings in Each Segment",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "What’s a good way to keep track of intervals that you have already painted?",
+      "Create an array of all 1’s, and when you have painted an interval, set the values in that interval to 0.",
+      "Using this array, how can you quickly calculate the amount of new area that you paint on a given day?",
+      "Calculate the sum of the new array in the interval that you paint."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  }
+}

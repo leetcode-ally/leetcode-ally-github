@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2339",
+      "title": "All the Matches of the League",
+      "titleSlug": "all-the-matches-of-the-league",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 39,
+      "dislikes": 3,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.4K\", \"totalSubmission\": \"7.3K\", \"totalAcceptedRaw\": 6386, \"totalSubmissionRaw\": 7336, \"acRate\": \"87.1%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

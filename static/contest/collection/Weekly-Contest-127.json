@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-127",
+  "data": [
+    {
+      "id": 604,
+      "question_id": 1047,
+      "credit": 4,
+      "title": "Maximize Sum Of Array After K Negations",
+      "title_slug": "maximize-sum-of-array-after-k-negations",
+      "likes": 1490,
+      "dislikes": 106
+    },
+    {
+      "id": 605,
+      "question_id": 1048,
+      "credit": 4,
+      "title": "Clumsy Factorial",
+      "title_slug": "clumsy-factorial",
+      "likes": 351,
+      "dislikes": 345
+    },
+    {
+      "id": 606,
+      "question_id": 1049,
+      "credit": 5,
+      "title": "Minimum Domino Rotations For Equal Row",
+      "title_slug": "minimum-domino-rotations-for-equal-row",
+      "likes": 2791,
+      "dislikes": 252
+    },
+    {
+      "id": 607,
+      "question_id": 1050,
+      "credit": 6,
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "title_slug": "construct-binary-search-tree-from-preorder-traversal",
+      "likes": 5909,
+      "dislikes": 75
+    }
+  ]
+}

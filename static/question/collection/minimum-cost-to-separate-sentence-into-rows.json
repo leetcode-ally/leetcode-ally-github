@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2052",
+      "title": "Minimum Cost to Separate Sentence Into Rows",
+      "titleSlug": "minimum-cost-to-separate-sentence-into-rows",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 39,
+      "dislikes": 12,
+      "similarQuestions": "[{\"title\": \"Sentence Screen Fitting\", \"titleSlug\": \"sentence-screen-fitting\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.6K\", \"totalSubmission\": \"3.3K\", \"totalAcceptedRaw\": 1644, \"totalSubmissionRaw\": 3320, \"acRate\": \"49.5%\"}",
+      "hints": [
+        "Create an array storing all of the words in sentence separated.",
+        "Try dynamic programming.",
+        "Build a dp array where dp[i] represents the minimum total cost for the first i + 1 words."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "sentence-screen-fitting",
+        "title": "Sentence Screen Fitting",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Create an array storing all of the words in sentence separated.",
+      "Try dynamic programming.",
+      "Build a dp array where dp[i] represents the minimum total cost for the first i + 1 words."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

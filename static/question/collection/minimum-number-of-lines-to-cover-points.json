@@ -1,0 +1,118 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2152",
+      "title": "Minimum Number of Lines to Cover Points",
+      "titleSlug": "minimum-number-of-lines-to-cover-points",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 66,
+      "dislikes": 13,
+      "similarQuestions": "[{\"title\": \"Max Points on a Line\", \"titleSlug\": \"max-points-on-a-line\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Min Cost to Connect All Points\", \"titleSlug\": \"min-cost-to-connect-all-points\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Lines to Represent a Line Chart\", \"titleSlug\": \"minimum-lines-to-represent-a-line-chart\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.9K\", \"totalSubmission\": \"4.1K\", \"totalAcceptedRaw\": 1876, \"totalSubmissionRaw\": 4145, \"acRate\": \"45.3%\"}",
+      "hints": [
+        "What is the highest possible answer for a set of n points?",
+        "The highest possible answer is n / 2 (rounded up). This is because you can cover at least two points with a line, and if n is odd, you need to add one extra line to cover the last point.",
+        "Suppose you have a line covering two points, how can you quickly check if a third point is also covered by that line?",
+        "Calculate the slope from the first point to the second point. If the slope from the first point to the third point is the same, then it is also covered by that line."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "max-points-on-a-line",
+        "title": "Max Points on a Line",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "min-cost-to-connect-all-points",
+        "title": "Min Cost to Connect All Points",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-lines-to-represent-a-line-chart",
+        "title": "Minimum Lines to Represent a Line Chart",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "What is the highest possible answer for a set of n points?",
+      "The highest possible answer is n / 2 (rounded up). This is because you can cover at least two points with a line, and if n is odd, you need to add one extra line to cover the last point.",
+      "Suppose you have a line covering two points, how can you quickly check if a third point is also covered by that line?",
+      "Calculate the slope from the first point to the second point. If the slope from the first point to the third point is the same, then it is also covered by that line."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ]
+  }
+}

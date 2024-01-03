@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1747",
+      "title": "Leetflex Banned Accounts",
+      "titleSlug": "leetflex-banned-accounts",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 175,
+      "dislikes": 13,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"18.5K\", \"totalSubmission\": \"28.3K\", \"totalAcceptedRaw\": 18542, \"totalSubmissionRaw\": 28291, \"acRate\": \"65.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

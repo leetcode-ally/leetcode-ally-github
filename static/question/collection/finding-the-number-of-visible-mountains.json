@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2345",
+      "title": "Finding the Number of Visible Mountains",
+      "titleSlug": "finding-the-number-of-visible-mountains",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 136,
+      "dislikes": 64,
+      "similarQuestions": "[{\"title\": \"Buildings With an Ocean View\", \"titleSlug\": \"buildings-with-an-ocean-view\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.6K\", \"totalSubmission\": \"17.3K\", \"totalAcceptedRaw\": 6583, \"totalSubmissionRaw\": 17276, \"acRate\": \"38.1%\"}",
+      "hints": [
+        "How can we efficiently find for each mountain the relevant mountains to compare itself against to check whether or not it would be visible?",
+        "Do you notice a pattern after sorting the peaks by their x-coordinates?",
+        "After sorting, process the peaks sequentially and use a monotonic stack to store currently visible mountains."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "buildings-with-an-ocean-view",
+        "title": "Buildings With an Ocean View",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "How can we efficiently find for each mountain the relevant mountains to compare itself against to check whether or not it would be visible?",
+      "Do you notice a pattern after sorting the peaks by their x-coordinates?",
+      "After sorting, process the peaks sequentially and use a monotonic stack to store currently visible mountains."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  }
+}

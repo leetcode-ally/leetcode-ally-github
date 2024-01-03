@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-310",
+  "data": [
+    {
+      "id": 2890,
+      "question_id": 2486,
+      "credit": 3,
+      "title": "Most Frequent Even Element",
+      "title_slug": "most-frequent-even-element",
+      "likes": 868,
+      "dislikes": 30
+    },
+    {
+      "id": 2891,
+      "question_id": 2487,
+      "credit": 4,
+      "title": "Optimal Partition of String",
+      "title_slug": "optimal-partition-of-string",
+      "likes": 2488,
+      "dislikes": 98
+    },
+    {
+      "id": 2892,
+      "question_id": 2488,
+      "credit": 5,
+      "title": "Divide Intervals Into Minimum Number of Groups",
+      "title_slug": "divide-intervals-into-minimum-number-of-groups",
+      "likes": 740,
+      "dislikes": 10
+    },
+    {
+      "id": 2893,
+      "question_id": 2526,
+      "credit": 7,
+      "title": "Longest Increasing Subsequence II",
+      "title_slug": "longest-increasing-subsequence-ii",
+      "likes": 789,
+      "dislikes": 33
+    }
+  ]
+}

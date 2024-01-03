@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-79",
+  "data": [
+    {
+      "id": 2714,
+      "question_id": 2377,
+      "credit": 3,
+      "title": "Check if Number Has Equal Digit Count and Digit Value",
+      "title_slug": "check-if-number-has-equal-digit-count-and-digit-value",
+      "likes": 555,
+      "dislikes": 67
+    },
+    {
+      "id": 2715,
+      "question_id": 2378,
+      "credit": 4,
+      "title": "Sender With Largest Word Count",
+      "title_slug": "sender-with-largest-word-count",
+      "likes": 399,
+      "dislikes": 36
+    },
+    {
+      "id": 2716,
+      "question_id": 2379,
+      "credit": 5,
+      "title": "Maximum Total Importance of Roads",
+      "title_slug": "maximum-total-importance-of-roads",
+      "likes": 700,
+      "dislikes": 28
+    },
+    {
+      "id": 2717,
+      "question_id": 2380,
+      "credit": 6,
+      "title": "Booking Concert Tickets in Groups",
+      "title_slug": "booking-concert-tickets-in-groups",
+      "likes": 307,
+      "dislikes": 54
+    }
+  ]
+}

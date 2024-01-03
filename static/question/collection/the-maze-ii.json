@@ -1,0 +1,94 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "505",
+      "title": "The Maze II",
+      "titleSlug": "the-maze-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1305,
+      "dislikes": 56,
+      "similarQuestions": "[{\"title\": \"The Maze\", \"titleSlug\": \"the-maze\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"The Maze III\", \"titleSlug\": \"the-maze-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"103.9K\", \"totalSubmission\": \"195.1K\", \"totalAcceptedRaw\": 103854, \"totalSubmissionRaw\": 195128, \"acRate\": \"53.2%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "the-maze",
+        "title": "The Maze",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "the-maze-iii",
+        "title": "The Maze III",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  }
+}

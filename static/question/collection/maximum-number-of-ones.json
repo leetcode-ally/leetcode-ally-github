@@ -1,0 +1,51 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1183",
+      "title": "Maximum Number of Ones",
+      "titleSlug": "maximum-number-of-ones",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 158,
+      "dislikes": 26,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.6K\", \"totalSubmission\": \"6.8K\", \"totalAcceptedRaw\": 4604, \"totalSubmissionRaw\": 6779, \"acRate\": \"67.9%\"}",
+      "hints": [
+        "Think of a greedy mathematical solution.",
+        "Say you choose to set some cell (i, j) to 1, all cells (x, y) such that i % sideLength == x % sideLength and j % sideLength == y % sideLength can also be set to 1 without increasing the max number of ones in a sub-matrix.",
+        "In one move, choose to set all the cells with some modulus (i % sideLength, j % sideLength) to 1.",
+        "Choose the cells with max frequency."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Think of a greedy mathematical solution.",
+      "Say you choose to set some cell (i, j) to 1, all cells (x, y) such that i % sideLength == x % sideLength and j % sideLength == y % sideLength can also be set to 1 without increasing the max number of ones in a sub-matrix.",
+      "In one move, choose to set all the cells with some modulus (i % sideLength, j % sideLength) to 1.",
+      "Choose the cells with max frequency."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

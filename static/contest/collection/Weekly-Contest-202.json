@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-202",
+  "data": [
+    {
+      "id": 1550,
+      "question_id": 1293,
+      "credit": 3,
+      "title": "Three Consecutive Odds",
+      "title_slug": "three-consecutive-odds",
+      "likes": 623,
+      "dislikes": 62
+    },
+    {
+      "id": 1551,
+      "question_id": 1674,
+      "credit": 4,
+      "title": "Minimum Operations to Make Array Equal",
+      "title_slug": "minimum-operations-to-make-array-equal",
+      "likes": 1402,
+      "dislikes": 174
+    },
+    {
+      "id": 1552,
+      "question_id": 1675,
+      "credit": 5,
+      "title": "Magnetic Force Between Two Balls",
+      "title_slug": "magnetic-force-between-two-balls",
+      "likes": 2058,
+      "dislikes": 109
+    },
+    {
+      "id": 1553,
+      "question_id": 1676,
+      "credit": 6,
+      "title": "Minimum Number of Days to Eat N Oranges",
+      "title_slug": "minimum-number-of-days-to-eat-n-oranges",
+      "likes": 956,
+      "dislikes": 56
+    }
+  ]
+}

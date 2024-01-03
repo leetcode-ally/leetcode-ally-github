@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-186",
+  "data": [
+    {
+      "id": 1358,
+      "question_id": 1537,
+      "credit": 3,
+      "title": "Maximum Score After Splitting a String",
+      "title_slug": "maximum-score-after-splitting-a-string",
+      "likes": 1475,
+      "dislikes": 60
+    },
+    {
+      "id": 1359,
+      "question_id": 1538,
+      "credit": 4,
+      "title": "Maximum Points You Can Obtain from Cards",
+      "title_slug": "maximum-points-you-can-obtain-from-cards",
+      "likes": 5843,
+      "dislikes": 214
+    },
+    {
+      "id": 1360,
+      "question_id": 1539,
+      "credit": 5,
+      "title": "Diagonal Traverse II",
+      "title_slug": "diagonal-traverse-ii",
+      "likes": 2079,
+      "dislikes": 149
+    },
+    {
+      "id": 1361,
+      "question_id": 1286,
+      "credit": 6,
+      "title": "Constrained Subsequence Sum",
+      "title_slug": "constrained-subsequence-sum",
+      "likes": 2006,
+      "dislikes": 101
+    }
+  ]
+}

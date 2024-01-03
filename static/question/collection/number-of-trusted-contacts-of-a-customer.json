@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1364",
+      "title": "Number of Trusted Contacts of a Customer",
+      "titleSlug": "number-of-trusted-contacts-of-a-customer",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 87,
+      "dislikes": 376,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"18.6K\", \"totalSubmission\": \"24.7K\", \"totalAcceptedRaw\": 18641, \"totalSubmissionRaw\": 24699, \"acRate\": \"75.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1651",
+      "title": "Hopper Company Queries III",
+      "titleSlug": "hopper-company-queries-iii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 34,
+      "dislikes": 61,
+      "similarQuestions": "[{\"title\": \"Trips and Users\", \"titleSlug\": \"trips-and-users\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Hopper Company Queries I\", \"titleSlug\": \"hopper-company-queries-i\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Hopper Company Queries II\", \"titleSlug\": \"hopper-company-queries-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Number of Times a Driver Was a Passenger\", \"titleSlug\": \"number-of-times-a-driver-was-a-passenger\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.1K\", \"totalSubmission\": \"9.3K\", \"totalAcceptedRaw\": 6094, \"totalSubmissionRaw\": 9266, \"acRate\": \"65.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "trips-and-users",
+        "title": "Trips and Users",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "hopper-company-queries-i",
+        "title": "Hopper Company Queries I",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "hopper-company-queries-ii",
+        "title": "Hopper Company Queries II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-times-a-driver-was-a-passenger",
+        "title": "Number of Times a Driver Was a Passenger",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

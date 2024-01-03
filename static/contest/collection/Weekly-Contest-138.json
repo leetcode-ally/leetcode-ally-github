@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-138",
+  "data": [
+    {
+      "id": 737,
+      "question_id": 1137,
+      "credit": 2,
+      "title": "Height Checker",
+      "title_slug": "height-checker",
+      "likes": 1104,
+      "dislikes": 75
+    },
+    {
+      "id": 740,
+      "question_id": 1138,
+      "credit": 6,
+      "title": "Grumpy Bookstore Owner",
+      "title_slug": "grumpy-bookstore-owner",
+      "likes": 1642,
+      "dislikes": 129
+    },
+    {
+      "id": 739,
+      "question_id": 1139,
+      "credit": 6,
+      "title": "Previous Permutation With One Swap",
+      "title_slug": "previous-permutation-with-one-swap",
+      "likes": 424,
+      "dislikes": 36
+    },
+    {
+      "id": 738,
+      "question_id": 1140,
+      "credit": 6,
+      "title": "Distant Barcodes",
+      "title_slug": "distant-barcodes",
+      "likes": 1222,
+      "dislikes": 49
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-54",
+  "data": [
+    {
+      "id": 2082,
+      "question_id": 2005,
+      "credit": 3,
+      "title": "Check if All the Integers in a Range Are Covered",
+      "title_slug": "check-if-all-the-integers-in-a-range-are-covered",
+      "likes": 557,
+      "dislikes": 103
+    },
+    {
+      "id": 2083,
+      "question_id": 2006,
+      "credit": 4,
+      "title": "Find the Student that Will Replace the Chalk",
+      "title_slug": "find-the-student-that-will-replace-the-chalk",
+      "likes": 553,
+      "dislikes": 65
+    },
+    {
+      "id": 2084,
+      "question_id": 1311,
+      "credit": 5,
+      "title": "Largest Magic Square",
+      "title_slug": "largest-magic-square",
+      "likes": 281,
+      "dislikes": 252
+    },
+    {
+      "id": 2085,
+      "question_id": 2008,
+      "credit": 6,
+      "title": "Minimum Cost to Change the Final Value of Expression",
+      "title_slug": "minimum-cost-to-change-the-final-value-of-expression",
+      "likes": 229,
+      "dislikes": 40
+    }
+  ]
+}

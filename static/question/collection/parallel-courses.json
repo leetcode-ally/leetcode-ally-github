@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1136",
+      "title": "Parallel Courses",
+      "titleSlug": "parallel-courses",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1103,
+      "dislikes": 24,
+      "similarQuestions": "[{\"title\": \"Course Schedule II\", \"titleSlug\": \"course-schedule-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Parallel Courses II\", \"titleSlug\": \"parallel-courses-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Parallel Courses III\", \"titleSlug\": \"parallel-courses-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"74.9K\", \"totalSubmission\": \"122K\", \"totalAcceptedRaw\": 74863, \"totalSubmissionRaw\": 122041, \"acRate\": \"61.3%\"}",
+      "hints": [
+        "Try to think of it as a graph problem. It will be impossible to study all the courses if the graph had a cycle.",
+        "The graph is a directed acyclic graph (DAG). The answer is the longes path in this DAG.",
+        "You can use DP to find the longest path in the DAG."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "course-schedule-ii",
+        "title": "Course Schedule II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "parallel-courses-ii",
+        "title": "Parallel Courses II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "parallel-courses-iii",
+        "title": "Parallel Courses III",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to think of it as a graph problem. It will be impossible to study all the courses if the graph had a cycle.",
+      "The graph is a directed acyclic graph (DAG). The answer is the longes path in this DAG.",
+      "You can use DP to find the longest path in the DAG."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      }
+    ]
+  }
+}

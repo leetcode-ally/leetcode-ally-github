@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "549",
+      "title": "Binary Tree Longest Consecutive Sequence II",
+      "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1141,
+      "dislikes": 91,
+      "similarQuestions": "[{\"title\": \"Binary Tree Longest Consecutive Sequence\", \"titleSlug\": \"binary-tree-longest-consecutive-sequence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Check if an Array Is Consecutive\", \"titleSlug\": \"check-if-an-array-is-consecutive\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"52.5K\", \"totalSubmission\": \"106.2K\", \"totalAcceptedRaw\": 52503, \"totalSubmissionRaw\": 106196, \"acRate\": \"49.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-tree-longest-consecutive-sequence",
+        "title": "Binary Tree Longest Consecutive Sequence",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "check-if-an-array-is-consecutive",
+        "title": "Check if an Array Is Consecutive",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

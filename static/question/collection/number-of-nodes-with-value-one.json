@@ -1,0 +1,65 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2445",
+      "title": "Number of Nodes With Value One",
+      "titleSlug": "number-of-nodes-with-value-one",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 72,
+      "dislikes": 7,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.7K\", \"totalSubmission\": \"2.5K\", \"totalAcceptedRaw\": 1707, \"totalSubmissionRaw\": 2451, \"acRate\": \"69.6%\"}",
+      "hints": [
+        "The relative order of processing queries does not matter.",
+        "If we know that for some node v, its parent was updated some number of times, then we know that node v was also updated that number of times.",
+        "Iterate on nodes from highest to lowest and count the number of times the query was performed on that node and the number of times this node was updated from its parent (direct or indirect). The parity of that number is the answer."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "The relative order of processing queries does not matter.",
+      "If we know that for some node v, its parent was updated some number of times, then we know that node v was also updated that number of times.",
+      "Iterate on nodes from highest to lowest and count the number of times the query was performed on that node and the number of times this node was updated from its parent (direct or indirect). The parity of that number is the answer."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

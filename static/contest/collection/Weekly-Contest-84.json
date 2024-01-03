@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-84",
+  "data": [
+    {
+      "id": 365,
+      "question_id": 861,
+      "credit": 3,
+      "title": "Flipping an Image",
+      "title_slug": "flipping-an-image",
+      "likes": 3343,
+      "dislikes": 236
+    },
+    {
+      "id": 366,
+      "question_id": 862,
+      "credit": 4,
+      "title": "Find And Replace in String",
+      "title_slug": "find-and-replace-in-string",
+      "likes": 1144,
+      "dislikes": 976
+    },
+    {
+      "id": 367,
+      "question_id": 864,
+      "credit": 6,
+      "title": "Image Overlap",
+      "title_slug": "image-overlap",
+      "likes": 1301,
+      "dislikes": 470
+    },
+    {
+      "id": 368,
+      "question_id": 863,
+      "credit": 9,
+      "title": "Sum of Distances in Tree",
+      "title_slug": "sum-of-distances-in-tree",
+      "likes": 4904,
+      "dislikes": 109
+    }
+  ]
+}

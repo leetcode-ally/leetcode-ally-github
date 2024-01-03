@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2692",
+      "title": "Make Object Immutable",
+      "titleSlug": "make-object-immutable",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 15,
+      "dislikes": 0,
+      "similarQuestions": "[{\"title\": \"Infinite Method Object\", \"titleSlug\": \"infinite-method-object\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Immutability Helper\", \"titleSlug\": \"immutability-helper\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"290\", \"totalSubmission\": \"462\", \"totalAcceptedRaw\": 290, \"totalSubmissionRaw\": 462, \"acRate\": \"62.8%\"}",
+      "hints": [
+        "Javascript has the concept of Proxy. That concept is critical to this problem.",
+        "Recursively use proxy so that the user of the object is only able to access a proxy object.",
+        "Override how set works. It should throw the correct error instead of actually setting a value."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "infinite-method-object",
+        "title": "Infinite Method Object",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "immutability-helper",
+        "title": "Immutability Helper",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Javascript has the concept of Proxy. That concept is critical to this problem.",
+      "Recursively use proxy so that the user of the object is only able to access a proxy object.",
+      "Override how set works. It should throw the correct error instead of actually setting a value."
+    ],
+    "relatedTopics": []
+  }
+}

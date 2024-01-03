@@ -1,0 +1,88 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "323",
+      "title": "Number of Connected Components in an Undirected Graph",
+      "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 2612,
+      "dislikes": 99,
+      "similarQuestions": "[{\"title\": \"Number of Islands\", \"titleSlug\": \"number-of-islands\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Graph Valid Tree\", \"titleSlug\": \"graph-valid-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Provinces\", \"titleSlug\": \"number-of-provinces\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Paths in Maze That Lead to Same Room\", \"titleSlug\": \"paths-in-maze-that-lead-to-same-room\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count the Number of Complete Components\", \"titleSlug\": \"count-the-number-of-complete-components\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"373.1K\", \"totalSubmission\": \"596.2K\", \"totalAcceptedRaw\": 373053, \"totalSubmissionRaw\": 596203, \"acRate\": \"62.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-islands",
+        "title": "Number of Islands",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "graph-valid-tree",
+        "title": "Graph Valid Tree",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-provinces",
+        "title": "Number of Provinces",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "paths-in-maze-that-lead-to-same-room",
+        "title": "Paths in Maze That Lead to Same Room",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-the-number-of-complete-components",
+        "title": "Count the Number of Complete Components",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ]
+  }
+}

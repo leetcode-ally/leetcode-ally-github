@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1821",
+      "title": "Find Customers With Positive Revenue this Year",
+      "titleSlug": "find-customers-with-positive-revenue-this-year",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 56,
+      "dislikes": 25,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"19.8K\", \"totalSubmission\": \"22.5K\", \"totalAcceptedRaw\": 19844, \"totalSubmissionRaw\": 22511, \"acRate\": \"88.2%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

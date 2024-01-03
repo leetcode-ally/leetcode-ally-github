@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-18",
+  "data": [
+    {
+      "id": 1206,
+      "question_id": 1256,
+      "credit": 3,
+      "title": "Rank Transform of an Array",
+      "title_slug": "rank-transform-of-an-array",
+      "likes": 1619,
+      "dislikes": 82
+    },
+    {
+      "id": 1207,
+      "question_id": 1252,
+      "credit": 4,
+      "title": "Break a Palindrome",
+      "title_slug": "break-a-palindrome",
+      "likes": 2260,
+      "dislikes": 735
+    },
+    {
+      "id": 1208,
+      "question_id": 1253,
+      "credit": 5,
+      "title": "Sort the Matrix Diagonally",
+      "title_slug": "sort-the-matrix-diagonally",
+      "likes": 3302,
+      "dislikes": 223
+    },
+    {
+      "id": 1209,
+      "question_id": 1255,
+      "credit": 10,
+      "title": "Reverse Subarray To Maximize Array Value",
+      "title_slug": "reverse-subarray-to-maximize-array-value",
+      "likes": 468,
+      "dislikes": 54
+    }
+  ]
+}

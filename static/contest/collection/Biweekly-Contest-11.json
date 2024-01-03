@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-11",
+  "data": [
+    {
+      "id": 1030,
+      "question_id": 1164,
+      "credit": 3,
+      "title": "Missing Number In Arithmetic Progression",
+      "title_slug": "missing-number-in-arithmetic-progression",
+      "likes": 309,
+      "dislikes": 42
+    },
+    {
+      "id": 1031,
+      "question_id": 1165,
+      "credit": 5,
+      "title": "Meeting Scheduler",
+      "title_slug": "meeting-scheduler",
+      "likes": 869,
+      "dislikes": 33
+    },
+    {
+      "id": 1032,
+      "question_id": 1166,
+      "credit": 5,
+      "title": "Toss Strange Coins",
+      "title_slug": "toss-strange-coins",
+      "likes": 379,
+      "dislikes": 46
+    },
+    {
+      "id": 1033,
+      "question_id": 1192,
+      "credit": 7,
+      "title": "Divide Chocolate",
+      "title_slug": "divide-chocolate",
+      "likes": 946,
+      "dislikes": 54
+    }
+  ]
+}

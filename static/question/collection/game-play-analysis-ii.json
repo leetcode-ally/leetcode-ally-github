@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "512",
+      "title": "Game Play Analysis II",
+      "titleSlug": "game-play-analysis-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 259,
+      "dislikes": 42,
+      "similarQuestions": "[{\"title\": \"Game Play Analysis I\", \"titleSlug\": \"game-play-analysis-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Game Play Analysis III\", \"titleSlug\": \"game-play-analysis-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"81.1K\", \"totalSubmission\": \"154.6K\", \"totalAcceptedRaw\": 81114, \"totalSubmissionRaw\": 154612, \"acRate\": \"52.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "game-play-analysis-i",
+        "title": "Game Play Analysis I",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "game-play-analysis-iii",
+        "title": "Game Play Analysis III",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

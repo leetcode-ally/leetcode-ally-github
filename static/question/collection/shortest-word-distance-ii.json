@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "244",
+      "title": "Shortest Word Distance II",
+      "titleSlug": "shortest-word-distance-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1036,
+      "dislikes": 323,
+      "similarQuestions": "[{\"title\": \"Merge Two Sorted Lists\", \"titleSlug\": \"merge-two-sorted-lists\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Shortest Word Distance\", \"titleSlug\": \"shortest-word-distance\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Shortest Word Distance III\", \"titleSlug\": \"shortest-word-distance-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"150.4K\", \"totalSubmission\": \"246.3K\", \"totalAcceptedRaw\": 150444, \"totalSubmissionRaw\": 246335, \"acRate\": \"61.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "merge-two-sorted-lists",
+        "title": "Merge Two Sorted Lists",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "shortest-word-distance",
+        "title": "Shortest Word Distance",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "shortest-word-distance-iii",
+        "title": "Shortest Word Distance III",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ]
+  }
+}

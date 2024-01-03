@@ -1,0 +1,80 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1161",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "titleSlug": "maximum-level-sum-of-a-binary-tree",
+      "content": "<p>Given the <code>root</code> of a binary tree, the level of its root is <code>1</code>, the level of its children is <code>2</code>, and so on.</p>\n\n<p>Return the <strong>smallest</strong> level <code>x</code> such that the sum of all the values of nodes at level <code>x</code> is <strong>maximal</strong>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2019/05/03/capture.JPG\" style=\"width: 200px; height: 175px;\" />\n<pre>\n<strong>Input:</strong> root = [1,7,0,7,-8,null,null]\n<strong>Output:</strong> 2\n<strong>Explanation: </strong>\nLevel 1 sum = 1.\nLevel 2 sum = 7 + 0 = 7.\nLevel 3 sum = 7 + -8 = -1.\nSo we return the level with the maximum sum which is level 2.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> root = [989,null,10250,98693,-89388,null,null,null,-32127]\n<strong>Output:</strong> 2\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The number of nodes in the tree is in the range <code>[1, 10<sup>4</sup>]</code>.</li>\n\t<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 3386,
+      "dislikes": 97,
+      "similarQuestions": "[{\"title\": \"Kth Largest Sum in a Binary Tree\", \"titleSlug\": \"kth-largest-sum-in-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Cousins in Binary Tree II\", \"titleSlug\": \"cousins-in-binary-tree-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"239.6K\", \"totalSubmission\": \"356.3K\", \"totalAcceptedRaw\": 239550, \"totalSubmissionRaw\": 356262, \"acRate\": \"67.2%\"}",
+      "hints": [
+        "Calculate the sum for each level then find the level with the maximum sum.",
+        "How can you traverse the tree ?",
+        "How can you sum up the values for every level ?",
+        "Use DFS or BFS to traverse the tree keeping the level of each node, and sum up those values with a map or a frequency array."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "kth-largest-sum-in-a-binary-tree",
+        "title": "Kth Largest Sum in a Binary Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "cousins-in-binary-tree-ii",
+        "title": "Cousins in Binary Tree II",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Calculate the sum for each level then find the level with the maximum sum.",
+      "How can you traverse the tree ?",
+      "How can you sum up the values for every level ?",
+      "Use DFS or BFS to traverse the tree keeping the level of each node, and sum up those values with a map or a frequency array."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

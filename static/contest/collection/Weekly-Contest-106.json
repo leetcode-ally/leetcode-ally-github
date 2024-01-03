@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-106",
+  "data": [
+    {
+      "id": 460,
+      "question_id": 958,
+      "credit": 3,
+      "title": "Sort Array By Parity II",
+      "title_slug": "sort-array-by-parity-ii",
+      "likes": 2531,
+      "dislikes": 91
+    },
+    {
+      "id": 461,
+      "question_id": 957,
+      "credit": 4,
+      "title": "Minimum Add to Make Parentheses Valid",
+      "title_slug": "minimum-add-to-make-parentheses-valid",
+      "likes": 3868,
+      "dislikes": 184
+    },
+    {
+      "id": 462,
+      "question_id": 959,
+      "credit": 6,
+      "title": "3Sum With Multiplicity",
+      "title_slug": "3sum-with-multiplicity",
+      "likes": 2575,
+      "dislikes": 309
+    },
+    {
+      "id": 463,
+      "question_id": 960,
+      "credit": 7,
+      "title": "Minimize Malware Spread",
+      "title_slug": "minimize-malware-spread",
+      "likes": 939,
+      "dislikes": 558
+    }
+  ]
+}

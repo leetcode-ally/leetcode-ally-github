@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-189",
+  "data": [
+    {
+      "id": 1394,
+      "question_id": 1560,
+      "credit": 3,
+      "title": "Number of Students Doing Homework at a Given Time",
+      "title_slug": "number-of-students-doing-homework-at-a-given-time",
+      "likes": 852,
+      "dislikes": 152
+    },
+    {
+      "id": 1395,
+      "question_id": 1561,
+      "credit": 4,
+      "title": "Rearrange Words in a Sentence",
+      "title_slug": "rearrange-words-in-a-sentence",
+      "likes": 723,
+      "dislikes": 73
+    },
+    {
+      "id": 1396,
+      "question_id": 1562,
+      "credit": 5,
+      "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+      "title_slug": "people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+      "likes": 328,
+      "dislikes": 223
+    },
+    {
+      "id": 1397,
+      "question_id": 1563,
+      "credit": 7,
+      "title": "Maximum Number of Darts Inside of a Circular Dartboard",
+      "title_slug": "maximum-number-of-darts-inside-of-a-circular-dartboard",
+      "likes": 139,
+      "dislikes": 266
+    }
+  ]
+}

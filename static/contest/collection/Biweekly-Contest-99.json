@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-99",
+  "data": [
+    {
+      "id": 3187,
+      "question_id": 2650,
+      "credit": 3,
+      "title": "Split With Minimum Sum",
+      "title_slug": "split-with-minimum-sum",
+      "likes": 333,
+      "dislikes": 27
+    },
+    {
+      "id": 3188,
+      "question_id": 2649,
+      "credit": 4,
+      "title": "Count Total Number of Colored Cells",
+      "title_slug": "count-total-number-of-colored-cells",
+      "likes": 273,
+      "dislikes": 18
+    },
+    {
+      "id": 3189,
+      "question_id": 2651,
+      "credit": 5,
+      "title": "Count Ways to Group Overlapping Ranges",
+      "title_slug": "count-ways-to-group-overlapping-ranges",
+      "likes": 294,
+      "dislikes": 18
+    },
+    {
+      "id": 3190,
+      "question_id": 2652,
+      "credit": 6,
+      "title": "Count Number of Possible Root Nodes",
+      "title_slug": "count-number-of-possible-root-nodes",
+      "likes": 282,
+      "dislikes": 7
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1427",
+      "title": "Perform String Shifts",
+      "titleSlug": "perform-string-shifts",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 232,
+      "dislikes": 6,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"78.2K\", \"totalSubmission\": \"143.3K\", \"totalAcceptedRaw\": 78198, \"totalSubmissionRaw\": 143256, \"acRate\": \"54.6%\"}",
+      "hints": [
+        "Intuitively performing all shift operations is acceptable due to the constraints.",
+        "You may notice that left shift cancels the right shift, so count the total left shift times (may be negative if the final result is right shift), and perform it once."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Intuitively performing all shift operations is acceptable due to the constraints.",
+      "You may notice that left shift cancels the right shift, so count the total left shift times (may be negative if the final result is right shift), and perform it once."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

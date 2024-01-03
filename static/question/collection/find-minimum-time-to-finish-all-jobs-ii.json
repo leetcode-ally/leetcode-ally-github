@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2323",
+      "title": "Find Minimum Time to Finish All Jobs II",
+      "titleSlug": "find-minimum-time-to-finish-all-jobs-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 51,
+      "dislikes": 17,
+      "similarQuestions": "[{\"title\": \"Task Scheduler\", \"titleSlug\": \"task-scheduler\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Minimum Time to Finish All Jobs\", \"titleSlug\": \"find-minimum-time-to-finish-all-jobs\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Work Sessions to Finish the Tasks\", \"titleSlug\": \"minimum-number-of-work-sessions-to-finish-the-tasks\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.8K\", \"totalSubmission\": \"7.1K\", \"totalAcceptedRaw\": 4798, \"totalSubmissionRaw\": 7091, \"acRate\": \"67.7%\"}",
+      "hints": [
+        "It is always optimal to pair the worker with the least amount of time with the job that requires the least amount of time.",
+        "Sort both arrays."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "task-scheduler",
+        "title": "Task Scheduler",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "find-minimum-time-to-finish-all-jobs",
+        "title": "Find Minimum Time to Finish All Jobs",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+        "title": "Minimum Number of Work Sessions to Finish the Tasks",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "It is always optimal to pair the worker with the least amount of time with the job that requires the least amount of time.",
+      "Sort both arrays."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

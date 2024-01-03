@@ -1,0 +1,102 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1676",
+      "title": "Lowest Common Ancestor of a Binary Tree IV",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 443,
+      "dislikes": 14,
+      "similarQuestions": "[{\"title\": \"Lowest Common Ancestor of a Binary Search Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-search-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of Deepest Leaves\", \"titleSlug\": \"lowest-common-ancestor-of-deepest-leaves\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree II\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree III\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Lowest Common Ancestor of a Binary Tree IV\", \"titleSlug\": \"lowest-common-ancestor-of-a-binary-tree-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"36.1K\", \"totalSubmission\": \"46K\", \"totalAcceptedRaw\": 36142, \"totalSubmissionRaw\": 46032, \"acRate\": \"78.5%\"}",
+      "hints": [
+        "Starting from the root, traverse the left and the right subtrees, checking if one of the nodes exist there.",
+        "If one of the subtrees doesn't contain any given node, the LCA can be the node returned from the other subtree",
+        "If both subtrees contain nodes, the LCA node is the current node."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-deepest-leaves",
+        "title": "Lowest Common Ancestor of Deepest Leaves",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "title": "Lowest Common Ancestor of a Binary Tree III",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Starting from the root, traverse the left and the right subtrees, checking if one of the nodes exist there.",
+      "If one of the subtrees doesn't contain any given node, the LCA can be the node returned from the other subtree",
+      "If both subtrees contain nodes, the LCA node is the current node."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

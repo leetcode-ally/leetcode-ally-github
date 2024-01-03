@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2214",
+      "title": "Minimum Health to Beat Game",
+      "titleSlug": "minimum-health-to-beat-game",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 308,
+      "dislikes": 230,
+      "similarQuestions": "[{\"title\": \"Dungeon Game\", \"titleSlug\": \"dungeon-game\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Eliminate Maximum Number of Monsters\", \"titleSlug\": \"eliminate-maximum-number-of-monsters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"29.4K\", \"totalSubmission\": \"50.9K\", \"totalAcceptedRaw\": 29395, \"totalSubmissionRaw\": 50875, \"acRate\": \"57.8%\"}",
+      "hints": [
+        "When should you use your armor ability?",
+        "It is always optimal to use your armor ability on the level where you take the most amount of damage."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "dungeon-game",
+        "title": "Dungeon Game",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "eliminate-maximum-number-of-monsters",
+        "title": "Eliminate Maximum Number of Monsters",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "When should you use your armor ability?",
+      "It is always optimal to use your armor ability on the level where you take the most amount of damage."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

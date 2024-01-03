@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-343",
+  "data": [
+    {
+      "id": 3291,
+      "question_id": 2684,
+      "credit": 3,
+      "title": "Determine the Winner of a Bowling Game",
+      "title_slug": "determine-the-winner-of-a-bowling-game",
+      "likes": 215,
+      "dislikes": 109
+    },
+    {
+      "id": 3292,
+      "question_id": 2685,
+      "credit": 4,
+      "title": "First Completely Painted Row or Column",
+      "title_slug": "first-completely-painted-row-or-column",
+      "likes": 400,
+      "dislikes": 7
+    },
+    {
+      "id": 3293,
+      "question_id": 2686,
+      "credit": 5,
+      "title": "Minimum Cost of a Path With Special Roads",
+      "title_slug": "minimum-cost-of-a-path-with-special-roads",
+      "likes": 494,
+      "dislikes": 76
+    },
+    {
+      "id": 3294,
+      "question_id": 2687,
+      "credit": 6,
+      "title": "Lexicographically Smallest Beautiful String",
+      "title_slug": "lexicographically-smallest-beautiful-string",
+      "likes": 178,
+      "dislikes": 16
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "548",
+      "title": "Split Array with Equal Sum",
+      "titleSlug": "split-array-with-equal-sum",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 412,
+      "dislikes": 131,
+      "similarQuestions": "[{\"title\": \"Fair Distribution of Cookies\", \"titleSlug\": \"fair-distribution-of-cookies\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Ways to Split a String\", \"titleSlug\": \"number-of-ways-to-split-a-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"23.7K\", \"totalSubmission\": \"47.3K\", \"totalAcceptedRaw\": 23707, \"totalSubmissionRaw\": 47300, \"acRate\": \"50.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "fair-distribution-of-cookies",
+        "title": "Fair Distribution of Cookies",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-ways-to-split-a-string",
+        "title": "Number of Ways to Split a String",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

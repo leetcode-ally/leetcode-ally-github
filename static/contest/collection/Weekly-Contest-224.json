@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-224",
+  "data": [
+    {
+      "id": 1816,
+      "question_id": 1843,
+      "credit": 3,
+      "title": "Number Of Rectangles That Can Form The Largest Square",
+      "title_slug": "number-of-rectangles-that-can-form-the-largest-square",
+      "likes": 562,
+      "dislikes": 62
+    },
+    {
+      "id": 1817,
+      "question_id": 1364,
+      "credit": 4,
+      "title": "Tuple with Same Product",
+      "title_slug": "tuple-with-same-product",
+      "likes": 608,
+      "dislikes": 26
+    },
+    {
+      "id": 1818,
+      "question_id": 1845,
+      "credit": 5,
+      "title": "Largest Submatrix With Rearrangements",
+      "title_slug": "largest-submatrix-with-rearrangements",
+      "likes": 1827,
+      "dislikes": 93
+    },
+    {
+      "id": 1819,
+      "question_id": 1727,
+      "credit": 7,
+      "title": "Cat and Mouse II",
+      "title_slug": "cat-and-mouse-ii",
+      "likes": 260,
+      "dislikes": 41
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1165",
+      "title": "Single-Row Keyboard",
+      "titleSlug": "single-row-keyboard",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 504,
+      "dislikes": 22,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"77K\", \"totalSubmission\": \"88.8K\", \"totalAcceptedRaw\": 77025, \"totalSubmissionRaw\": 88750, \"acRate\": \"86.8%\"}",
+      "hints": [
+        "Can be the problem divided in parts, so solving each part and sum their solutions it should return the answer? Yes, you only need to divide the problem in finger jumps.",
+        "In each finger jump you need to move your finger from one character to another, you need to know its index.",
+        "Map each character to it's index.",
+        "Use a hash table to do that."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Can be the problem divided in parts, so solving each part and sum their solutions it should return the answer? Yes, you only need to divide the problem in finger jumps.",
+      "In each finger jump you need to move your finger from one character to another, you need to know its index.",
+      "Map each character to it's index.",
+      "Use a hash table to do that."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "293",
+      "title": "Flip Game",
+      "titleSlug": "flip-game",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 205,
+      "dislikes": 433,
+      "similarQuestions": "[{\"title\": \"Flip Game II\", \"titleSlug\": \"flip-game-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"66.2K\", \"totalSubmission\": \"104K\", \"totalAcceptedRaw\": 66152, \"totalSubmissionRaw\": 104011, \"acRate\": \"63.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "flip-game-ii",
+        "title": "Flip Game II",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

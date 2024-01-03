@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2675",
+      "title": "Array of Objects to Matrix",
+      "titleSlug": "array-of-objects-to-matrix",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 130,
+      "dislikes": 72,
+      "similarQuestions": "[{\"title\": \"JSON Deep Equal\", \"titleSlug\": \"json-deep-equal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Convert Object to JSON String\", \"titleSlug\": \"convert-object-to-json-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"5.8K\", \"totalSubmission\": \"8.3K\", \"totalAcceptedRaw\": 5774, \"totalSubmissionRaw\": 8308, \"acRate\": \"69.5%\"}",
+      "hints": [
+        "How could you split the problem up into sub-problems?",
+        "1.) Write a function that converts a single object into a dictionary that maps the path name to values. You can solve this recursively by keeping track of current path list.",
+        "2.) Write a function that converts a list of dictionaries into a matrix. Start by creating a list of all possible paths in any of the dictionaries. This will represent the columns."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "json-deep-equal",
+        "title": "JSON Deep Equal",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "convert-object-to-json-string",
+        "title": "Convert Object to JSON String",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "How could you split the problem up into sub-problems?",
+      "1.) Write a function that converts a single object into a dictionary that maps the path name to values. You can solve this recursively by keeping track of current path list.",
+      "2.) Write a function that converts a list of dictionaries into a matrix. Start by creating a list of all possible paths in any of the dictionaries. This will represent the columns."
+    ],
+    "relatedTopics": []
+  }
+}

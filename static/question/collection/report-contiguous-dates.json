@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1225",
+      "title": "Report Contiguous Dates",
+      "titleSlug": "report-contiguous-dates",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 312,
+      "dislikes": 23,
+      "similarQuestions": "[{\"title\": \"Find the Start and End Number of Continuous Ranges\", \"titleSlug\": \"find-the-start-and-end-number-of-continuous-ranges\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find the Missing IDs\", \"titleSlug\": \"find-the-missing-ids\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Customers With Strictly Increasing Purchases\", \"titleSlug\": \"customers-with-strictly-increasing-purchases\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"20.3K\", \"totalSubmission\": \"34.7K\", \"totalAcceptedRaw\": 20284, \"totalSubmissionRaw\": 34666, \"acRate\": \"58.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-the-start-and-end-number-of-continuous-ranges",
+        "title": "Find the Start and End Number of Continuous Ranges",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-the-missing-ids",
+        "title": "Find the Missing IDs",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "customers-with-strictly-increasing-purchases",
+        "title": "Customers With Strictly Increasing Purchases",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

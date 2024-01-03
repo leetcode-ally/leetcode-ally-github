@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1066",
+      "title": "Campus Bikes II",
+      "titleSlug": "campus-bikes-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 868,
+      "dislikes": 83,
+      "similarQuestions": "[{\"title\": \"Campus Bikes\", \"titleSlug\": \"campus-bikes\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"46.2K\", \"totalSubmission\": \"84.2K\", \"totalAcceptedRaw\": 46186, \"totalSubmissionRaw\": 84170, \"acRate\": \"54.9%\"}",
+      "hints": [
+        "Model the problem with a dp(pos, mask) where pos represents the current bike to be assigned and mask the set of available workers."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "campus-bikes",
+        "title": "Campus Bikes",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Model the problem with a dp(pos, mask) where pos represents the current bike to be assigned and mask the set of available workers."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ]
+  }
+}

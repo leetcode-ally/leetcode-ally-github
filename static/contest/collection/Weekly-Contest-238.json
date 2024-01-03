@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-238",
+  "data": [
+    {
+      "id": 1994,
+      "question_id": 1965,
+      "credit": 3,
+      "title": "Sum of Digits in Base K",
+      "title_slug": "sum-of-digits-in-base-k",
+      "likes": 483,
+      "dislikes": 42
+    },
+    {
+      "id": 1995,
+      "question_id": 1966,
+      "credit": 4,
+      "title": "Frequency of the Most Frequent Element",
+      "title_slug": "frequency-of-the-most-frequent-element",
+      "likes": 4214,
+      "dislikes": 150
+    },
+    {
+      "id": 1996,
+      "question_id": 1967,
+      "credit": 5,
+      "title": "Longest Substring Of All Vowels in Order",
+      "title_slug": "longest-substring-of-all-vowels-in-order",
+      "likes": 715,
+      "dislikes": 21
+    },
+    {
+      "id": 1997,
+      "question_id": 1968,
+      "credit": 6,
+      "title": "Maximum Building Height",
+      "title_slug": "maximum-building-height",
+      "likes": 357,
+      "dislikes": 13
+    }
+  ]
+}

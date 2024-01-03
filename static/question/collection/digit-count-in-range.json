@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1067",
+      "title": "Digit Count in Range",
+      "titleSlug": "digit-count-in-range",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 91,
+      "dislikes": 24,
+      "similarQuestions": "[{\"title\": \"Number of Digit One\", \"titleSlug\": \"number-of-digit-one\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Sum of Numbers With Units Digit K\", \"titleSlug\": \"sum-of-numbers-with-units-digit-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.9K\", \"totalSubmission\": \"8.4K\", \"totalAcceptedRaw\": 3887, \"totalSubmissionRaw\": 8414, \"acRate\": \"46.2%\"}",
+      "hints": [
+        "Define a function f(x) to get the requested sum from 1 to x. So the answer will be f(hi) - f(lo - 1)",
+        "In order to solve f(x) we need to do a DP over digits approach."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "number-of-digit-one",
+        "title": "Number of Digit One",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "sum-of-numbers-with-units-digit-k",
+        "title": "Sum of Numbers With Units Digit K",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Define a function f(x) to get the requested sum from 1 to x. So the answer will be f(hi) - f(lo - 1)",
+      "In order to solve f(x) we need to do a DP over digits approach."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

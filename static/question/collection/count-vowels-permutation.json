@@ -1,0 +1,48 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1220",
+      "title": "Count Vowels Permutation",
+      "titleSlug": "count-vowels-permutation",
+      "content": "<p>Given an integer <code>n</code>, your task is to count how many strings of length <code>n</code> can be formed under the following rules:</p>\n\n<ul>\n\t<li>Each character is a lower case vowel&nbsp;(<code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, <code>&#39;u&#39;</code>)</li>\n\t<li>Each vowel&nbsp;<code>&#39;a&#39;</code> may only be followed by an <code>&#39;e&#39;</code>.</li>\n\t<li>Each vowel&nbsp;<code>&#39;e&#39;</code> may only be followed by an <code>&#39;a&#39;</code>&nbsp;or an <code>&#39;i&#39;</code>.</li>\n\t<li>Each vowel&nbsp;<code>&#39;i&#39;</code> <strong>may not</strong> be followed by another <code>&#39;i&#39;</code>.</li>\n\t<li>Each vowel&nbsp;<code>&#39;o&#39;</code> may only be followed by an <code>&#39;i&#39;</code> or a&nbsp;<code>&#39;u&#39;</code>.</li>\n\t<li>Each vowel&nbsp;<code>&#39;u&#39;</code> may only be followed by an <code>&#39;a&#39;</code>.</li>\n</ul>\n\n<p>Since the answer&nbsp;may be too large,&nbsp;return it modulo&nbsp;<code>10^9 + 7</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 1\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> All possible strings are: &quot;a&quot;, &quot;e&quot;, &quot;i&quot; , &quot;o&quot; and &quot;u&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 2\n<strong>Output:</strong> 10\n<strong>Explanation:</strong> All possible strings are: &quot;ae&quot;, &quot;ea&quot;, &quot;ei&quot;, &quot;ia&quot;, &quot;ie&quot;, &quot;io&quot;, &quot;iu&quot;, &quot;oi&quot;, &quot;ou&quot; and &quot;ua&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 3:&nbsp;</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 5\n<strong>Output:</strong> 68</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= n &lt;= 2 * 10^4</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 3193,
+      "dislikes": 209,
+      "similarQuestions": "[{\"title\": \"Number of Strings Which Can Be Rearranged to Contain Substring\", \"titleSlug\": \"number-of-strings-which-can-be-rearranged-to-contain-substring\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"161.1K\", \"totalSubmission\": \"258.3K\", \"totalAcceptedRaw\": 161065, \"totalSubmissionRaw\": 258275, \"acRate\": \"62.4%\"}",
+      "hints": [
+        "Use dynamic programming.",
+        "Let dp[i][j] be the number of strings of length i that ends with the j-th vowel.",
+        "Deduce the recurrence from the given relations between vowels."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-strings-which-can-be-rearranged-to-contain-substring",
+        "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use dynamic programming.",
+      "Let dp[i][j] be the number of strings of length i that ends with the j-th vowel.",
+      "Deduce the recurrence from the given relations between vowels."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

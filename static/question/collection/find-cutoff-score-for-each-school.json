@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1988",
+      "title": "Find Cutoff Score for Each School",
+      "titleSlug": "find-cutoff-score-for-each-school",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 77,
+      "dislikes": 153,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.2K\", \"totalSubmission\": \"15.3K\", \"totalAcceptedRaw\": 10212, \"totalSubmissionRaw\": 15302, \"acRate\": \"66.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

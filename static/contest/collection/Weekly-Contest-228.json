@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-228",
+  "data": [
+    {
+      "id": 1864,
+      "question_id": 1884,
+      "credit": 3,
+      "title": "Minimum Changes To Make Alternating Binary String",
+      "title_slug": "minimum-changes-to-make-alternating-binary-string",
+      "likes": 1385,
+      "dislikes": 41
+    },
+    {
+      "id": 1865,
+      "question_id": 1885,
+      "credit": 4,
+      "title": "Count Number of Homogenous Substrings",
+      "title_slug": "count-number-of-homogenous-substrings",
+      "likes": 1437,
+      "dislikes": 96
+    },
+    {
+      "id": 1866,
+      "question_id": 1886,
+      "credit": 5,
+      "title": "Minimum Limit of Balls in a Bag",
+      "title_slug": "minimum-limit-of-balls-in-a-bag",
+      "likes": 1925,
+      "dislikes": 47
+    },
+    {
+      "id": 1867,
+      "question_id": 1887,
+      "credit": 5,
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "title_slug": "minimum-degree-of-a-connected-trio-in-a-graph",
+      "likes": 313,
+      "dislikes": 279
+    }
+  ]
+}

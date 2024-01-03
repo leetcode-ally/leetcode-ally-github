@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "702",
+      "title": "Search in a Sorted Array of Unknown Size",
+      "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 891,
+      "dislikes": 46,
+      "similarQuestions": "[{\"title\": \"Binary Search\", \"titleSlug\": \"binary-search\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Index of the Large Integer\", \"titleSlug\": \"find-the-index-of-the-large-integer\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"93.3K\", \"totalSubmission\": \"129.9K\", \"totalAcceptedRaw\": 93322, \"totalSubmissionRaw\": 129898, \"acRate\": \"71.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "binary-search",
+        "title": "Binary Search",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-the-index-of-the-large-integer",
+        "title": "Find the Index of the Large Integer",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

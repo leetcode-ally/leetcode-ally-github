@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-88",
+  "data": [
+    {
+      "id": 381,
+      "question_id": 878,
+      "credit": 4,
+      "title": "Shifting Letters",
+      "title_slug": "shifting-letters",
+      "likes": 1328,
+      "dislikes": 121
+    },
+    {
+      "id": 382,
+      "question_id": 879,
+      "credit": 4,
+      "title": "Maximize Distance to Closest Person",
+      "title_slug": "maximize-distance-to-closest-person",
+      "likes": 3145,
+      "dislikes": 193
+    },
+    {
+      "id": 383,
+      "question_id": 881,
+      "credit": 5,
+      "title": "Loud and Rich",
+      "title_slug": "loud-and-rich",
+      "likes": 1210,
+      "dislikes": 771
+    },
+    {
+      "id": 384,
+      "question_id": 880,
+      "credit": 8,
+      "title": "Rectangle Area II",
+      "title_slug": "rectangle-area-ii",
+      "likes": 936,
+      "dislikes": 60
+    }
+  ]
+}

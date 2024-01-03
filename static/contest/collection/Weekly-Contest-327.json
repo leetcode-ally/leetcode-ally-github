@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-327",
+  "data": [
+    {
+      "id": 3095,
+      "question_id": 2614,
+      "credit": 3,
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "title_slug": "maximum-count-of-positive-integer-and-negative-integer",
+      "likes": 813,
+      "dislikes": 48
+    },
+    {
+      "id": 3096,
+      "question_id": 2616,
+      "credit": 4,
+      "title": "Maximal Score After Applying K Operations",
+      "title_slug": "maximal-score-after-applying-k-operations",
+      "likes": 368,
+      "dislikes": 9
+    },
+    {
+      "id": 3097,
+      "question_id": 2615,
+      "credit": 4,
+      "title": "Make Number of Distinct Characters Equal",
+      "title_slug": "make-number-of-distinct-characters-equal",
+      "likes": 526,
+      "dislikes": 139
+    },
+    {
+      "id": 3098,
+      "question_id": 2642,
+      "credit": 6,
+      "title": "Time to Cross a Bridge",
+      "title_slug": "time-to-cross-a-bridge",
+      "likes": 107,
+      "dislikes": 210
+    }
+  ]
+}

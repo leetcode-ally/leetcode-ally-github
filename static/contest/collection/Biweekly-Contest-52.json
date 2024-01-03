@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-52",
+  "data": [
+    {
+      "id": 2034,
+      "question_id": 1970,
+      "credit": 3,
+      "title": "Sorting the Sentence",
+      "title_slug": "sorting-the-sentence",
+      "likes": 2064,
+      "dislikes": 70
+    },
+    {
+      "id": 2035,
+      "question_id": 1971,
+      "credit": 4,
+      "title": "Incremental Memory Leak",
+      "title_slug": "incremental-memory-leak",
+      "likes": 208,
+      "dislikes": 82
+    },
+    {
+      "id": 2036,
+      "question_id": 1972,
+      "credit": 5,
+      "title": "Rotating the Box",
+      "title_slug": "rotating-the-box",
+      "likes": 938,
+      "dislikes": 53
+    },
+    {
+      "id": 2037,
+      "question_id": 1326,
+      "credit": 6,
+      "title": "Sum of Floored Pairs",
+      "title_slug": "sum-of-floored-pairs",
+      "likes": 430,
+      "dislikes": 35
+    }
+  ]
+}

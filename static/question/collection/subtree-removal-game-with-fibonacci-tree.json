@@ -1,0 +1,80 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2005",
+      "title": "Subtree Removal Game with Fibonacci Tree",
+      "titleSlug": "subtree-removal-game-with-fibonacci-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 16,
+      "dislikes": 44,
+      "similarQuestions": "[{\"title\": \"Game of Nim\", \"titleSlug\": \"game-of-nim\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"577\", \"totalSubmission\": \"942\", \"totalAcceptedRaw\": 577, \"totalSubmissionRaw\": 942, \"acRate\": \"61.3%\"}",
+      "hints": [
+        "How can game theory help us solve this problem?",
+        "Think about the Sprague–Grundy theorem and the Colon Principle",
+        "The Grundy value of a node is the nim sum of the Grundy values of its children."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "game-of-nim",
+        "title": "Game of Nim",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "How can game theory help us solve this problem?",
+      "Think about the Sprague–Grundy theorem and the Colon Principle",
+      "The Grundy value of a node is the nim sum of the Grundy values of its children."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  }
+}

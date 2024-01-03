@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-290",
+  "data": [
+    {
+      "id": 2650,
+      "question_id": 2331,
+      "credit": 3,
+      "title": "Intersection of Multiple Arrays",
+      "title_slug": "intersection-of-multiple-arrays",
+      "likes": 663,
+      "dislikes": 35
+    },
+    {
+      "id": 2651,
+      "question_id": 2332,
+      "credit": 4,
+      "title": "Count Lattice Points Inside a Circle",
+      "title_slug": "count-lattice-points-inside-a-circle",
+      "likes": 213,
+      "dislikes": 215
+    },
+    {
+      "id": 2652,
+      "question_id": 2333,
+      "credit": 5,
+      "title": "Count Number of Rectangles Containing Each Point",
+      "title_slug": "count-number-of-rectangles-containing-each-point",
+      "likes": 473,
+      "dislikes": 134
+    },
+    {
+      "id": 2653,
+      "question_id": 2334,
+      "credit": 6,
+      "title": "Number of Flowers in Full Bloom",
+      "title_slug": "number-of-flowers-in-full-bloom",
+      "likes": 1555,
+      "dislikes": 39
+    }
+  ]
+}

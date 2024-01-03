@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-12",
+  "data": [
+    {
+      "id": 1062,
+      "question_id": 1175,
+      "credit": 3,
+      "title": "Array Transformation",
+      "title_slug": "array-transformation",
+      "likes": 148,
+      "dislikes": 67
+    },
+    {
+      "id": 1063,
+      "question_id": 1176,
+      "credit": 4,
+      "title": "Design A Leaderboard",
+      "title_slug": "design-a-leaderboard",
+      "likes": 750,
+      "dislikes": 94
+    },
+    {
+      "id": 1064,
+      "question_id": 1177,
+      "credit": 5,
+      "title": "Tree Diameter",
+      "title_slug": "tree-diameter",
+      "likes": 772,
+      "dislikes": 18
+    },
+    {
+      "id": 1065,
+      "question_id": 1202,
+      "credit": 7,
+      "title": "Palindrome Removal",
+      "title_slug": "palindrome-removal",
+      "likes": 308,
+      "dislikes": 13
+    }
+  ]
+}

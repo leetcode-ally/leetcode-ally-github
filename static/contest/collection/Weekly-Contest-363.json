@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-363",
+  "data": [
+    {
+      "id": 3532,
+      "question_id": 3093,
+      "credit": 3,
+      "title": "Sum of Values at Indices With K Set Bits",
+      "title_slug": "sum-of-values-at-indices-with-k-set-bits",
+      "likes": 185,
+      "dislikes": 19
+    },
+    {
+      "id": 3533,
+      "question_id": 3104,
+      "credit": 4,
+      "title": "Happy Students",
+      "title_slug": "happy-students",
+      "likes": 151,
+      "dislikes": 275
+    },
+    {
+      "id": 3534,
+      "question_id": 3095,
+      "credit": 5,
+      "title": "Maximum Number of Alloys",
+      "title_slug": "maximum-number-of-alloys",
+      "likes": 236,
+      "dislikes": 37
+    },
+    {
+      "id": 3535,
+      "question_id": 3047,
+      "credit": 6,
+      "title": "Maximum Element-Sum of a Complete Subset of Indices",
+      "title_slug": "maximum-element-sum-of-a-complete-subset-of-indices",
+      "likes": 161,
+      "dislikes": 29
+    }
+  ]
+}

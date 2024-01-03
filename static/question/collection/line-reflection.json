@@ -1,0 +1,70 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "356",
+      "title": "Line Reflection",
+      "titleSlug": "line-reflection",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 287,
+      "dislikes": 590,
+      "similarQuestions": "[{\"title\": \"Max Points on a Line\", \"titleSlug\": \"max-points-on-a-line\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Number of Boomerangs\", \"titleSlug\": \"number-of-boomerangs\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"38.7K\", \"totalSubmission\": \"109.9K\", \"totalAcceptedRaw\": 38719, \"totalSubmissionRaw\": 109863, \"acRate\": \"35.2%\"}",
+      "hints": [
+        "Find the smallest and largest x-value for all points.",
+        "If there is a line then it should be at y = (minX + maxX) / 2.",
+        "For each point, make sure that it has a reflected point in the opposite side."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "max-points-on-a-line",
+        "title": "Max Points on a Line",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-boomerangs",
+        "title": "Number of Boomerangs",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Find the smallest and largest x-value for all points.",
+      "If there is a line then it should be at y = (minX + maxX) / 2.",
+      "For each point, make sure that it has a reflected point in the opposite side."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  }
+}

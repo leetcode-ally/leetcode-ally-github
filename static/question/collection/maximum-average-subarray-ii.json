@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "644",
+      "title": "Maximum Average Subarray II",
+      "titleSlug": "maximum-average-subarray-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 608,
+      "dislikes": 69,
+      "similarQuestions": "[{\"title\": \"Maximum Average Subarray I\", \"titleSlug\": \"maximum-average-subarray-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"19.8K\", \"totalSubmission\": \"54.3K\", \"totalAcceptedRaw\": 19778, \"totalSubmissionRaw\": 54253, \"acRate\": \"36.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "maximum-average-subarray-i",
+        "title": "Maximum Average Subarray I",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

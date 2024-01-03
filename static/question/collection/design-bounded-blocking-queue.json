@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1188",
+      "title": "Design Bounded Blocking Queue",
+      "titleSlug": "design-bounded-blocking-queue",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 505,
+      "dislikes": 40,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Concurrency",
+          "slug": "concurrency"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"46.8K\", \"totalSubmission\": \"64.4K\", \"totalAcceptedRaw\": 46779, \"totalSubmissionRaw\": 64404, \"acRate\": \"72.6%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ]
+  }
+}

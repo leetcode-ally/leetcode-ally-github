@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "298",
+      "title": "Binary Tree Longest Consecutive Sequence",
+      "titleSlug": "binary-tree-longest-consecutive-sequence",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1111,
+      "dislikes": 235,
+      "similarQuestions": "[{\"title\": \"Longest Consecutive Sequence\", \"titleSlug\": \"longest-consecutive-sequence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Binary Tree Longest Consecutive Sequence II\", \"titleSlug\": \"binary-tree-longest-consecutive-sequence-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Check if an Array Is Consecutive\", \"titleSlug\": \"check-if-an-array-is-consecutive\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"144.1K\", \"totalSubmission\": \"270.4K\", \"totalAcceptedRaw\": 144088, \"totalSubmissionRaw\": 270405, \"acRate\": \"53.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "longest-consecutive-sequence",
+        "title": "Longest Consecutive Sequence",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+        "title": "Binary Tree Longest Consecutive Sequence II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "check-if-an-array-is-consecutive",
+        "title": "Check if an Array Is Consecutive",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

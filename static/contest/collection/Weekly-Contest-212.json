@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-212",
+  "data": [
+    {
+      "id": 1670,
+      "question_id": 1751,
+      "credit": 3,
+      "title": "Slowest Key",
+      "title_slug": "slowest-key",
+      "likes": 747,
+      "dislikes": 106
+    },
+    {
+      "id": 1671,
+      "question_id": 1752,
+      "credit": 4,
+      "title": "Arithmetic Subarrays",
+      "title_slug": "arithmetic-subarrays",
+      "likes": 1752,
+      "dislikes": 193
+    },
+    {
+      "id": 1672,
+      "question_id": 1753,
+      "credit": 5,
+      "title": "Path With Minimum Effort",
+      "title_slug": "path-with-minimum-effort",
+      "likes": 5578,
+      "dislikes": 190
+    },
+    {
+      "id": 1673,
+      "question_id": 1257,
+      "credit": 7,
+      "title": "Rank Transform of a Matrix",
+      "title_slug": "rank-transform-of-a-matrix",
+      "likes": 853,
+      "dislikes": 55
+    }
+  ]
+}

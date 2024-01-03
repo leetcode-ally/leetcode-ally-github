@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-267",
+  "data": [
+    {
+      "id": 2354,
+      "question_id": 2195,
+      "credit": 3,
+      "title": "Time Needed to Buy Tickets",
+      "title_slug": "time-needed-to-buy-tickets",
+      "likes": 867,
+      "dislikes": 68
+    },
+    {
+      "id": 2355,
+      "question_id": 2196,
+      "credit": 4,
+      "title": "Reverse Nodes in Even Length Groups",
+      "title_slug": "reverse-nodes-in-even-length-groups",
+      "likes": 624,
+      "dislikes": 318
+    },
+    {
+      "id": 2356,
+      "question_id": 2197,
+      "credit": 5,
+      "title": "Decode the Slanted Ciphertext",
+      "title_slug": "decode-the-slanted-ciphertext",
+      "likes": 236,
+      "dislikes": 54
+    },
+    {
+      "id": 2357,
+      "question_id": 2198,
+      "credit": 6,
+      "title": "Process Restricted Friend Requests",
+      "title_slug": "process-restricted-friend-requests",
+      "likes": 587,
+      "dislikes": 14
+    }
+  ]
+}

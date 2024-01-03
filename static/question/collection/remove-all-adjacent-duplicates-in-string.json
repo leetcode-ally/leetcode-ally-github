@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string",
+      "content": "<p>You are given a string <code>s</code> consisting of lowercase English letters. A <strong>duplicate removal</strong> consists of choosing two <strong>adjacent</strong> and <strong>equal</strong> letters and removing them.</p>\n\n<p>We repeatedly make <strong>duplicate removals</strong> on <code>s</code> until we no longer can.</p>\n\n<p>Return <em>the final string after all such duplicate removals have been made</em>. It can be proven that the answer is <strong>unique</strong>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;abbaca&quot;\n<strong>Output:</strong> &quot;ca&quot;\n<strong>Explanation:</strong> \nFor example, in &quot;abbaca&quot; we could remove &quot;bb&quot; since the letters are adjacent and equal, and this is the only possible move.  The result of this move is that the string is &quot;aaca&quot;, of which only &quot;aa&quot; is possible, so the final string is &quot;ca&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;azxxzy&quot;\n<strong>Output:</strong> &quot;ay&quot;\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>s</code> consists of lowercase English letters.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 6368,
+      "dislikes": 241,
+      "similarQuestions": "[{\"title\": \"Remove All Adjacent Duplicates in String II\", \"titleSlug\": \"remove-all-adjacent-duplicates-in-string-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Removing Stars From a String\", \"titleSlug\": \"removing-stars-from-a-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimize String Length\", \"titleSlug\": \"minimize-string-length\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"516.1K\", \"totalSubmission\": \"745.9K\", \"totalAcceptedRaw\": 516067, \"totalSubmissionRaw\": 745937, \"acRate\": \"69.2%\"}",
+      "hints": [
+        "Use a stack to process everything greedily."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+        "title": "Remove All Adjacent Duplicates in String II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "removing-stars-from-a-string",
+        "title": "Removing Stars From a String",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "minimize-string-length",
+        "title": "Minimize String Length",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use a stack to process everything greedily."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-194",
+  "data": [
+    {
+      "id": 1454,
+      "question_id": 1610,
+      "credit": 3,
+      "title": "XOR Operation in an Array",
+      "title_slug": "xor-operation-in-an-array",
+      "likes": 1336,
+      "dislikes": 327
+    },
+    {
+      "id": 1455,
+      "question_id": 1611,
+      "credit": 5,
+      "title": "Making File Names Unique",
+      "title_slug": "making-file-names-unique",
+      "likes": 422,
+      "dislikes": 698
+    },
+    {
+      "id": 1456,
+      "question_id": 1612,
+      "credit": 6,
+      "title": "Avoid Flood in The City",
+      "title_slug": "avoid-flood-in-the-city",
+      "likes": 1473,
+      "dislikes": 277
+    },
+    {
+      "id": 1457,
+      "question_id": 1613,
+      "credit": 7,
+      "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+      "title_slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+      "likes": 1777,
+      "dislikes": 148
+    }
+  ]
+}

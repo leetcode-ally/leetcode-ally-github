@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-221",
+  "data": [
+    {
+      "id": 1784,
+      "question_id": 1823,
+      "credit": 3,
+      "title": "Determine if String Halves Are Alike",
+      "title_slug": "determine-if-string-halves-are-alike",
+      "likes": 1788,
+      "dislikes": 83
+    },
+    {
+      "id": 1785,
+      "question_id": 1824,
+      "credit": 4,
+      "title": "Maximum Number of Eaten Apples",
+      "title_slug": "maximum-number-of-eaten-apples",
+      "likes": 797,
+      "dislikes": 176
+    },
+    {
+      "id": 1786,
+      "question_id": 1324,
+      "credit": 5,
+      "title": "Where Will the Ball Fall",
+      "title_slug": "where-will-the-ball-fall",
+      "likes": 3047,
+      "dislikes": 181
+    },
+    {
+      "id": 1787,
+      "question_id": 1826,
+      "credit": 6,
+      "title": "Maximum XOR With an Element From Array",
+      "title_slug": "maximum-xor-with-an-element-from-array",
+      "likes": 1148,
+      "dislikes": 35
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1272",
+      "title": "Remove Interval",
+      "titleSlug": "remove-interval",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 424,
+      "dislikes": 29,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"29.9K\", \"totalSubmission\": \"46.5K\", \"totalAcceptedRaw\": 29899, \"totalSubmissionRaw\": 46545, \"acRate\": \"64.2%\"}",
+      "hints": [
+        "Solve the problem for every interval alone.",
+        "Divide the problem into cases according to the position of the two intervals."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Solve the problem for every interval alone.",
+      "Divide the problem into cases according to the position of the two intervals."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  }
+}

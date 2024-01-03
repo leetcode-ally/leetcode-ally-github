@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1180",
+      "title": "Count Substrings with Only One Distinct Letter",
+      "titleSlug": "count-substrings-with-only-one-distinct-letter",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 345,
+      "dislikes": 49,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"26K\", \"totalSubmission\": \"32.7K\", \"totalAcceptedRaw\": 25998, \"totalSubmissionRaw\": 32689, \"acRate\": \"79.5%\"}",
+      "hints": [
+        "What if we divide the string into substrings containing only one distinct character with maximal lengths?",
+        "Now that you have sub-strings with only one distinct character, Try to come up with a formula that counts the number of its sub-strings.",
+        "Alternatively, Observe that the constraints are small so you can use brute force."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "What if we divide the string into substrings containing only one distinct character with maximal lengths?",
+      "Now that you have sub-strings with only one distinct character, Try to come up with a formula that counts the number of its sub-strings.",
+      "Alternatively, Observe that the constraints are small so you can use brute force."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

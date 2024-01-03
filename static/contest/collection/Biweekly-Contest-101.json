@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-101",
+  "data": [
+    {
+      "id": 3239,
+      "question_id": 2668,
+      "credit": 3,
+      "title": "Form Smallest Number From Two Digit Arrays",
+      "title_slug": "form-smallest-number-from-two-digit-arrays",
+      "likes": 280,
+      "dislikes": 18
+    },
+    {
+      "id": 3240,
+      "question_id": 2669,
+      "credit": 4,
+      "title": "Find the Substring With Maximum Cost",
+      "title_slug": "find-the-substring-with-maximum-cost",
+      "likes": 331,
+      "dislikes": 9
+    },
+    {
+      "id": 3241,
+      "question_id": 2670,
+      "credit": 5,
+      "title": "Make K-Subarray Sums Equal",
+      "title_slug": "make-k-subarray-sums-equal",
+      "likes": 424,
+      "dislikes": 80
+    },
+    {
+      "id": 3242,
+      "question_id": 2671,
+      "credit": 6,
+      "title": "Shortest Cycle in a Graph",
+      "title_slug": "shortest-cycle-in-a-graph",
+      "likes": 462,
+      "dislikes": 16
+    }
+  ]
+}

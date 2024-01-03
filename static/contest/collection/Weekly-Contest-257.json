@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-257",
+  "data": [
+    {
+      "id": 2234,
+      "question_id": 2122,
+      "credit": 3,
+      "title": "Count Special Quadruplets",
+      "title_slug": "count-special-quadruplets",
+      "likes": 601,
+      "dislikes": 220
+    },
+    {
+      "id": 2235,
+      "question_id": 2123,
+      "credit": 4,
+      "title": "The Number of Weak Characters in the Game",
+      "title_slug": "the-number-of-weak-characters-in-the-game",
+      "likes": 2955,
+      "dislikes": 90
+    },
+    {
+      "id": 2236,
+      "question_id": 2124,
+      "credit": 5,
+      "title": "First Day Where You Have Been in All the Rooms",
+      "title_slug": "first-day-where-you-have-been-in-all-the-rooms",
+      "likes": 471,
+      "dislikes": 89
+    },
+    {
+      "id": 2237,
+      "question_id": 2125,
+      "credit": 6,
+      "title": "GCD Sort of an Array",
+      "title_slug": "gcd-sort-of-an-array",
+      "likes": 468,
+      "dislikes": 13
+    }
+  ]
+}

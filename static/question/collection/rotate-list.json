@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "61",
+      "title": "Rotate List",
+      "titleSlug": "rotate-list",
+      "content": "<p>Given the <code>head</code> of a linked&nbsp;list, rotate the list to the right by <code>k</code> places.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg\" style=\"width: 450px; height: 191px;\" />\n<pre>\n<strong>Input:</strong> head = [1,2,3,4,5], k = 2\n<strong>Output:</strong> [4,5,1,2,3]\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2020/11/13/roate2.jpg\" style=\"width: 305px; height: 350px;\" />\n<pre>\n<strong>Input:</strong> head = [0,1,2], k = 4\n<strong>Output:</strong> [2,0,1]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The number of nodes in the list is in the range <code>[0, 500]</code>.</li>\n\t<li><code>-100 &lt;= Node.val &lt;= 100</code></li>\n\t<li><code>0 &lt;= k &lt;= 2 * 10<sup>9</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 9167,
+      "dislikes": 1420,
+      "similarQuestions": "[{\"title\": \"Rotate Array\", \"titleSlug\": \"rotate-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Split Linked List in Parts\", \"titleSlug\": \"split-linked-list-in-parts\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"857.5K\", \"totalSubmission\": \"2.3M\", \"totalAcceptedRaw\": 857488, \"totalSubmissionRaw\": 2309257, \"acRate\": \"37.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "rotate-array",
+        "title": "Rotate Array",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "split-linked-list-in-parts",
+        "title": "Split Linked List in Parts",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  }
+}

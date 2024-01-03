@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "579",
+      "title": "Find Cumulative Salary of an Employee",
+      "titleSlug": "find-cumulative-salary-of-an-employee",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 229,
+      "dislikes": 400,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"32.8K\", \"totalSubmission\": \"71.1K\", \"totalAcceptedRaw\": 32820, \"totalSubmissionRaw\": 71108, \"acRate\": \"46.2%\"}",
+      "hints": [
+        "Seem hard at first glance? Try to divide this problem into some sub-problems. \r\nThink about how to calculate the cumulative sum of one employee, how to get the cumulative sum for many employees, and how to except the most recent month of the result.",
+        "Use the technique of self-join if you have only one table but to write a complex query.",
+        "Still remember how to use the function `sum` and `max`?"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Seem hard at first glance? Try to divide this problem into some sub-problems. \r\nThink about how to calculate the cumulative sum of one employee, how to get the cumulative sum for many employees, and how to except the most recent month of the result.",
+      "Use the technique of self-join if you have only one table but to write a complex query.",
+      "Still remember how to use the function `sum` and `max`?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

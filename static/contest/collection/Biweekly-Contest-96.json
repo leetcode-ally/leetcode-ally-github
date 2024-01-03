@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-96",
+  "data": [
+    {
+      "id": 3123,
+      "question_id": 2634,
+      "credit": 3,
+      "title": "Minimum Common Value",
+      "title_slug": "minimum-common-value",
+      "likes": 507,
+      "dislikes": 14
+    },
+    {
+      "id": 3124,
+      "question_id": 2604,
+      "credit": 4,
+      "title": "Minimum Operations to Make Array Equal II",
+      "title_slug": "minimum-operations-to-make-array-equal-ii",
+      "likes": 388,
+      "dislikes": 24
+    },
+    {
+      "id": 3125,
+      "question_id": 2636,
+      "credit": 5,
+      "title": "Maximum Subsequence Score",
+      "title_slug": "maximum-subsequence-score",
+      "likes": 2471,
+      "dislikes": 135
+    },
+    {
+      "id": 3126,
+      "question_id": 2635,
+      "credit": 6,
+      "title": "Check if Point Is Reachable",
+      "title_slug": "check-if-point-is-reachable",
+      "likes": 235,
+      "dislikes": 48
+    }
+  ]
+}

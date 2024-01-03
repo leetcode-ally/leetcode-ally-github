@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-90",
+  "data": [
+    {
+      "id": 389,
+      "question_id": 889,
+      "credit": 4,
+      "title": "Buddy Strings",
+      "title_slug": "buddy-strings",
+      "likes": 3092,
+      "dislikes": 1758
+    },
+    {
+      "id": 390,
+      "question_id": 886,
+      "credit": 5,
+      "title": "Score of Parentheses",
+      "title_slug": "score-of-parentheses",
+      "likes": 5317,
+      "dislikes": 186
+    },
+    {
+      "id": 391,
+      "question_id": 888,
+      "credit": 6,
+      "title": "Mirror Reflection",
+      "title_slug": "mirror-reflection",
+      "likes": 1089,
+      "dislikes": 2537
+    },
+    {
+      "id": 392,
+      "question_id": 887,
+      "credit": 9,
+      "title": "Minimum Cost to Hire K Workers",
+      "title_slug": "minimum-cost-to-hire-k-workers",
+      "likes": 2166,
+      "dislikes": 279
+    }
+  ]
+}

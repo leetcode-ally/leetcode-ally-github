@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-93",
+  "data": [
+    {
+      "id": 404,
+      "question_id": 899,
+      "credit": 3,
+      "title": "Binary Gap",
+      "title_slug": "binary-gap",
+      "likes": 611,
+      "dislikes": 652
+    },
+    {
+      "id": 405,
+      "question_id": 900,
+      "credit": 5,
+      "title": "Reordered Power of 2",
+      "title_slug": "reordered-power-of-2",
+      "likes": 2090,
+      "dislikes": 431
+    },
+    {
+      "id": 406,
+      "question_id": 901,
+      "credit": 7,
+      "title": "Advantage Shuffle",
+      "title_slug": "advantage-shuffle",
+      "likes": 1576,
+      "dislikes": 93
+    },
+    {
+      "id": 407,
+      "question_id": 902,
+      "credit": 9,
+      "title": "Minimum Number of Refueling Stops",
+      "title_slug": "minimum-number-of-refueling-stops",
+      "likes": 4533,
+      "dislikes": 81
+    }
+  ]
+}

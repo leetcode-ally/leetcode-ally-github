@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-282",
+  "data": [
+    {
+      "id": 2538,
+      "question_id": 2292,
+      "credit": 3,
+      "title": "Counting Words With a Given Prefix",
+      "title_slug": "counting-words-with-a-given-prefix",
+      "likes": 651,
+      "dislikes": 18
+    },
+    {
+      "id": 2539,
+      "question_id": 2293,
+      "credit": 4,
+      "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+      "title_slug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+      "likes": 528,
+      "dislikes": 19
+    },
+    {
+      "id": 2540,
+      "question_id": 2294,
+      "credit": 5,
+      "title": "Minimum Time to Complete Trips",
+      "title_slug": "minimum-time-to-complete-trips",
+      "likes": 2700,
+      "dislikes": 171
+    },
+    {
+      "id": 2541,
+      "question_id": 2295,
+      "credit": 6,
+      "title": "Minimum Time to Finish the Race",
+      "title_slug": "minimum-time-to-finish-the-race",
+      "likes": 538,
+      "dislikes": 24
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-25",
+  "data": [
+    {
+      "id": 1370,
+      "question_id": 1528,
+      "credit": 3,
+      "title": "Kids With the Greatest Number of Candies",
+      "title_slug": "kids-with-the-greatest-number-of-candies",
+      "likes": 4179,
+      "dislikes": 505
+    },
+    {
+      "id": 1371,
+      "question_id": 1529,
+      "credit": 4,
+      "title": "Max Difference You Can Get From Changing an Integer",
+      "title_slug": "max-difference-you-can-get-from-changing-an-integer",
+      "likes": 221,
+      "dislikes": 282
+    },
+    {
+      "id": 1372,
+      "question_id": 1530,
+      "credit": 5,
+      "title": "Check If a String Can Break Another String",
+      "title_slug": "check-if-a-string-can-break-another-string",
+      "likes": 735,
+      "dislikes": 137
+    },
+    {
+      "id": 1373,
+      "question_id": 1531,
+      "credit": 7,
+      "title": "Number of Ways to Wear Different Hats to Each Other",
+      "title_slug": "number-of-ways-to-wear-different-hats-to-each-other",
+      "likes": 870,
+      "dislikes": 9
+    }
+  ]
+}

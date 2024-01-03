@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-340",
+  "data": [
+    {
+      "id": 3247,
+      "question_id": 2722,
+      "credit": 3,
+      "title": "Prime In Diagonal",
+      "title_slug": "prime-in-diagonal",
+      "likes": 313,
+      "dislikes": 32
+    },
+    {
+      "id": 3248,
+      "question_id": 2721,
+      "credit": 4,
+      "title": "Sum of Distances",
+      "title_slug": "sum-of-distances",
+      "likes": 655,
+      "dislikes": 81
+    },
+    {
+      "id": 3249,
+      "question_id": 2720,
+      "credit": 5,
+      "title": "Minimize the Maximum Difference of Pairs",
+      "title_slug": "minimize-the-maximum-difference-of-pairs",
+      "likes": 2205,
+      "dislikes": 224
+    },
+    {
+      "id": 3250,
+      "question_id": 2697,
+      "credit": 6,
+      "title": "Minimum Number of Visited Cells in a Grid",
+      "title_slug": "minimum-number-of-visited-cells-in-a-grid",
+      "likes": 348,
+      "dislikes": 27
+    }
+  ]
+}

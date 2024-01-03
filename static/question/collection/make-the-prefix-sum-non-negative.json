@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2599",
+      "title": "Make the Prefix Sum Non-negative",
+      "titleSlug": "make-the-prefix-sum-non-negative",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 35,
+      "dislikes": 2,
+      "similarQuestions": "[{\"title\": \"Furthest Building You Can Reach\", \"titleSlug\": \"furthest-building-you-can-reach\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"2.3K\", \"totalAcceptedRaw\": 1158, \"totalSubmissionRaw\": 2269, \"acRate\": \"51.0%\"}",
+      "hints": [
+        "There will always be a way to make the prefix sum non-negative. How can we use that?",
+        "Loop over the array keeping the prefix sum. Whenever it goes negative, move the smallest number you have seen to the end."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "furthest-building-you-can-reach",
+        "title": "Furthest Building You Can Reach",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "There will always be a way to make the prefix sum non-negative. How can we use that?",
+      "Loop over the array keeping the prefix sum. Whenever it goes negative, move the smallest number you have seen to the end."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

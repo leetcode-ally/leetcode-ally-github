@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-90",
+  "data": [
+    {
+      "id": 2970,
+      "question_id": 2547,
+      "credit": 3,
+      "title": "Odd String Difference",
+      "title_slug": "odd-string-difference",
+      "likes": 374,
+      "dislikes": 107
+    },
+    {
+      "id": 2971,
+      "question_id": 2550,
+      "credit": 4,
+      "title": "Words Within Two Edits of Dictionary",
+      "title_slug": "words-within-two-edits-of-dictionary",
+      "likes": 273,
+      "dislikes": 19
+    },
+    {
+      "id": 2972,
+      "question_id": 2548,
+      "credit": 5,
+      "title": "Destroy Sequential Targets",
+      "title_slug": "destroy-sequential-targets",
+      "likes": 537,
+      "dislikes": 16
+    },
+    {
+      "id": 2973,
+      "question_id": 2549,
+      "credit": 6,
+      "title": "Next Greater Element IV",
+      "title_slug": "next-greater-element-iv",
+      "likes": 622,
+      "dislikes": 7
+    }
+  ]
+}

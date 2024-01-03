@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2263",
+      "title": "Make Array Non-decreasing or Non-increasing",
+      "titleSlug": "make-array-non-decreasing-or-non-increasing",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 70,
+      "dislikes": 4,
+      "similarQuestions": "[{\"title\": \"Non-decreasing Array\", \"titleSlug\": \"non-decreasing-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Make Array Strictly Increasing\", \"titleSlug\": \"make-array-strictly-increasing\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make the Array Increasing\", \"titleSlug\": \"minimum-operations-to-make-the-array-increasing\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.8K\", \"totalAcceptedRaw\": 1174, \"totalSubmissionRaw\": 1799, \"acRate\": \"65.3%\"}",
+      "hints": [
+        "To find the minimum cost to make nums non-decreasing, use a max heap that contains all of the elements that you have seen so far.",
+        "If the largest number in the heap is greater than the current number, calculate the cost to make the two numbers equal. Then, in the heap, replace the largest number with the current number.",
+        "Now that we have found the minimum cost to make nums non-decreasing, we can set every nums[i] to -nums[i] and do the same process to find the minimum cost to make nums non-increasing."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "non-decreasing-array",
+        "title": "Non-decreasing Array",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "make-array-strictly-increasing",
+        "title": "Make Array Strictly Increasing",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "minimum-operations-to-make-the-array-increasing",
+        "title": "Minimum Operations to Make the Array Increasing",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "To find the minimum cost to make nums non-decreasing, use a max heap that contains all of the elements that you have seen so far.",
+      "If the largest number in the heap is greater than the current number, calculate the cost to make the two numbers equal. Then, in the heap, replace the largest number with the current number.",
+      "Now that we have found the minimum cost to make nums non-decreasing, we can set every nums[i] to -nums[i] and do the same process to find the minimum cost to make nums non-increasing."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

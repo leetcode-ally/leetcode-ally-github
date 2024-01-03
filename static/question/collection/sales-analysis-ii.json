@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1083",
+      "title": "Sales Analysis II",
+      "titleSlug": "sales-analysis-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 264,
+      "dislikes": 46,
+      "similarQuestions": "[{\"title\": \"Sales Analysis I\", \"titleSlug\": \"sales-analysis-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Sales Analysis III\", \"titleSlug\": \"sales-analysis-iii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"55.5K\", \"totalSubmission\": \"111.8K\", \"totalAcceptedRaw\": 55493, \"totalSubmissionRaw\": 111849, \"acRate\": \"49.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "sales-analysis-i",
+        "title": "Sales Analysis I",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "sales-analysis-iii",
+        "title": "Sales Analysis III",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

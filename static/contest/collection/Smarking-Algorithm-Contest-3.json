@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Smarking-Algorithm-Contest-3",
+  "data": [
+    {
+      "id": 44,
+      "question_id": 453,
+      "credit": 1,
+      "title": "Minimum Moves to Equal Array Elements",
+      "title_slug": "minimum-moves-to-equal-array-elements",
+      "likes": 2492,
+      "dislikes": 1877
+    },
+    {
+      "id": 46,
+      "question_id": 447,
+      "credit": 1,
+      "title": "Number of Boomerangs",
+      "title_slug": "number-of-boomerangs",
+      "likes": 808,
+      "dislikes": 999
+    },
+    {
+      "id": 45,
+      "question_id": 452,
+      "credit": 1,
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "title_slug": "minimum-number-of-arrows-to-burst-balloons",
+      "likes": 6635,
+      "dislikes": 193
+    },
+    {
+      "id": 43,
+      "question_id": 446,
+      "credit": 1,
+      "title": "Arithmetic Slices II - Subsequence",
+      "title_slug": "arithmetic-slices-ii-subsequence",
+      "likes": 2427,
+      "dislikes": 117
+    }
+  ]
+}

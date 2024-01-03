@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2072",
+      "title": "The Winner University",
+      "titleSlug": "the-winner-university",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 61,
+      "dislikes": 2,
+      "similarQuestions": "[{\"title\": \"The Number of Rich Customers\", \"titleSlug\": \"the-number-of-rich-customers\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.7K\", \"totalSubmission\": \"13.3K\", \"totalAcceptedRaw\": 9669, \"totalSubmissionRaw\": 13279, \"acRate\": \"72.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "the-number-of-rich-customers",
+        "title": "The Number of Rich Customers",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

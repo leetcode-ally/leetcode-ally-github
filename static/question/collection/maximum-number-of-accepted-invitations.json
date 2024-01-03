@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1820",
+      "title": "Maximum Number of Accepted Invitations",
+      "titleSlug": "maximum-number-of-accepted-invitations",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 182,
+      "dislikes": 54,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.8K\", \"totalSubmission\": \"11.8K\", \"totalAcceptedRaw\": 5822, \"totalSubmissionRaw\": 11823, \"acRate\": \"49.2%\"}",
+      "hints": [
+        "We can see that the problem can be represented as a directed graph with an edge from each boy to the girl he invited.",
+        "We need to choose a set of edges such that no to source points in the graph (i.e., boys) have an edge with the same endpoint (i.e., the same girl).",
+        "The problem is maximum bipartite matching in the graph."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "We can see that the problem can be represented as a directed graph with an edge from each boy to the girl he invited.",
+      "We need to choose a set of edges such that no to source points in the graph (i.e., boys) have an edge with the same endpoint (i.e., the same girl).",
+      "The problem is maximum bipartite matching in the graph."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

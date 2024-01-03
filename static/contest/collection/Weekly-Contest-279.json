@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-279",
+  "data": [
+    {
+      "id": 2498,
+      "question_id": 2283,
+      "credit": 3,
+      "title": "Sort Even and Odd Indices Independently",
+      "title_slug": "sort-even-and-odd-indices-independently",
+      "likes": 690,
+      "dislikes": 56
+    },
+    {
+      "id": 2499,
+      "question_id": 2284,
+      "credit": 4,
+      "title": "Smallest Value of the Rearranged Number",
+      "title_slug": "smallest-value-of-the-rearranged-number",
+      "likes": 605,
+      "dislikes": 21
+    },
+    {
+      "id": 2500,
+      "question_id": 2285,
+      "credit": 5,
+      "title": "Design Bitset",
+      "title_slug": "design-bitset",
+      "likes": 566,
+      "dislikes": 47
+    },
+    {
+      "id": 2501,
+      "question_id": 2286,
+      "credit": 6,
+      "title": "Minimum Time to Remove All Cars Containing Illegal Goods",
+      "title_slug": "minimum-time-to-remove-all-cars-containing-illegal-goods",
+      "likes": 643,
+      "dislikes": 11
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-114",
+  "data": [
+    {
+      "id": 496,
+      "question_id": 990,
+      "credit": 4,
+      "title": "Verifying an Alien Dictionary",
+      "title_slug": "verifying-an-alien-dictionary",
+      "likes": 4797,
+      "dislikes": 1593
+    },
+    {
+      "id": 497,
+      "question_id": 991,
+      "credit": 5,
+      "title": "Array of Doubled Pairs",
+      "title_slug": "array-of-doubled-pairs",
+      "likes": 1495,
+      "dislikes": 147
+    },
+    {
+      "id": 499,
+      "question_id": 992,
+      "credit": 6,
+      "title": "Delete Columns to Make Sorted II",
+      "title_slug": "delete-columns-to-make-sorted-ii",
+      "likes": 637,
+      "dislikes": 86
+    },
+    {
+      "id": 498,
+      "question_id": 993,
+      "credit": 8,
+      "title": "Tallest Billboard",
+      "title_slug": "tallest-billboard",
+      "likes": 2284,
+      "dislikes": 55
+    }
+  ]
+}

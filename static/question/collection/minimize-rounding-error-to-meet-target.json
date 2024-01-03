@@ -1,0 +1,65 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1058",
+      "title": "Minimize Rounding Error to Meet Target",
+      "titleSlug": "minimize-rounding-error-to-meet-target",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 146,
+      "dislikes": 145,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"8.8K\", \"totalSubmission\": \"19.6K\", \"totalAcceptedRaw\": 8836, \"totalSubmissionRaw\": 19618, \"acRate\": \"45.0%\"}",
+      "hints": [
+        "If we have integer values in the array then we just need to subtract the target those integer values, so we reduced the problem.",
+        "Similarly if we have non integer values we have two options to put them flor(value) or ceil(value) = floor(value) + 1, so the idea is to just subtract floor(value).",
+        "Now the problem is different for each position we can sum just add 0 or 1 in order to sum the target, minimizing the deltas. This can be solved with DP."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "If we have integer values in the array then we just need to subtract the target those integer values, so we reduced the problem.",
+      "Similarly if we have non integer values we have two options to put them flor(value) or ceil(value) = floor(value) + 1, so the idea is to just subtract floor(value).",
+      "Now the problem is different for each position we can sum just add 0 or 1 in order to sum the target, minimizing the deltas. This can be solved with DP."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-80",
+  "data": [
+    {
+      "id": 349,
+      "question_id": 837,
+      "credit": 4,
+      "title": "Most Common Word",
+      "title_slug": "most-common-word",
+      "likes": 1645,
+      "dislikes": 3018
+    },
+    {
+      "id": 350,
+      "question_id": 835,
+      "credit": 4,
+      "title": "Linked List Components",
+      "title_slug": "linked-list-components",
+      "likes": 1016,
+      "dislikes": 2169
+    },
+    {
+      "id": 351,
+      "question_id": 834,
+      "credit": 6,
+      "title": "Ambiguous Coordinates",
+      "title_slug": "ambiguous-coordinates",
+      "likes": 307,
+      "dislikes": 652
+    },
+    {
+      "id": 352,
+      "question_id": 836,
+      "credit": 8,
+      "title": "Race Car",
+      "title_slug": "race-car",
+      "likes": 1850,
+      "dislikes": 176
+    }
+  ]
+}

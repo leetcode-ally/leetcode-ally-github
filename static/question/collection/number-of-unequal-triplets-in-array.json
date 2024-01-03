@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2475",
+      "title": "Number of Unequal Triplets in Array",
+      "titleSlug": "number-of-unequal-triplets-in-array",
+      "content": "<p>You are given a <strong>0-indexed</strong> array of positive integers <code>nums</code>. Find the number of triplets <code>(i, j, k)</code> that meet the following conditions:</p>\n\n<ul>\n\t<li><code>0 &lt;= i &lt; j &lt; k &lt; nums.length</code></li>\n\t<li><code>nums[i]</code>, <code>nums[j]</code>, and <code>nums[k]</code> are <strong>pairwise distinct</strong>.\n\t<ul>\n\t\t<li>In other words, <code>nums[i] != nums[j]</code>, <code>nums[i] != nums[k]</code>, and <code>nums[j] != nums[k]</code>.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Return <em>the number of triplets that meet the conditions.</em></p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [4,4,2,4,3]\n<strong>Output:</strong> 3\n<strong>Explanation:</strong> The following triplets meet the conditions:\n- (0, 2, 4) because 4 != 2 != 3\n- (1, 2, 4) because 4 != 2 != 3\n- (2, 3, 4) because 2 != 4 != 3\nSince there are 3 triplets, we return 3.\nNote that (2, 0, 4) is not a valid triplet because 2 &gt; 0.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,1,1,1,1]\n<strong>Output:</strong> 0\n<strong>Explanation:</strong> No triplets meet the conditions so we return 0.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>3 &lt;= nums.length &lt;= 100</code></li>\n\t<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 374,
+      "dislikes": 41,
+      "similarQuestions": "[{\"title\": \"Count Good Triplets\", \"titleSlug\": \"count-good-triplets\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Count Square Sum Triples\", \"titleSlug\": \"count-square-sum-triples\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Number of Arithmetic Triplets\", \"titleSlug\": \"number-of-arithmetic-triplets\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"36.4K\", \"totalSubmission\": \"51.5K\", \"totalAcceptedRaw\": 36426, \"totalSubmissionRaw\": 51460, \"acRate\": \"70.8%\"}",
+      "hints": [
+        "The constraints are very small. Can we try every triplet?",
+        "Yes, we can. Use three loops to iterate through all the possible triplets, ensuring the condition i < j < k holds."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "count-good-triplets",
+        "title": "Count Good Triplets",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "count-square-sum-triples",
+        "title": "Count Square Sum Triples",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "number-of-arithmetic-triplets",
+        "title": "Number of Arithmetic Triplets",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "The constraints are very small. Can we try every triplet?",
+      "Yes, we can. Use three loops to iterate through all the possible triplets, ensuring the condition i < j < k holds."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  }
+}

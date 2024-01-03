@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "418",
+      "title": "Sentence Screen Fitting",
+      "titleSlug": "sentence-screen-fitting",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1089,
+      "dislikes": 539,
+      "similarQuestions": "[{\"title\": \"Minimum Cost to Separate Sentence Into Rows\", \"titleSlug\": \"minimum-cost-to-separate-sentence-into-rows\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Split Message Based on Limit\", \"titleSlug\": \"split-message-based-on-limit\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"97.7K\", \"totalSubmission\": \"271.9K\", \"totalAcceptedRaw\": 97651, \"totalSubmissionRaw\": 271919, \"acRate\": \"35.9%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-cost-to-separate-sentence-into-rows",
+        "title": "Minimum Cost to Separate Sentence Into Rows",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "split-message-based-on-limit",
+        "title": "Split Message Based on Limit",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  }
+}

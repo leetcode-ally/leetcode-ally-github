@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-231",
+  "data": [
+    {
+      "id": 1900,
+      "question_id": 1910,
+      "credit": 3,
+      "title": "Check if Binary String Has at Most One Segment of Ones",
+      "title_slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+      "likes": 313,
+      "dislikes": 926
+    },
+    {
+      "id": 1901,
+      "question_id": 1911,
+      "credit": 4,
+      "title": "Minimum Elements to Add to Form a Given Sum",
+      "title_slug": "minimum-elements-to-add-to-form-a-given-sum",
+      "likes": 249,
+      "dislikes": 190
+    },
+    {
+      "id": 1902,
+      "question_id": 1912,
+      "credit": 6,
+      "title": "Number of Restricted Paths From First to Last Node",
+      "title_slug": "number-of-restricted-paths-from-first-to-last-node",
+      "likes": 1019,
+      "dislikes": 193
+    },
+    {
+      "id": 1903,
+      "question_id": 1913,
+      "credit": 7,
+      "title": "Make the XOR of All Segments Equal to Zero",
+      "title_slug": "make-the-xor-of-all-segments-equal-to-zero",
+      "likes": 387,
+      "dislikes": 21
+    }
+  ]
+}

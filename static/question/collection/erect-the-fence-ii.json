@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1924",
+      "title": "Erect the Fence II",
+      "titleSlug": "erect-the-fence-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 13,
+      "dislikes": 40,
+      "similarQuestions": "[{\"title\": \"Erect the Fence\", \"titleSlug\": \"erect-the-fence\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"659\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 659, \"totalSubmissionRaw\": 1276, \"acRate\": \"51.6%\"}",
+      "hints": [
+        "First, we need to note that this is a classic problem given n points you need to find the minimum enclosing circle to bind them",
+        "Second, we need to apply a well known algorithm called welzls algorithm to help us find the minimum enclosing circle"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "erect-the-fence",
+        "title": "Erect the Fence",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "First, we need to note that this is a classic problem given n points you need to find the minimum enclosing circle to bind them",
+      "Second, we need to apply a well known algorithm called welzls algorithm to help us find the minimum enclosing circle"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ]
+  }
+}

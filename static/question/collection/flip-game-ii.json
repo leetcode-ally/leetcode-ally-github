@@ -1,0 +1,90 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "294",
+      "title": "Flip Game II",
+      "titleSlug": "flip-game-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 608,
+      "dislikes": 62,
+      "similarQuestions": "[{\"title\": \"Nim Game\", \"titleSlug\": \"nim-game\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Flip Game\", \"titleSlug\": \"flip-game\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Guess Number Higher or Lower II\", \"titleSlug\": \"guess-number-higher-or-lower-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Can I Win\", \"titleSlug\": \"can-i-win\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"69.6K\", \"totalSubmission\": \"133.7K\", \"totalAcceptedRaw\": 69611, \"totalSubmissionRaw\": 133718, \"acRate\": \"52.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "nim-game",
+        "title": "Nim Game",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "flip-game",
+        "title": "Flip Game",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "guess-number-higher-or-lower-ii",
+        "title": "Guess Number Higher or Lower II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "can-i-win",
+        "title": "Can I Win",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  }
+}

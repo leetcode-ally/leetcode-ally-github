@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-76",
+  "data": [
+    {
+      "id": 2638,
+      "question_id": 2350,
+      "credit": 3,
+      "title": "Find Closest Number to Zero",
+      "title_slug": "find-closest-number-to-zero",
+      "likes": 536,
+      "dislikes": 32
+    },
+    {
+      "id": 2639,
+      "question_id": 2351,
+      "credit": 4,
+      "title": "Number of Ways to Buy Pens and Pencils",
+      "title_slug": "number-of-ways-to-buy-pens-and-pencils",
+      "likes": 428,
+      "dislikes": 31
+    },
+    {
+      "id": 2640,
+      "question_id": 2352,
+      "credit": 5,
+      "title": "Design an ATM Machine",
+      "title_slug": "design-an-atm-machine",
+      "likes": 232,
+      "dislikes": 319
+    },
+    {
+      "id": 2641,
+      "question_id": 2353,
+      "credit": 6,
+      "title": "Maximum Score of a Node Sequence",
+      "title_slug": "maximum-score-of-a-node-sequence",
+      "likes": 502,
+      "dislikes": 15
+    }
+  ]
+}

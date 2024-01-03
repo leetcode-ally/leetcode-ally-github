@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "772",
+      "title": "Basic Calculator III",
+      "titleSlug": "basic-calculator-iii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 1095,
+      "dislikes": 282,
+      "similarQuestions": "[{\"title\": \"Basic Calculator\", \"titleSlug\": \"basic-calculator\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Basic Calculator II\", \"titleSlug\": \"basic-calculator-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Basic Calculator IV\", \"titleSlug\": \"basic-calculator-iv\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Build Binary Expression Tree From Infix Expression\", \"titleSlug\": \"build-binary-expression-tree-from-infix-expression\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"116.5K\", \"totalSubmission\": \"233.7K\", \"totalAcceptedRaw\": 116517, \"totalSubmissionRaw\": 233677, \"acRate\": \"49.9%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "basic-calculator",
+        "title": "Basic Calculator",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "basic-calculator-ii",
+        "title": "Basic Calculator II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "basic-calculator-iv",
+        "title": "Basic Calculator IV",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "build-binary-expression-tree-from-infix-expression",
+        "title": "Build Binary Expression Tree From Infix Expression",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-190",
+  "data": [
+    {
+      "id": 1406,
+      "question_id": 1566,
+      "credit": 3,
+      "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "title_slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "likes": 804,
+      "dislikes": 40
+    },
+    {
+      "id": 1407,
+      "question_id": 1567,
+      "credit": 4,
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "title_slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "likes": 3289,
+      "dislikes": 113
+    },
+    {
+      "id": 1408,
+      "question_id": 1568,
+      "credit": 5,
+      "title": "Pseudo-Palindromic Paths in a Binary Tree",
+      "title_slug": "pseudo-palindromic-paths-in-a-binary-tree",
+      "likes": 2508,
+      "dislikes": 82
+    },
+    {
+      "id": 1409,
+      "question_id": 1569,
+      "credit": 6,
+      "title": "Max Dot Product of Two Subsequences",
+      "title_slug": "max-dot-product-of-two-subsequences",
+      "likes": 1617,
+      "dislikes": 33
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2015",
+      "title": "Average Height of Buildings in Each Segment",
+      "titleSlug": "average-height-of-buildings-in-each-segment",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 47,
+      "dislikes": 26,
+      "similarQuestions": "[{\"title\": \"Average Waiting Time\", \"titleSlug\": \"average-waiting-time\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Describe the Painting\", \"titleSlug\": \"describe-the-painting\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Amount of New Area Painted Each Day\", \"titleSlug\": \"amount-of-new-area-painted-each-day\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Divide Intervals Into Minimum Number of Groups\", \"titleSlug\": \"divide-intervals-into-minimum-number-of-groups\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.8K\", \"totalSubmission\": \"3.1K\", \"totalAcceptedRaw\": 1827, \"totalSubmissionRaw\": 3108, \"acRate\": \"58.8%\"}",
+      "hints": [
+        "Try sorting the start and end points of each building.",
+        "The naive solution is to go through each position on the street and keep track of the sum of all the buildings at that position and the number of buildings at that position.",
+        "How could we optimize that solution to pass?",
+        "We don't need to go through every position, just the ones where a building starts or a building ends."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "average-waiting-time",
+        "title": "Average Waiting Time",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "describe-the-painting",
+        "title": "Describe the Painting",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "amount-of-new-area-painted-each-day",
+        "title": "Amount of New Area Painted Each Day",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "divide-intervals-into-minimum-number-of-groups",
+        "title": "Divide Intervals Into Minimum Number of Groups",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try sorting the start and end points of each building.",
+      "The naive solution is to go through each position on the street and keep track of the sum of all the buildings at that position and the number of buildings at that position.",
+      "How could we optimize that solution to pass?",
+      "We don't need to go through every position, just the ones where a building starts or a building ends."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1147",
+      "title": "Longest Chunked Palindrome Decomposition",
+      "titleSlug": "longest-chunked-palindrome-decomposition",
+      "content": "<p>You are given a string <code>text</code>. You should split it to k substrings <code>(subtext<sub>1</sub>, subtext<sub>2</sub>, ..., subtext<sub>k</sub>)</code> such that:</p>\n\n<ul>\n\t<li><code>subtext<sub>i</sub></code> is a <strong>non-empty</strong> string.</li>\n\t<li>The concatenation of all the substrings is equal to <code>text</code> (i.e., <code>subtext<sub>1</sub> + subtext<sub>2</sub> + ... + subtext<sub>k</sub> == text</code>).</li>\n\t<li><code>subtext<sub>i</sub> == subtext<sub>k - i + 1</sub></code> for all valid values of <code>i</code> (i.e., <code>1 &lt;= i &lt;= k</code>).</li>\n</ul>\n\n<p>Return the largest possible value of <code>k</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> text = &quot;ghiabcdefhelloadamhelloabcdefghi&quot;\n<strong>Output:</strong> 7\n<strong>Explanation:</strong> We can split the string on &quot;(ghi)(abcdef)(hello)(adam)(hello)(abcdef)(ghi)&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> text = &quot;merchant&quot;\n<strong>Output:</strong> 1\n<strong>Explanation:</strong> We can split the string on &quot;(merchant)&quot;.\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> text = &quot;antaprezatepzapreanta&quot;\n<strong>Output:</strong> 11\n<strong>Explanation:</strong> We can split the string on &quot;(a)(nt)(a)(pre)(za)(tep)(za)(pre)(a)(nt)(a)&quot;.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= text.length &lt;= 1000</code></li>\n\t<li><code>text</code> consists only of lowercase English characters.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 635,
+      "dislikes": 29,
+      "similarQuestions": "[{\"title\": \"Palindrome Rearrangement Queries\", \"titleSlug\": \"palindrome-rearrangement-queries\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"22.5K\", \"totalSubmission\": \"38.3K\", \"totalAcceptedRaw\": 22479, \"totalSubmissionRaw\": 38275, \"acRate\": \"58.7%\"}",
+      "hints": [
+        "Using a rolling hash, we can quickly check whether two strings are equal.",
+        "Use that as the basis of a dp."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "palindrome-rearrangement-queries",
+        "title": "Palindrome Rearrangement Queries",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Using a rolling hash, we can quickly check whether two strings are equal.",
+      "Use that as the basis of a dp."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ]
+  }
+}

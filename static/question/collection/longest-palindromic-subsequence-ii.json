@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1682",
+      "title": "Longest Palindromic Subsequence II",
+      "titleSlug": "longest-palindromic-subsequence-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 146,
+      "dislikes": 28,
+      "similarQuestions": "[{\"title\": \"Longest Palindromic Subsequence\", \"titleSlug\": \"longest-palindromic-subsequence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.1K\", \"totalSubmission\": \"10.3K\", \"totalAcceptedRaw\": 5138, \"totalSubmissionRaw\": 10324, \"acRate\": \"49.8%\"}",
+      "hints": [
+        "As with any good dp problem that uses palindromes, try building the palindrome from the edges",
+        "The prime point is to check that no two adjacent characters are equal, so save the past character while building the palindrome."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "longest-palindromic-subsequence",
+        "title": "Longest Palindromic Subsequence",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "As with any good dp problem that uses palindromes, try building the palindrome from the edges",
+      "The prime point is to check that no two adjacent characters are equal, so save the past character while building the palindrome."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

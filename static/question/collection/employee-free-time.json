@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "759",
+      "title": "Employee Free Time",
+      "titleSlug": "employee-free-time",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 1845,
+      "dislikes": 124,
+      "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Interval List Intersections\", \"titleSlug\": \"interval-list-intersections\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"141.3K\", \"totalSubmission\": \"196.5K\", \"totalAcceptedRaw\": 141323, \"totalSubmissionRaw\": 196477, \"acRate\": \"71.9%\"}",
+      "hints": [
+        "Take all the intervals and do an \"events\" (or \"line sweep\") approach - an event of (x, OPEN) increases the number of active intervals, while (x, CLOSE) decreases it.\r\n\r\nProcessing in sorted order from left to right, if the number of active intervals is zero, then you crossed a region of common free time."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "merge-intervals",
+        "title": "Merge Intervals",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "interval-list-intersections",
+        "title": "Interval List Intersections",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Take all the intervals and do an \"events\" (or \"line sweep\") approach - an event of (x, OPEN) increases the number of active intervals, while (x, CLOSE) decreases it.\r\n\r\nProcessing in sorted order from left to right, if the number of active intervals is zero, then you crossed a region of common free time."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

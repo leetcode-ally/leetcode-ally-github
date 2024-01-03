@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-247",
+  "data": [
+    {
+      "id": 2110,
+      "question_id": 2042,
+      "credit": 3,
+      "title": "Maximum Product Difference Between Two Pairs",
+      "title_slug": "maximum-product-difference-between-two-pairs",
+      "likes": 1456,
+      "dislikes": 63
+    },
+    {
+      "id": 2111,
+      "question_id": 2043,
+      "credit": 4,
+      "title": "Cyclically Rotating a Grid",
+      "title_slug": "cyclically-rotating-a-grid",
+      "likes": 227,
+      "dislikes": 271
+    },
+    {
+      "id": 2112,
+      "question_id": 2044,
+      "credit": 5,
+      "title": "Number of Wonderful Substrings",
+      "title_slug": "number-of-wonderful-substrings",
+      "likes": 954,
+      "dislikes": 62
+    },
+    {
+      "id": 2113,
+      "question_id": 1313,
+      "credit": 6,
+      "title": "Count Ways to Build Rooms in an Ant Colony",
+      "title_slug": "count-ways-to-build-rooms-in-an-ant-colony",
+      "likes": 465,
+      "dislikes": 50
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "359",
+      "title": "Logger Rate Limiter",
+      "titleSlug": "logger-rate-limiter",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 1679,
+      "dislikes": 189,
+      "similarQuestions": "[{\"title\": \"Design Hit Counter\", \"titleSlug\": \"design-hit-counter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"298.6K\", \"totalSubmission\": \"394.4K\", \"totalAcceptedRaw\": 298602, \"totalSubmissionRaw\": 394352, \"acRate\": \"75.7%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "design-hit-counter",
+        "title": "Design Hit Counter",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ]
+  }
+}

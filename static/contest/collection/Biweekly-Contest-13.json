@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-13",
+  "data": [
+    {
+      "id": 1090,
+      "question_id": 1189,
+      "credit": 4,
+      "title": "Encode Number",
+      "title_slug": "encode-number",
+      "likes": 75,
+      "dislikes": 245
+    },
+    {
+      "id": 1091,
+      "question_id": 1190,
+      "credit": 5,
+      "title": "Smallest Common Region",
+      "title_slug": "smallest-common-region",
+      "likes": 422,
+      "dislikes": 34
+    },
+    {
+      "id": 1092,
+      "question_id": 1191,
+      "credit": 6,
+      "title": "Synonymous Sentences",
+      "title_slug": "synonymous-sentences",
+      "likes": 336,
+      "dislikes": 155
+    },
+    {
+      "id": 1093,
+      "question_id": 1213,
+      "credit": 6,
+      "title": "Handshakes That Don't Cross",
+      "title_slug": "handshakes-that-dont-cross",
+      "likes": 225,
+      "dislikes": 16
+    }
+  ]
+}

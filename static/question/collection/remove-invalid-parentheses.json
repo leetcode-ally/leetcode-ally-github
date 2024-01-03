@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "titleSlug": "remove-invalid-parentheses",
+      "content": "<p>Given a string <code>s</code> that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid.</p>\n\n<p>Return <em>a list of <strong>unique strings</strong> that are valid with the minimum number of removals</em>. You may return the answer in <strong>any order</strong>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;()())()&quot;\n<strong>Output:</strong> [&quot;(())()&quot;,&quot;()()()&quot;]\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;(a)())()&quot;\n<strong>Output:</strong> [&quot;(a())()&quot;,&quot;(a)()()&quot;]\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> s = &quot;)(&quot;\n<strong>Output:</strong> [&quot;&quot;]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 25</code></li>\n\t<li><code>s</code> consists of lowercase English letters and parentheses <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>.</li>\n\t<li>There will be at most <code>20</code> parentheses in <code>s</code>.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 5730,
+      "dislikes": 274,
+      "similarQuestions": "[{\"title\": \"Valid Parentheses\", \"titleSlug\": \"valid-parentheses\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Minimum Number of Swaps to Make the String Balanced\", \"titleSlug\": \"minimum-number-of-swaps-to-make-the-string-balanced\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"408K\", \"totalSubmission\": \"855K\", \"totalAcceptedRaw\": 407998, \"totalSubmissionRaw\": 854958, \"acRate\": \"47.7%\"}",
+      "hints": [
+        "Since we do not know which brackets can be removed, we try all the options! We can use recursion.",
+        "In the recursion, for each bracket, we can either use it or remove it.",
+        "Recursion will generate all the valid parentheses strings but we want the ones with the least number of parentheses deleted.",
+        "We can count the number of invalid brackets to be deleted and only generate the valid strings in the recusrion."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "valid-parentheses",
+        "title": "Valid Parentheses",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Since we do not know which brackets can be removed, we try all the options! We can use recursion.",
+      "In the recursion, for each bracket, we can either use it or remove it.",
+      "Recursion will generate all the valid parentheses strings but we want the ones with the least number of parentheses deleted.",
+      "We can count the number of invalid brackets to be deleted and only generate the valid strings in the recusrion."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  }
+}

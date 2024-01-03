@@ -1,0 +1,71 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1956",
+      "title": "Minimum Time For K Virus Variants to Spread",
+      "titleSlug": "minimum-time-for-k-virus-variants-to-spread",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 31,
+      "dislikes": 7,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"871\", \"totalSubmission\": \"1.8K\", \"totalAcceptedRaw\": 871, \"totalSubmissionRaw\": 1784, \"acRate\": \"48.8%\"}",
+      "hints": [
+        "n is very small, how can we use that?",
+        "What shape is the region when two viruses intersect?"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "n is very small, how can we use that?",
+      "What shape is the region when two viruses intersect?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  }
+}

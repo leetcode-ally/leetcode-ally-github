@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-24",
+  "data": [
+    {
+      "id": 1350,
+      "question_id": 1514,
+      "credit": 3,
+      "title": "Minimum Value to Get Positive Step by Step Sum",
+      "title_slug": "minimum-value-to-get-positive-step-by-step-sum",
+      "likes": 1510,
+      "dislikes": 315
+    },
+    {
+      "id": 1351,
+      "question_id": 1515,
+      "credit": 4,
+      "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+      "title_slug": "find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+      "likes": 990,
+      "dislikes": 64
+    },
+    {
+      "id": 1352,
+      "question_id": 1516,
+      "credit": 5,
+      "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "title_slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "likes": 938,
+      "dislikes": 24
+    },
+    {
+      "id": 1353,
+      "question_id": 1517,
+      "credit": 6,
+      "title": "Restore The Array",
+      "title_slug": "restore-the-array",
+      "likes": 1549,
+      "dislikes": 52
+    }
+  ]
+}

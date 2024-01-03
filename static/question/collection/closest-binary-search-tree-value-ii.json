@@ -1,0 +1,110 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "272",
+      "title": "Closest Binary Search Tree Value II",
+      "titleSlug": "closest-binary-search-tree-value-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 1267,
+      "dislikes": 42,
+      "similarQuestions": "[{\"title\": \"Binary Tree Inorder Traversal\", \"titleSlug\": \"binary-tree-inorder-traversal\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Closest Binary Search Tree Value\", \"titleSlug\": \"closest-binary-search-tree-value\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Closest Nodes Queries in a Binary Search Tree\", \"titleSlug\": \"closest-nodes-queries-in-a-binary-search-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"114.5K\", \"totalSubmission\": \"194.9K\", \"totalAcceptedRaw\": 114501, \"totalSubmissionRaw\": 194867, \"acRate\": \"58.8%\"}",
+      "hints": [
+        "Consider implement these two helper functions:\r\n<ol type=\"i\"><li><code>getPredecessor(N)</code>, which returns the next smaller node to N.</li>\r\n<li><code>getSuccessor(N)</code>, which returns the next larger node to N.</li>\r\n</ol>",
+        "Try to assume that each node has a parent pointer, it makes the problem much easier.",
+        "Without parent pointer we just need to keep track of the path from the root to the current node using a stack.",
+        "You would need two stacks to track the path in finding predecessor and successor node separately."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "title": "Binary Tree Inorder Traversal",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "closest-binary-search-tree-value",
+        "title": "Closest Binary Search Tree Value",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "closest-nodes-queries-in-a-binary-search-tree",
+        "title": "Closest Nodes Queries in a Binary Search Tree",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Consider implement these two helper functions:\r\n<ol type=\"i\"><li><code>getPredecessor(N)</code>, which returns the next smaller node to N.</li>\r\n<li><code>getSuccessor(N)</code>, which returns the next larger node to N.</li>\r\n</ol>",
+      "Try to assume that each node has a parent pointer, it makes the problem much easier.",
+      "Without parent pointer we just need to keep track of the path from the root to the current node using a stack.",
+      "You would need two stacks to track the path in finding predecessor and successor node separately."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

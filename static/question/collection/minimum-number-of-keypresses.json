@@ -1,0 +1,71 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2268",
+      "title": "Minimum Number of Keypresses",
+      "titleSlug": "minimum-number-of-keypresses",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 206,
+      "dislikes": 28,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"15.3K\", \"totalSubmission\": \"21.4K\", \"totalAcceptedRaw\": 15252, \"totalSubmissionRaw\": 21418, \"acRate\": \"71.2%\"}",
+      "hints": [
+        "Map the most frequent letters so that you can type them with only 1 keypress.",
+        "Use an array to keep track of the frequency of every character, then sort it in non-increasing order."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Map the most frequent letters so that you can type them with only 1 keypress.",
+      "Use an array to keep track of the frequency of every character, then sort it in non-increasing order."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  }
+}

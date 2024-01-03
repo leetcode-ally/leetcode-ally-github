@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-260",
+  "data": [
+    {
+      "id": 2266,
+      "question_id": 2144,
+      "credit": 3,
+      "title": "Maximum Difference Between Increasing Elements",
+      "title_slug": "maximum-difference-between-increasing-elements",
+      "likes": 944,
+      "dislikes": 29
+    },
+    {
+      "id": 2267,
+      "question_id": 2145,
+      "credit": 4,
+      "title": "Grid Game",
+      "title_slug": "grid-game",
+      "likes": 864,
+      "dislikes": 32
+    },
+    {
+      "id": 2268,
+      "question_id": 2146,
+      "credit": 5,
+      "title": "Check if Word Can Be Placed In Crossword",
+      "title_slug": "check-if-word-can-be-placed-in-crossword",
+      "likes": 273,
+      "dislikes": 288
+    },
+    {
+      "id": 2269,
+      "question_id": 2147,
+      "credit": 6,
+      "title": "The Score of Students Solving Math Expression",
+      "title_slug": "the-score-of-students-solving-math-expression",
+      "likes": 261,
+      "dislikes": 78
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1279",
+      "title": "Traffic Light Controlled Intersection",
+      "titleSlug": "traffic-light-controlled-intersection",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 70,
+      "dislikes": 337,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Concurrency",
+          "slug": "concurrency"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"12.4K\", \"totalSubmission\": \"16.9K\", \"totalAcceptedRaw\": 12392, \"totalSubmissionRaw\": 16940, \"acRate\": \"73.2%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ]
+  }
+}

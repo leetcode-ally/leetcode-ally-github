@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-61",
+  "data": [
+    {
+      "id": 2246,
+      "question_id": 2116,
+      "credit": 3,
+      "title": "Count Number of Pairs With Absolute Difference K",
+      "title_slug": "count-number-of-pairs-with-absolute-difference-k",
+      "likes": 1541,
+      "dislikes": 35
+    },
+    {
+      "id": 2247,
+      "question_id": 2117,
+      "credit": 4,
+      "title": "Find Original Array From Doubled Array",
+      "title_slug": "find-original-array-from-doubled-array",
+      "likes": 2380,
+      "dislikes": 113
+    },
+    {
+      "id": 2248,
+      "question_id": 2118,
+      "credit": 5,
+      "title": "Maximum Earnings From Taxi",
+      "title_slug": "maximum-earnings-from-taxi",
+      "likes": 1189,
+      "dislikes": 22
+    },
+    {
+      "id": 2249,
+      "question_id": 2119,
+      "credit": 6,
+      "title": "Minimum Number of Operations to Make Array Continuous",
+      "title_slug": "minimum-number-of-operations-to-make-array-continuous",
+      "likes": 1796,
+      "dislikes": 47
+    }
+  ]
+}

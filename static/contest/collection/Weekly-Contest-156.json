@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-156",
+  "data": [
+    {
+      "id": 990,
+      "question_id": 1319,
+      "credit": 3,
+      "title": "Unique Number of Occurrences",
+      "title_slug": "unique-number-of-occurrences",
+      "likes": 4425,
+      "dislikes": 106
+    },
+    {
+      "id": 991,
+      "question_id": 1321,
+      "credit": 4,
+      "title": "Get Equal Substrings Within Budget",
+      "title_slug": "get-equal-substrings-within-budget",
+      "likes": 1114,
+      "dislikes": 65
+    },
+    {
+      "id": 992,
+      "question_id": 1320,
+      "credit": 5,
+      "title": "Remove All Adjacent Duplicates in String II",
+      "title_slug": "remove-all-adjacent-duplicates-in-string-ii",
+      "likes": 5604,
+      "dislikes": 108
+    },
+    {
+      "id": 993,
+      "question_id": 1322,
+      "credit": 7,
+      "title": "Minimum Moves to Reach Target with Rotations",
+      "title_slug": "minimum-moves-to-reach-target-with-rotations",
+      "likes": 266,
+      "dislikes": 68
+    }
+  ]
+}

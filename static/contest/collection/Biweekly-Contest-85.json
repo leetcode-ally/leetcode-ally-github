@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-85",
+  "data": [
+    {
+      "id": 2858,
+      "question_id": 2463,
+      "credit": 3,
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+      "likes": 681,
+      "dislikes": 19
+    },
+    {
+      "id": 2859,
+      "question_id": 2464,
+      "credit": 4,
+      "title": "Time Needed to Rearrange a Binary String",
+      "title_slug": "time-needed-to-rearrange-a-binary-string",
+      "likes": 437,
+      "dislikes": 105
+    },
+    {
+      "id": 2860,
+      "question_id": 2465,
+      "credit": 5,
+      "title": "Shifting Letters II",
+      "title_slug": "shifting-letters-ii",
+      "likes": 717,
+      "dislikes": 18
+    },
+    {
+      "id": 2861,
+      "question_id": 2466,
+      "credit": 6,
+      "title": "Maximum Segment Sum After Removals",
+      "title_slug": "maximum-segment-sum-after-removals",
+      "likes": 434,
+      "dislikes": 5
+    }
+  ]
+}

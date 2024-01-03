@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2548",
+      "title": "Maximum Price to Fill a Bag",
+      "titleSlug": "maximum-price-to-fill-a-bag",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 34,
+      "dislikes": 7,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.1K\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 1091, \"totalSubmissionRaw\": 1658, \"acRate\": \"65.8%\"}",
+      "hints": [
+        "If the total weight of the items is less than the capacity, then it is impossible to fill a bag.",
+        "The intended solution greedily chooses items to fill a bag.",
+        "Sort items in decreasing order of price/weight and greedily fill a bag. The main intuition behind the greedy strategy is that we try to take the highest possible price for 1 unit of weight."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "If the total weight of the items is less than the capacity, then it is impossible to fill a bag.",
+      "The intended solution greedily chooses items to fill a bag.",
+      "Sort items in decreasing order of price/weight and greedily fill a bag. The main intuition behind the greedy strategy is that we try to take the highest possible price for 1 unit of weight."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

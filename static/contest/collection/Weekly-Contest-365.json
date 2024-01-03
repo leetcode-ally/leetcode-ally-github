@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-365",
+  "data": [
+    {
+      "id": 3558,
+      "question_id": 3154,
+      "credit": 3,
+      "title": "Maximum Value of an Ordered Triplet I",
+      "title_slug": "maximum-value-of-an-ordered-triplet-i",
+      "likes": 142,
+      "dislikes": 11
+    },
+    {
+      "id": 3559,
+      "question_id": 3152,
+      "credit": 4,
+      "title": "Maximum Value of an Ordered Triplet II",
+      "title_slug": "maximum-value-of-an-ordered-triplet-ii",
+      "likes": 245,
+      "dislikes": 8
+    },
+    {
+      "id": 3560,
+      "question_id": 3141,
+      "credit": 5,
+      "title": "Minimum Size Subarray in Infinite Array",
+      "title_slug": "minimum-size-subarray-in-infinite-array",
+      "likes": 323,
+      "dislikes": 20
+    },
+    {
+      "id": 3561,
+      "question_id": 3140,
+      "credit": 6,
+      "title": "Count Visited Nodes in a Directed Graph",
+      "title_slug": "count-visited-nodes-in-a-directed-graph",
+      "likes": 283,
+      "dislikes": 4
+    }
+  ]
+}

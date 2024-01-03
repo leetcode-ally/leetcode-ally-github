@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-252",
+  "data": [
+    {
+      "id": 2174,
+      "question_id": 2083,
+      "credit": 3,
+      "title": "Three Divisors",
+      "title_slug": "three-divisors",
+      "likes": 489,
+      "dislikes": 26
+    },
+    {
+      "id": 2175,
+      "question_id": 2084,
+      "credit": 4,
+      "title": "Maximum Number of Weeks for Which You Can Work",
+      "title_slug": "maximum-number-of-weeks-for-which-you-can-work",
+      "likes": 609,
+      "dislikes": 137
+    },
+    {
+      "id": 2176,
+      "question_id": 1295,
+      "credit": 5,
+      "title": "Minimum Garden Perimeter to Collect Enough Apples",
+      "title_slug": "minimum-garden-perimeter-to-collect-enough-apples",
+      "likes": 354,
+      "dislikes": 86
+    },
+    {
+      "id": 2177,
+      "question_id": 2086,
+      "credit": 6,
+      "title": "Count Number of Special Subsequences",
+      "title_slug": "count-number-of-special-subsequences",
+      "likes": 497,
+      "dislikes": 9
+    }
+  ]
+}

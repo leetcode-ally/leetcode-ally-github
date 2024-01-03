@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1134",
+      "title": "Armstrong Number",
+      "titleSlug": "armstrong-number",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 201,
+      "dislikes": 20,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"34.8K\", \"totalSubmission\": \"44.7K\", \"totalAcceptedRaw\": 34777, \"totalSubmissionRaw\": 44662, \"acRate\": \"77.9%\"}",
+      "hints": [
+        "Check if the given k-digit number equals the sum of the k-th power of it's digits.",
+        "How to compute the sum of the k-th power of the digits of a number ? Can you divide the number into digits using division and modulus operations ?",
+        "You can find the least significant digit of a number by taking it modulus 10. And you can remove it by dividing the number by 10 (integer division). Once you have a digit, you can raise it to the power of k and add it to the sum."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Check if the given k-digit number equals the sum of the k-th power of it's digits.",
+      "How to compute the sum of the k-th power of the digits of a number ? Can you divide the number into digits using division and modulus operations ?",
+      "You can find the least significant digit of a number by taking it modulus 10. And you can remove it by dividing the number by 10 (integer division). Once you have a digit, you can raise it to the power of k and add it to the sum."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  }
+}

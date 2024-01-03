@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1112",
+      "title": "Highest Grade For Each Student",
+      "titleSlug": "highest-grade-for-each-student",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 289,
+      "dislikes": 14,
+      "similarQuestions": "[{\"title\": \"Department Highest Salary\", \"titleSlug\": \"department-highest-salary\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"55.8K\", \"totalSubmission\": \"78.7K\", \"totalAcceptedRaw\": 55817, \"totalSubmissionRaw\": 78683, \"acRate\": \"70.9%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "department-highest-salary",
+        "title": "Department Highest Salary",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

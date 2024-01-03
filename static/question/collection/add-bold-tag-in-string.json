@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "616",
+      "title": "Add Bold Tag in String",
+      "titleSlug": "add-bold-tag-in-string",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1045,
+      "dislikes": 184,
+      "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Tag Validator\", \"titleSlug\": \"tag-validator\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"87.3K\", \"totalSubmission\": \"176.7K\", \"totalAcceptedRaw\": 87325, \"totalSubmissionRaw\": 176696, \"acRate\": \"49.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "merge-intervals",
+        "title": "Merge Intervals",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "tag-validator",
+        "title": "Tag Validator",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ]
+  }
+}

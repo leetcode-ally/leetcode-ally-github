@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-259",
+  "data": [
+    {
+      "id": 2258,
+      "question_id": 2137,
+      "credit": 3,
+      "title": "Final Value of Variable After Performing Operations",
+      "title_slug": "final-value-of-variable-after-performing-operations",
+      "likes": 1493,
+      "dislikes": 164
+    },
+    {
+      "id": 2259,
+      "question_id": 2138,
+      "credit": 4,
+      "title": "Sum of Beauty in the Array",
+      "title_slug": "sum-of-beauty-in-the-array",
+      "likes": 581,
+      "dislikes": 58
+    },
+    {
+      "id": 2260,
+      "question_id": 2139,
+      "credit": 5,
+      "title": "Detect Squares",
+      "title_slug": "detect-squares",
+      "likes": 786,
+      "dislikes": 209
+    },
+    {
+      "id": 2261,
+      "question_id": 2140,
+      "credit": 6,
+      "title": "Longest Subsequence Repeated k Times",
+      "title_slug": "longest-subsequence-repeated-k-times",
+      "likes": 427,
+      "dislikes": 76
+    }
+  ]
+}

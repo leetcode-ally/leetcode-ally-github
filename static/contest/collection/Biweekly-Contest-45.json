@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-45",
+  "data": [
+    {
+      "id": 1852,
+      "question_id": 1848,
+      "credit": 3,
+      "title": "Sum of Unique Elements",
+      "title_slug": "sum-of-unique-elements",
+      "likes": 1461,
+      "dislikes": 33
+    },
+    {
+      "id": 1853,
+      "question_id": 1849,
+      "credit": 4,
+      "title": "Maximum Absolute Sum of Any Subarray",
+      "title_slug": "maximum-absolute-sum-of-any-subarray",
+      "likes": 1213,
+      "dislikes": 18
+    },
+    {
+      "id": 1854,
+      "question_id": 1850,
+      "credit": 4,
+      "title": "Minimum Length of String After Deleting Similar Ends",
+      "title_slug": "minimum-length-of-string-after-deleting-similar-ends",
+      "likes": 459,
+      "dislikes": 30
+    },
+    {
+      "id": 1855,
+      "question_id": 1851,
+      "credit": 6,
+      "title": "Maximum Number of Events That Can Be Attended II",
+      "title_slug": "maximum-number-of-events-that-can-be-attended-ii",
+      "likes": 1998,
+      "dislikes": 37
+    }
+  ]
+}

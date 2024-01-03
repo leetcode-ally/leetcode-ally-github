@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-37",
+  "data": [
+    {
+      "id": 1658,
+      "question_id": 1210,
+      "credit": 3,
+      "title": "Mean of Array After Removing Some Elements",
+      "title_slug": "mean-of-array-after-removing-some-elements",
+      "likes": 475,
+      "dislikes": 123
+    },
+    {
+      "id": 1659,
+      "question_id": 1726,
+      "credit": 4,
+      "title": "Coordinate With Maximum Network Quality",
+      "title_slug": "coordinate-with-maximum-network-quality",
+      "likes": 76,
+      "dislikes": 258
+    },
+    {
+      "id": 1660,
+      "question_id": 1725,
+      "credit": 5,
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "title_slug": "number-of-sets-of-k-non-overlapping-line-segments",
+      "likes": 445,
+      "dislikes": 45
+    },
+    {
+      "id": 1661,
+      "question_id": 1728,
+      "credit": 7,
+      "title": "Fancy Sequence",
+      "title_slug": "fancy-sequence",
+      "likes": 362,
+      "dislikes": 136
+    }
+  ]
+}

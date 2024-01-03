@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1778",
+      "title": "Shortest Path in a Hidden Grid",
+      "titleSlug": "shortest-path-in-a-hidden-grid",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 150,
+      "dislikes": 60,
+      "similarQuestions": "[{\"title\": \"Robot Room Cleaner\", \"titleSlug\": \"robot-room-cleaner\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Path Cost in a Hidden Grid\", \"titleSlug\": \"minimum-path-cost-in-a-hidden-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.1K\", \"totalSubmission\": \"12.9K\", \"totalAcceptedRaw\": 5055, \"totalSubmissionRaw\": 12908, \"acRate\": \"39.2%\"}",
+      "hints": [
+        "The grid is at a maximum 500 x 500, so it is clever to assume that the robot's initial cell is grid[501][501]",
+        "Run a DFS from the robot's position to make sure that you can reach the target, otherwise you should return -1.",
+        "Now that you are sure you can reach the target, run BFS to find the shortest path."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "robot-room-cleaner",
+        "title": "Robot Room Cleaner",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+        "title": "Minimum Path Cost in a Hidden Grid",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "The grid is at a maximum 500 x 500, so it is clever to assume that the robot's initial cell is grid[501][501]",
+      "Run a DFS from the robot's position to make sure that you can reach the target, otherwise you should return -1.",
+      "Now that you are sure you can reach the target, run BFS to find the shortest path."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

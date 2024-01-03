@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-162",
+  "data": [
+    {
+      "id": 1074,
+      "question_id": 1378,
+      "credit": 3,
+      "title": "Cells with Odd Values in a Matrix",
+      "title_slug": "cells-with-odd-values-in-a-matrix",
+      "likes": 1160,
+      "dislikes": 1477
+    },
+    {
+      "id": 1075,
+      "question_id": 1379,
+      "credit": 4,
+      "title": "Reconstruct a 2-Row Binary Matrix",
+      "title_slug": "reconstruct-a-2-row-binary-matrix",
+      "likes": 434,
+      "dislikes": 28
+    },
+    {
+      "id": 1076,
+      "question_id": 1380,
+      "credit": 5,
+      "title": "Number of Closed Islands",
+      "title_slug": "number-of-closed-islands",
+      "likes": 4419,
+      "dislikes": 157
+    },
+    {
+      "id": 1077,
+      "question_id": 1381,
+      "credit": 6,
+      "title": "Maximum Score Words Formed by Letters",
+      "title_slug": "maximum-score-words-formed-by-letters",
+      "likes": 1194,
+      "dislikes": 54
+    }
+  ]
+}

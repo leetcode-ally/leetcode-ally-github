@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-97",
+  "data": [
+    {
+      "id": 3143,
+      "question_id": 2639,
+      "credit": 3,
+      "title": "Separate the Digits in an Array",
+      "title_slug": "separate-the-digits-in-an-array",
+      "likes": 443,
+      "dislikes": 11
+    },
+    {
+      "id": 3144,
+      "question_id": 2640,
+      "credit": 4,
+      "title": "Maximum Number of Integers to Choose From a Range I",
+      "title_slug": "maximum-number-of-integers-to-choose-from-a-range-i",
+      "likes": 297,
+      "dislikes": 20
+    },
+    {
+      "id": 3145,
+      "question_id": 2673,
+      "credit": 5,
+      "title": "Maximize Win From Two Segments",
+      "title_slug": "maximize-win-from-two-segments",
+      "likes": 523,
+      "dislikes": 42
+    },
+    {
+      "id": 3146,
+      "question_id": 2641,
+      "credit": 5,
+      "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+      "title_slug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip",
+      "likes": 523,
+      "dislikes": 25
+    }
+  ]
+}

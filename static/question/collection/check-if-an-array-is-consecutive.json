@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2229",
+      "title": "Check if an Array Is Consecutive",
+      "titleSlug": "check-if-an-array-is-consecutive",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 72,
+      "dislikes": 9,
+      "similarQuestions": "[{\"title\": \"Binary Tree Longest Consecutive Sequence\", \"titleSlug\": \"binary-tree-longest-consecutive-sequence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Binary Tree Longest Consecutive Sequence II\", \"titleSlug\": \"binary-tree-longest-consecutive-sequence-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Consecutive Characters\", \"titleSlug\": \"consecutive-characters\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.1K\", \"totalSubmission\": \"8.3K\", \"totalAcceptedRaw\": 5098, \"totalSubmissionRaw\": 8328, \"acRate\": \"61.2%\"}",
+      "hints": [
+        "Try sorting nums.",
+        "If nums is consecutive and sorted in ascending order, then nums[i] + 1 = nums[i + 1] for every i in the range 0 ≤ i < nums.length - 1."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-tree-longest-consecutive-sequence",
+        "title": "Binary Tree Longest Consecutive Sequence",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+        "title": "Binary Tree Longest Consecutive Sequence II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "consecutive-characters",
+        "title": "Consecutive Characters",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try sorting nums.",
+      "If nums is consecutive and sorted in ascending order, then nums[i] + 1 = nums[i + 1] for every i in the range 0 ≤ i < nums.length - 1."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  }
+}

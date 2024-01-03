@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1430",
+      "title": "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+      "titleSlug": "check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 211,
+      "dislikes": 13,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"43.7K\", \"totalSubmission\": \"93.5K\", \"totalAcceptedRaw\": 43676, \"totalSubmissionRaw\": 93538, \"acRate\": \"46.7%\"}",
+      "hints": [
+        "Depth-first search (DFS) with the parameters: current node in the binary tree and current position in the array of integers.",
+        "When reaching at final position check if it is a leaf node."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Depth-first search (DFS) with the parameters: current node in the binary tree and current position in the array of integers.",
+      "When reaching at final position check if it is a leaf node."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-243",
+  "data": [
+    {
+      "id": 2054,
+      "question_id": 2010,
+      "credit": 3,
+      "title": "Check if Word Equals Summation of Two Words",
+      "title_slug": "check-if-word-equals-summation-of-two-words",
+      "likes": 545,
+      "dislikes": 38
+    },
+    {
+      "id": 2055,
+      "question_id": 2011,
+      "credit": 4,
+      "title": "Maximum Value after Insertion",
+      "title_slug": "maximum-value-after-insertion",
+      "likes": 367,
+      "dislikes": 61
+    },
+    {
+      "id": 2056,
+      "question_id": 2012,
+      "credit": 5,
+      "title": "Process Tasks Using Servers",
+      "title_slug": "process-tasks-using-servers",
+      "likes": 869,
+      "dislikes": 254
+    },
+    {
+      "id": 2057,
+      "question_id": 2013,
+      "credit": 6,
+      "title": "Minimum Skips to Arrive at Meeting On Time",
+      "title_slug": "minimum-skips-to-arrive-at-meeting-on-time",
+      "likes": 325,
+      "dislikes": 49
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2387",
+      "title": "Median of a Row Wise Sorted Matrix",
+      "titleSlug": "median-of-a-row-wise-sorted-matrix",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 67,
+      "dislikes": 8,
+      "similarQuestions": "[{\"title\": \"Median of Two Sorted Arrays\", \"titleSlug\": \"median-of-two-sorted-arrays\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.4K\", \"totalSubmission\": \"3.5K\", \"totalAcceptedRaw\": 2436, \"totalSubmissionRaw\": 3463, \"acRate\": \"70.3%\"}",
+      "hints": [
+        "How can you use the fact that the rows are sorted in non-decreasing order to solve the problem efficiently?",
+        "Try to binary search the answer."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "median-of-two-sorted-arrays",
+        "title": "Median of Two Sorted Arrays",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How can you use the fact that the rows are sorted in non-decreasing order to solve the problem efficiently?",
+      "Try to binary search the answer."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

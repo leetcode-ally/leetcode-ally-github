@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-234",
+  "data": [
+    {
+      "id": 1938,
+      "question_id": 1933,
+      "credit": 3,
+      "title": "Number of Different Integers in a String",
+      "title_slug": "number-of-different-integers-in-a-string",
+      "likes": 596,
+      "dislikes": 92
+    },
+    {
+      "id": 1939,
+      "question_id": 1935,
+      "credit": 5,
+      "title": "Minimum Number of Operations to Reinitialize a Permutation",
+      "title_slug": "minimum-number-of-operations-to-reinitialize-a-permutation",
+      "likes": 304,
+      "dislikes": 160
+    },
+    {
+      "id": 1940,
+      "question_id": 1934,
+      "credit": 5,
+      "title": "Evaluate the Bracket Pairs of a String",
+      "title_slug": "evaluate-the-bracket-pairs-of-a-string",
+      "likes": 468,
+      "dislikes": 40
+    },
+    {
+      "id": 1941,
+      "question_id": 1936,
+      "credit": 6,
+      "title": "Maximize Number of Nice Divisors",
+      "title_slug": "maximize-number-of-nice-divisors",
+      "likes": 216,
+      "dislikes": 165
+    }
+  ]
+}

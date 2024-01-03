@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-354",
+  "data": [
+    {
+      "id": 3416,
+      "question_id": 2844,
+      "credit": 3,
+      "title": "Sum of Squares of Special Elements ",
+      "title_slug": "sum-of-squares-of-special-elements",
+      "likes": 229,
+      "dislikes": 69
+    },
+    {
+      "id": 3417,
+      "question_id": 2891,
+      "credit": 4,
+      "title": "Maximum Beauty of an Array After Applying Operation",
+      "title_slug": "maximum-beauty-of-an-array-after-applying-operation",
+      "likes": 568,
+      "dislikes": 12
+    },
+    {
+      "id": 3418,
+      "question_id": 2888,
+      "credit": 4,
+      "title": "Minimum Index of a Valid Split",
+      "title_slug": "minimum-index-of-a-valid-split",
+      "likes": 290,
+      "dislikes": 11
+    },
+    {
+      "id": 3419,
+      "question_id": 2884,
+      "credit": 6,
+      "title": "Length of the Longest Valid Substring",
+      "title_slug": "length-of-the-longest-valid-substring",
+      "likes": 464,
+      "dislikes": 12
+    }
+  ]
+}

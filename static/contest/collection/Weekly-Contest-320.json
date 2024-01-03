@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-320",
+  "data": [
+    {
+      "id": 3010,
+      "question_id": 2566,
+      "credit": 3,
+      "title": "Number of Unequal Triplets in Array",
+      "title_slug": "number-of-unequal-triplets-in-array",
+      "likes": 375,
+      "dislikes": 42
+    },
+    {
+      "id": 3011,
+      "question_id": 2567,
+      "credit": 4,
+      "title": "Closest Nodes Queries in a Binary Search Tree",
+      "title_slug": "closest-nodes-queries-in-a-binary-search-tree",
+      "likes": 397,
+      "dislikes": 106
+    },
+    {
+      "id": 3012,
+      "question_id": 2568,
+      "credit": 5,
+      "title": "Minimum Fuel Cost to Report to the Capital",
+      "title_slug": "minimum-fuel-cost-to-report-to-the-capital",
+      "likes": 2095,
+      "dislikes": 81
+    },
+    {
+      "id": 3013,
+      "question_id": 2569,
+      "credit": 6,
+      "title": "Number of Beautiful Partitions",
+      "title_slug": "number-of-beautiful-partitions",
+      "likes": 336,
+      "dislikes": 16
+    }
+  ]
+}

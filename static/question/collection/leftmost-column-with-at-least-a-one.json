@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1428",
+      "title": "Leftmost Column with at Least a One",
+      "titleSlug": "leftmost-column-with-at-least-a-one",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1170,
+      "dislikes": 138,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"170.5K\", \"totalSubmission\": \"317.4K\", \"totalAcceptedRaw\": 170534, \"totalSubmissionRaw\": 317405, \"acRate\": \"53.7%\"}",
+      "hints": [
+        "1. (Binary Search) For each row do a binary search to find the leftmost one on that row and update the answer.",
+        "2. (Optimal Approach) Imagine there is a pointer p(x, y) starting from top right corner. p can only move left or down. If the value at p is 0, move down. If the value at p is 1, move left. Try to figure out the correctness and time complexity of this algorithm."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "1. (Binary Search) For each row do a binary search to find the leftmost one on that row and update the answer.",
+      "2. (Optimal Approach) Imagine there is a pointer p(x, y) starting from top right corner. p can only move left or down. If the value at p is 0, move down. If the value at p is 1, move left. Try to figure out the correctness and time complexity of this algorithm."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

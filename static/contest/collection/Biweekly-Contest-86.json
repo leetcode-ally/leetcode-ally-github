@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-86",
+  "data": [
+    {
+      "id": 2882,
+      "question_id": 2480,
+      "credit": 3,
+      "title": "Find Subarrays With Equal Sum",
+      "title_slug": "find-subarrays-with-equal-sum",
+      "likes": 503,
+      "dislikes": 28
+    },
+    {
+      "id": 2883,
+      "question_id": 2481,
+      "credit": 4,
+      "title": "Strictly Palindromic Number",
+      "title_slug": "strictly-palindromic-number",
+      "likes": 536,
+      "dislikes": 1442
+    },
+    {
+      "id": 2884,
+      "question_id": 2482,
+      "credit": 5,
+      "title": "Maximum Rows Covered by Columns",
+      "title_slug": "maximum-rows-covered-by-columns",
+      "likes": 253,
+      "dislikes": 392
+    },
+    {
+      "id": 2885,
+      "question_id": 2449,
+      "credit": 6,
+      "title": "Maximum Number of Robots Within Budget",
+      "title_slug": "maximum-number-of-robots-within-budget",
+      "likes": 761,
+      "dislikes": 17
+    }
+  ]
+}

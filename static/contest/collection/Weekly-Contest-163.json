@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-163",
+  "data": [
+    {
+      "id": 1086,
+      "question_id": 1386,
+      "credit": 3,
+      "title": "Shift 2D Grid",
+      "title_slug": "shift-2d-grid",
+      "likes": 1703,
+      "dislikes": 338
+    },
+    {
+      "id": 1087,
+      "question_id": 1387,
+      "credit": 4,
+      "title": "Find Elements in a Contaminated Binary Tree",
+      "title_slug": "find-elements-in-a-contaminated-binary-tree",
+      "likes": 946,
+      "dislikes": 92
+    },
+    {
+      "id": 1088,
+      "question_id": 1388,
+      "credit": 5,
+      "title": "Greatest Sum Divisible by Three",
+      "title_slug": "greatest-sum-divisible-by-three",
+      "likes": 1733,
+      "dislikes": 41
+    },
+    {
+      "id": 1089,
+      "question_id": 1389,
+      "credit": 8,
+      "title": "Minimum Moves to Move a Box to Their Target Location",
+      "title_slug": "minimum-moves-to-move-a-box-to-their-target-location",
+      "likes": 833,
+      "dislikes": 56
+    }
+  ]
+}

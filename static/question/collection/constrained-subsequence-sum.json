@@ -1,0 +1,90 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1425",
+      "title": "Constrained Subsequence Sum",
+      "titleSlug": "constrained-subsequence-sum",
+      "content": "<p>Given an integer array <code>nums</code> and an integer <code>k</code>, return the maximum sum of a <strong>non-empty</strong> subsequence of that array such that for every two <strong>consecutive</strong> integers in the subsequence, <code>nums[i]</code> and <code>nums[j]</code>, where <code>i &lt; j</code>, the condition <code>j - i &lt;= k</code> is satisfied.</p>\n\n<p>A <em>subsequence</em> of an array is obtained by deleting some number of elements (can be zero) from the array, leaving the remaining elements in their original order.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [10,2,-10,5,20], k = 2\n<strong>Output:</strong> 37\n<b>Explanation:</b> The subsequence is [10, 2, 5, 20].\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [-1,-2,-3], k = 1\n<strong>Output:</strong> -1\n<b>Explanation:</b> The subsequence must be non-empty, so we choose the largest number.\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [10,-2,-10,-5,20], k = 2\n<strong>Output:</strong> 23\n<b>Explanation:</b> The subsequence is [10, -2, -5, 20].\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= k &lt;= nums.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Hard",
+      "likes": 2004,
+      "dislikes": 101,
+      "similarQuestions": "[{\"title\": \"Maximum Element-Sum of a Complete Subset of Indices\", \"titleSlug\": \"maximum-element-sum-of-a-complete-subset-of-indices\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Monotonic Queue",
+          "slug": "monotonic-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"72.2K\", \"totalSubmission\": \"127.1K\", \"totalAcceptedRaw\": 72172, \"totalSubmissionRaw\": 127080, \"acRate\": \"56.8%\"}",
+      "hints": [
+        "Use dynamic programming.",
+        "Let dp[i] be the solution for the prefix of the array that ends at index i, if the element at index i is in the subsequence.",
+        "dp[i] = nums[i] + max(0, dp[i-k], dp[i-k+1], ..., dp[i-1])",
+        "Use a heap with the sliding window technique to optimize the dp."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "maximum-element-sum-of-a-complete-subset-of-indices",
+        "title": "Maximum Element-Sum of a Complete Subset of Indices",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use dynamic programming.",
+      "Let dp[i] be the solution for the prefix of the array that ends at index i, if the element at index i is in the subsequence.",
+      "dp[i] = nums[i] + max(0, dp[i-k], dp[i-k+1], ..., dp[i-1])",
+      "Use a heap with the sliding window technique to optimize the dp."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ]
+  }
+}

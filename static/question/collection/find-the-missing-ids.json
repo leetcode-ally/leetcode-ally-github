@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1613",
+      "title": "Find the Missing IDs",
+      "titleSlug": "find-the-missing-ids",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 221,
+      "dislikes": 28,
+      "similarQuestions": "[{\"title\": \"Report Contiguous Dates\", \"titleSlug\": \"report-contiguous-dates\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find the Start and End Number of Continuous Ranges\", \"titleSlug\": \"find-the-start-and-end-number-of-continuous-ranges\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Transactions per Visit\", \"titleSlug\": \"number-of-transactions-per-visit\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"17.3K\", \"totalSubmission\": \"23.6K\", \"totalAcceptedRaw\": 17327, \"totalSubmissionRaw\": 23636, \"acRate\": \"73.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "report-contiguous-dates",
+        "title": "Report Contiguous Dates",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-the-start-and-end-number-of-continuous-ranges",
+        "title": "Find the Start and End Number of Continuous Ranges",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "number-of-transactions-per-visit",
+        "title": "Number of Transactions per Visit",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

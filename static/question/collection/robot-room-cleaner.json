@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "489",
+      "title": "Robot Room Cleaner",
+      "titleSlug": "robot-room-cleaner",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 2715,
+      "dislikes": 168,
+      "similarQuestions": "[{\"title\": \"Walls and Gates\", \"titleSlug\": \"walls-and-gates\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Shortest Path in a Hidden Grid\", \"titleSlug\": \"shortest-path-in-a-hidden-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Path Cost in a Hidden Grid\", \"titleSlug\": \"minimum-path-cost-in-a-hidden-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Number of Spaces Cleaning Robot Cleaned\", \"titleSlug\": \"number-of-spaces-cleaning-robot-cleaned\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"154.4K\", \"totalSubmission\": \"201.5K\", \"totalAcceptedRaw\": 154394, \"totalSubmissionRaw\": 201519, \"acRate\": \"76.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "walls-and-gates",
+        "title": "Walls and Gates",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "shortest-path-in-a-hidden-grid",
+        "title": "Shortest Path in a Hidden Grid",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+        "title": "Minimum Path Cost in a Hidden Grid",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
+        "title": "Number of Spaces Cleaning Robot Cleaned",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

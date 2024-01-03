@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-75",
+  "data": [
+    {
+      "id": 325,
+      "question_id": 812,
+      "credit": 3,
+      "title": "Rotate String",
+      "title_slug": "rotate-string",
+      "likes": 3386,
+      "dislikes": 129
+    },
+    {
+      "id": 326,
+      "question_id": 813,
+      "credit": 5,
+      "title": "All Paths From Source to Target",
+      "title_slug": "all-paths-from-source-to-target",
+      "likes": 7012,
+      "dislikes": 138
+    },
+    {
+      "id": 328,
+      "question_id": 815,
+      "credit": 7,
+      "title": "Champagne Tower",
+      "title_slug": "champagne-tower",
+      "likes": 3578,
+      "dislikes": 194
+    },
+    {
+      "id": 329,
+      "question_id": 814,
+      "credit": 7,
+      "title": "Smallest Rotation with Highest Score",
+      "title_slug": "smallest-rotation-with-highest-score",
+      "likes": 520,
+      "dislikes": 36
+    }
+  ]
+}

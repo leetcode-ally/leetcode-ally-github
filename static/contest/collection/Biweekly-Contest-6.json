@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-6",
+  "data": [
+    {
+      "id": 898,
+      "question_id": 1102,
+      "credit": 3,
+      "title": "Check If a Number Is Majority Element in a Sorted Array",
+      "title_slug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+      "likes": 445,
+      "dislikes": 35
+    },
+    {
+      "id": 899,
+      "question_id": 1107,
+      "credit": 4,
+      "title": "Minimum Swaps to Group All 1's Together",
+      "title_slug": "minimum-swaps-to-group-all-1s-together",
+      "likes": 1167,
+      "dislikes": 15
+    },
+    {
+      "id": 900,
+      "question_id": 1108,
+      "credit": 5,
+      "title": "Analyze User Website Visit Pattern",
+      "title_slug": "analyze-user-website-visit-pattern",
+      "likes": 472,
+      "dislikes": 3592
+    },
+    {
+      "id": 901,
+      "question_id": 1124,
+      "credit": 7,
+      "title": "String Transforms Into Another String",
+      "title_slug": "string-transforms-into-another-string",
+      "likes": 865,
+      "dislikes": 331
+    }
+  ]
+}

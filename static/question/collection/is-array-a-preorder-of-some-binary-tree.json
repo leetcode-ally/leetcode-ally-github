@@ -1,0 +1,67 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2764",
+      "title": "Is Array a Preorder of Some ‌Binary Tree",
+      "titleSlug": "is-array-a-preorder-of-some-binary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 27,
+      "dislikes": 3,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"751\", \"totalSubmission\": \"1.1K\", \"totalAcceptedRaw\": 751, \"totalSubmissionRaw\": 1118, \"acRate\": \"67.2%\"}",
+      "hints": [
+        "Think of using the stack data structure.",
+        "Put the first node in the stack.",
+        "Iterate over the array and check if the node at the top of the stack is its parent; if it’s not, then pop the last element of the stack and check until you reach the parent of the current node in the array.",
+        "If the stack gets empty at any point, then the array is not the preorder."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Think of using the stack data structure.",
+      "Put the first node in the stack.",
+      "Iterate over the array and check if the node at the top of the stack is its parent; if it’s not, then pop the last element of the stack and check until you reach the parent of the current node in the array.",
+      "If the stack gets empty at any point, then the array is not the preorder."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

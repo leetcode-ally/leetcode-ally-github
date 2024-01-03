@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1730",
+      "title": "Shortest Path to Get Food",
+      "titleSlug": "shortest-path-to-get-food",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 654,
+      "dislikes": 39,
+      "similarQuestions": "[{\"title\": \"01 Matrix\", \"titleSlug\": \"01-matrix\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Shortest Path in a Grid with Obstacles Elimination\", \"titleSlug\": \"shortest-path-in-a-grid-with-obstacles-elimination\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Amount of Time for Binary Tree to Be Infected\", \"titleSlug\": \"amount-of-time-for-binary-tree-to-be-infected\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"59.1K\", \"totalSubmission\": \"108.5K\", \"totalAcceptedRaw\": 59088, \"totalSubmissionRaw\": 108510, \"acRate\": \"54.5%\"}",
+      "hints": [
+        "Run BFS starting from the '*' position.",
+        "Keep the current number of the steps as a state in the queue.",
+        "The first time you reach a food, return the number of steps as the answer.",
+        "In case the queue is empty and you still did not manage to reach a food, return -1."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "01-matrix",
+        "title": "01 Matrix",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Run BFS starting from the '*' position.",
+      "Keep the current number of the steps as a state in the queue.",
+      "The first time you reach a food, return the number of steps as the answer.",
+      "In case the queue is empty and you still did not manage to reach a food, return -1."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

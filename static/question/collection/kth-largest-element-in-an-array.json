@@ -1,0 +1,114 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "titleSlug": "kth-largest-element-in-an-array",
+      "content": "<p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>largest element in the array</em>.</p>\n\n<p>Note that it is the <code>k<sup>th</sup></code> largest element in the sorted order, not the <code>k<sup>th</sup></code> distinct element.</p>\n\n<p>Can you solve it without sorting?</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> nums = [3,2,1,5,6,4], k = 2\n<strong>Output:</strong> 5\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> nums = [3,2,3,1,2,4,5,5,6], k = 4\n<strong>Output:</strong> 4\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= k &lt;= nums.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 16444,
+      "dislikes": 816,
+      "similarQuestions": "[{\"title\": \"Wiggle Sort II\", \"titleSlug\": \"wiggle-sort-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Top K Frequent Elements\", \"titleSlug\": \"top-k-frequent-elements\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Third Maximum Number\", \"titleSlug\": \"third-maximum-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Kth Largest Element in a Stream\", \"titleSlug\": \"kth-largest-element-in-a-stream\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"K Closest Points to Origin\", \"titleSlug\": \"k-closest-points-to-origin\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find the Kth Largest Integer in the Array\", \"titleSlug\": \"find-the-kth-largest-integer-in-the-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Subsequence of Length K With the Largest Sum\", \"titleSlug\": \"find-subsequence-of-length-k-with-the-largest-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"K Highest Ranked Items Within a Price Range\", \"titleSlug\": \"k-highest-ranked-items-within-a-price-range\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Quickselect",
+          "slug": "quickselect"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.1M\", \"totalSubmission\": \"3.1M\", \"totalAcceptedRaw\": 2096765, \"totalSubmissionRaw\": 3134683, \"acRate\": \"66.9%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "wiggle-sort-ii",
+        "title": "Wiggle Sort II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "top-k-frequent-elements",
+        "title": "Top K Frequent Elements",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "third-maximum-number",
+        "title": "Third Maximum Number",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "kth-largest-element-in-a-stream",
+        "title": "Kth Largest Element in a Stream",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "k-closest-points-to-origin",
+        "title": "K Closest Points to Origin",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-the-kth-largest-integer-in-the-array",
+        "title": "Find the Kth Largest Integer in the Array",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "find-subsequence-of-length-k-with-the-largest-sum",
+        "title": "Find Subsequence of Length K With the Largest Sum",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "k-highest-ranked-items-within-a-price-range",
+        "title": "K Highest Ranked Items Within a Price Range",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ]
+  }
+}

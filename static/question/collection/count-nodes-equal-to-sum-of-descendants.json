@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1973",
+      "title": "Count Nodes Equal to Sum of Descendants",
+      "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 157,
+      "dislikes": 8,
+      "similarQuestions": "[{\"title\": \"Most Frequent Subtree Sum\", \"titleSlug\": \"most-frequent-subtree-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Average Subtree\", \"titleSlug\": \"maximum-average-subtree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Nodes Equal to Average of Subtree\", \"titleSlug\": \"count-nodes-equal-to-average-of-subtree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.3K\", \"totalSubmission\": \"12.3K\", \"totalAcceptedRaw\": 9302, \"totalSubmissionRaw\": 12346, \"acRate\": \"75.3%\"}",
+      "hints": [
+        "Can we reuse previously calculated information?",
+        "How can we calculate the sum of the current subtree using the sum of the child's subtree?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "most-frequent-subtree-sum",
+        "title": "Most Frequent Subtree Sum",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "maximum-average-subtree",
+        "title": "Maximum Average Subtree",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-nodes-equal-to-average-of-subtree",
+        "title": "Count Nodes Equal to Average of Subtree",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Can we reuse previously calculated information?",
+      "How can we calculate the sum of the current subtree using the sum of the child's subtree?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

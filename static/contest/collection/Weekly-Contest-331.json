@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-331",
+  "data": [
+    {
+      "id": 3147,
+      "question_id": 2692,
+      "credit": 3,
+      "title": "Take Gifts From the Richest Pile",
+      "title_slug": "take-gifts-from-the-richest-pile",
+      "likes": 345,
+      "dislikes": 31
+    },
+    {
+      "id": 3148,
+      "question_id": 2691,
+      "credit": 4,
+      "title": "Count Vowel Strings in Ranges",
+      "title_slug": "count-vowel-strings-in-ranges",
+      "likes": 413,
+      "dislikes": 14
+    },
+    {
+      "id": 3149,
+      "question_id": 2690,
+      "credit": 5,
+      "title": "House Robber IV",
+      "title_slug": "house-robber-iv",
+      "likes": 842,
+      "dislikes": 23
+    },
+    {
+      "id": 3150,
+      "question_id": 2689,
+      "credit": 6,
+      "title": "Rearranging Fruits",
+      "title_slug": "rearranging-fruits",
+      "likes": 363,
+      "dislikes": 17
+    }
+  ]
+}

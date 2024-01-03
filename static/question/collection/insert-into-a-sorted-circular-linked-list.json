@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "708",
+      "title": "Insert into a Sorted Circular Linked List",
+      "titleSlug": "insert-into-a-sorted-circular-linked-list",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1144,
+      "dislikes": 738,
+      "similarQuestions": "[{\"title\": \"Insertion Sort List\", \"titleSlug\": \"insertion-sort-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"147.2K\", \"totalSubmission\": \"417K\", \"totalAcceptedRaw\": 147223, \"totalSubmissionRaw\": 416999, \"acRate\": \"35.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "insertion-sort-list",
+        "title": "Insertion Sort List",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  }
+}

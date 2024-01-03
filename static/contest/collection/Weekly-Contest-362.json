@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-362",
+  "data": [
+    {
+      "id": 3514,
+      "question_id": 3034,
+      "credit": 3,
+      "title": "Points That Intersect With Cars",
+      "title_slug": "points-that-intersect-with-cars",
+      "likes": 224,
+      "dislikes": 15
+    },
+    {
+      "id": 3515,
+      "question_id": 3056,
+      "credit": 4,
+      "title": "Determine if a Cell Is Reachable at a Given Time",
+      "title_slug": "determine-if-a-cell-is-reachable-at-a-given-time",
+      "likes": 791,
+      "dislikes": 740
+    },
+    {
+      "id": 3516,
+      "question_id": 3092,
+      "credit": 5,
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "title_slug": "minimum-moves-to-spread-stones-over-grid",
+      "likes": 440,
+      "dislikes": 52
+    },
+    {
+      "id": 3517,
+      "question_id": 3024,
+      "credit": 8,
+      "title": "String Transformation",
+      "title_slug": "string-transformation",
+      "likes": 145,
+      "dislikes": 21
+    }
+  ]
+}

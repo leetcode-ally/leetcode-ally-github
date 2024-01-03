@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-10",
+  "data": [
+    {
+      "id": 1006,
+      "question_id": 1149,
+      "credit": 3,
+      "title": "Intersection of Three Sorted Arrays",
+      "title_slug": "intersection-of-three-sorted-arrays",
+      "likes": 570,
+      "dislikes": 24
+    },
+    {
+      "id": 1007,
+      "question_id": 1150,
+      "credit": 4,
+      "title": "Two Sum BSTs",
+      "title_slug": "two-sum-bsts",
+      "likes": 537,
+      "dislikes": 45
+    },
+    {
+      "id": 1008,
+      "question_id": 1151,
+      "credit": 5,
+      "title": "Stepping Numbers",
+      "title_slug": "stepping-numbers",
+      "likes": 180,
+      "dislikes": 20
+    },
+    {
+      "id": 1009,
+      "question_id": 1178,
+      "credit": 7,
+      "title": "Valid Palindrome III",
+      "title_slug": "valid-palindrome-iii",
+      "likes": 734,
+      "dislikes": 12
+    }
+  ]
+}

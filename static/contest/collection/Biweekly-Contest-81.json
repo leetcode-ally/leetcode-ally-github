@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-81",
+  "data": [
+    {
+      "id": 2762,
+      "question_id": 2401,
+      "credit": 3,
+      "title": "Count Asterisks",
+      "title_slug": "count-asterisks",
+      "likes": 587,
+      "dislikes": 93
+    },
+    {
+      "id": 2763,
+      "question_id": 2403,
+      "credit": 5,
+      "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+      "title_slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+      "likes": 1929,
+      "dislikes": 44
+    },
+    {
+      "id": 2764,
+      "question_id": 2402,
+      "credit": 5,
+      "title": "Maximum XOR After Operations ",
+      "title_slug": "maximum-xor-after-operations",
+      "likes": 572,
+      "dislikes": 162
+    },
+    {
+      "id": 2765,
+      "question_id": 2404,
+      "credit": 6,
+      "title": "Number of Distinct Roll Sequences",
+      "title_slug": "number-of-distinct-roll-sequences",
+      "likes": 418,
+      "dislikes": 18
+    }
+  ]
+}

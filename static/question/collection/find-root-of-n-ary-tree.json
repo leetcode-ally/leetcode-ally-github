@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1506",
+      "title": "Find Root of N-Ary Tree",
+      "titleSlug": "find-root-of-n-ary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 454,
+      "dislikes": 188,
+      "similarQuestions": "[{\"title\": \"Move Sub-Tree of N-Ary Tree\", \"titleSlug\": \"move-sub-tree-of-n-ary-tree\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"32.8K\", \"totalSubmission\": \"41.8K\", \"totalAcceptedRaw\": 32813, \"totalSubmissionRaw\": 41825, \"acRate\": \"78.5%\"}",
+      "hints": [
+        "Node with indegree 0 is the root"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "move-sub-tree-of-n-ary-tree",
+        "title": "Move Sub-Tree of N-Ary Tree",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Node with indegree 0 is the root"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ]
+  }
+}

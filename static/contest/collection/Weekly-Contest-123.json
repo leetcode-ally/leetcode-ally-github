@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-123",
+  "data": [
+    {
+      "id": 572,
+      "question_id": 1031,
+      "credit": 4,
+      "title": "Add to Array-Form of Integer",
+      "title_slug": "add-to-array-form-of-integer",
+      "likes": 3345,
+      "dislikes": 272
+    },
+    {
+      "id": 573,
+      "question_id": 1032,
+      "credit": 6,
+      "title": "Satisfiability of Equality Equations",
+      "title_slug": "satisfiability-of-equality-equations",
+      "likes": 3620,
+      "dislikes": 57
+    },
+    {
+      "id": 574,
+      "question_id": 1033,
+      "credit": 6,
+      "title": "Broken Calculator",
+      "title_slug": "broken-calculator",
+      "likes": 2631,
+      "dislikes": 205
+    },
+    {
+      "id": 575,
+      "question_id": 1034,
+      "credit": 8,
+      "title": "Subarrays with K Different Integers",
+      "title_slug": "subarrays-with-k-different-integers",
+      "likes": 4923,
+      "dislikes": 70
+    }
+  ]
+}

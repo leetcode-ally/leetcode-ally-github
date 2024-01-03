@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-180",
+  "data": [
+    {
+      "id": 1286,
+      "question_id": 1496,
+      "credit": 3,
+      "title": "Lucky Numbers in a Matrix",
+      "title_slug": "lucky-numbers-in-a-matrix",
+      "likes": 1617,
+      "dislikes": 83
+    },
+    {
+      "id": 1287,
+      "question_id": 1497,
+      "credit": 4,
+      "title": "Design a Stack With Increment Operation",
+      "title_slug": "design-a-stack-with-increment-operation",
+      "likes": 1755,
+      "dislikes": 94
+    },
+    {
+      "id": 1288,
+      "question_id": 1285,
+      "credit": 4,
+      "title": "Balance a Binary Search Tree",
+      "title_slug": "balance-a-binary-search-tree",
+      "likes": 2968,
+      "dislikes": 69
+    },
+    {
+      "id": 1289,
+      "question_id": 1499,
+      "credit": 6,
+      "title": "Maximum Performance of a Team",
+      "title_slug": "maximum-performance-of-a-team",
+      "likes": 3020,
+      "dislikes": 83
+    }
+  ]
+}

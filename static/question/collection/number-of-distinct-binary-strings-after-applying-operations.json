@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2450",
+      "title": "Number of Distinct Binary Strings After Applying Operations",
+      "titleSlug": "number-of-distinct-binary-strings-after-applying-operations",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 31,
+      "dislikes": 6,
+      "similarQuestions": "[{\"title\": \"Minimum Number of K Consecutive Bit Flips\", \"titleSlug\": \"minimum-number-of-k-consecutive-bit-flips\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"781\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 781, \"totalSubmissionRaw\": 1202, \"acRate\": \"65.0%\"}",
+      "hints": [
+        "Notice that any string of the same length as s will always have the same answer, so only the length of the string matters.",
+        "For each substring of size k, you can decide whether to flip or not. Every string s resulting from this process will be unique.",
+        "How do you find the number of possible combinations?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Notice that any string of the same length as s will always have the same answer, so only the length of the string matters.",
+      "For each substring of size k, you can decide whether to flip or not. Every string s resulting from this process will be unique.",
+      "How do you find the number of possible combinations?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

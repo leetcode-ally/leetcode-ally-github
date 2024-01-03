@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-307",
+  "data": [
+    {
+      "id": 2854,
+      "question_id": 2459,
+      "credit": 3,
+      "title": "Minimum Hours of Training to Win a Competition",
+      "title_slug": "minimum-hours-of-training-to-win-a-competition",
+      "likes": 308,
+      "dislikes": 266
+    },
+    {
+      "id": 2855,
+      "question_id": 2475,
+      "credit": 4,
+      "title": "Largest Palindromic Number",
+      "title_slug": "largest-palindromic-number",
+      "likes": 539,
+      "dislikes": 209
+    },
+    {
+      "id": 2856,
+      "question_id": 2461,
+      "credit": 5,
+      "title": "Amount of Time for Binary Tree to Be Infected",
+      "title_slug": "amount-of-time-for-binary-tree-to-be-infected",
+      "likes": 1513,
+      "dislikes": 14
+    },
+    {
+      "id": 2857,
+      "question_id": 2462,
+      "credit": 6,
+      "title": "Find the K-Sum of an Array",
+      "title_slug": "find-the-k-sum-of-an-array",
+      "likes": 544,
+      "dislikes": 18
+    }
+  ]
+}

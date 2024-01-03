@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-120",
+  "data": [
+    {
+      "id": 548,
+      "question_id": 1019,
+      "credit": 2,
+      "title": "Squares of a Sorted Array",
+      "title_slug": "squares-of-a-sorted-array",
+      "likes": 8585,
+      "dislikes": 213
+    },
+    {
+      "id": 549,
+      "question_id": 1020,
+      "credit": 5,
+      "title": "Longest Turbulent Subarray",
+      "title_slug": "longest-turbulent-subarray",
+      "likes": 1898,
+      "dislikes": 215
+    },
+    {
+      "id": 550,
+      "question_id": 1021,
+      "credit": 6,
+      "title": "Distribute Coins in Binary Tree",
+      "title_slug": "distribute-coins-in-binary-tree",
+      "likes": 4836,
+      "dislikes": 166
+    },
+    {
+      "id": 551,
+      "question_id": 1022,
+      "credit": 7,
+      "title": "Unique Paths III",
+      "title_slug": "unique-paths-iii",
+      "likes": 4981,
+      "dislikes": 184
+    }
+  ]
+}

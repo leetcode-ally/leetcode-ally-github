@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-58",
+  "data": [
+    {
+      "id": 248,
+      "question_id": 724,
+      "credit": 3,
+      "title": "Find Pivot Index",
+      "title_slug": "find-pivot-index",
+      "likes": 7999,
+      "dislikes": 812
+    },
+    {
+      "id": 249,
+      "question_id": 725,
+      "credit": 5,
+      "title": "Split Linked List in Parts",
+      "title_slug": "split-linked-list-in-parts",
+      "likes": 3813,
+      "dislikes": 305
+    },
+    {
+      "id": 250,
+      "question_id": 726,
+      "credit": 8,
+      "title": "Number of Atoms",
+      "title_slug": "number-of-atoms",
+      "likes": 1231,
+      "dislikes": 283
+    },
+    {
+      "id": 251,
+      "question_id": 727,
+      "credit": 10,
+      "title": "Minimum Window Subsequence",
+      "title_slug": "minimum-window-subsequence",
+      "likes": 1435,
+      "dislikes": 87
+    }
+  ]
+}

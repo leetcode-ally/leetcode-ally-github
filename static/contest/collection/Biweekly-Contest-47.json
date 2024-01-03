@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-47",
+  "data": [
+    {
+      "id": 1904,
+      "question_id": 1888,
+      "credit": 3,
+      "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+      "title_slug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
+      "likes": 809,
+      "dislikes": 178
+    },
+    {
+      "id": 1905,
+      "question_id": 1889,
+      "credit": 4,
+      "title": "Check if Number is a Sum of Powers of Three",
+      "title_slug": "check-if-number-is-a-sum-of-powers-of-three",
+      "likes": 934,
+      "dislikes": 32
+    },
+    {
+      "id": 1906,
+      "question_id": 1890,
+      "credit": 5,
+      "title": "Sum of Beauty of All Substrings",
+      "title_slug": "sum-of-beauty-of-all-substrings",
+      "likes": 947,
+      "dislikes": 157
+    },
+    {
+      "id": 1907,
+      "question_id": 1891,
+      "credit": 6,
+      "title": "Count Pairs Of Nodes",
+      "title_slug": "count-pairs-of-nodes",
+      "likes": 304,
+      "dislikes": 159
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-122",
+  "data": [
+    {
+      "id": 564,
+      "question_id": 1027,
+      "credit": 4,
+      "title": "Sum of Even Numbers After Queries",
+      "title_slug": "sum-of-even-numbers-after-queries",
+      "likes": 2045,
+      "dislikes": 317
+    },
+    {
+      "id": 567,
+      "question_id": 1030,
+      "credit": 5,
+      "title": "Smallest String Starting From Leaf",
+      "title_slug": "smallest-string-starting-from-leaf",
+      "likes": 1646,
+      "dislikes": 227
+    },
+    {
+      "id": 565,
+      "question_id": 1028,
+      "credit": 5,
+      "title": "Interval List Intersections",
+      "title_slug": "interval-list-intersections",
+      "likes": 5389,
+      "dislikes": 106
+    },
+    {
+      "id": 566,
+      "question_id": 1029,
+      "credit": 5,
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "title_slug": "vertical-order-traversal-of-a-binary-tree",
+      "likes": 7174,
+      "dislikes": 4284
+    }
+  ]
+}

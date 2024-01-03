@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-111",
+  "data": [
+    {
+      "id": 3482,
+      "question_id": 2917,
+      "credit": 3,
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "title_slug": "count-pairs-whose-sum-is-less-than-target",
+      "likes": 406,
+      "dislikes": 30
+    },
+    {
+      "id": 3483,
+      "question_id": 3018,
+      "credit": 4,
+      "title": "Make String a Subsequence Using Cyclic Increments",
+      "title_slug": "make-string-a-subsequence-using-cyclic-increments",
+      "likes": 288,
+      "dislikes": 10
+    },
+    {
+      "id": 3484,
+      "question_id": 2904,
+      "credit": 5,
+      "title": "Sorting Three Groups",
+      "title_slug": "sorting-three-groups",
+      "likes": 352,
+      "dislikes": 77
+    },
+    {
+      "id": 3485,
+      "question_id": 3017,
+      "credit": 6,
+      "title": "Number of Beautiful Integers in the Range",
+      "title_slug": "number-of-beautiful-integers-in-the-range",
+      "likes": 321,
+      "dislikes": 26
+    }
+  ]
+}

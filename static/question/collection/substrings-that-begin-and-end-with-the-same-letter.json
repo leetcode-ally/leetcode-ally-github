@@ -1,0 +1,102 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2083",
+      "title": "Substrings That Begin and End With the Same Letter",
+      "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 107,
+      "dislikes": 7,
+      "similarQuestions": "[{\"title\": \"Number of Good Pairs\", \"titleSlug\": \"number-of-good-pairs\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Sum of Beauty of All Substrings\", \"titleSlug\": \"sum-of-beauty-of-all-substrings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Pairs in Two Arrays\", \"titleSlug\": \"count-pairs-in-two-arrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Unique Substrings With Equal Digit Frequency\", \"titleSlug\": \"unique-substrings-with-equal-digit-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6K\", \"totalSubmission\": \"8.8K\", \"totalAcceptedRaw\": 5955, \"totalSubmissionRaw\": 8752, \"acRate\": \"68.0%\"}",
+      "hints": [
+        "In the string \"abacad\", the letter \"a\" appears 3 times. How many substrings begin with the first \"a\" and end with any \"a\"?",
+        "There are 3 substrings (\"a\", \"aba\", and \"abaca\"). How many substrings begin with the second \"a\" and end with any \"a\"? How about the third?",
+        "2 substrings begin with the second \"a\" (\"a\", and \"aca\") and 1 substring begins with the third \"a\" (\"a\").",
+        "There is a total of 3 + 2 + 1 = 6 substrings that begin and end with \"a\".",
+        "If a character appears i times in the string, there are i * (i + 1) / 2 substrings that begin and end with that character."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "number-of-good-pairs",
+        "title": "Number of Good Pairs",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "sum-of-beauty-of-all-substrings",
+        "title": "Sum of Beauty of All Substrings",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-pairs-in-two-arrays",
+        "title": "Count Pairs in Two Arrays",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "unique-substrings-with-equal-digit-frequency",
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "In the string \"abacad\", the letter \"a\" appears 3 times. How many substrings begin with the first \"a\" and end with any \"a\"?",
+      "There are 3 substrings (\"a\", \"aba\", and \"abaca\"). How many substrings begin with the second \"a\" and end with any \"a\"? How about the third?",
+      "2 substrings begin with the second \"a\" (\"a\", and \"aca\") and 1 substring begins with the third \"a\" (\"a\").",
+      "There is a total of 3 + 2 + 1 = 6 substrings that begin and end with \"a\".",
+      "If a character appears i times in the string, there are i * (i + 1) / 2 substrings that begin and end with that character."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

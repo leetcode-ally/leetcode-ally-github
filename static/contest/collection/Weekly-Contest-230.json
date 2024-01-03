@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-230",
+  "data": [
+    {
+      "id": 1888,
+      "question_id": 1899,
+      "credit": 3,
+      "title": "Count Items Matching a Rule",
+      "title_slug": "count-items-matching-a-rule",
+      "likes": 1793,
+      "dislikes": 194
+    },
+    {
+      "id": 1889,
+      "question_id": 1900,
+      "credit": 4,
+      "title": "Closest Dessert Cost",
+      "title_slug": "closest-dessert-cost",
+      "likes": 681,
+      "dislikes": 82
+    },
+    {
+      "id": 1890,
+      "question_id": 1901,
+      "credit": 5,
+      "title": "Equal Sum Arrays With Minimum Number of Operations",
+      "title_slug": "equal-sum-arrays-with-minimum-number-of-operations",
+      "likes": 886,
+      "dislikes": 39
+    },
+    {
+      "id": 1891,
+      "question_id": 1902,
+      "credit": 7,
+      "title": "Car Fleet II",
+      "title_slug": "car-fleet-ii",
+      "likes": 849,
+      "dislikes": 28
+    }
+  ]
+}

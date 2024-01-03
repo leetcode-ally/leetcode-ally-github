@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-367",
+  "data": [
+    {
+      "id": 3576,
+      "question_id": 3165,
+      "credit": 3,
+      "title": "Find Indices With Index and Value Difference I",
+      "title_slug": "find-indices-with-index-and-value-difference-i",
+      "likes": 114,
+      "dislikes": 7
+    },
+    {
+      "id": 3577,
+      "question_id": 3150,
+      "credit": 4,
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "title_slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "likes": 156,
+      "dislikes": 8
+    },
+    {
+      "id": 3578,
+      "question_id": 3170,
+      "credit": 5,
+      "title": "Find Indices With Index and Value Difference II",
+      "title_slug": "find-indices-with-index-and-value-difference-ii",
+      "likes": 231,
+      "dislikes": 8
+    },
+    {
+      "id": 3579,
+      "question_id": 3031,
+      "credit": 5,
+      "title": "Construct Product Matrix",
+      "title_slug": "construct-product-matrix",
+      "likes": 199,
+      "dislikes": 12
+    }
+  ]
+}

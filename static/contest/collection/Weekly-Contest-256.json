@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-256",
+  "data": [
+    {
+      "id": 2222,
+      "question_id": 2112,
+      "credit": 3,
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "likes": 934,
+      "dislikes": 238
+    },
+    {
+      "id": 2223,
+      "question_id": 2113,
+      "credit": 4,
+      "title": "Find the Kth Largest Integer in the Array",
+      "title_slug": "find-the-kth-largest-integer-in-the-array",
+      "likes": 1172,
+      "dislikes": 133
+    },
+    {
+      "id": 2224,
+      "question_id": 2114,
+      "credit": 6,
+      "title": "Minimum Number of Work Sessions to Finish the Tasks",
+      "title_slug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+      "likes": 1058,
+      "dislikes": 65
+    },
+    {
+      "id": 2225,
+      "question_id": 2115,
+      "credit": 7,
+      "title": "Number of Unique Good Subsequences",
+      "title_slug": "number-of-unique-good-subsequences",
+      "likes": 665,
+      "dislikes": 13
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-116",
+  "data": [
+    {
+      "id": 3600,
+      "question_id": 3163,
+      "credit": 3,
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "title_slug": "subarrays-distinct-element-sum-of-squares-i",
+      "likes": 100,
+      "dislikes": 15
+    },
+    {
+      "id": 3601,
+      "question_id": 3174,
+      "credit": 4,
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "title_slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "likes": 122,
+      "dislikes": 6
+    },
+    {
+      "id": 3602,
+      "question_id": 3106,
+      "credit": 5,
+      "title": "Length of the Longest Subsequence That Sums to Target",
+      "title_slug": "length-of-the-longest-subsequence-that-sums-to-target",
+      "likes": 159,
+      "dislikes": 21
+    },
+    {
+      "id": 3603,
+      "question_id": 3139,
+      "credit": 7,
+      "title": "Subarrays Distinct Element Sum of Squares II",
+      "title_slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "likes": 122,
+      "dislikes": 7
+    }
+  ]
+}

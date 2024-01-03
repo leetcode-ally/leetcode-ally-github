@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-149",
+  "data": [
+    {
+      "id": 894,
+      "question_id": 1260,
+      "credit": 4,
+      "title": "Day of the Year",
+      "title_slug": "day-of-the-year",
+      "likes": 420,
+      "dislikes": 461
+    },
+    {
+      "id": 895,
+      "question_id": 1263,
+      "credit": 5,
+      "title": "Number of Dice Rolls With Target Sum",
+      "title_slug": "number-of-dice-rolls-with-target-sum",
+      "likes": 4924,
+      "dislikes": 162
+    },
+    {
+      "id": 896,
+      "question_id": 1261,
+      "credit": 6,
+      "title": "Swap For Longest Repeated Character Substring",
+      "title_slug": "swap-for-longest-repeated-character-substring",
+      "likes": 979,
+      "dislikes": 93
+    },
+    {
+      "id": 897,
+      "question_id": 1262,
+      "credit": 9,
+      "title": "Online Majority Element In Subarray",
+      "title_slug": "online-majority-element-in-subarray",
+      "likes": 613,
+      "dislikes": 59
+    }
+  ]
+}

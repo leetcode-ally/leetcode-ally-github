@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-216",
+  "data": [
+    {
+      "id": 1720,
+      "question_id": 1781,
+      "credit": 3,
+      "title": "Check If Two String Arrays are Equivalent",
+      "title_slug": "check-if-two-string-arrays-are-equivalent",
+      "likes": 2857,
+      "dislikes": 198
+    },
+    {
+      "id": 1721,
+      "question_id": 1782,
+      "credit": 4,
+      "title": "Smallest String With A Given Numeric Value",
+      "title_slug": "smallest-string-with-a-given-numeric-value",
+      "likes": 1843,
+      "dislikes": 59
+    },
+    {
+      "id": 1722,
+      "question_id": 1783,
+      "credit": 5,
+      "title": "Ways to Make a Fair Array",
+      "title_slug": "ways-to-make-a-fair-array",
+      "likes": 1267,
+      "dislikes": 35
+    },
+    {
+      "id": 1723,
+      "question_id": 1784,
+      "credit": 6,
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "title_slug": "minimum-initial-energy-to-finish-tasks",
+      "likes": 557,
+      "dislikes": 34
+    }
+  ]
+}

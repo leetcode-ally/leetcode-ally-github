@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2388",
+      "title": "Change Null Values in a Table to the Previous Value",
+      "titleSlug": "change-null-values-in-a-table-to-the-previous-value",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 75,
+      "dislikes": 26,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.4K\", \"totalSubmission\": \"6.8K\", \"totalAcceptedRaw\": 3396, \"totalSubmissionRaw\": 6835, \"acRate\": \"49.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-64",
+  "data": [
+    {
+      "id": 276,
+      "question_id": 748,
+      "credit": 3,
+      "title": "Largest Number At Least Twice of Others",
+      "title_slug": "largest-number-at-least-twice-of-others",
+      "likes": 1155,
+      "dislikes": 880
+    },
+    {
+      "id": 277,
+      "question_id": 752,
+      "credit": 4,
+      "title": "IP to CIDR",
+      "title_slug": "ip-to-cidr",
+      "likes": 76,
+      "dislikes": 298
+    },
+    {
+      "id": 278,
+      "question_id": 753,
+      "credit": 5,
+      "title": "Open the Lock",
+      "title_slug": "open-the-lock",
+      "likes": 3845,
+      "dislikes": 144
+    },
+    {
+      "id": 279,
+      "question_id": 754,
+      "credit": 8,
+      "title": "Cracking the Safe",
+      "title_slug": "cracking-the-safe",
+      "likes": 520,
+      "dislikes": 83
+    }
+  ]
+}

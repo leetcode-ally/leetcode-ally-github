@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-16",
+  "data": [
+    {
+      "id": 1158,
+      "question_id": 1231,
+      "credit": 3,
+      "title": "Replace Elements with Greatest Element on Right Side",
+      "title_slug": "replace-elements-with-greatest-element-on-right-side",
+      "likes": 2462,
+      "dislikes": 235
+    },
+    {
+      "id": 1159,
+      "question_id": 1232,
+      "credit": 4,
+      "title": "Sum of Mutated Array Closest to Target",
+      "title_slug": "sum-of-mutated-array-closest-to-target",
+      "likes": 1103,
+      "dislikes": 143
+    },
+    {
+      "id": 1160,
+      "question_id": 1254,
+      "credit": 5,
+      "title": "Deepest Leaves Sum",
+      "title_slug": "deepest-leaves-sum",
+      "likes": 4592,
+      "dislikes": 120
+    },
+    {
+      "id": 1161,
+      "question_id": 1234,
+      "credit": 7,
+      "title": "Number of Paths with Max Score",
+      "title_slug": "number-of-paths-with-max-score",
+      "likes": 493,
+      "dislikes": 24
+    }
+  ]
+}

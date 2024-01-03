@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-99",
+  "data": [
+    {
+      "id": 428,
+      "question_id": 928,
+      "credit": 4,
+      "title": "Surface Area of 3D Shapes",
+      "title_slug": "surface-area-of-3d-shapes",
+      "likes": 547,
+      "dislikes": 732
+    },
+    {
+      "id": 429,
+      "question_id": 929,
+      "credit": 4,
+      "title": "Groups of Special-Equivalent Strings",
+      "title_slug": "groups-of-special-equivalent-strings",
+      "likes": 515,
+      "dislikes": 1473
+    },
+    {
+      "id": 430,
+      "question_id": 930,
+      "credit": 6,
+      "title": "All Possible Full Binary Trees",
+      "title_slug": "all-possible-full-binary-trees",
+      "likes": 4920,
+      "dislikes": 333
+    },
+    {
+      "id": 431,
+      "question_id": 931,
+      "credit": 8,
+      "title": "Maximum Frequency Stack",
+      "title_slug": "maximum-frequency-stack",
+      "likes": 4580,
+      "dislikes": 66
+    }
+  ]
+}

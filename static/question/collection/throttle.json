@@ -1,0 +1,50 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2676",
+      "title": "Throttle",
+      "titleSlug": "throttle",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 156,
+      "dislikes": 28,
+      "similarQuestions": "[{\"title\": \"Debounce\", \"titleSlug\": \"debounce\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Promise Time Limit\", \"titleSlug\": \"promise-time-limit\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Promise Pool\", \"titleSlug\": \"promise-pool\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"8.1K\", \"totalSubmission\": \"9.7K\", \"totalAcceptedRaw\": 8089, \"totalSubmissionRaw\": 9745, \"acRate\": \"83.0%\"}",
+      "hints": [
+        "Store a variable for currArguments.",
+        "If no timeout is in progress, immediately execute the function and create a timeout. If a timeout is in progress, set the currArguments to the new arguments.",
+        "When the timeout is done: if currArguments is null, do nothing. Otherwise, execute the function with currArguments and create another timeout."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "debounce",
+        "title": "Debounce",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "promise-time-limit",
+        "title": "Promise Time Limit",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "promise-pool",
+        "title": "Promise Pool",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Store a variable for currArguments.",
+      "If no timeout is in progress, immediately execute the function and create a timeout. If a timeout is in progress, set the currArguments to the new arguments.",
+      "When the timeout is done: if currArguments is null, do nothing. Otherwise, execute the function with currArguments and create another timeout."
+    ],
+    "relatedTopics": []
+  }
+}

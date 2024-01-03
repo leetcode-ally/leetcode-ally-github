@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-87",
+  "data": [
+    {
+      "id": 2906,
+      "question_id": 2496,
+      "credit": 3,
+      "title": "Count Days Spent Together",
+      "title_slug": "count-days-spent-together",
+      "likes": 238,
+      "dislikes": 579
+    },
+    {
+      "id": 2907,
+      "question_id": 2497,
+      "credit": 4,
+      "title": "Maximum Matching of Players With Trainers",
+      "title_slug": "maximum-matching-of-players-with-trainers",
+      "likes": 452,
+      "dislikes": 15
+    },
+    {
+      "id": 2908,
+      "question_id": 2498,
+      "credit": 5,
+      "title": "Smallest Subarrays With Maximum Bitwise OR",
+      "title_slug": "smallest-subarrays-with-maximum-bitwise-or",
+      "likes": 535,
+      "dislikes": 24
+    },
+    {
+      "id": 2909,
+      "question_id": 2499,
+      "credit": 6,
+      "title": "Minimum Money Required Before Transactions",
+      "title_slug": "minimum-money-required-before-transactions",
+      "likes": 387,
+      "dislikes": 34
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-305",
+  "data": [
+    {
+      "id": 2830,
+      "question_id": 2442,
+      "credit": 3,
+      "title": "Number of Arithmetic Triplets",
+      "title_slug": "number-of-arithmetic-triplets",
+      "likes": 1165,
+      "dislikes": 70
+    },
+    {
+      "id": 2831,
+      "question_id": 2445,
+      "credit": 4,
+      "title": "Reachable Nodes With Restrictions",
+      "title_slug": "reachable-nodes-with-restrictions",
+      "likes": 627,
+      "dislikes": 26
+    },
+    {
+      "id": 2832,
+      "question_id": 2443,
+      "credit": 5,
+      "title": "Check if There is a Valid Partition For The Array",
+      "title_slug": "check-if-there-is-a-valid-partition-for-the-array",
+      "likes": 1938,
+      "dislikes": 191
+    },
+    {
+      "id": 2833,
+      "question_id": 2444,
+      "credit": 5,
+      "title": "Longest Ideal Subsequence",
+      "title_slug": "longest-ideal-subsequence",
+      "likes": 748,
+      "dislikes": 23
+    }
+  ]
+}

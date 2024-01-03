@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-67",
+  "data": [
+    {
+      "id": 288,
+      "question_id": 767,
+      "credit": 2,
+      "title": "Prime Number of Set Bits in Binary Representation",
+      "title_slug": "prime-number-of-set-bits-in-binary-representation",
+      "likes": 688,
+      "dislikes": 508
+    },
+    {
+      "id": 289,
+      "question_id": 768,
+      "credit": 6,
+      "title": "Partition Labels",
+      "title_slug": "partition-labels",
+      "likes": 10067,
+      "dislikes": 373
+    },
+    {
+      "id": 290,
+      "question_id": 769,
+      "credit": 7,
+      "title": "Largest Plus Sign",
+      "title_slug": "largest-plus-sign",
+      "likes": 1419,
+      "dislikes": 223
+    },
+    {
+      "id": 291,
+      "question_id": 770,
+      "credit": 10,
+      "title": "Couples Holding Hands",
+      "title_slug": "couples-holding-hands",
+      "likes": 2262,
+      "dislikes": 116
+    }
+  ]
+}

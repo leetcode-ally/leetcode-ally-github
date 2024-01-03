@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-51",
+  "data": [
+    {
+      "id": 1998,
+      "question_id": 1954,
+      "credit": 3,
+      "title": "Replace All Digits with Characters",
+      "title_slug": "replace-all-digits-with-characters",
+      "likes": 791,
+      "dislikes": 89
+    },
+    {
+      "id": 1999,
+      "question_id": 1955,
+      "credit": 4,
+      "title": "Seat Reservation Manager",
+      "title_slug": "seat-reservation-manager",
+      "likes": 1361,
+      "dislikes": 83
+    },
+    {
+      "id": 2000,
+      "question_id": 1956,
+      "credit": 5,
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "title_slug": "maximum-element-after-decreasing-and-rearranging",
+      "likes": 1032,
+      "dislikes": 254
+    },
+    {
+      "id": 2001,
+      "question_id": 1957,
+      "credit": 6,
+      "title": "Closest Room",
+      "title_slug": "closest-room",
+      "likes": 492,
+      "dislikes": 21
+    }
+  ]
+}

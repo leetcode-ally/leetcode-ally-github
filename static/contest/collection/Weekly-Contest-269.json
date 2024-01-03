@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-269",
+  "data": [
+    {
+      "id": 2378,
+      "question_id": 2210,
+      "credit": 3,
+      "title": "Find Target Indices After Sorting Array",
+      "title_slug": "find-target-indices-after-sorting-array",
+      "likes": 1708,
+      "dislikes": 79
+    },
+    {
+      "id": 2379,
+      "question_id": 2211,
+      "credit": 4,
+      "title": "K Radius Subarray Averages",
+      "title_slug": "k-radius-subarray-averages",
+      "likes": 1827,
+      "dislikes": 90
+    },
+    {
+      "id": 2380,
+      "question_id": 2212,
+      "credit": 5,
+      "title": "Removing Minimum and Maximum From Array",
+      "title_slug": "removing-minimum-and-maximum-from-array",
+      "likes": 904,
+      "dislikes": 47
+    },
+    {
+      "id": 2381,
+      "question_id": 2213,
+      "credit": 6,
+      "title": "Find All People With Secret",
+      "title_slug": "find-all-people-with-secret",
+      "likes": 794,
+      "dislikes": 28
+    }
+  ]
+}

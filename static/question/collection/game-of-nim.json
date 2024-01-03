@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1908",
+      "title": "Game of Nim",
+      "titleSlug": "game-of-nim",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 99,
+      "dislikes": 39,
+      "similarQuestions": "[{\"title\": \"Subtree Removal Game with Fibonacci Tree\", \"titleSlug\": \"subtree-removal-game-with-fibonacci-tree\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.3K\", \"totalSubmission\": \"6.8K\", \"totalAcceptedRaw\": 4312, \"totalSubmissionRaw\": 6770, \"acRate\": \"63.7%\"}",
+      "hints": [
+        "Simulate the game and try all possible moves for each player."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "subtree-removal-game-with-fibonacci-tree",
+        "title": "Subtree Removal Game with Fibonacci Tree",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Simulate the game and try all possible moves for each player."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1826",
+      "title": "Faulty Sensor",
+      "titleSlug": "faulty-sensor",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 64,
+      "dislikes": 69,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.1K\", \"totalSubmission\": \"8.2K\", \"totalAcceptedRaw\": 4076, \"totalSubmissionRaw\": 8187, \"acRate\": \"49.8%\"}",
+      "hints": [
+        "Check for a common prefix of the two arrays.",
+        "After this common prefix, there should be one array similar to the other but shifted by one.",
+        "If both arrays can be shifted, return -1."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Check for a common prefix of the two arrays.",
+      "After this common prefix, there should be one array similar to the other but shifted by one.",
+      "If both arrays can be shifted, return -1."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  }
+}

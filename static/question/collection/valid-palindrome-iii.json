@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1216",
+      "title": "Valid Palindrome III",
+      "titleSlug": "valid-palindrome-iii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 725,
+      "dislikes": 12,
+      "similarQuestions": "[{\"title\": \"Valid Palindrome II\", \"titleSlug\": \"valid-palindrome-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Valid Palindrome IV\", \"titleSlug\": \"valid-palindrome-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"53.8K\", \"totalSubmission\": \"107K\", \"totalAcceptedRaw\": 53762, \"totalSubmissionRaw\": 106964, \"acRate\": \"50.3%\"}",
+      "hints": [
+        "Can you reduce this problem to a classic problem?",
+        "The problem is equivalent to finding any palindromic subsequence of length at least N-K where N is the length of the string.",
+        "Try to find the longest palindromic subsequence.",
+        "Use DP to do that."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "valid-palindrome-ii",
+        "title": "Valid Palindrome II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "valid-palindrome-iv",
+        "title": "Valid Palindrome IV",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Can you reduce this problem to a classic problem?",
+      "The problem is equivalent to finding any palindromic subsequence of length at least N-K where N is the length of the string.",
+      "Try to find the longest palindromic subsequence.",
+      "Use DP to do that."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-316",
+  "data": [
+    {
+      "id": 2962,
+      "question_id": 2536,
+      "credit": 3,
+      "title": "Determine if Two Events Have Conflict",
+      "title_slug": "determine-if-two-events-have-conflict",
+      "likes": 414,
+      "dislikes": 59
+    },
+    {
+      "id": 2963,
+      "question_id": 2546,
+      "credit": 4,
+      "title": "Number of Subarrays With GCD Equal to K",
+      "title_slug": "number-of-subarrays-with-gcd-equal-to-k",
+      "likes": 425,
+      "dislikes": 62
+    },
+    {
+      "id": 2964,
+      "question_id": 2538,
+      "credit": 6,
+      "title": "Minimum Cost to Make Array Equal",
+      "title_slug": "minimum-cost-to-make-array-equal",
+      "likes": 2334,
+      "dislikes": 34
+    },
+    {
+      "id": 2965,
+      "question_id": 2539,
+      "credit": 6,
+      "title": "Minimum Number of Operations to Make Arrays Similar",
+      "title_slug": "minimum-number-of-operations-to-make-arrays-similar",
+      "likes": 401,
+      "dislikes": 12
+    }
+  ]
+}

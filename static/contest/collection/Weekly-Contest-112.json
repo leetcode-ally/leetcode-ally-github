@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-112",
+  "data": [
+    {
+      "id": 484,
+      "question_id": 982,
+      "credit": 5,
+      "title": "Minimum Increment to Make Array Unique",
+      "title_slug": "minimum-increment-to-make-array-unique",
+      "likes": 1753,
+      "dislikes": 54
+    },
+    {
+      "id": 485,
+      "question_id": 983,
+      "credit": 6,
+      "title": "Validate Stack Sequences",
+      "title_slug": "validate-stack-sequences",
+      "likes": 5803,
+      "dislikes": 118
+    },
+    {
+      "id": 486,
+      "question_id": 984,
+      "credit": 6,
+      "title": "Most Stones Removed with Same Row or Column",
+      "title_slug": "most-stones-removed-with-same-row-or-column",
+      "likes": 5167,
+      "dislikes": 635
+    },
+    {
+      "id": 487,
+      "question_id": 985,
+      "credit": 6,
+      "title": "Bag of Tokens",
+      "title_slug": "bag-of-tokens",
+      "likes": 2330,
+      "dislikes": 430
+    }
+  ]
+}

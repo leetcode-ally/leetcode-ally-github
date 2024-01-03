@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2417",
+      "title": "Closest Fair Integer",
+      "titleSlug": "closest-fair-integer",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 24,
+      "dislikes": 12,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"924\", \"totalSubmission\": \"2.1K\", \"totalAcceptedRaw\": 924, \"totalSubmissionRaw\": 2079, \"acRate\": \"44.4%\"}",
+      "hints": [
+        "Suppose that the number that we are looking for has the same number of digits as n, the answer, in this case, will not be very far from n, so you can do a simple brute force. Can you prove why this is true?",
+        "How do you handle the case when the resulting number has more digits than n?"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Suppose that the number that we are looking for has the same number of digits as n, the answer, in this case, will not be very far from n, so you can do a simple brute force. Can you prove why this is true?",
+      "How do you handle the case when the resulting number has more digits than n?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  }
+}

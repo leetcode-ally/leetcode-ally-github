@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "246",
+      "title": "Strobogrammatic Number",
+      "titleSlug": "strobogrammatic-number",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 577,
+      "dislikes": 1000,
+      "similarQuestions": "[{\"title\": \"Strobogrammatic Number II\", \"titleSlug\": \"strobogrammatic-number-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Strobogrammatic Number III\", \"titleSlug\": \"strobogrammatic-number-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Confusing Number\", \"titleSlug\": \"confusing-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"167.1K\", \"totalSubmission\": \"350.6K\", \"totalAcceptedRaw\": 167128, \"totalSubmissionRaw\": 350556, \"acRate\": \"47.7%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "strobogrammatic-number-ii",
+        "title": "Strobogrammatic Number II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "strobogrammatic-number-iii",
+        "title": "Strobogrammatic Number III",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "confusing-number",
+        "title": "Confusing Number",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

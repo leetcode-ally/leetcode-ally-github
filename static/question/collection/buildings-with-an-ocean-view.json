@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1762",
+      "title": "Buildings With an Ocean View",
+      "titleSlug": "buildings-with-an-ocean-view",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1133,
+      "dislikes": 142,
+      "similarQuestions": "[{\"title\": \"Number of Visible People in a Queue\", \"titleSlug\": \"number-of-visible-people-in-a-queue\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Finding the Number of Visible Mountains\", \"titleSlug\": \"finding-the-number-of-visible-mountains\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"172.9K\", \"totalSubmission\": \"218.3K\", \"totalAcceptedRaw\": 172944, \"totalSubmissionRaw\": 218319, \"acRate\": \"79.2%\"}",
+      "hints": [
+        "You can traverse the buildings from the nearest to the ocean to the furthest.",
+        "Keep with you the maximum to the right while traversing to determine if you can see the ocean or not."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "title": "Number of Visible People in a Queue",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "finding-the-number-of-visible-mountains",
+        "title": "Finding the Number of Visible Mountains",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "You can traverse the buildings from the nearest to the ocean to the furthest.",
+      "Keep with you the maximum to the right while traversing to determine if you can see the ocean or not."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2357",
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "titleSlug": "make-array-zero-by-subtracting-equal-amounts",
+      "content": "<p>You are given a non-negative integer array <code>nums</code>. In one operation, you must:</p>\n\n<ul>\n\t<li>Choose a positive integer <code>x</code> such that <code>x</code> is less than or equal to the <strong>smallest non-zero</strong> element in <code>nums</code>.</li>\n\t<li>Subtract <code>x</code> from every <strong>positive</strong> element in <code>nums</code>.</li>\n</ul>\n\n<p>Return <em>the <strong>minimum</strong> number of operations to make every element in </em><code>nums</code><em> equal to </em><code>0</code>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,5,0,3,5]\n<strong>Output:</strong> 3\n<strong>Explanation:</strong>\nIn the first operation, choose x = 1. Now, nums = [0,4,0,2,4].\nIn the second operation, choose x = 2. Now, nums = [0,2,0,0,2].\nIn the third operation, choose x = 2. Now, nums = [0,0,0,0,0].\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [0]\n<strong>Output:</strong> 0\n<strong>Explanation:</strong> Each element in nums is already 0 so no operations are needed.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 100</code></li>\n\t<li><code>0 &lt;= nums[i] &lt;= 100</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 1094,
+      "dislikes": 47,
+      "similarQuestions": "[{\"title\": \"Contains Duplicate\", \"titleSlug\": \"contains-duplicate\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"89.8K\", \"totalSubmission\": \"124.8K\", \"totalAcceptedRaw\": 89801, \"totalSubmissionRaw\": 124819, \"acRate\": \"71.9%\"}",
+      "hints": [
+        "It is always best to set x as the smallest non-zero element in nums.",
+        "Elements with the same value will always take the same number of operations to become 0. Contrarily, elements with different values will always take a different number of operations to become 0.",
+        "The answer is the number of unique non-zero numbers in nums."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "contains-duplicate",
+        "title": "Contains Duplicate",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "It is always best to set x as the smallest non-zero element in nums.",
+      "Elements with the same value will always take the same number of operations to become 0. Contrarily, elements with different values will always take a different number of operations to become 0.",
+      "The answer is the number of unique non-zero numbers in nums."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  }
+}

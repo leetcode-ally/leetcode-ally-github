@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1426",
+      "title": "Counting Elements",
+      "titleSlug": "counting-elements",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 144,
+      "dislikes": 44,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"115.1K\", \"totalSubmission\": \"192K\", \"totalAcceptedRaw\": 115111, \"totalSubmissionRaw\": 192027, \"acRate\": \"59.9%\"}",
+      "hints": [
+        "Use hashset to store all elements.",
+        "Loop again to count all valid elements."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Use hashset to store all elements.",
+      "Loop again to count all valid elements."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  }
+}

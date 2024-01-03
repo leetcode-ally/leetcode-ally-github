@@ -1,0 +1,88 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1586",
+      "title": "Binary Search Tree Iterator II",
+      "titleSlug": "binary-search-tree-iterator-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 257,
+      "dislikes": 34,
+      "similarQuestions": "[{\"title\": \"Binary Search Tree Iterator\", \"titleSlug\": \"binary-search-tree-iterator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "Iterator",
+          "slug": "iterator"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"13.6K\", \"totalSubmission\": \"19.4K\", \"totalAcceptedRaw\": 13585, \"totalSubmissionRaw\": 19379, \"acRate\": \"70.1%\"}",
+      "hints": [
+        "The inorder traversal of a BST gives us the elements in a sorted order.",
+        "We can use a stack to simulate the inorder traversal of the BST.",
+        "We can use another stack as a buffer to store numbers returned from calls to next and use this buffer whenever prev is called."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-search-tree-iterator",
+        "title": "Binary Search Tree Iterator",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "The inorder traversal of a BST gives us the elements in a sorted order.",
+      "We can use a stack to simulate the inorder traversal of the BST.",
+      "We can use another stack as a buffer to store numbers returned from calls to next and use this buffer whenever prev is called."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ]
+  }
+}

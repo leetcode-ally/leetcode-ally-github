@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-263",
+  "data": [
+    {
+      "id": 2306,
+      "question_id": 2168,
+      "credit": 3,
+      "title": "Check if Numbers Are Ascending in a Sentence",
+      "title_slug": "check-if-numbers-are-ascending-in-a-sentence",
+      "likes": 584,
+      "dislikes": 19
+    },
+    {
+      "id": 2307,
+      "question_id": 2169,
+      "credit": 4,
+      "title": "Simple Bank System",
+      "title_slug": "simple-bank-system",
+      "likes": 227,
+      "dislikes": 205
+    },
+    {
+      "id": 2308,
+      "question_id": 2170,
+      "credit": 5,
+      "title": "Count Number of Maximum Bitwise-OR Subsets",
+      "title_slug": "count-number-of-maximum-bitwise-or-subsets",
+      "likes": 587,
+      "dislikes": 21
+    },
+    {
+      "id": 2309,
+      "question_id": 2171,
+      "credit": 6,
+      "title": "Second Minimum Time to Reach Destination",
+      "title_slug": "second-minimum-time-to-reach-destination",
+      "likes": 669,
+      "dislikes": 11
+    }
+  ]
+}

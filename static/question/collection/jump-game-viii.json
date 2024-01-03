@@ -1,0 +1,130 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2297",
+      "title": "Jump Game VIII",
+      "titleSlug": "jump-game-viii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 128,
+      "dislikes": 33,
+      "similarQuestions": "[{\"title\": \"Jump Game II\", \"titleSlug\": \"jump-game-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game\", \"titleSlug\": \"jump-game\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game III\", \"titleSlug\": \"jump-game-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game IV\", \"titleSlug\": \"jump-game-iv\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Jump Game V\", \"titleSlug\": \"jump-game-v\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Jump Game VI\", \"titleSlug\": \"jump-game-vi\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game VII\", \"titleSlug\": \"jump-game-vii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Jump Game VIII\", \"titleSlug\": \"jump-game-viii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.2K\", \"totalSubmission\": \"6.6K\", \"totalAcceptedRaw\": 3186, \"totalSubmissionRaw\": 6571, \"acRate\": \"48.5%\"}",
+      "hints": [
+        "For each index, find the indexes that you can jump to.",
+        "We can do this by using a monotonic stack and iterating through the array backwards.",
+        "Create another integer array of length n called dp where dp[i] is the minimum cost of getting to index i."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game-ii",
+        "title": "Jump Game II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game",
+        "title": "Jump Game",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game-iii",
+        "title": "Jump Game III",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "jump-game-iv",
+        "title": "Jump Game IV",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "jump-game-v",
+        "title": "Jump Game V",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game-vi",
+        "title": "Jump Game VI",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game-vii",
+        "title": "Jump Game VII",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "jump-game-viii",
+        "title": "Jump Game VIII",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "For each index, find the indexes that you can jump to.",
+      "We can do this by using a monotonic stack and iterating through the array backwards.",
+      "Create another integer array of length n called dp where dp[i] is the minimum cost of getting to index i."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  }
+}

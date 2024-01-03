@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "562",
+      "title": "Longest Line of Consecutive One in Matrix",
+      "titleSlug": "longest-line-of-consecutive-one-in-matrix",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 876,
+      "dislikes": 115,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"74.9K\", \"totalSubmission\": \"148.8K\", \"totalAcceptedRaw\": 74903, \"totalSubmissionRaw\": 148788, \"acRate\": \"50.3%\"}",
+      "hints": [
+        "One solution is to count ones in each direction separately and find the longest line. Don't you think  it will take too much lines of code?",
+        "Is it possible to use some extra space to make the solution simple?",
+        "Can we use dynamic programming to make use of intermediate results?",
+        "Think of a 3D array which can be used to store the longest line obtained so far for each direction."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "One solution is to count ones in each direction separately and find the longest line. Don't you think  it will take too much lines of code?",
+      "Is it possible to use some extra space to make the solution simple?",
+      "Can we use dynamic programming to make use of intermediate results?",
+      "Think of a 3D array which can be used to store the longest line obtained so far for each direction."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

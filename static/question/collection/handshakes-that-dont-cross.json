@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1259",
+      "title": "Handshakes That Don't Cross",
+      "titleSlug": "handshakes-that-dont-cross",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 225,
+      "dislikes": 16,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.6K\", \"totalSubmission\": \"17.5K\", \"totalAcceptedRaw\": 10626, \"totalSubmissionRaw\": 17517, \"acRate\": \"60.7%\"}",
+      "hints": [
+        "Use dynamic programming.",
+        "Let dp[n] be the number of ways that n people can handshake.",
+        "Then fix a person as a pivot and turn for every other person who will have a handshake, the answer is the sum of the products of the new two subproblems."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Use dynamic programming.",
+      "Let dp[n] be the number of ways that n people can handshake.",
+      "Then fix a person as a pivot and turn for every other person who will have a handshake, the answer is the sum of the products of the new two subproblems."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

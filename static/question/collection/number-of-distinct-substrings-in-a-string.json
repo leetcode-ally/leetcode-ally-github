@@ -1,0 +1,75 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1698",
+      "title": "Number of Distinct Substrings in a String",
+      "titleSlug": "number-of-distinct-substrings-in-a-string",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 186,
+      "dislikes": 41,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "Suffix Array",
+          "slug": "suffix-array"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.6K\", \"totalSubmission\": \"15.1K\", \"totalAcceptedRaw\": 9615, \"totalSubmissionRaw\": 15101, \"acRate\": \"63.7%\"}",
+      "hints": [
+        "Calculate the prefix hashing array for s.",
+        "Use the prefix hashing array to calculate the hashing value of each substring.",
+        "Compare the hashing values to determine the unique substrings.",
+        "There could be collisions if you use hashing, what about double hashing."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Calculate the prefix hashing array for s.",
+      "Use the prefix hashing array to calculate the hashing value of each substring.",
+      "Compare the hashing values to determine the unique substrings.",
+      "There could be collisions if you use hashing, what about double hashing."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ]
+  }
+}

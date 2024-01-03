@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1182",
+      "title": "Shortest Distance to Target Color",
+      "titleSlug": "shortest-distance-to-target-color",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 505,
+      "dislikes": 22,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"35K\", \"totalSubmission\": \"63.2K\", \"totalAcceptedRaw\": 35022, \"totalSubmissionRaw\": 63232, \"acRate\": \"55.4%\"}",
+      "hints": [
+        "Greedy solution is too slow because of the limits.",
+        "Can you solve this problem offline by doing some pre-processing?",
+        "Calculate the answers for all indexes moving to their left and to their right."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Greedy solution is too slow because of the limits.",
+      "Can you solve this problem offline by doing some pre-processing?",
+      "Calculate the answers for all indexes moving to their left and to their right."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

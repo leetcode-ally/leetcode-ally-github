@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1152",
+      "title": "Analyze User Website Visit Pattern",
+      "titleSlug": "analyze-user-website-visit-pattern",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 472,
+      "dislikes": 3591,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"90K\", \"totalSubmission\": \"209.7K\", \"totalAcceptedRaw\": 90044, \"totalSubmissionRaw\": 209658, \"acRate\": \"42.9%\"}",
+      "hints": [
+        "Let's find for every user separately the websites he visited.",
+        "Consider all possible 3-sequences, find the number of distinct users who visited each of them.",
+        "How to check if some user visited some 3-sequence ?",
+        "Store for every user all the 3-sequence he visited."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Let's find for every user separately the websites he visited.",
+      "Consider all possible 3-sequences, find the number of distinct users who visited each of them.",
+      "How to check if some user visited some 3-sequence ?",
+      "Store for every user all the 3-sequence he visited."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

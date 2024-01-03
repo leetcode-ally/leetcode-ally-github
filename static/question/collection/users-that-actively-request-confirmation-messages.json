@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1939",
+      "title": "Users That Actively Request Confirmation Messages",
+      "titleSlug": "users-that-actively-request-confirmation-messages",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 59,
+      "dislikes": 46,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.1K\", \"totalSubmission\": \"17.8K\", \"totalAcceptedRaw\": 10101, \"totalSubmissionRaw\": 17806, \"acRate\": \"56.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

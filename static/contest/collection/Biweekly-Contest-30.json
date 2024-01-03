@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-30",
+  "data": [
+    {
+      "id": 1494,
+      "question_id": 1283,
+      "credit": 3,
+      "title": "Reformat Date",
+      "title_slug": "reformat-date",
+      "likes": 439,
+      "dislikes": 423
+    },
+    {
+      "id": 1495,
+      "question_id": 1615,
+      "credit": 4,
+      "title": "Range Sum of Sorted Subarray Sums",
+      "title_slug": "range-sum-of-sorted-subarray-sums",
+      "likes": 901,
+      "dislikes": 148
+    },
+    {
+      "id": 1496,
+      "question_id": 1616,
+      "credit": 5,
+      "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+      "title_slug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+      "likes": 1624,
+      "dislikes": 176
+    },
+    {
+      "id": 1497,
+      "question_id": 1617,
+      "credit": 6,
+      "title": "Stone Game IV",
+      "title_slug": "stone-game-iv",
+      "likes": 1565,
+      "dislikes": 68
+    }
+  ]
+}

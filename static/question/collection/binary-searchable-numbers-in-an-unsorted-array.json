@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1966",
+      "title": "Binary Searchable Numbers in an Unsorted Array",
+      "titleSlug": "binary-searchable-numbers-in-an-unsorted-array",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 67,
+      "dislikes": 9,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.6K\", \"totalSubmission\": \"4K\", \"totalAcceptedRaw\": 2589, \"totalSubmissionRaw\": 3970, \"acRate\": \"65.2%\"}",
+      "hints": [
+        "The target will not be found if it is removed from the sequence. When does this occur?",
+        "If a pivot is to the left of and is greater than the target, then the target will be removed. The same occurs when the pivot is to the right of and is less than the target.",
+        "Since any element can be chosen as the pivot, for any target NOT to be removed, the condition described in the previous hint must never occur."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "The target will not be found if it is removed from the sequence. When does this occur?",
+      "If a pivot is to the left of and is greater than the target, then the target will be removed. The same occurs when the pivot is to the right of and is less than the target.",
+      "Since any element can be chosen as the pivot, for any target NOT to be removed, the condition described in the previous hint must never occur."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  }
+}

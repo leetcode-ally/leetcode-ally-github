@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1060",
+      "title": "Missing Element in Sorted Array",
+      "titleSlug": "missing-element-in-sorted-array",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1613,
+      "dislikes": 58,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"125.1K\", \"totalSubmission\": \"223.4K\", \"totalAcceptedRaw\": 125147, \"totalSubmissionRaw\": 223392, \"acRate\": \"56.0%\"}",
+      "hints": [
+        "First define a function f(x) that counts the number of missing elements until x.",
+        "Then use binary search with the given function f(x) to find the kth missing element."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "First define a function f(x) that counts the number of missing elements until x.",
+      "Then use binary search with the given function f(x) to find the kth missing element."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  }
+}

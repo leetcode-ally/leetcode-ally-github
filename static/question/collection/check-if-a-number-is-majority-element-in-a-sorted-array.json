@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1150",
+      "title": "Check If a Number Is Majority Element in a Sorted Array",
+      "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 445,
+      "dislikes": 35,
+      "similarQuestions": "[{\"title\": \"Majority Element\", \"titleSlug\": \"majority-element\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Majority Element II\", \"titleSlug\": \"majority-element-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"46.7K\", \"totalSubmission\": \"79.6K\", \"totalAcceptedRaw\": 46735, \"totalSubmissionRaw\": 79634, \"acRate\": \"58.7%\"}",
+      "hints": [
+        "How to check if a given number target is a majority element?.",
+        "Find the frequency of target and compare it to the length of the array.",
+        "You can find the frequency of an element using Binary Search since the array is sorted.",
+        "Using Binary Search, find the first and last occurrences of A. Then just calculate the difference between the indexes of these occurrences."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "majority-element",
+        "title": "Majority Element",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "majority-element-ii",
+        "title": "Majority Element II",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How to check if a given number target is a majority element?.",
+      "Find the frequency of target and compare it to the length of the array.",
+      "You can find the frequency of an element using Binary Search since the array is sorted.",
+      "Using Binary Search, find the first and last occurrences of A. Then just calculate the difference between the indexes of these occurrences."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  }
+}

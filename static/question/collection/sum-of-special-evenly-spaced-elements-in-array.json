@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1714",
+      "title": "Sum Of Special Evenly-Spaced Elements In Array",
+      "titleSlug": "sum-of-special-evenly-spaced-elements-in-array",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 29,
+      "dislikes": 24,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"2.6K\", \"totalAcceptedRaw\": 1314, \"totalSubmissionRaw\": 2647, \"acRate\": \"49.6%\"}",
+      "hints": [
+        "Think if y cannot be small. You can solve a query in O(n/y), so if y is large enough, it won't be a problem.",
+        "If y is small, like less than B, you can preprocess the answers for all such ys in O(n * B), then answer each such query in O(1).",
+        "As you might have already guessed, the optimal value for B is ~sqrt(n)."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Think if y cannot be small. You can solve a query in O(n/y), so if y is large enough, it won't be a problem.",
+      "If y is small, like less than B, you can preprocess the answers for all such ys in O(n * B), then answer each such query in O(1).",
+      "As you might have already guessed, the optimal value for B is ~sqrt(n)."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2539",
+      "title": "Count the Number of Good Subsequences",
+      "titleSlug": "count-the-number-of-good-subsequences",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 23,
+      "dislikes": 54,
+      "similarQuestions": "[{\"title\": \"Number of Music Playlists\", \"titleSlug\": \"number-of-music-playlists\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Ways to Build Rooms in an Ant Colony\", \"titleSlug\": \"count-ways-to-build-rooms-in-an-ant-colony\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.9K\", \"totalSubmission\": \"3.4K\", \"totalAcceptedRaw\": 1948, \"totalSubmissionRaw\": 3425, \"acRate\": \"56.9%\"}",
+      "hints": [
+        "Use the frequency array of characters of the string.",
+        "For 1 ≤ m ≤ s.length, count the number of subsequences of s where each character occurs exactly m times.",
+        "For any n and k, you can calculate (n choose k) mod p in O(log p) using binary exponentiation."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "number-of-music-playlists",
+        "title": "Number of Music Playlists",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-ways-to-build-rooms-in-an-ant-colony",
+        "title": "Count Ways to Build Rooms in an Ant Colony",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use the frequency array of characters of the string.",
+      "For 1 ≤ m ≤ s.length, count the number of subsequences of s where each character occurs exactly m times.",
+      "For any n and k, you can calculate (n choose k) mod p in O(log p) using binary exponentiation."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  }
+}

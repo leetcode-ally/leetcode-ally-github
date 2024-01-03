@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-124",
+  "data": [
+    {
+      "id": 580,
+      "question_id": 1035,
+      "credit": 4,
+      "title": "Cousins in Binary Tree",
+      "title_slug": "cousins-in-binary-tree",
+      "likes": 3873,
+      "dislikes": 193
+    },
+    {
+      "id": 581,
+      "question_id": 1036,
+      "credit": 5,
+      "title": "Rotting Oranges",
+      "title_slug": "rotting-oranges",
+      "likes": 12122,
+      "dislikes": 377
+    },
+    {
+      "id": 582,
+      "question_id": 1037,
+      "credit": 6,
+      "title": "Minimum Number of K Consecutive Bit Flips",
+      "title_slug": "minimum-number-of-k-consecutive-bit-flips",
+      "likes": 1173,
+      "dislikes": 57
+    },
+    {
+      "id": 583,
+      "question_id": 1038,
+      "credit": 6,
+      "title": "Number of Squareful Arrays",
+      "title_slug": "number-of-squareful-arrays",
+      "likes": 963,
+      "dislikes": 42
+    }
+  ]
+}

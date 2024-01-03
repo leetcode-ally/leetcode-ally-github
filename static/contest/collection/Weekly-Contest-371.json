@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-371",
+  "data": [
+    {
+      "id": 3627,
+      "question_id": 3193,
+      "credit": 3,
+      "title": "Maximum Strong Pair XOR I",
+      "title_slug": "maximum-strong-pair-xor-i",
+      "likes": 86,
+      "dislikes": 4
+    },
+    {
+      "id": 3628,
+      "question_id": 3202,
+      "credit": 4,
+      "title": "High-Access Employees",
+      "title_slug": "high-access-employees",
+      "likes": 150,
+      "dislikes": 15
+    },
+    {
+      "id": 3629,
+      "question_id": 3190,
+      "credit": 4,
+      "title": "Minimum Operations to Maximize Last Elements in Arrays",
+      "title_slug": "minimum-operations-to-maximize-last-elements-in-arrays",
+      "likes": 156,
+      "dislikes": 12
+    },
+    {
+      "id": 3630,
+      "question_id": 3197,
+      "credit": 8,
+      "title": "Maximum Strong Pair XOR II",
+      "title_slug": "maximum-strong-pair-xor-ii",
+      "likes": 143,
+      "dislikes": 1
+    }
+  ]
+}

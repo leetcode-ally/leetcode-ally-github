@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2067",
+      "title": "Number of Equal Count Substrings",
+      "titleSlug": "number-of-equal-count-substrings",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 95,
+      "dislikes": 7,
+      "similarQuestions": "[{\"title\": \"Longest Substring Without Repeating Characters\", \"titleSlug\": \"longest-substring-without-repeating-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Substring with At Least K Repeating Characters\", \"titleSlug\": \"longest-substring-with-at-least-k-repeating-characters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Unique Substrings With Equal Digit Frequency\", \"titleSlug\": \"unique-substrings-with-equal-digit-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.3K\", \"totalSubmission\": \"4.8K\", \"totalAcceptedRaw\": 2299, \"totalSubmissionRaw\": 4834, \"acRate\": \"47.6%\"}",
+      "hints": [
+        "The brute force solution is to check every substring, which would TLE. How can we improve this solution?",
+        "In an equal count substring, the first character appears count times, the second character appears count times, and so on.",
+        "The length of an equal count substring is the number of unique characters multiplied by count.",
+        "The length of all equal count substrings are multiples of count."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "title": "Longest Substring Without Repeating Characters",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "unique-substrings-with-equal-digit-frequency",
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "The brute force solution is to check every substring, which would TLE. How can we improve this solution?",
+      "In an equal count substring, the first character appears count times, the second character appears count times, and so on.",
+      "The length of an equal count substring is the number of unique characters multiplied by count.",
+      "The length of all equal count substrings are multiples of count."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

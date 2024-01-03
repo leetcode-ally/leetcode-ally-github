@@ -1,0 +1,88 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1628",
+      "title": "Design an Expression Tree With Evaluate Function",
+      "titleSlug": "design-an-expression-tree-with-evaluate-function",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 524,
+      "dislikes": 71,
+      "similarQuestions": "[{\"title\": \"Minimum Flips in Binary Tree to Get Result\", \"titleSlug\": \"minimum-flips-in-binary-tree-to-get-result\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Evaluate Boolean Binary Tree\", \"titleSlug\": \"evaluate-boolean-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"25.5K\", \"totalSubmission\": \"30.8K\", \"totalAcceptedRaw\": 25522, \"totalSubmissionRaw\": 30828, \"acRate\": \"82.8%\"}",
+      "hints": [
+        "Apply the concept of Polymorphism to get a good design",
+        "Implement the Node class using NumericNode and OperatorNode classes.",
+        "NumericNode only maintains the value and evaluate returns this value.",
+        "OperatorNode Maintains the left and right nodes representing the left and right operands, and the evaluate function applies the operator to them."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-flips-in-binary-tree-to-get-result",
+        "title": "Minimum Flips in Binary Tree to Get Result",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "evaluate-boolean-binary-tree",
+        "title": "Evaluate Boolean Binary Tree",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Apply the concept of Polymorphism to get a good design",
+      "Implement the Node class using NumericNode and OperatorNode classes.",
+      "NumericNode only maintains the value and evaluate returns this value.",
+      "OperatorNode Maintains the left and right nodes representing the left and right operands, and the evaluate function applies the operator to them."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

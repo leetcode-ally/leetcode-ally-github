@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-357",
+  "data": [
+    {
+      "id": 3457,
+      "question_id": 2886,
+      "credit": 3,
+      "title": "Faulty Keyboard",
+      "title_slug": "faulty-keyboard",
+      "likes": 367,
+      "dislikes": 5
+    },
+    {
+      "id": 3458,
+      "question_id": 2916,
+      "credit": 4,
+      "title": "Check if it is Possible to Split Array",
+      "title_slug": "check-if-it-is-possible-to-split-array",
+      "likes": 429,
+      "dislikes": 84
+    },
+    {
+      "id": 3459,
+      "question_id": 2914,
+      "credit": 5,
+      "title": "Find the Safest Path in a Grid",
+      "title_slug": "find-the-safest-path-in-a-grid",
+      "likes": 725,
+      "dislikes": 81
+    },
+    {
+      "id": 3460,
+      "question_id": 2894,
+      "credit": 6,
+      "title": "Maximum Elegance of a K-Length Subsequence",
+      "title_slug": "maximum-elegance-of-a-k-length-subsequence",
+      "likes": 274,
+      "dislikes": 3
+    }
+  ]
+}

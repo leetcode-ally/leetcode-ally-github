@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2340",
+      "title": "Minimum Adjacent Swaps to Make a Valid Array",
+      "titleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 139,
+      "dislikes": 21,
+      "similarQuestions": "[{\"title\": \"Minimum Adjacent Swaps for K Consecutive Ones\", \"titleSlug\": \"minimum-adjacent-swaps-for-k-consecutive-ones\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"12.9K\", \"totalSubmission\": \"17.6K\", \"totalAcceptedRaw\": 12872, \"totalSubmissionRaw\": 17582, \"acRate\": \"73.2%\"}",
+      "hints": [
+        "Notice that in order to obtain the minimum swaps, we should focus on the smallest element that is the leftmost and the largest element that is the rightmost.",
+        "We can take those elements and greedily only do swaps that bring them closer to their respective end positions."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Notice that in order to obtain the minimum swaps, we should focus on the smallest element that is the leftmost and the largest element that is the rightmost.",
+      "We can take those elements and greedily only do swaps that bring them closer to their respective end positions."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

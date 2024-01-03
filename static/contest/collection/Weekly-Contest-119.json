@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-119",
+  "data": [
+    {
+      "id": 536,
+      "question_id": 1014,
+      "credit": 3,
+      "title": "K Closest Points to Origin",
+      "title_slug": "k-closest-points-to-origin",
+      "likes": 8116,
+      "dislikes": 289
+    },
+    {
+      "id": 537,
+      "question_id": 1018,
+      "credit": 4,
+      "title": "Largest Perimeter Triangle",
+      "title_slug": "largest-perimeter-triangle",
+      "likes": 2918,
+      "dislikes": 398
+    },
+    {
+      "id": 538,
+      "question_id": 1016,
+      "credit": 6,
+      "title": "Subarray Sums Divisible by K",
+      "title_slug": "subarray-sums-divisible-by-k",
+      "likes": 6431,
+      "dislikes": 269
+    },
+    {
+      "id": 539,
+      "question_id": 1017,
+      "credit": 8,
+      "title": "Odd Even Jump",
+      "title_slug": "odd-even-jump",
+      "likes": 1914,
+      "dislikes": 479
+    }
+  ]
+}

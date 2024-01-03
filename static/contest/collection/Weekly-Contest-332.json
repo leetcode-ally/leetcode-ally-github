@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-332",
+  "data": [
+    {
+      "id": 3159,
+      "question_id": 2698,
+      "credit": 3,
+      "title": "Find the Array Concatenation Value",
+      "title_slug": "find-the-array-concatenation-value",
+      "likes": 325,
+      "dislikes": 11
+    },
+    {
+      "id": 3160,
+      "question_id": 2699,
+      "credit": 4,
+      "title": "Count the Number of Fair Pairs",
+      "title_slug": "count-the-number-of-fair-pairs",
+      "likes": 739,
+      "dislikes": 35
+    },
+    {
+      "id": 3161,
+      "question_id": 2700,
+      "credit": 5,
+      "title": "Substring XOR Queries",
+      "title_slug": "substring-xor-queries",
+      "likes": 344,
+      "dislikes": 81
+    },
+    {
+      "id": 3162,
+      "question_id": 2701,
+      "credit": 6,
+      "title": "Subsequence With the Minimum Score",
+      "title_slug": "subsequence-with-the-minimum-score",
+      "likes": 352,
+      "dislikes": 6
+    }
+  ]
+}

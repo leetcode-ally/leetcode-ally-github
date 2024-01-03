@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2247",
+      "title": "Maximum Cost of Trip With K Highways",
+      "titleSlug": "maximum-cost-of-trip-with-k-highways",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 57,
+      "dislikes": 0,
+      "similarQuestions": "[{\"title\": \"Minimum Cost to Reach Destination in Time\", \"titleSlug\": \"minimum-cost-to-reach-destination-in-time\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Cost to Reach City With Discounts\", \"titleSlug\": \"minimum-cost-to-reach-city-with-discounts\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.5K\", \"totalSubmission\": \"3.1K\", \"totalAcceptedRaw\": 1501, \"totalSubmissionRaw\": 3053, \"acRate\": \"49.2%\"}",
+      "hints": [
+        "Are there any computations being repeated?",
+        "The same path can be visited multiple times. Could we reuse the previously calculated result?",
+        "Store the nodes seen on the current path and the last node on the current path as a dynamic programming state."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-cost-to-reach-destination-in-time",
+        "title": "Minimum Cost to Reach Destination in Time",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+        "title": "Minimum Cost to Reach City With Discounts",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Are there any computations being repeated?",
+      "The same path can be visited multiple times. Could we reuse the previously calculated result?",
+      "Store the nodes seen on the current path and the last node on the current path as a dynamic programming state."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ]
+  }
+}

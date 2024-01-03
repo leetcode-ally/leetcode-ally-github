@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-69",
+  "data": [
+    {
+      "id": 297,
+      "question_id": 782,
+      "credit": 2,
+      "title": "Jewels and Stones",
+      "title_slug": "jewels-and-stones",
+      "likes": 4935,
+      "dislikes": 575
+    },
+    {
+      "id": 298,
+      "question_id": 790,
+      "credit": 5,
+      "title": "Global and Local Inversions",
+      "title_slug": "global-and-local-inversions",
+      "likes": 1771,
+      "dislikes": 367
+    },
+    {
+      "id": 301,
+      "question_id": 787,
+      "credit": 7,
+      "title": "Sliding Puzzle",
+      "title_slug": "sliding-puzzle",
+      "likes": 1975,
+      "dislikes": 49
+    },
+    {
+      "id": 302,
+      "question_id": 788,
+      "credit": 7,
+      "title": "Minimize Max Distance to Gas Station",
+      "title_slug": "minimize-max-distance-to-gas-station",
+      "likes": 662,
+      "dislikes": 94
+    }
+  ]
+}

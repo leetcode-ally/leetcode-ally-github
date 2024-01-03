@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1533",
+      "title": "Find the Index of the Large Integer",
+      "titleSlug": "find-the-index-of-the-large-integer",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 240,
+      "dislikes": 29,
+      "similarQuestions": "[{\"title\": \"Search in a Sorted Array of Unknown Size\", \"titleSlug\": \"search-in-a-sorted-array-of-unknown-size\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"12.2K\", \"totalSubmission\": \"21.9K\", \"totalAcceptedRaw\": 12249, \"totalSubmissionRaw\": 21933, \"acRate\": \"55.8%\"}",
+      "hints": [
+        "Do a binary search over the array, exclude the half of the array that doesn't contain the largest number.",
+        "Keep shrinking the search space till it reaches the size of 2 where you can easily determine which one has the largest integer."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+        "title": "Search in a Sorted Array of Unknown Size",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Do a binary search over the array, exclude the half of the array that doesn't contain the largest number.",
+      "Keep shrinking the search space till it reaches the size of 2 where you can easily determine which one has the largest integer."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

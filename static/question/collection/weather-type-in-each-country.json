@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1294",
+      "title": "Weather Type in Each Country",
+      "titleSlug": "weather-type-in-each-country",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 135,
+      "dislikes": 29,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"37.9K\", \"totalSubmission\": \"56.9K\", \"totalAcceptedRaw\": 37894, \"totalSubmissionRaw\": 56883, \"acRate\": \"66.6%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2077",
+      "title": "Paths in Maze That Lead to Same Room",
+      "titleSlug": "paths-in-maze-that-lead-to-same-room",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 117,
+      "dislikes": 9,
+      "similarQuestions": "[{\"title\": \"Number of Connected Components in an Undirected Graph\", \"titleSlug\": \"number-of-connected-components-in-an-undirected-graph\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Reachable Nodes In Subdivided Graph\", \"titleSlug\": \"reachable-nodes-in-subdivided-graph\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Distance to a Cycle in Undirected Graph\", \"titleSlug\": \"distance-to-a-cycle-in-undirected-graph\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Find if Path Exists in Graph\", \"titleSlug\": \"find-if-path-exists-in-graph\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Graph",
+          "slug": "graph"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.7K\", \"totalSubmission\": \"6.7K\", \"totalAcceptedRaw\": 3681, \"totalSubmissionRaw\": 6736, \"acRate\": \"54.6%\"}",
+      "hints": [
+        "If the path starts at room i, what properties must the other two rooms in the cycle have?",
+        "The other two rooms must be connected to room i, and must be connected to each other."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "title": "Number of Connected Components in an Undirected Graph",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "reachable-nodes-in-subdivided-graph",
+        "title": "Reachable Nodes In Subdivided Graph",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+        "title": "Distance to a Cycle in Undirected Graph",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "find-if-path-exists-in-graph",
+        "title": "Find if Path Exists in Graph",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "If the path starts at room i, what properties must the other two rooms in the cycle have?",
+      "The other two rooms must be connected to room i, and must be connected to each other."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ]
+  }
+}

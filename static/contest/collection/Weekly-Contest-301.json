@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-301",
+  "data": [
+    {
+      "id": 2782,
+      "question_id": 2412,
+      "credit": 3,
+      "title": "Minimum Amount of Time to Fill Cups",
+      "title_slug": "minimum-amount-of-time-to-fill-cups",
+      "likes": 651,
+      "dislikes": 75
+    },
+    {
+      "id": 2783,
+      "question_id": 2413,
+      "credit": 4,
+      "title": "Smallest Number in Infinite Set",
+      "title_slug": "smallest-number-in-infinite-set",
+      "likes": 1547,
+      "dislikes": 165
+    },
+    {
+      "id": 2784,
+      "question_id": 2414,
+      "credit": 5,
+      "title": "Move Pieces to Obtain a String",
+      "title_slug": "move-pieces-to-obtain-a-string",
+      "likes": 633,
+      "dislikes": 42
+    },
+    {
+      "id": 2785,
+      "question_id": 2415,
+      "credit": 6,
+      "title": "Count the Number of Ideal Arrays",
+      "title_slug": "count-the-number-of-ideal-arrays",
+      "likes": 464,
+      "dislikes": 26
+    }
+  ]
+}

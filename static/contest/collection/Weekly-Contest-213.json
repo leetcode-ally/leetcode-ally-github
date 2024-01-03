@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-213",
+  "data": [
+    {
+      "id": 1686,
+      "question_id": 1760,
+      "credit": 3,
+      "title": "Check Array Formation Through Concatenation",
+      "title_slug": "check-array-formation-through-concatenation",
+      "likes": 876,
+      "dislikes": 135
+    },
+    {
+      "id": 1687,
+      "question_id": 1761,
+      "credit": 4,
+      "title": "Count Sorted Vowel Strings",
+      "title_slug": "count-sorted-vowel-strings",
+      "likes": 3769,
+      "dislikes": 81
+    },
+    {
+      "id": 1690,
+      "question_id": 1762,
+      "credit": 5,
+      "title": "Furthest Building You Can Reach",
+      "title_slug": "furthest-building-you-can-reach",
+      "likes": 4519,
+      "dislikes": 95
+    },
+    {
+      "id": 1691,
+      "question_id": 489,
+      "credit": 6,
+      "title": "Kth Smallest Instructions",
+      "title_slug": "kth-smallest-instructions",
+      "likes": 524,
+      "dislikes": 12
+    }
+  ]
+}

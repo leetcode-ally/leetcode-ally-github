@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-117",
+  "data": [
+    {
+      "id": 520,
+      "question_id": 1005,
+      "credit": 3,
+      "title": "Univalued Binary Tree",
+      "title_slug": "univalued-binary-tree",
+      "likes": 1844,
+      "dislikes": 63
+    },
+    {
+      "id": 522,
+      "question_id": 1007,
+      "credit": 5,
+      "title": "Numbers With Same Consecutive Differences",
+      "title_slug": "numbers-with-same-consecutive-differences",
+      "likes": 2754,
+      "dislikes": 192
+    },
+    {
+      "id": 521,
+      "question_id": 1006,
+      "credit": 6,
+      "title": "Vowel Spellchecker",
+      "title_slug": "vowel-spellchecker",
+      "likes": 412,
+      "dislikes": 801
+    },
+    {
+      "id": 523,
+      "question_id": 1008,
+      "credit": 8,
+      "title": "Binary Tree Cameras",
+      "title_slug": "binary-tree-cameras",
+      "likes": 5162,
+      "dislikes": 68
+    }
+  ]
+}

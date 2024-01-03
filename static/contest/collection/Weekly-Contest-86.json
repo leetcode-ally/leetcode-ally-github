@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-86",
+  "data": [
+    {
+      "id": 373,
+      "question_id": 870,
+      "credit": 3,
+      "title": "Magic Squares In Grid",
+      "title_slug": "magic-squares-in-grid",
+      "likes": 321,
+      "dislikes": 1587
+    },
+    {
+      "id": 374,
+      "question_id": 871,
+      "credit": 5,
+      "title": "Keys and Rooms",
+      "title_slug": "keys-and-rooms",
+      "likes": 5865,
+      "dislikes": 261
+    },
+    {
+      "id": 375,
+      "question_id": 872,
+      "credit": 6,
+      "title": "Split Array into Fibonacci Sequence",
+      "title_slug": "split-array-into-fibonacci-sequence",
+      "likes": 1106,
+      "dislikes": 297
+    },
+    {
+      "id": 376,
+      "question_id": 873,
+      "credit": 8,
+      "title": "Guess the Word",
+      "title_slug": "guess-the-word",
+      "likes": 1491,
+      "dislikes": 1751
+    }
+  ]
+}

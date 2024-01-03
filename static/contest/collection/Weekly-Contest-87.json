@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-87",
+  "data": [
+    {
+      "id": 377,
+      "question_id": 874,
+      "credit": 3,
+      "title": "Backspace String Compare",
+      "title_slug": "backspace-string-compare",
+      "likes": 7370,
+      "dislikes": 340
+    },
+    {
+      "id": 378,
+      "question_id": 875,
+      "credit": 5,
+      "title": "Longest Mountain in Array",
+      "title_slug": "longest-mountain-in-array",
+      "likes": 2707,
+      "dislikes": 74
+    },
+    {
+      "id": 379,
+      "question_id": 876,
+      "credit": 5,
+      "title": "Hand of Straights",
+      "title_slug": "hand-of-straights",
+      "likes": 2423,
+      "dislikes": 163
+    },
+    {
+      "id": 380,
+      "question_id": 877,
+      "credit": 8,
+      "title": "Shortest Path Visiting All Nodes",
+      "title_slug": "shortest-path-visiting-all-nodes",
+      "likes": 4189,
+      "dislikes": 161
+    }
+  ]
+}

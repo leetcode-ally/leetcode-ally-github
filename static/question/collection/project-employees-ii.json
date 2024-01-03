@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1076",
+      "title": "Project Employees II",
+      "titleSlug": "project-employees-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 199,
+      "dislikes": 60,
+      "similarQuestions": "[{\"title\": \"Project Employees I\", \"titleSlug\": \"project-employees-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Project Employees III\", \"titleSlug\": \"project-employees-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"54.4K\", \"totalSubmission\": \"109.1K\", \"totalAcceptedRaw\": 54358, \"totalSubmissionRaw\": 109065, \"acRate\": \"49.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "project-employees-i",
+        "title": "Project Employees I",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "project-employees-iii",
+        "title": "Project Employees III",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

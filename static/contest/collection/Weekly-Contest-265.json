@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-265",
+  "data": [
+    {
+      "id": 2330,
+      "question_id": 2181,
+      "credit": 3,
+      "title": "Smallest Index With Equal Value",
+      "title_slug": "smallest-index-with-equal-value",
+      "likes": 384,
+      "dislikes": 132
+    },
+    {
+      "id": 2331,
+      "question_id": 2182,
+      "credit": 4,
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "title_slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "likes": 616,
+      "dislikes": 24
+    },
+    {
+      "id": 2332,
+      "question_id": 2183,
+      "credit": 5,
+      "title": "Minimum Operations to Convert Number",
+      "title_slug": "minimum-operations-to-convert-number",
+      "likes": 620,
+      "dislikes": 33
+    },
+    {
+      "id": 2333,
+      "question_id": 2184,
+      "credit": 6,
+      "title": "Check if an Original String Exists Given Two Encoded Strings",
+      "title_slug": "check-if-an-original-string-exists-given-two-encoded-strings",
+      "likes": 288,
+      "dislikes": 136
+    }
+  ]
+}

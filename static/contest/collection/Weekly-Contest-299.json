@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-299",
+  "data": [
+    {
+      "id": 2758,
+      "question_id": 2398,
+      "credit": 3,
+      "title": "Check if Matrix Is X-Matrix",
+      "title_slug": "check-if-matrix-is-x-matrix",
+      "likes": 466,
+      "dislikes": 21
+    },
+    {
+      "id": 2759,
+      "question_id": 2397,
+      "credit": 4,
+      "title": "Count Number of Ways to Place Houses",
+      "title_slug": "count-number-of-ways-to-place-houses",
+      "likes": 539,
+      "dislikes": 187
+    },
+    {
+      "id": 2760,
+      "question_id": 1348,
+      "credit": 5,
+      "title": "Maximum Score Of Spliced Array",
+      "title_slug": "maximum-score-of-spliced-array",
+      "likes": 745,
+      "dislikes": 11
+    },
+    {
+      "id": 2761,
+      "question_id": 2400,
+      "credit": 6,
+      "title": "Minimum Score After Removals on a Tree",
+      "title_slug": "minimum-score-after-removals-on-a-tree",
+      "likes": 436,
+      "dislikes": 14
+    }
+  ]
+}

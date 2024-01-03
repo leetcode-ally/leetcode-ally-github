@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-157",
+  "data": [
+    {
+      "id": 1002,
+      "question_id": 1329,
+      "credit": 3,
+      "title": "Minimum Cost to Move Chips to The Same Position",
+      "title_slug": "minimum-cost-to-move-chips-to-the-same-position",
+      "likes": 2240,
+      "dislikes": 293
+    },
+    {
+      "id": 1003,
+      "question_id": 1330,
+      "credit": 4,
+      "title": "Longest Arithmetic Subsequence of Given Difference",
+      "title_slug": "longest-arithmetic-subsequence-of-given-difference",
+      "likes": 3113,
+      "dislikes": 86
+    },
+    {
+      "id": 1004,
+      "question_id": 1331,
+      "credit": 5,
+      "title": "Path with Maximum Gold",
+      "title_slug": "path-with-maximum-gold",
+      "likes": 2644,
+      "dislikes": 65
+    },
+    {
+      "id": 1005,
+      "question_id": 1332,
+      "credit": 6,
+      "title": "Count Vowels Permutation",
+      "title_slug": "count-vowels-permutation",
+      "likes": 3194,
+      "dislikes": 209
+    }
+  ]
+}

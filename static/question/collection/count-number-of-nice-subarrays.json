@@ -1,0 +1,90 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "titleSlug": "count-number-of-nice-subarrays",
+      "content": "<p>Given an array of integers <code>nums</code> and an integer <code>k</code>. A continuous subarray is called <strong>nice</strong> if there are <code>k</code> odd numbers on it.</p>\r\n\r\n<p>Return <em>the number of <strong>nice</strong> sub-arrays</em>.</p>\r\n\r\n<p>&nbsp;</p>\r\n<p><strong class=\"example\">Example 1:</strong></p>\r\n\r\n<pre>\r\n<strong>Input:</strong> nums = [1,1,2,1,1], k = 3\r\n<strong>Output:</strong> 2\r\n<strong>Explanation:</strong> The only sub-arrays with 3 odd numbers are [1,1,2,1] and [1,2,1,1].\r\n</pre>\r\n\r\n<p><strong class=\"example\">Example 2:</strong></p>\r\n\r\n<pre>\r\n<strong>Input:</strong> nums = [2,4,6], k = 1\r\n<strong>Output:</strong> 0\r\n<strong>Explanation:</strong> There is no odd numbers in the array.\r\n</pre>\r\n\r\n<p><strong class=\"example\">Example 3:</strong></p>\r\n\r\n<pre>\r\n<strong>Input:</strong> nums = [2,2,2,1,2,2,1,2,2,2], k = 2\r\n<strong>Output:</strong> 16\r\n</pre>\r\n\r\n<p>&nbsp;</p>\r\n<p><strong>Constraints:</strong></p>\r\n\r\n<ul>\r\n\t<li><code>1 &lt;= nums.length &lt;= 50000</code></li>\r\n\t<li><code>1 &lt;= nums[i] &lt;= 10^5</code></li>\r\n\t<li><code>1 &lt;= k &lt;= nums.length</code></li>\r\n</ul>",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 3586,
+      "dislikes": 77,
+      "similarQuestions": "[{\"title\": \"K Divisible Elements Subarrays\", \"titleSlug\": \"k-divisible-elements-subarrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Subarrays With Fixed Bounds\", \"titleSlug\": \"count-subarrays-with-fixed-bounds\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Ways to Split Array Into Good Subarrays\", \"titleSlug\": \"ways-to-split-array-into-good-subarrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count of Interesting Subarrays\", \"titleSlug\": \"count-of-interesting-subarrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"108.4K\", \"totalSubmission\": \"169.5K\", \"totalAcceptedRaw\": 108432, \"totalSubmissionRaw\": 169489, \"acRate\": \"64.0%\"}",
+      "hints": [
+        "After replacing each even by zero and every odd by one can we use prefix sum to find answer ?",
+        "Can we use two pointers to count number of sub-arrays ?",
+        "Can we store indices of odd numbers and for each k indices count number of sub-arrays contains them ?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "k-divisible-elements-subarrays",
+        "title": "K Divisible Elements Subarrays",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-subarrays-with-fixed-bounds",
+        "title": "Count Subarrays With Fixed Bounds",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "ways-to-split-array-into-good-subarrays",
+        "title": "Ways to Split Array Into Good Subarrays",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-of-interesting-subarrays",
+        "title": "Count of Interesting Subarrays",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "After replacing each even by zero and every odd by one can we use prefix sum to find answer ?",
+      "Can we use two pointers to count number of sub-arrays ?",
+      "Can we store indices of odd numbers and for each k indices count number of sub-arrays contains them ?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

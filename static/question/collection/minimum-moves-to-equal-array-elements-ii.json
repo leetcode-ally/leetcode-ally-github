@@ -1,0 +1,92 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+      "content": "<p>Given an integer array <code>nums</code> of size <code>n</code>, return <em>the minimum number of moves required to make all array elements equal</em>.</p>\n\n<p>In one move, you can increment or decrement an element of the array by <code>1</code>.</p>\n\n<p>Test cases are designed so that the answer will fit in a <strong>32-bit</strong> integer.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,2,3]\n<strong>Output:</strong> 2\n<strong>Explanation:</strong>\nOnly two moves are needed (remember each move increments or decrements one element):\n[<u>1</u>,2,3]  =&gt;  [2,2,<u>3</u>]  =&gt;  [2,2,2]\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,10,2,9]\n<strong>Output:</strong> 16\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>n == nums.length</code></li>\n\t<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 3260,
+      "dislikes": 120,
+      "similarQuestions": "[{\"title\": \"Best Meeting Point\", \"titleSlug\": \"best-meeting-point\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Moves to Equal Array Elements\", \"titleSlug\": \"minimum-moves-to-equal-array-elements\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make a Uni-Value Grid\", \"titleSlug\": \"minimum-operations-to-make-a-uni-value-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Removing Minimum Number of Magic Beans\", \"titleSlug\": \"removing-minimum-number-of-magic-beans\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Cost to Make Array Equal\", \"titleSlug\": \"minimum-cost-to-make-array-equal\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Operations to Make All Array Elements Equal\", \"titleSlug\": \"minimum-operations-to-make-all-array-elements-equal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Minimum Cost to Make Array Equalindromic\", \"titleSlug\": \"minimum-cost-to-make-array-equalindromic\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"172.8K\", \"totalSubmission\": \"288.3K\", \"totalAcceptedRaw\": 172813, \"totalSubmissionRaw\": 288274, \"acRate\": \"59.9%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "best-meeting-point",
+        "title": "Best Meeting Point",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-moves-to-equal-array-elements",
+        "title": "Minimum Moves to Equal Array Elements",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-operations-to-make-a-uni-value-grid",
+        "title": "Minimum Operations to Make a Uni-Value Grid",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "removing-minimum-number-of-magic-beans",
+        "title": "Removing Minimum Number of Magic Beans",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-cost-to-make-array-equal",
+        "title": "Minimum Cost to Make Array Equal",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-operations-to-make-all-array-elements-equal",
+        "title": "Minimum Operations to Make All Array Elements Equal",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-cost-to-make-array-equalindromic",
+        "title": "Minimum Cost to Make Array Equalindromic",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

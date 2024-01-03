@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1972",
+      "title": "First and Last Call On the Same Day",
+      "titleSlug": "first-and-last-call-on-the-same-day",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 130,
+      "dislikes": 39,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"8.6K\", \"totalSubmission\": \"17.1K\", \"totalAcceptedRaw\": 8554, \"totalSubmissionRaw\": 17118, \"acRate\": \"50.0%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

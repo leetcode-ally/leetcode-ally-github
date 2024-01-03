@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-342",
+  "data": [
+    {
+      "id": 3271,
+      "question_id": 2748,
+      "credit": 2,
+      "title": "Calculate Delayed Arrival Time",
+      "title_slug": "calculate-delayed-arrival-time",
+      "likes": 207,
+      "dislikes": 46
+    },
+    {
+      "id": 3272,
+      "question_id": 2752,
+      "credit": 3,
+      "title": "Sum Multiples",
+      "title_slug": "sum-multiples",
+      "likes": 449,
+      "dislikes": 29
+    },
+    {
+      "id": 3273,
+      "question_id": 2751,
+      "credit": 4,
+      "title": "Sliding Subarray Beauty",
+      "title_slug": "sliding-subarray-beauty",
+      "likes": 571,
+      "dislikes": 105
+    },
+    {
+      "id": 3274,
+      "question_id": 2753,
+      "credit": 5,
+      "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+      "title_slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+      "likes": 367,
+      "dislikes": 14
+    }
+  ]
+}

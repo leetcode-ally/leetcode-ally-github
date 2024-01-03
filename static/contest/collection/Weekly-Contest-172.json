@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-172",
+  "data": [
+    {
+      "id": 1190,
+      "question_id": 1448,
+      "credit": 3,
+      "title": "Maximum 69 Number",
+      "title_slug": "maximum-69-number",
+      "likes": 2708,
+      "dislikes": 213
+    },
+    {
+      "id": 1191,
+      "question_id": 1449,
+      "credit": 4,
+      "title": "Print Words Vertically",
+      "title_slug": "print-words-vertically",
+      "likes": 747,
+      "dislikes": 112
+    },
+    {
+      "id": 1192,
+      "question_id": 1450,
+      "credit": 5,
+      "title": "Delete Leaves With a Given Value",
+      "title_slug": "delete-leaves-with-a-given-value",
+      "likes": 2164,
+      "dislikes": 39
+    },
+    {
+      "id": 1193,
+      "question_id": 1451,
+      "credit": 6,
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "title_slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+      "likes": 3264,
+      "dislikes": 181
+    }
+  ]
+}

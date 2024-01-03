@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-270",
+  "data": [
+    {
+      "id": 2386,
+      "question_id": 2215,
+      "credit": 3,
+      "title": "Finding 3-Digit Even Numbers",
+      "title_slug": "finding-3-digit-even-numbers",
+      "likes": 564,
+      "dislikes": 254
+    },
+    {
+      "id": 2387,
+      "question_id": 2216,
+      "credit": 4,
+      "title": "Delete the Middle Node of a Linked List",
+      "title_slug": "delete-the-middle-node-of-a-linked-list",
+      "likes": 3844,
+      "dislikes": 69
+    },
+    {
+      "id": 2388,
+      "question_id": 2217,
+      "credit": 5,
+      "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+      "title_slug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+      "likes": 2263,
+      "dislikes": 112
+    },
+    {
+      "id": 2389,
+      "question_id": 2201,
+      "credit": 6,
+      "title": "Valid Arrangement of Pairs",
+      "title_slug": "valid-arrangement-of-pairs",
+      "likes": 476,
+      "dislikes": 25
+    }
+  ]
+}

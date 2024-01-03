@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-32",
+  "data": [
+    {
+      "id": 1542,
+      "question_id": 1646,
+      "credit": 3,
+      "title": "Kth Missing Positive Number",
+      "title_slug": "kth-missing-positive-number",
+      "likes": 6219,
+      "dislikes": 403
+    },
+    {
+      "id": 1543,
+      "question_id": 1647,
+      "credit": 4,
+      "title": "Can Convert String in K Moves",
+      "title_slug": "can-convert-string-in-k-moves",
+      "likes": 370,
+      "dislikes": 306
+    },
+    {
+      "id": 1544,
+      "question_id": 1648,
+      "credit": 5,
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "title_slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "likes": 1012,
+      "dislikes": 229
+    },
+    {
+      "id": 1545,
+      "question_id": 1668,
+      "credit": 6,
+      "title": "Find Longest Awesome Substring",
+      "title_slug": "find-longest-awesome-substring",
+      "likes": 770,
+      "dislikes": 13
+    }
+  ]
+}

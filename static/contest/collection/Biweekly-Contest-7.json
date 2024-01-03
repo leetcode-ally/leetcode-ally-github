@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-7",
+  "data": [
+    {
+      "id": 922,
+      "question_id": 1123,
+      "credit": 3,
+      "title": "Single-Row Keyboard",
+      "title_slug": "single-row-keyboard",
+      "likes": 505,
+      "dislikes": 22
+    },
+    {
+      "id": 923,
+      "question_id": 1125,
+      "credit": 4,
+      "title": "Design File System",
+      "title_slug": "design-file-system",
+      "likes": 550,
+      "dislikes": 60
+    },
+    {
+      "id": 924,
+      "question_id": 1126,
+      "credit": 5,
+      "title": "Minimum Cost to Connect Sticks",
+      "title_slug": "minimum-cost-to-connect-sticks",
+      "likes": 1266,
+      "dislikes": 151
+    },
+    {
+      "id": 925,
+      "question_id": 1144,
+      "credit": 6,
+      "title": "Optimize Water Distribution in a Village",
+      "title_slug": "optimize-water-distribution-in-a-village",
+      "likes": 1091,
+      "dislikes": 39
+    }
+  ]
+}

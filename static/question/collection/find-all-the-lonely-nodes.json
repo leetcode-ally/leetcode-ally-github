@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1469",
+      "title": "Find All The Lonely Nodes",
+      "titleSlug": "find-all-the-lonely-nodes",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 481,
+      "dislikes": 9,
+      "similarQuestions": "[{\"title\": \"Binary Tree Tilt\", \"titleSlug\": \"binary-tree-tilt\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Univalued Binary Tree\", \"titleSlug\": \"univalued-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"47.2K\", \"totalSubmission\": \"57.1K\", \"totalAcceptedRaw\": 47170, \"totalSubmissionRaw\": 57113, \"acRate\": \"82.6%\"}",
+      "hints": [
+        "Do a simple tree traversal, try to check if the current node is lonely or not.",
+        "Node is lonely if at least one of the left/right pointers is null."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "binary-tree-tilt",
+        "title": "Binary Tree Tilt",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "univalued-binary-tree",
+        "title": "Univalued Binary Tree",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Do a simple tree traversal, try to check if the current node is lonely or not.",
+      "Node is lonely if at least one of the left/right pointers is null."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

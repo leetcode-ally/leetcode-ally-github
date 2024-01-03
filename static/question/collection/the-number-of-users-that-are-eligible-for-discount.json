@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2205",
+      "title": "The Number of Users That Are Eligible for Discount",
+      "titleSlug": "the-number-of-users-that-are-eligible-for-discount",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 25,
+      "dislikes": 73,
+      "similarQuestions": "[{\"title\": \"Nth Highest Salary\", \"titleSlug\": \"nth-highest-salary\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"The Users That Are Eligible for Discount\", \"titleSlug\": \"the-users-that-are-eligible-for-discount\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.3K\", \"totalSubmission\": \"10.6K\", \"totalAcceptedRaw\": 5322, \"totalSubmissionRaw\": 10649, \"acRate\": \"50.0%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "nth-highest-salary",
+        "title": "Nth Highest Salary",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "the-users-that-are-eligible-for-discount",
+        "title": "The Users That Are Eligible for Discount",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

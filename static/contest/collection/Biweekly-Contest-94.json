@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-94",
+  "data": [
+    {
+      "id": 3071,
+      "question_id": 2602,
+      "credit": 3,
+      "title": "Maximum Enemy Forts That Can Be Captured",
+      "title_slug": "maximum-enemy-forts-that-can-be-captured",
+      "likes": 254,
+      "dislikes": 260
+    },
+    {
+      "id": 3072,
+      "question_id": 2603,
+      "credit": 4,
+      "title": "Reward Top K Students",
+      "title_slug": "reward-top-k-students",
+      "likes": 300,
+      "dislikes": 71
+    },
+    {
+      "id": 3073,
+      "question_id": 2628,
+      "credit": 5,
+      "title": "Minimize the Maximum of Two Arrays",
+      "title_slug": "minimize-the-maximum-of-two-arrays",
+      "likes": 408,
+      "dislikes": 70
+    },
+    {
+      "id": 3074,
+      "question_id": 2605,
+      "credit": 6,
+      "title": "Count Anagrams",
+      "title_slug": "count-anagrams",
+      "likes": 366,
+      "dislikes": 29
+    }
+  ]
+}

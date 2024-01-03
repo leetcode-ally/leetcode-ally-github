@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1271",
+      "title": "Hexspeak",
+      "titleSlug": "hexspeak",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 72,
+      "dislikes": 123,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"10.3K\", \"totalSubmission\": \"17.9K\", \"totalAcceptedRaw\": 10314, \"totalSubmissionRaw\": 17943, \"acRate\": \"57.5%\"}",
+      "hints": [
+        "Convert the given number to hexadecimal.",
+        "Replace all 0 and 1 with 'O' and 'I'.",
+        "Check if the final string has any numerical digits."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Convert the given number to hexadecimal.",
+      "Replace all 0 and 1 with 'O' and 'I'.",
+      "Check if the final string has any numerical digits."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

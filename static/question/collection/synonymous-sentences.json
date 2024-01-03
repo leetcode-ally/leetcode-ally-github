@@ -1,0 +1,73 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1258",
+      "title": "Synonymous Sentences",
+      "titleSlug": "synonymous-sentences",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 336,
+      "dislikes": 155,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"21K\", \"totalSubmission\": \"37.2K\", \"totalAcceptedRaw\": 20952, \"totalSubmissionRaw\": 37195, \"acRate\": \"56.3%\"}",
+      "hints": [
+        "Find all synonymous groups of words.",
+        "Use union-find data structure.",
+        "By backtracking, generate all possible statements."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Find all synonymous groups of words.",
+      "Use union-find data structure.",
+      "By backtracking, generate all possible statements."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ]
+  }
+}

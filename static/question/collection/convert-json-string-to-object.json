@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2759",
+      "title": "Convert JSON String to Object",
+      "titleSlug": "convert-json-string-to-object",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 12,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"238\", \"totalSubmission\": \"362\", \"totalAcceptedRaw\": 238, \"totalSubmissionRaw\": 362, \"acRate\": \"65.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": []
+  }
+}

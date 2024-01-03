@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "280",
+      "title": "Wiggle Sort",
+      "titleSlug": "wiggle-sort",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1183,
+      "dislikes": 102,
+      "similarQuestions": "[{\"title\": \"Sort Colors\", \"titleSlug\": \"sort-colors\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Wiggle Sort II\", \"titleSlug\": \"wiggle-sort-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Array With Elements Not Equal to Average of Neighbors\", \"titleSlug\": \"array-with-elements-not-equal-to-average-of-neighbors\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"137.8K\", \"totalSubmission\": \"204.1K\", \"totalAcceptedRaw\": 137783, \"totalSubmissionRaw\": 204101, \"acRate\": \"67.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "sort-colors",
+        "title": "Sort Colors",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "wiggle-sort-ii",
+        "title": "Wiggle Sort II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "array-with-elements-not-equal-to-average-of-neighbors",
+        "title": "Array With Elements Not Equal to Average of Neighbors",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-57",
+  "data": [
+    {
+      "id": 2146,
+      "question_id": 2053,
+      "credit": 3,
+      "title": "Check if All Characters Have Equal Number of Occurrences",
+      "title_slug": "check-if-all-characters-have-equal-number-of-occurrences",
+      "likes": 827,
+      "dislikes": 20
+    },
+    {
+      "id": 2147,
+      "question_id": 2054,
+      "credit": 4,
+      "title": "The Number of the Smallest Unoccupied Chair",
+      "title_slug": "the-number-of-the-smallest-unoccupied-chair",
+      "likes": 546,
+      "dislikes": 22
+    },
+    {
+      "id": 2148,
+      "question_id": 2055,
+      "credit": 5,
+      "title": "Describe the Painting",
+      "title_slug": "describe-the-painting",
+      "likes": 447,
+      "dislikes": 32
+    },
+    {
+      "id": 2149,
+      "question_id": 1305,
+      "credit": 6,
+      "title": "Number of Visible People in a Queue",
+      "title_slug": "number-of-visible-people-in-a-queue",
+      "likes": 1583,
+      "dislikes": 45
+    }
+  ]
+}

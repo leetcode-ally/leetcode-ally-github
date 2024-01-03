@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-34",
+  "data": [
+    {
+      "id": 1590,
+      "question_id": 1677,
+      "credit": 3,
+      "title": "Matrix Diagonal Sum",
+      "title_slug": "matrix-diagonal-sum",
+      "likes": 3347,
+      "dislikes": 46
+    },
+    {
+      "id": 1591,
+      "question_id": 1678,
+      "credit": 4,
+      "title": "Number of Ways to Split a String",
+      "title_slug": "number-of-ways-to-split-a-string",
+      "likes": 708,
+      "dislikes": 76
+    },
+    {
+      "id": 1592,
+      "question_id": 1679,
+      "credit": 5,
+      "title": "Shortest Subarray to be Removed to Make Array Sorted",
+      "title_slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+      "likes": 1556,
+      "dislikes": 56
+    },
+    {
+      "id": 1593,
+      "question_id": 1680,
+      "credit": 6,
+      "title": "Count All Possible Routes",
+      "title_slug": "count-all-possible-routes",
+      "likes": 1594,
+      "dislikes": 58
+    }
+  ]
+}

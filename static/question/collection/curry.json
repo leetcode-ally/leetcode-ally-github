@@ -1,0 +1,42 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2632",
+      "title": "Curry",
+      "titleSlug": "curry",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 336,
+      "dislikes": 34,
+      "similarQuestions": "[{\"title\": \"Memoize\", \"titleSlug\": \"memoize\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Memoize II\", \"titleSlug\": \"memoize-ii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"15.3K\", \"totalSubmission\": \"17.1K\", \"totalAcceptedRaw\": 15292, \"totalSubmissionRaw\": 17123, \"acRate\": \"89.3%\"}",
+      "hints": [
+        "You can access the count of parameters expected to passed into a function with \"fn.length\".",
+        "You can use recursion. If the length of params passed is equal to fn.length, you are done. Just pass those params to fn. Otherwise return a function that is includes the previous passed params plus the new params. The new function should contain a recursive call to curry()."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "memoize",
+        "title": "Memoize",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "memoize-ii",
+        "title": "Memoize II",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "You can access the count of parameters expected to passed into a function with \"fn.length\".",
+      "You can use recursion. If the length of params passed is equal to fn.length, you are done. Just pass those params to fn. Otherwise return a function that is includes the previous passed params plus the new params. The new function should contain a recursive call to curry()."
+    ],
+    "relatedTopics": []
+  }
+}

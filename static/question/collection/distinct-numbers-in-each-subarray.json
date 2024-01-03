@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1852",
+      "title": "Distinct Numbers in Each Subarray",
+      "titleSlug": "distinct-numbers-in-each-subarray",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 129,
+      "dislikes": 9,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.7K\", \"totalSubmission\": \"9.4K\", \"totalAcceptedRaw\": 6678, \"totalSubmissionRaw\": 9411, \"acRate\": \"71.0%\"}",
+      "hints": [
+        "Keep a frequency map of the elements in each window.",
+        "When the frequency of the element is 0, remove it from the map.",
+        "The answer to each window is the size of the map."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Keep a frequency map of the elements in each window.",
+      "When the frequency of the element is 0, remove it from the map.",
+      "The answer to each window is the size of the map."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

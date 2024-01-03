@@ -1,0 +1,90 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2168",
+      "title": "Unique Substrings With Equal Digit Frequency",
+      "titleSlug": "unique-substrings-with-equal-digit-frequency",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 68,
+      "dislikes": 8,
+      "similarQuestions": "[{\"title\": \"Number of Equal Count Substrings\", \"titleSlug\": \"number-of-equal-count-substrings\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Substrings That Begin and End With the Same Letter\", \"titleSlug\": \"substrings-that-begin-and-end-with-the-same-letter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.4K\", \"totalSubmission\": \"4K\", \"totalAcceptedRaw\": 2366, \"totalSubmissionRaw\": 3988, \"acRate\": \"59.3%\"}",
+      "hints": [
+        "With the constraints, could we try every substring?",
+        "Yes, checking every substring has runtime O(n^2), which will pass.",
+        "How can we make sure we only count unique substrings?",
+        "Use a set to store previously counted substrings. Hashing a string s of length m takes O(m) time. Is there a fast way to compute the hash of s if we know the hash of s[0..m - 2]?",
+        "Use a rolling hash."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-equal-count-substrings",
+        "title": "Number of Equal Count Substrings",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+        "title": "Substrings That Begin and End With the Same Letter",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "With the constraints, could we try every substring?",
+      "Yes, checking every substring has runtime O(n^2), which will pass.",
+      "How can we make sure we only count unique substrings?",
+      "Use a set to store previously counted substrings. Hashing a string s of length m takes O(m) time. Is there a fast way to compute the hash of s if we know the hash of s[0..m - 2]?",
+      "Use a rolling hash."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ]
+  }
+}

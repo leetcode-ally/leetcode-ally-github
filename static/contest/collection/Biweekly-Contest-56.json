@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-56",
+  "data": [
+    {
+      "id": 2118,
+      "question_id": 2037,
+      "credit": 3,
+      "title": "Count Square Sum Triples",
+      "title_slug": "count-square-sum-triples",
+      "likes": 398,
+      "dislikes": 39
+    },
+    {
+      "id": 2119,
+      "question_id": 2038,
+      "credit": 4,
+      "title": "Nearest Exit from Entrance in Maze",
+      "title_slug": "nearest-exit-from-entrance-in-maze",
+      "likes": 2165,
+      "dislikes": 84
+    },
+    {
+      "id": 2120,
+      "question_id": 2039,
+      "credit": 5,
+      "title": "Sum Game",
+      "title_slug": "sum-game",
+      "likes": 473,
+      "dislikes": 80
+    },
+    {
+      "id": 2121,
+      "question_id": 2040,
+      "credit": 6,
+      "title": "Minimum Cost to Reach Destination in Time",
+      "title_slug": "minimum-cost-to-reach-destination-in-time",
+      "likes": 753,
+      "dislikes": 19
+    }
+  ]
+}

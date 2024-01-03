@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-226",
+  "data": [
+    {
+      "id": 1840,
+      "question_id": 1844,
+      "credit": 3,
+      "title": "Maximum Number of Balls in a Box",
+      "title_slug": "maximum-number-of-balls-in-a-box",
+      "likes": 586,
+      "dislikes": 151
+    },
+    {
+      "id": 1841,
+      "question_id": 1866,
+      "credit": 4,
+      "title": "Restore the Array From Adjacent Pairs",
+      "title_slug": "restore-the-array-from-adjacent-pairs",
+      "likes": 1909,
+      "dislikes": 68
+    },
+    {
+      "id": 1842,
+      "question_id": 1872,
+      "credit": 5,
+      "title": "Can You Eat Your Favorite Candy on Your Favorite Day?",
+      "title_slug": "can-you-eat-your-favorite-candy-on-your-favorite-day",
+      "likes": 123,
+      "dislikes": 318
+    },
+    {
+      "id": 1843,
+      "question_id": 1871,
+      "credit": 6,
+      "title": "Palindrome Partitioning IV",
+      "title_slug": "palindrome-partitioning-iv",
+      "likes": 882,
+      "dislikes": 25
+    }
+  ]
+}

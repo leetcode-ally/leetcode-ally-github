@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-153",
+  "data": [
+    {
+      "id": 946,
+      "question_id": 1287,
+      "credit": 3,
+      "title": "Distance Between Bus Stops",
+      "title_slug": "distance-between-bus-stops",
+      "likes": 728,
+      "dislikes": 81
+    },
+    {
+      "id": 947,
+      "question_id": 1289,
+      "credit": 4,
+      "title": "Day of the Week",
+      "title_slug": "day-of-the-week",
+      "likes": 373,
+      "dislikes": 2385
+    },
+    {
+      "id": 948,
+      "question_id": 1288,
+      "credit": 5,
+      "title": "Maximum Subarray Sum with One Deletion",
+      "title_slug": "maximum-subarray-sum-with-one-deletion",
+      "likes": 1737,
+      "dislikes": 59
+    },
+    {
+      "id": 949,
+      "question_id": 1290,
+      "credit": 7,
+      "title": "Make Array Strictly Increasing",
+      "title_slug": "make-array-strictly-increasing",
+      "likes": 2174,
+      "dislikes": 47
+    }
+  ]
+}

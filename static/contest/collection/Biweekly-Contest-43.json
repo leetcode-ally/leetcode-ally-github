@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-43",
+  "data": [
+    {
+      "id": 1804,
+      "question_id": 1817,
+      "credit": 3,
+      "title": "Calculate Money in Leetcode Bank",
+      "title_slug": "calculate-money-in-leetcode-bank",
+      "likes": 1381,
+      "dislikes": 48
+    },
+    {
+      "id": 1805,
+      "question_id": 1818,
+      "credit": 4,
+      "title": "Maximum Score From Removing Substrings",
+      "title_slug": "maximum-score-from-removing-substrings",
+      "likes": 613,
+      "dislikes": 34
+    },
+    {
+      "id": 1806,
+      "question_id": 1819,
+      "credit": 5,
+      "title": "Construct the Lexicographically Largest Valid Sequence",
+      "title_slug": "construct-the-lexicographically-largest-valid-sequence",
+      "likes": 535,
+      "dislikes": 48
+    },
+    {
+      "id": 1807,
+      "question_id": 1820,
+      "credit": 7,
+      "title": "Number Of Ways To Reconstruct A Tree",
+      "title_slug": "number-of-ways-to-reconstruct-a-tree",
+      "likes": 209,
+      "dislikes": 146
+    }
+  ]
+}

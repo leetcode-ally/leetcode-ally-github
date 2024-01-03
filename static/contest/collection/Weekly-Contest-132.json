@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-132",
+  "data": [
+    {
+      "id": 669,
+      "question_id": 1086,
+      "credit": 4,
+      "title": "Divisor Game",
+      "title_slug": "divisor-game",
+      "likes": 2075,
+      "dislikes": 4056
+    },
+    {
+      "id": 670,
+      "question_id": 1092,
+      "credit": 6,
+      "title": "Maximum Difference Between Node and Ancestor",
+      "title_slug": "maximum-difference-between-node-and-ancestor",
+      "likes": 4190,
+      "dislikes": 101
+    },
+    {
+      "id": 671,
+      "question_id": 1087,
+      "credit": 6,
+      "title": "Longest Arithmetic Subsequence",
+      "title_slug": "longest-arithmetic-subsequence",
+      "likes": 4541,
+      "dislikes": 203
+    },
+    {
+      "id": 672,
+      "question_id": 1093,
+      "credit": 8,
+      "title": "Recover a Tree From Preorder Traversal",
+      "title_slug": "recover-a-tree-from-preorder-traversal",
+      "likes": 1567,
+      "dislikes": 41
+    }
+  ]
+}

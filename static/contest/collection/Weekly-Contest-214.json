@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-214",
+  "data": [
+    {
+      "id": 1696,
+      "question_id": 1769,
+      "credit": 3,
+      "title": "Get Maximum in Generated Array",
+      "title_slug": "get-maximum-in-generated-array",
+      "likes": 746,
+      "dislikes": 932
+    },
+    {
+      "id": 1697,
+      "question_id": 1770,
+      "credit": 4,
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "title_slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "likes": 4843,
+      "dislikes": 72
+    },
+    {
+      "id": 1698,
+      "question_id": 1771,
+      "credit": 5,
+      "title": "Sell Diminishing-Valued Colored Balls",
+      "title_slug": "sell-diminishing-valued-colored-balls",
+      "likes": 1053,
+      "dislikes": 376
+    },
+    {
+      "id": 1699,
+      "question_id": 1772,
+      "credit": 6,
+      "title": "Create Sorted Array through Instructions",
+      "title_slug": "create-sorted-array-through-instructions",
+      "likes": 627,
+      "dislikes": 78
+    }
+  ]
+}

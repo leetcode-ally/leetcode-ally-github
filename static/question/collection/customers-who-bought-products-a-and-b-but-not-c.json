@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1398",
+      "title": "Customers Who Bought Products A and B but Not C",
+      "titleSlug": "customers-who-bought-products-a-and-b-but-not-c",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 285,
+      "dislikes": 16,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"46.6K\", \"totalSubmission\": \"63.4K\", \"totalAcceptedRaw\": 46599, \"totalSubmissionRaw\": 63438, \"acRate\": \"73.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

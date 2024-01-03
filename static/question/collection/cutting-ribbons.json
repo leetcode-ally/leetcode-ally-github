@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1891",
+      "title": "Cutting Ribbons",
+      "titleSlug": "cutting-ribbons",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 543,
+      "dislikes": 37,
+      "similarQuestions": "[{\"title\": \"Capacity To Ship Packages Within D Days\", \"titleSlug\": \"capacity-to-ship-packages-within-d-days\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Add Minimum Number of Rungs\", \"titleSlug\": \"add-minimum-number-of-rungs\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"57.5K\", \"totalSubmission\": \"117.3K\", \"totalAcceptedRaw\": 57512, \"totalSubmissionRaw\": 117261, \"acRate\": \"49.0%\"}",
+      "hints": [
+        "Use binary search on the answer.",
+        "You can get l/m branches of length m from a branch with length l."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "capacity-to-ship-packages-within-d-days",
+        "title": "Capacity To Ship Packages Within D Days",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "add-minimum-number-of-rungs",
+        "title": "Add Minimum Number of Rungs",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use binary search on the answer.",
+      "You can get l/m branches of length m from a branch with length l."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-67",
+  "data": [
+    {
+      "id": 2390,
+      "question_id": 2204,
+      "credit": 3,
+      "title": "Find Subsequence of Length K With the Largest Sum",
+      "title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
+      "likes": 1169,
+      "dislikes": 113
+    },
+    {
+      "id": 2391,
+      "question_id": 2205,
+      "credit": 4,
+      "title": "Find Good Days to Rob the Bank",
+      "title_slug": "find-good-days-to-rob-the-bank",
+      "likes": 849,
+      "dislikes": 45
+    },
+    {
+      "id": 2392,
+      "question_id": 2206,
+      "credit": 5,
+      "title": "Detonate the Maximum Bombs",
+      "title_slug": "detonate-the-maximum-bombs",
+      "likes": 2873,
+      "dislikes": 142
+    },
+    {
+      "id": 2393,
+      "question_id": 2207,
+      "credit": 7,
+      "title": "Sequentially Ordinal Rank Tracker",
+      "title_slug": "sequentially-ordinal-rank-tracker",
+      "likes": 361,
+      "dislikes": 41
+    }
+  ]
+}

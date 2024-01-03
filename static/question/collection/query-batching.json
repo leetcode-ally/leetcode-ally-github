@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2756",
+      "title": "Query Batching",
+      "titleSlug": "query-batching",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 10,
+      "dislikes": 3,
+      "similarQuestions": "[]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"204\", \"totalSubmission\": \"328\", \"totalAcceptedRaw\": 204, \"totalSubmissionRaw\": 328, \"acRate\": \"62.2%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": []
+  }
+}

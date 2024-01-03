@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-237",
+  "data": [
+    {
+      "id": 1982,
+      "question_id": 1960,
+      "credit": 3,
+      "title": "Check if the Sentence Is Pangram",
+      "title_slug": "check-if-the-sentence-is-pangram",
+      "likes": 2639,
+      "dislikes": 50
+    },
+    {
+      "id": 1983,
+      "question_id": 1961,
+      "credit": 4,
+      "title": "Maximum Ice Cream Bars",
+      "title_slug": "maximum-ice-cream-bars",
+      "likes": 2117,
+      "dislikes": 666
+    },
+    {
+      "id": 1984,
+      "question_id": 1962,
+      "credit": 5,
+      "title": "Single-Threaded CPU",
+      "title_slug": "single-threaded-cpu",
+      "likes": 3023,
+      "dislikes": 257
+    },
+    {
+      "id": 1985,
+      "question_id": 1963,
+      "credit": 6,
+      "title": "Find XOR Sum of All Pairs Bitwise AND",
+      "title_slug": "find-xor-sum-of-all-pairs-bitwise-and",
+      "likes": 573,
+      "dislikes": 46
+    }
+  ]
+}

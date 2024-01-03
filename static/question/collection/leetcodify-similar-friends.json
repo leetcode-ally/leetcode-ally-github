@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1919",
+      "title": "Leetcodify Similar Friends",
+      "titleSlug": "leetcodify-similar-friends",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 55,
+      "dislikes": 6,
+      "similarQuestions": "[{\"title\": \"Leetcodify Friends Recommendations\", \"titleSlug\": \"leetcodify-friends-recommendations\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.8K\", \"totalSubmission\": \"11.6K\", \"totalAcceptedRaw\": 4791, \"totalSubmissionRaw\": 11608, \"acRate\": \"41.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "leetcodify-friends-recommendations",
+        "title": "Leetcodify Friends Recommendations",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

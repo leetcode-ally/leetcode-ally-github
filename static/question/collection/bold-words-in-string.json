@@ -1,0 +1,69 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "758",
+      "title": "Bold Words in String",
+      "titleSlug": "bold-words-in-string",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 262,
+      "dislikes": 123,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"18.5K\", \"totalSubmission\": \"36.1K\", \"totalAcceptedRaw\": 18471, \"totalSubmissionRaw\": 36086, \"acRate\": \"51.2%\"}",
+      "hints": [
+        "First, determine which letters are bold and store that information in mask[i] = if i-th character is bold.\r\nThen, insert the tags at the beginning and end of groups.  The start of a group is if and only if (mask[i] and (i == 0 or not mask[i-1])), and the end of a group is similar."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "First, determine which letters are bold and store that information in mask[i] = if i-th character is bold.\r\nThen, insert the tags at the beginning and end of groups.  The start of a group is if and only if (mask[i] and (i == 0 or not mask[i-1])), and the end of a group is similar."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ]
+  }
+}

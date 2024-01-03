@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-69",
+  "data": [
+    {
+      "id": 2434,
+      "question_id": 2235,
+      "credit": 3,
+      "title": "Capitalize the Title",
+      "title_slug": "capitalize-the-title",
+      "likes": 686,
+      "dislikes": 49
+    },
+    {
+      "id": 2435,
+      "question_id": 2236,
+      "credit": 4,
+      "title": "Maximum Twin Sum of a Linked List",
+      "title_slug": "maximum-twin-sum-of-a-linked-list",
+      "likes": 3263,
+      "dislikes": 86
+    },
+    {
+      "id": 2436,
+      "question_id": 2237,
+      "credit": 5,
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "title_slug": "longest-palindrome-by-concatenating-two-letter-words",
+      "likes": 2360,
+      "dislikes": 52
+    },
+    {
+      "id": 2437,
+      "question_id": 2200,
+      "credit": 6,
+      "title": "Stamping the Grid",
+      "title_slug": "stamping-the-grid",
+      "likes": 371,
+      "dislikes": 38
+    }
+  ]
+}

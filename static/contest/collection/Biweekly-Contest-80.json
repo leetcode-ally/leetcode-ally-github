@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-80",
+  "data": [
+    {
+      "id": 2738,
+      "question_id": 2391,
+      "credit": 3,
+      "title": "Strong Password Checker II",
+      "title_slug": "strong-password-checker-ii",
+      "likes": 324,
+      "dislikes": 39
+    },
+    {
+      "id": 2739,
+      "question_id": 2392,
+      "credit": 4,
+      "title": "Successful Pairs of Spells and Potions",
+      "title_slug": "successful-pairs-of-spells-and-potions",
+      "likes": 2421,
+      "dislikes": 63
+    },
+    {
+      "id": 2740,
+      "question_id": 2393,
+      "credit": 6,
+      "title": "Match Substring After Replacement",
+      "title_slug": "match-substring-after-replacement",
+      "likes": 365,
+      "dislikes": 74
+    },
+    {
+      "id": 2741,
+      "question_id": 2394,
+      "credit": 6,
+      "title": "Count Subarrays With Score Less Than K",
+      "title_slug": "count-subarrays-with-score-less-than-k",
+      "likes": 928,
+      "dislikes": 21
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1176",
+      "title": "Diet Plan Performance",
+      "titleSlug": "diet-plan-performance",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 151,
+      "dislikes": 285,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"31K\", \"totalSubmission\": \"58.3K\", \"totalAcceptedRaw\": 31019, \"totalSubmissionRaw\": 58308, \"acRate\": \"53.2%\"}",
+      "hints": [
+        "Use sliding window technique (aka two pointers)."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Use sliding window technique (aka two pointers)."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1746",
+      "title": "Maximum Subarray Sum After One Operation",
+      "titleSlug": "maximum-subarray-sum-after-one-operation",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 269,
+      "dislikes": 6,
+      "similarQuestions": "[{\"title\": \"Maximum Subarray\", \"titleSlug\": \"maximum-subarray\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"8.7K\", \"totalSubmission\": \"14K\", \"totalAcceptedRaw\": 8739, \"totalSubmissionRaw\": 14033, \"acRate\": \"62.3%\"}",
+      "hints": [
+        "Think about dynamic programming",
+        "Define an array dp[nums.length][2], where dp[i][0] is the max subarray sum including nums[i] and without squaring any element.",
+        "dp[i][1] is the max subarray sum including nums[i] and having only one element squared."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "maximum-subarray",
+        "title": "Maximum Subarray",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Think about dynamic programming",
+      "Define an array dp[nums.length][2], where dp[i][0] is the max subarray sum including nums[i] and without squaring any element.",
+      "dp[i][1] is the max subarray sum including nums[i] and having only one element squared."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

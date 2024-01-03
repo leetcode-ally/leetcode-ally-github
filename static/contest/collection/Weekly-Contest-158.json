@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-158",
+  "data": [
+    {
+      "id": 1018,
+      "question_id": 1341,
+      "credit": 3,
+      "title": "Split a String in Balanced Strings",
+      "title_slug": "split-a-string-in-balanced-strings",
+      "likes": 2659,
+      "dislikes": 917
+    },
+    {
+      "id": 1019,
+      "question_id": 1342,
+      "credit": 4,
+      "title": "Queens That Can Attack the King",
+      "title_slug": "queens-that-can-attack-the-king",
+      "likes": 917,
+      "dislikes": 146
+    },
+    {
+      "id": 1020,
+      "question_id": 1343,
+      "credit": 5,
+      "title": "Dice Roll Simulation",
+      "title_slug": "dice-roll-simulation",
+      "likes": 907,
+      "dislikes": 188
+    },
+    {
+      "id": 1021,
+      "question_id": 1344,
+      "credit": 7,
+      "title": "Maximum Equal Frequency",
+      "title_slug": "maximum-equal-frequency",
+      "likes": 528,
+      "dislikes": 56
+    }
+  ]
+}

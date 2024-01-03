@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1692",
+      "title": "Count Ways to Distribute Candies",
+      "titleSlug": "count-ways-to-distribute-candies",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 72,
+      "dislikes": 8,
+      "similarQuestions": "[{\"title\": \"Distribute Candies Among Children I\", \"titleSlug\": \"distribute-candies-among-children-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Distribute Candies Among Children II\", \"titleSlug\": \"distribute-candies-among-children-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.4K\", \"totalSubmission\": \"3.8K\", \"totalAcceptedRaw\": 2381, \"totalSubmissionRaw\": 3789, \"acRate\": \"62.8%\"}",
+      "hints": [
+        "Try to define a recursive approach. For the ith candies, there will be one of the two following cases:",
+        "If the i - 1 previous candies are already distributed into k bags for the ith candy, you can have k * dp[n - 1][k] ways to distribute the ith candy. We need then to solve the state of (n - 1, k).",
+        "If the i - 1 previous candies are already distributed into k - 1 bags for the ith candy, you can have dp[n - 1][k - 1] ways to distribute the ith candy. We need then to solve the state of (n - 1, k - 1).",
+        "This approach will be too slow and will traverse some states more than once. We should use memoization to make the algorithm efficient."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "distribute-candies-among-children-i",
+        "title": "Distribute Candies Among Children I",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "distribute-candies-among-children-ii",
+        "title": "Distribute Candies Among Children II",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to define a recursive approach. For the ith candies, there will be one of the two following cases:",
+      "If the i - 1 previous candies are already distributed into k bags for the ith candy, you can have k * dp[n - 1][k] ways to distribute the ith candy. We need then to solve the state of (n - 1, k).",
+      "If the i - 1 previous candies are already distributed into k - 1 bags for the ith candy, you can have dp[n - 1][k - 1] ways to distribute the ith candy. We need then to solve the state of (n - 1, k - 1).",
+      "This approach will be too slow and will traverse some states more than once. We should use memoization to make the algorithm efficient."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

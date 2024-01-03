@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1522",
+      "title": "Diameter of N-Ary Tree",
+      "titleSlug": "diameter-of-n-ary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 575,
+      "dislikes": 8,
+      "similarQuestions": "[{\"title\": \"Diameter of Binary Tree\", \"titleSlug\": \"diameter-of-binary-tree\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"43K\", \"totalSubmission\": \"58.2K\", \"totalAcceptedRaw\": 42982, \"totalSubmissionRaw\": 58194, \"acRate\": \"73.9%\"}",
+      "hints": [
+        "For the node i, calculate the height of each of its children and keep the first and second maximum heights (max1_i , max2_i).",
+        "Check all nodes and return max( 2 + max1_i  +  max2_i )."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "diameter-of-binary-tree",
+        "title": "Diameter of Binary Tree",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "For the node i, calculate the height of each of its children and keep the first and second maximum heights (max1_i , max2_i).",
+      "Check all nodes and return max( 2 + max1_i  +  max2_i )."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ]
+  }
+}

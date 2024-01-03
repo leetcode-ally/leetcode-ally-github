@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1308",
+      "title": "Running Total for Different Genders",
+      "titleSlug": "running-total-for-different-genders",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 208,
+      "dislikes": 59,
+      "similarQuestions": "[{\"title\": \"Last Person to Fit in the Bus\", \"titleSlug\": \"last-person-to-fit-in-the-bus\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"38.6K\", \"totalSubmission\": \"44.7K\", \"totalAcceptedRaw\": 38597, \"totalSubmissionRaw\": 44692, \"acRate\": \"86.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "last-person-to-fit-in-the-bus",
+        "title": "Last Person to Fit in the Bus",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-60",
+  "data": [
+    {
+      "id": 260,
+      "question_id": 733,
+      "credit": 3,
+      "title": "Flood Fill",
+      "title_slug": "flood-fill",
+      "likes": 8056,
+      "dislikes": 808
+    },
+    {
+      "id": 261,
+      "question_id": 734,
+      "credit": 3,
+      "title": "Sentence Similarity",
+      "title_slug": "sentence-similarity",
+      "likes": 35,
+      "dislikes": 46
+    },
+    {
+      "id": 262,
+      "question_id": 735,
+      "credit": 5,
+      "title": "Asteroid Collision",
+      "title_slug": "asteroid-collision",
+      "likes": 7429,
+      "dislikes": 902
+    },
+    {
+      "id": 263,
+      "question_id": 736,
+      "credit": 9,
+      "title": "Parse Lisp Expression",
+      "title_slug": "parse-lisp-expression",
+      "likes": 465,
+      "dislikes": 352
+    }
+  ]
+}

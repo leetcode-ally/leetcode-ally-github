@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-98",
+  "data": [
+    {
+      "id": 424,
+      "question_id": 924,
+      "credit": 3,
+      "title": "Fair Candy Swap",
+      "title_slug": "fair-candy-swap",
+      "likes": 2033,
+      "dislikes": 359
+    },
+    {
+      "id": 425,
+      "question_id": 926,
+      "credit": 5,
+      "title": "Find and Replace Pattern",
+      "title_slug": "find-and-replace-pattern",
+      "likes": 3844,
+      "dislikes": 169
+    },
+    {
+      "id": 426,
+      "question_id": 925,
+      "credit": 5,
+      "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+      "title_slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
+      "likes": 2677,
+      "dislikes": 109
+    },
+    {
+      "id": 427,
+      "question_id": 927,
+      "credit": 7,
+      "title": "Sum of Subsequence Widths",
+      "title_slug": "sum-of-subsequence-widths",
+      "likes": 697,
+      "dislikes": 167
+    }
+  ]
+}

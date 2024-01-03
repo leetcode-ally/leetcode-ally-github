@@ -1,0 +1,69 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "333",
+      "title": "Largest BST Subtree",
+      "titleSlug": "largest-bst-subtree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1449,
+      "dislikes": 119,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"102.6K\", \"totalSubmission\": \"236.3K\", \"totalAcceptedRaw\": 102640, \"totalSubmissionRaw\": 236349, \"acRate\": \"43.4%\"}",
+      "hints": [
+        "You can recursively use algorithm similar to <a href=\"https://leetcode.com/problems/validate-binary-search-tree/\">98. Validate Binary Search Tree</a> at each node of the tree, which will result in O(nlogn) time complexity."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "You can recursively use algorithm similar to <a href=\"https://leetcode.com/problems/validate-binary-search-tree/\">98. Validate Binary Search Tree</a> at each node of the tree, which will result in O(nlogn) time complexity."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "163",
+      "title": "Missing Ranges",
+      "titleSlug": "missing-ranges",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 1042,
+      "dislikes": 2940,
+      "similarQuestions": "[{\"title\": \"Summary Ranges\", \"titleSlug\": \"summary-ranges\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find Maximal Uncovered Ranges\", \"titleSlug\": \"find-maximal-uncovered-ranges\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"221.2K\", \"totalSubmission\": \"670.1K\", \"totalAcceptedRaw\": 221211, \"totalSubmissionRaw\": 670124, \"acRate\": \"33.0%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "summary-ranges",
+        "title": "Summary Ranges",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-maximal-uncovered-ranges",
+        "title": "Find Maximal Uncovered Ranges",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  }
+}

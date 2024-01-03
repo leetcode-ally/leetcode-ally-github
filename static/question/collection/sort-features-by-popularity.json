@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1772",
+      "title": "Sort Features by Popularity",
+      "titleSlug": "sort-features-by-popularity",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 82,
+      "dislikes": 41,
+      "similarQuestions": "[{\"title\": \"Top K Frequent Elements\", \"titleSlug\": \"top-k-frequent-elements\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Top K Frequent Words\", \"titleSlug\": \"top-k-frequent-words\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.6K\", \"totalSubmission\": \"8.6K\", \"totalAcceptedRaw\": 5648, \"totalSubmissionRaw\": 8628, \"acRate\": \"65.5%\"}",
+      "hints": [
+        "Use a hash map to count the frequency of each word of each string.",
+        "Use the map for sorting the features."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "top-k-frequent-elements",
+        "title": "Top K Frequent Elements",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "top-k-frequent-words",
+        "title": "Top K Frequent Words",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use a hash map to count the frequency of each word of each string.",
+      "Use the map for sorting the features."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

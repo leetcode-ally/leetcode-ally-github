@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-108",
+  "data": [
+    {
+      "id": 3405,
+      "question_id": 2870,
+      "credit": 3,
+      "title": "Longest Alternating Subarray",
+      "title_slug": "longest-alternating-subarray",
+      "likes": 186,
+      "dislikes": 156
+    },
+    {
+      "id": 3406,
+      "question_id": 2834,
+      "credit": 4,
+      "title": "Relocate Marbles",
+      "title_slug": "relocate-marbles",
+      "likes": 176,
+      "dislikes": 13
+    },
+    {
+      "id": 3407,
+      "question_id": 2883,
+      "credit": 4,
+      "title": "Partition String Into Minimum Beautiful Substrings",
+      "title_slug": "partition-string-into-minimum-beautiful-substrings",
+      "likes": 300,
+      "dislikes": 9
+    },
+    {
+      "id": 3408,
+      "question_id": 2889,
+      "credit": 5,
+      "title": "Number of Black Blocks",
+      "title_slug": "number-of-black-blocks",
+      "likes": 215,
+      "dislikes": 22
+    }
+  ]
+}

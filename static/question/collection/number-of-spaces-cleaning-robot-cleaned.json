@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2061",
+      "title": "Number of Spaces Cleaning Robot Cleaned",
+      "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 85,
+      "dislikes": 21,
+      "similarQuestions": "[{\"title\": \"Robot Room Cleaner\", \"titleSlug\": \"robot-room-cleaner\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.9K\", \"totalSubmission\": \"7.2K\", \"totalAcceptedRaw\": 3898, \"totalSubmissionRaw\": 7203, \"acRate\": \"54.1%\"}",
+      "hints": [
+        "Simulate how the robot moves and keep track of how many spaces it has cleaned so far.",
+        "When can we stop the simulation?",
+        "When the robot reaches a space that it has already cleaned and is facing the same direction as before, we can stop the simulation."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "robot-room-cleaner",
+        "title": "Robot Room Cleaner",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Simulate how the robot moves and keep track of how many spaces it has cleaned so far.",
+      "When can we stop the simulation?",
+      "When the robot reaches a space that it has already cleaned and is facing the same direction as before, we can stop the simulation."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  }
+}

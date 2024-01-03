@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1440",
+      "title": "Evaluate Boolean Expression",
+      "titleSlug": "evaluate-boolean-expression",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 203,
+      "dislikes": 17,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"25.6K\", \"totalSubmission\": \"35.2K\", \"totalAcceptedRaw\": 25640, \"totalSubmissionRaw\": 35163, \"acRate\": \"72.9%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2737",
+      "title": "Find the Closest Marked Node",
+      "titleSlug": "find-the-closest-marked-node",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 31,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.1K\", \"totalSubmission\": \"2K\", \"totalAcceptedRaw\": 1100, \"totalSubmissionRaw\": 1975, \"acRate\": \"55.7%\"}",
+      "hints": [
+        "Find the distance from s to all nodes.",
+        "You can use Dijkstra to find them.",
+        "Find the minimum distance between marked nodes."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Find the distance from s to all nodes.",
+      "You can use Dijkstra to find them.",
+      "Find the minimum distance between marked nodes."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  }
+}

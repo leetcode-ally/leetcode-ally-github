@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-3",
+  "data": [
+    {
+      "id": 809,
+      "question_id": 1083,
+      "credit": 3,
+      "title": "Two Sum Less Than K",
+      "title_slug": "two-sum-less-than-k",
+      "likes": 1118,
+      "dislikes": 127
+    },
+    {
+      "id": 810,
+      "question_id": 1084,
+      "credit": 4,
+      "title": "Find K-Length Substrings With No Repeated Characters",
+      "title_slug": "find-k-length-substrings-with-no-repeated-characters",
+      "likes": 551,
+      "dislikes": 11
+    },
+    {
+      "id": 811,
+      "question_id": 1085,
+      "credit": 5,
+      "title": "The Earliest Moment When Everyone Become Friends",
+      "title_slug": "the-earliest-moment-when-everyone-become-friends",
+      "likes": 940,
+      "dislikes": 29
+    },
+    {
+      "id": 812,
+      "question_id": 1099,
+      "credit": 6,
+      "title": "Path With Maximum Minimum Value",
+      "title_slug": "path-with-maximum-minimum-value",
+      "likes": 1278,
+      "dislikes": 123
+    }
+  ]
+}

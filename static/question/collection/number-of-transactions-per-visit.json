@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1336",
+      "title": "Number of Transactions per Visit",
+      "titleSlug": "number-of-transactions-per-visit",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 89,
+      "dislikes": 310,
+      "similarQuestions": "[{\"title\": \"Find the Missing IDs\", \"titleSlug\": \"find-the-missing-ids\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"11.7K\", \"totalSubmission\": \"24.4K\", \"totalAcceptedRaw\": 11660, \"totalSubmissionRaw\": 24382, \"acRate\": \"47.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-the-missing-ids",
+        "title": "Find the Missing IDs",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

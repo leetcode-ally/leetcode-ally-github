@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-78",
+  "data": [
+    {
+      "id": 2690,
+      "question_id": 1430,
+      "credit": 3,
+      "title": "Find the K-Beauty of a Number",
+      "title_slug": "find-the-k-beauty-of-a-number",
+      "likes": 612,
+      "dislikes": 40
+    },
+    {
+      "id": 2691,
+      "question_id": 2358,
+      "credit": 4,
+      "title": "Number of Ways to Split Array",
+      "title_slug": "number-of-ways-to-split-array",
+      "likes": 521,
+      "dislikes": 42
+    },
+    {
+      "id": 2692,
+      "question_id": 2359,
+      "credit": 5,
+      "title": "Maximum White Tiles Covered by a Carpet",
+      "title_slug": "maximum-white-tiles-covered-by-a-carpet",
+      "likes": 751,
+      "dislikes": 46
+    },
+    {
+      "id": 2693,
+      "question_id": 2360,
+      "credit": 6,
+      "title": "Substring With Largest Variance",
+      "title_slug": "substring-with-largest-variance",
+      "likes": 1822,
+      "dislikes": 205
+    }
+  ]
+}

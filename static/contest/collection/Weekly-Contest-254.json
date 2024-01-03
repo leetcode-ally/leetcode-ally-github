@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-254",
+  "data": [
+    {
+      "id": 2198,
+      "question_id": 2099,
+      "credit": 3,
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "title_slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "likes": 657,
+      "dislikes": 34
+    },
+    {
+      "id": 2199,
+      "question_id": 2085,
+      "credit": 4,
+      "title": "Array With Elements Not Equal to Average of Neighbors",
+      "title_slug": "array-with-elements-not-equal-to-average-of-neighbors",
+      "likes": 565,
+      "dislikes": 39
+    },
+    {
+      "id": 2200,
+      "question_id": 2100,
+      "credit": 5,
+      "title": "Minimum Non-Zero Product of the Array Elements",
+      "title_slug": "minimum-non-zero-product-of-the-array-elements",
+      "likes": 214,
+      "dislikes": 358
+    },
+    {
+      "id": 2201,
+      "question_id": 2101,
+      "credit": 6,
+      "title": "Last Day Where You Can Still Cross",
+      "title_slug": "last-day-where-you-can-still-cross",
+      "likes": 1835,
+      "dislikes": 32
+    }
+  ]
+}

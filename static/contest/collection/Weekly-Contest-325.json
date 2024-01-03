@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-325",
+  "data": [
+    {
+      "id": 3075,
+      "question_id": 2598,
+      "credit": 3,
+      "title": "Shortest Distance to Target String in a Circular Array",
+      "title_slug": "shortest-distance-to-target-string-in-a-circular-array",
+      "likes": 327,
+      "dislikes": 18
+    },
+    {
+      "id": 3076,
+      "question_id": 2599,
+      "credit": 4,
+      "title": "Take K of Each Character From Left and Right",
+      "title_slug": "take-k-of-each-character-from-left-and-right",
+      "likes": 651,
+      "dislikes": 61
+    },
+    {
+      "id": 3077,
+      "question_id": 2600,
+      "credit": 5,
+      "title": "Maximum Tastiness of Candy Basket",
+      "title_slug": "maximum-tastiness-of-candy-basket",
+      "likes": 826,
+      "dislikes": 112
+    },
+    {
+      "id": 3078,
+      "question_id": 2601,
+      "credit": 6,
+      "title": "Number of Great Partitions",
+      "title_slug": "number-of-great-partitions",
+      "likes": 408,
+      "dislikes": 8
+    }
+  ]
+}

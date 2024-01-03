@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1677",
+      "title": "Product's Worth Over Invoices",
+      "titleSlug": "products-worth-over-invoices",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 35,
+      "dislikes": 132,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"15.9K\", \"totalSubmission\": \"41.9K\", \"totalAcceptedRaw\": 15928, \"totalSubmissionRaw\": 41917, \"acRate\": \"38.0%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1570",
+      "title": "Dot Product of Two Sparse Vectors",
+      "titleSlug": "dot-product-of-two-sparse-vectors",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1161,
+      "dislikes": 142,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"214.9K\", \"totalSubmission\": \"238.5K\", \"totalAcceptedRaw\": 214932, \"totalSubmissionRaw\": 238497, \"acRate\": \"90.1%\"}",
+      "hints": [
+        "Because the vector is sparse, use a data structure that stores the index and value where the element is nonzero."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Because the vector is sparse, use a data structure that stores the index and value where the element is nonzero."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ]
+  }
+}

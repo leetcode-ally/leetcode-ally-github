@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-280",
+  "data": [
+    {
+      "id": 2510,
+      "question_id": 2288,
+      "credit": 3,
+      "title": "Count Operations to Obtain Zero",
+      "title_slug": "count-operations-to-obtain-zero",
+      "likes": 574,
+      "dislikes": 20
+    },
+    {
+      "id": 2511,
+      "question_id": 2289,
+      "credit": 4,
+      "title": "Minimum Operations to Make the Array Alternating",
+      "title_slug": "minimum-operations-to-make-the-array-alternating",
+      "likes": 558,
+      "dislikes": 326
+    },
+    {
+      "id": 2512,
+      "question_id": 2290,
+      "credit": 5,
+      "title": "Removing Minimum Number of Magic Beans",
+      "title_slug": "removing-minimum-number-of-magic-beans",
+      "likes": 828,
+      "dislikes": 46
+    },
+    {
+      "id": 2513,
+      "question_id": 2291,
+      "credit": 6,
+      "title": "Maximum AND Sum of Array",
+      "title_slug": "maximum-and-sum-of-array",
+      "likes": 489,
+      "dislikes": 27
+    }
+  ]
+}

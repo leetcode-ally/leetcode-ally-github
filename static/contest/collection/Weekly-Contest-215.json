@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-215",
+  "data": [
+    {
+      "id": 1712,
+      "question_id": 1775,
+      "credit": 3,
+      "title": "Design an Ordered Stream",
+      "title_slug": "design-an-ordered-stream",
+      "likes": 494,
+      "dislikes": 3342
+    },
+    {
+      "id": 1713,
+      "question_id": 1777,
+      "credit": 4,
+      "title": "Determine if Two Strings Are Close",
+      "title_slug": "determine-if-two-strings-are-close",
+      "likes": 2799,
+      "dislikes": 168
+    },
+    {
+      "id": 1714,
+      "question_id": 1776,
+      "credit": 5,
+      "title": "Minimum Operations to Reduce X to Zero",
+      "title_slug": "minimum-operations-to-reduce-x-to-zero",
+      "likes": 5314,
+      "dislikes": 113
+    },
+    {
+      "id": 1715,
+      "question_id": 1778,
+      "credit": 7,
+      "title": "Maximize Grid Happiness",
+      "title_slug": "maximize-grid-happiness",
+      "likes": 325,
+      "dislikes": 53
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1548",
+      "title": "The Most Similar Path in a Graph",
+      "titleSlug": "the-most-similar-path-in-a-graph",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 374,
+      "dislikes": 184,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"17.1K\", \"totalSubmission\": \"28.9K\", \"totalAcceptedRaw\": 17070, \"totalSubmissionRaw\": 28910, \"acRate\": \"59.0%\"}",
+      "hints": [
+        "Create an array dp where dp[i][j] is the min edit distance for the path starting at node i and compared to index j of the targetPath.",
+        "Traverse the dp array to obtain a valid answer."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Create an array dp where dp[i][j] is the min edit distance for the path starting at node i and compared to index j of the targetPath.",
+      "Traverse the dp array to obtain a valid answer."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ]
+  }
+}

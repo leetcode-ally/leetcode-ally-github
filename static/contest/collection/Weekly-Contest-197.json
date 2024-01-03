@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-197",
+  "data": [
+    {
+      "id": 1490,
+      "question_id": 1635,
+      "credit": 3,
+      "title": "Number of Good Pairs",
+      "title_slug": "number-of-good-pairs",
+      "likes": 5159,
+      "dislikes": 225
+    },
+    {
+      "id": 1491,
+      "question_id": 1636,
+      "credit": 4,
+      "title": "Number of Substrings With Only 1s",
+      "title_slug": "number-of-substrings-with-only-1s",
+      "likes": 843,
+      "dislikes": 33
+    },
+    {
+      "id": 1492,
+      "question_id": 1325,
+      "credit": 5,
+      "title": "Path with Maximum Probability",
+      "title_slug": "path-with-maximum-probability",
+      "likes": 3024,
+      "dislikes": 67
+    },
+    {
+      "id": 1493,
+      "question_id": 1638,
+      "credit": 7,
+      "title": "Best Position for a Service Centre",
+      "title_slug": "best-position-for-a-service-centre",
+      "likes": 224,
+      "dislikes": 257
+    }
+  ]
+}

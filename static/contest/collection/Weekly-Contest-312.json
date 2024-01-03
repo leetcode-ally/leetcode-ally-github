@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-312",
+  "data": [
+    {
+      "id": 2914,
+      "question_id": 2502,
+      "credit": 3,
+      "title": "Sort the People",
+      "title_slug": "sort-the-people",
+      "likes": 1200,
+      "dislikes": 19
+    },
+    {
+      "id": 2915,
+      "question_id": 2503,
+      "credit": 4,
+      "title": "Longest Subarray With Maximum Bitwise AND",
+      "title_slug": "longest-subarray-with-maximum-bitwise-and",
+      "likes": 440,
+      "dislikes": 38
+    },
+    {
+      "id": 2916,
+      "question_id": 2504,
+      "credit": 5,
+      "title": "Find All Good Indices",
+      "title_slug": "find-all-good-indices",
+      "likes": 600,
+      "dislikes": 32
+    },
+    {
+      "id": 2917,
+      "question_id": 2505,
+      "credit": 6,
+      "title": "Number of Good Paths",
+      "title_slug": "number-of-good-paths",
+      "likes": 2134,
+      "dislikes": 102
+    }
+  ]
+}

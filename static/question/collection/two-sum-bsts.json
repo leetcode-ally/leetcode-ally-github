@@ -1,0 +1,96 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1214",
+      "title": "Two Sum BSTs",
+      "titleSlug": "two-sum-bsts",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 537,
+      "dislikes": 45,
+      "similarQuestions": "[{\"title\": \"Two Sum IV - Input is a BST\", \"titleSlug\": \"two-sum-iv-input-is-a-bst\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"46.1K\", \"totalSubmission\": \"68.7K\", \"totalAcceptedRaw\": 46073, \"totalSubmissionRaw\": 68700, \"acRate\": \"67.1%\"}",
+      "hints": [
+        "How can you reduce this problem to the classical Two Sum problem?",
+        "Do an in-order traversal of each tree to convert them to sorted arrays.",
+        "Solve the classical Two Sum problem."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "two-sum-iv-input-is-a-bst",
+        "title": "Two Sum IV - Input is a BST",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How can you reduce this problem to the classical Two Sum problem?",
+      "Do an in-order traversal of each tree to convert them to sorted arrays.",
+      "Solve the classical Two Sum problem."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

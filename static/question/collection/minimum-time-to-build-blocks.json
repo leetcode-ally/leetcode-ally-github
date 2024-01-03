@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1199",
+      "title": "Minimum Time to Build Blocks",
+      "titleSlug": "minimum-time-to-build-blocks",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 230,
+      "dislikes": 30,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.5K\", \"totalSubmission\": \"14.1K\", \"totalAcceptedRaw\": 6460, \"totalSubmissionRaw\": 14074, \"acRate\": \"45.9%\"}",
+      "hints": [
+        "A greedy approach will not work as the examples show.",
+        "Try all possible moves using DP.",
+        "For the DP state, dp[i][j] is the minimum time cost to build the first i blocks using j workers.",
+        "In one step you can either assign a worker to a block or choose a number of workers to split.",
+        "If you choose to assign a worker to a block it is always better to assign him to the block with the maximum time so we sort the array before using DP.",
+        "To optimize the solution from O(n^3) to O(n^2) notice that if you choose to split, it is always better to split all the workers you have."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "A greedy approach will not work as the examples show.",
+      "Try all possible moves using DP.",
+      "For the DP state, dp[i][j] is the minimum time cost to build the first i blocks using j workers.",
+      "In one step you can either assign a worker to a block or choose a number of workers to split.",
+      "If you choose to assign a worker to a block it is always better to assign him to the block with the maximum time so we sort the array before using DP.",
+      "To optimize the solution from O(n^3) to O(n^2) notice that if you choose to split, it is always better to split all the workers you have."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

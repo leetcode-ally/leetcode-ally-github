@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1989",
+      "title": "Maximum Number of People That Can Be Caught in Tag",
+      "titleSlug": "maximum-number-of-people-that-can-be-caught-in-tag",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 68,
+      "dislikes": 10,
+      "similarQuestions": "[{\"title\": \"Minimum Number of Food Buckets to Feed the Hamsters\", \"titleSlug\": \"minimum-number-of-food-buckets-to-feed-the-hamsters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.9K\", \"totalSubmission\": \"3.8K\", \"totalAcceptedRaw\": 1931, \"totalSubmissionRaw\": 3770, \"acRate\": \"51.2%\"}",
+      "hints": [
+        "Try to use as much of the range of a person who is \"it\" as possible.",
+        "Find the leftmost person who is \"it\" that has not caught anyone yet, and the leftmost person who is not \"it\" that has not been caught yet.",
+        "If the person who is not \"it\" can be caught, pair them together and repeat the process.",
+        "If the person who is not \"it\" cannot be caught, and the person who is not \"it\" is on the left of the person who is \"it\", find the next leftmost person who is not \"it\".",
+        "If the person who is not \"it\" cannot be caught, and the person who is \"it\" is on the left of the person who is not \"it\", find the next leftmost person who is \"it\"."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to use as much of the range of a person who is \"it\" as possible.",
+      "Find the leftmost person who is \"it\" that has not caught anyone yet, and the leftmost person who is not \"it\" that has not been caught yet.",
+      "If the person who is not \"it\" can be caught, pair them together and repeat the process.",
+      "If the person who is not \"it\" cannot be caught, and the person who is not \"it\" is on the left of the person who is \"it\", find the next leftmost person who is not \"it\".",
+      "If the person who is not \"it\" cannot be caught, and the person who is \"it\" is on the left of the person who is not \"it\", find the next leftmost person who is \"it\"."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

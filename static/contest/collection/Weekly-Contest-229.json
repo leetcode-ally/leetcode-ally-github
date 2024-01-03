@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-229",
+  "data": [
+    {
+      "id": 1880,
+      "question_id": 1894,
+      "credit": 3,
+      "title": "Merge Strings Alternately",
+      "title_slug": "merge-strings-alternately",
+      "likes": 3417,
+      "dislikes": 68
+    },
+    {
+      "id": 1881,
+      "question_id": 1895,
+      "credit": 4,
+      "title": "Minimum Number of Operations to Move All Balls to Each Box",
+      "title_slug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+      "likes": 2173,
+      "dislikes": 84
+    },
+    {
+      "id": 1882,
+      "question_id": 1896,
+      "credit": 5,
+      "title": "Maximum Score from Performing Multiplication Operations",
+      "title_slug": "maximum-score-from-performing-multiplication-operations",
+      "likes": 2477,
+      "dislikes": 509
+    },
+    {
+      "id": 1883,
+      "question_id": 1897,
+      "credit": 6,
+      "title": "Maximize Palindrome Length From Subsequences",
+      "title_slug": "maximize-palindrome-length-from-subsequences",
+      "likes": 527,
+      "dislikes": 13
+    }
+  ]
+}

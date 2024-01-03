@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-168",
+  "data": [
+    {
+      "id": 1142,
+      "question_id": 1421,
+      "credit": 3,
+      "title": "Find Numbers with Even Number of Digits",
+      "title_slug": "find-numbers-with-even-number-of-digits",
+      "likes": 2266,
+      "dislikes": 118
+    },
+    {
+      "id": 1143,
+      "question_id": 1422,
+      "credit": 4,
+      "title": "Divide Array in Sets of K Consecutive Numbers",
+      "title_slug": "divide-array-in-sets-of-k-consecutive-numbers",
+      "likes": 1681,
+      "dislikes": 106
+    },
+    {
+      "id": 1144,
+      "question_id": 1423,
+      "credit": 6,
+      "title": "Maximum Number of Occurrences of a Substring",
+      "title_slug": "maximum-number-of-occurrences-of-a-substring",
+      "likes": 1023,
+      "dislikes": 398
+    },
+    {
+      "id": 1145,
+      "question_id": 1424,
+      "credit": 7,
+      "title": "Maximum Candies You Can Get from Boxes",
+      "title_slug": "maximum-candies-you-can-get-from-boxes",
+      "likes": 325,
+      "dislikes": 144
+    }
+  ]
+}

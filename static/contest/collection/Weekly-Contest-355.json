@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-355",
+  "data": [
+    {
+      "id": 3439,
+      "question_id": 2881,
+      "credit": 3,
+      "title": "Split Strings by Separator",
+      "title_slug": "split-strings-by-separator",
+      "likes": 274,
+      "dislikes": 6
+    },
+    {
+      "id": 3440,
+      "question_id": 2872,
+      "credit": 4,
+      "title": "Largest Element in an Array after Merge Operations",
+      "title_slug": "largest-element-in-an-array-after-merge-operations",
+      "likes": 418,
+      "dislikes": 27
+    },
+    {
+      "id": 3441,
+      "question_id": 2919,
+      "credit": 6,
+      "title": "Maximum Number of Groups With Increasing Length",
+      "title_slug": "maximum-number-of-groups-with-increasing-length",
+      "likes": 385,
+      "dislikes": 38
+    },
+    {
+      "id": 3442,
+      "question_id": 2905,
+      "credit": 8,
+      "title": "Count Paths That Can Form a Palindrome in a Tree",
+      "title_slug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+      "likes": 347,
+      "dislikes": 4
+    }
+  ]
+}

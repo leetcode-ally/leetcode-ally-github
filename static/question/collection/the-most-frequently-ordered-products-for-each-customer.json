@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1596",
+      "title": "The Most Frequently Ordered Products for Each Customer",
+      "titleSlug": "the-most-frequently-ordered-products-for-each-customer",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 237,
+      "dislikes": 17,
+      "similarQuestions": "[{\"title\": \"The Most Recent Orders for Each Product\", \"titleSlug\": \"the-most-recent-orders-for-each-product\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"30K\", \"totalSubmission\": \"37.9K\", \"totalAcceptedRaw\": 30004, \"totalSubmissionRaw\": 37910, \"acRate\": \"79.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "the-most-recent-orders-for-each-product",
+        "title": "The Most Recent Orders for Each Product",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

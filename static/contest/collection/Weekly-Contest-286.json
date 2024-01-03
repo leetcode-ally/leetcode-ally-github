@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-286",
+  "data": [
+    {
+      "id": 2598,
+      "question_id": 1392,
+      "credit": 3,
+      "title": "Find the Difference of Two Arrays",
+      "title_slug": "find-the-difference-of-two-arrays",
+      "likes": 2158,
+      "dislikes": 89
+    },
+    {
+      "id": 2599,
+      "question_id": 1355,
+      "credit": 4,
+      "title": "Minimum Deletions to Make Array Beautiful",
+      "title_slug": "minimum-deletions-to-make-array-beautiful",
+      "likes": 758,
+      "dislikes": 93
+    },
+    {
+      "id": 2600,
+      "question_id": 1375,
+      "credit": 5,
+      "title": "Find Palindrome With Fixed Length",
+      "title_slug": "find-palindrome-with-fixed-length",
+      "likes": 577,
+      "dislikes": 256
+    },
+    {
+      "id": 2601,
+      "question_id": 1393,
+      "credit": 6,
+      "title": "Maximum Value of K Coins From Piles",
+      "title_slug": "maximum-value-of-k-coins-from-piles",
+      "likes": 2226,
+      "dislikes": 36
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-20",
+  "data": [
+    {
+      "id": 1250,
+      "question_id": 1458,
+      "credit": 3,
+      "title": "Sort Integers by The Number of 1 Bits",
+      "title_slug": "sort-integers-by-the-number-of-1-bits",
+      "likes": 2359,
+      "dislikes": 116
+    },
+    {
+      "id": 1251,
+      "question_id": 1459,
+      "credit": 4,
+      "title": "Apply Discount Every n Orders",
+      "title_slug": "apply-discount-every-n-orders",
+      "likes": 179,
+      "dislikes": 221
+    },
+    {
+      "id": 1252,
+      "question_id": 1460,
+      "credit": 5,
+      "title": "Number of Substrings Containing All Three Characters",
+      "title_slug": "number-of-substrings-containing-all-three-characters",
+      "likes": 2926,
+      "dislikes": 45
+    },
+    {
+      "id": 1253,
+      "question_id": 1461,
+      "credit": 6,
+      "title": "Count All Valid Pickup and Delivery Options",
+      "title_slug": "count-all-valid-pickup-and-delivery-options",
+      "likes": 2972,
+      "dislikes": 219
+    }
+  ]
+}

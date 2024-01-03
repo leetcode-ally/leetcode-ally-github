@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2473",
+      "title": "Minimum Cost to Buy Apples",
+      "titleSlug": "minimum-cost-to-buy-apples",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 61,
+      "dislikes": 2,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"2.2K\", \"totalAcceptedRaw\": 1345, \"totalSubmissionRaw\": 2226, \"acRate\": \"60.4%\"}",
+      "hints": [
+        "Notice that the path you take to buy an apple will be the same path to return to the starting city.",
+        "Starting from each city, use Dijkstra’s algorithm to find the best city to travel to."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Notice that the path you take to buy an apple will be the same path to return to the starting city.",
+      "Starting from each city, use Dijkstra’s algorithm to find the best city to travel to."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ]
+  }
+}

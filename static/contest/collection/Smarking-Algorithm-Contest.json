@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Smarking-Algorithm-Contest",
+  "data": [
+    {
+      "id": 35,
+      "question_id": 437,
+      "credit": 1,
+      "title": "Path Sum III",
+      "title_slug": "path-sum-iii",
+      "likes": 10529,
+      "dislikes": 494
+    },
+    {
+      "id": 36,
+      "question_id": 438,
+      "credit": 1,
+      "title": "Find All Anagrams in a String",
+      "title_slug": "find-all-anagrams-in-a-string",
+      "likes": 12021,
+      "dislikes": 331
+    },
+    {
+      "id": 37,
+      "question_id": 439,
+      "credit": 1,
+      "title": "Ternary Expression Parser",
+      "title_slug": "ternary-expression-parser",
+      "likes": 473,
+      "dislikes": 64
+    },
+    {
+      "id": 38,
+      "question_id": 440,
+      "credit": 1,
+      "title": "K-th Smallest in Lexicographical Order",
+      "title_slug": "k-th-smallest-in-lexicographical-order",
+      "likes": 745,
+      "dislikes": 86
+    }
+  ]
+}

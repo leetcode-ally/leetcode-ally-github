@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-297",
+  "data": [
+    {
+      "id": 2734,
+      "question_id": 1382,
+      "credit": 3,
+      "title": "Calculate Amount Paid in Taxes",
+      "title_slug": "calculate-amount-paid-in-taxes",
+      "likes": 241,
+      "dislikes": 267
+    },
+    {
+      "id": 2735,
+      "question_id": 1394,
+      "credit": 5,
+      "title": "Minimum Path Cost in a Grid",
+      "title_slug": "minimum-path-cost-in-a-grid",
+      "likes": 826,
+      "dislikes": 141
+    },
+    {
+      "id": 2736,
+      "question_id": 1418,
+      "credit": 5,
+      "title": "Fair Distribution of Cookies",
+      "title_slug": "fair-distribution-of-cookies",
+      "likes": 2459,
+      "dislikes": 110
+    },
+    {
+      "id": 2737,
+      "question_id": 2390,
+      "credit": 6,
+      "title": "Naming a Company",
+      "title_slug": "naming-a-company",
+      "likes": 1921,
+      "dislikes": 67
+    }
+  ]
+}

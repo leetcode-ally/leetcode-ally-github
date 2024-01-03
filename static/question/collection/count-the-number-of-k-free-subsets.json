@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2638",
+      "title": "Count the Number of K-Free Subsets",
+      "titleSlug": "count-the-number-of-k-free-subsets",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 65,
+      "dislikes": 10,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.9K\", \"totalSubmission\": \"3.9K\", \"totalAcceptedRaw\": 1948, \"totalSubmissionRaw\": 3930, \"acRate\": \"49.6%\"}",
+      "hints": [
+        "Split all numbers into several groups, with each group being an arithmetic sequence with a common difference of k.",
+        "How many K-free subsets are there for each group? This can be solved by dp: dp[i] = dp[i-1] + dp[i-2], meaning if we choose ith element, we cannot choose (i-1)th; otherwise we can choose (i-1)th element.",
+        "After solving the problem for every group, the final result is just the product of the sub-problems.",
+        "Split all numbers into several groups, with each group being an arithmetic sequence with a common difference of k."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Split all numbers into several groups, with each group being an arithmetic sequence with a common difference of k.",
+      "How many K-free subsets are there for each group? This can be solved by dp: dp[i] = dp[i-1] + dp[i-2], meaning if we choose ith element, we cannot choose (i-1)th; otherwise we can choose (i-1)th element.",
+      "After solving the problem for every group, the final result is just the product of the sub-problems.",
+      "Split all numbers into several groups, with each group being an arithmetic sequence with a common difference of k."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

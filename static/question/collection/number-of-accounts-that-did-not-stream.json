@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2020",
+      "title": "Number of Accounts That Did Not Stream",
+      "titleSlug": "number-of-accounts-that-did-not-stream",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 27,
+      "dislikes": 204,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.1K\", \"totalSubmission\": \"12.7K\", \"totalAcceptedRaw\": 9073, \"totalSubmissionRaw\": 12691, \"acRate\": \"71.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

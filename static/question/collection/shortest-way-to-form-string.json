@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1055",
+      "title": "Shortest Way to Form String",
+      "titleSlug": "shortest-way-to-form-string",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1244,
+      "dislikes": 65,
+      "similarQuestions": "[{\"title\": \"Is Subsequence\", \"titleSlug\": \"is-subsequence\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Number of Matching Subsequences\", \"titleSlug\": \"number-of-matching-subsequences\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"84.8K\", \"totalSubmission\": \"141.5K\", \"totalAcceptedRaw\": 84760, \"totalSubmissionRaw\": 141480, \"acRate\": \"59.9%\"}",
+      "hints": [
+        "Which conditions have to been met in order to be impossible to form the target string?",
+        "If there exists a character in the target string which doesn't exist in the source string then it will be impossible to form the target string.",
+        "Assuming we are in the case which is possible to form the target string, how can we assure the minimum number of used subsequences of source?",
+        "For each used subsequence try to match the leftmost character of the current subsequence with the leftmost character of the target string, if they match then erase both character otherwise erase just the subsequence character whenever the current subsequence gets empty, reset it to a new copy of subsequence and increment the count, do this until the target sequence gets empty. Finally return the count."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "is-subsequence",
+        "title": "Is Subsequence",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "number-of-matching-subsequences",
+        "title": "Number of Matching Subsequences",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Which conditions have to been met in order to be impossible to form the target string?",
+      "If there exists a character in the target string which doesn't exist in the source string then it will be impossible to form the target string.",
+      "Assuming we are in the case which is possible to form the target string, how can we assure the minimum number of used subsequences of source?",
+      "For each used subsequence try to match the leftmost character of the current subsequence with the leftmost character of the target string, if they match then erase both character otherwise erase just the subsequence character whenever the current subsequence gets empty, reset it to a new copy of subsequence and increment the count, do this until the target sequence gets empty. Finally return the count."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

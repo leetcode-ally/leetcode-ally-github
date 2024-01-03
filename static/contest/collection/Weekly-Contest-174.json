@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-174",
+  "data": [
+    {
+      "id": 1214,
+      "question_id": 1463,
+      "credit": 3,
+      "title": "The K Weakest Rows in a Matrix",
+      "title_slug": "the-k-weakest-rows-in-a-matrix",
+      "likes": 4077,
+      "dislikes": 228
+    },
+    {
+      "id": 1215,
+      "question_id": 1464,
+      "credit": 4,
+      "title": "Reduce Array Size to The Half",
+      "title_slug": "reduce-array-size-to-the-half",
+      "likes": 3192,
+      "dislikes": 148
+    },
+    {
+      "id": 1216,
+      "question_id": 1465,
+      "credit": 5,
+      "title": "Maximum Product of Splitted Binary Tree",
+      "title_slug": "maximum-product-of-splitted-binary-tree",
+      "likes": 2951,
+      "dislikes": 101
+    },
+    {
+      "id": 1217,
+      "question_id": 1466,
+      "credit": 6,
+      "title": "Jump Game V",
+      "title_slug": "jump-game-v",
+      "likes": 1076,
+      "dislikes": 38
+    }
+  ]
+}

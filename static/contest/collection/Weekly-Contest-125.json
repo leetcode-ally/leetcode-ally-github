@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-125",
+  "data": [
+    {
+      "id": 588,
+      "question_id": 1039,
+      "credit": 4,
+      "title": "Find the Town Judge",
+      "title_slug": "find-the-town-judge",
+      "likes": 5943,
+      "dislikes": 476
+    },
+    {
+      "id": 589,
+      "question_id": 1041,
+      "credit": 4,
+      "title": "Available Captures for Rook",
+      "title_slug": "available-captures-for-rook",
+      "likes": 640,
+      "dislikes": 627
+    },
+    {
+      "id": 590,
+      "question_id": 1040,
+      "credit": 6,
+      "title": "Maximum Binary Tree II",
+      "title_slug": "maximum-binary-tree-ii",
+      "likes": 509,
+      "dislikes": 772
+    },
+    {
+      "id": 591,
+      "question_id": 1043,
+      "credit": 8,
+      "title": "Grid Illumination",
+      "title_slug": "grid-illumination",
+      "likes": 586,
+      "dislikes": 145
+    }
+  ]
+}

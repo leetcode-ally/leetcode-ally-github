@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-14",
+  "data": [
+    {
+      "id": 1106,
+      "question_id": 1199,
+      "credit": 3,
+      "title": "Hexspeak",
+      "title_slug": "hexspeak",
+      "likes": 73,
+      "dislikes": 123
+    },
+    {
+      "id": 1107,
+      "question_id": 1200,
+      "credit": 5,
+      "title": "Remove Interval",
+      "title_slug": "remove-interval",
+      "likes": 424,
+      "dislikes": 29
+    },
+    {
+      "id": 1108,
+      "question_id": 1201,
+      "credit": 5,
+      "title": "Delete Tree Nodes",
+      "title_slug": "delete-tree-nodes",
+      "likes": 221,
+      "dislikes": 63
+    },
+    {
+      "id": 1109,
+      "question_id": 1233,
+      "credit": 7,
+      "title": "Number of Ships in a Rectangle",
+      "title_slug": "number-of-ships-in-a-rectangle",
+      "likes": 520,
+      "dislikes": 57
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-249",
+  "data": [
+    {
+      "id": 2134,
+      "question_id": 2058,
+      "credit": 3,
+      "title": "Concatenation of Array",
+      "title_slug": "concatenation-of-array",
+      "likes": 3048,
+      "dislikes": 343
+    },
+    {
+      "id": 2135,
+      "question_id": 2059,
+      "credit": 4,
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "title_slug": "unique-length-3-palindromic-subsequences",
+      "likes": 1660,
+      "dislikes": 67
+    },
+    {
+      "id": 2136,
+      "question_id": 2061,
+      "credit": 6,
+      "title": "Painting a Grid With Three Different Colors",
+      "title_slug": "painting-a-grid-with-three-different-colors",
+      "likes": 459,
+      "dislikes": 20
+    },
+    {
+      "id": 2137,
+      "question_id": 2060,
+      "credit": 6,
+      "title": "Merge BSTs to Create Single BST",
+      "title_slug": "merge-bsts-to-create-single-bst",
+      "likes": 543,
+      "dislikes": 39
+    }
+  ]
+}

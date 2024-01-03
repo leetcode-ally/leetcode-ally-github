@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-274",
+  "data": [
+    {
+      "id": 2438,
+      "question_id": 2243,
+      "credit": 3,
+      "title": "Check if All A's Appears Before All B's",
+      "title_slug": "check-if-all-as-appears-before-all-bs",
+      "likes": 693,
+      "dislikes": 16
+    },
+    {
+      "id": 2439,
+      "question_id": 2244,
+      "credit": 4,
+      "title": "Number of Laser Beams in a Bank",
+      "title_slug": "number-of-laser-beams-in-a-bank",
+      "likes": 1675,
+      "dislikes": 160
+    },
+    {
+      "id": 2440,
+      "question_id": 2245,
+      "credit": 5,
+      "title": "Destroying Asteroids",
+      "title_slug": "destroying-asteroids",
+      "likes": 507,
+      "dislikes": 184
+    },
+    {
+      "id": 2441,
+      "question_id": 2246,
+      "credit": 6,
+      "title": "Maximum Employees to Be Invited to a Meeting",
+      "title_slug": "maximum-employees-to-be-invited-to-a-meeting",
+      "likes": 975,
+      "dislikes": 26
+    }
+  ]
+}

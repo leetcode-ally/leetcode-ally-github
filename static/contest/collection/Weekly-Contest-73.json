@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-73",
+  "data": [
+    {
+      "id": 315,
+      "question_id": 804,
+      "credit": 4,
+      "title": "Rotated Digits",
+      "title_slug": "rotated-digits",
+      "likes": 730,
+      "dislikes": 1905
+    },
+    {
+      "id": 316,
+      "question_id": 805,
+      "credit": 5,
+      "title": "Escape The Ghosts",
+      "title_slug": "escape-the-ghosts",
+      "likes": 272,
+      "dislikes": 27
+    },
+    {
+      "id": 319,
+      "question_id": 807,
+      "credit": 5,
+      "title": "Custom Sort String",
+      "title_slug": "custom-sort-string",
+      "likes": 2782,
+      "dislikes": 337
+    },
+    {
+      "id": 320,
+      "question_id": 806,
+      "credit": 5,
+      "title": "Domino and Tromino Tiling",
+      "title_slug": "domino-and-tromino-tiling",
+      "likes": 3273,
+      "dislikes": 1046
+    }
+  ]
+}

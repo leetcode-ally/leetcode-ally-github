@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1412",
+      "title": "Find the Quiet Students in All Exams",
+      "titleSlug": "find-the-quiet-students-in-all-exams",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 207,
+      "dislikes": 18,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"23.7K\", \"totalSubmission\": \"39.8K\", \"totalAcceptedRaw\": 23701, \"totalSubmissionRaw\": 39802, \"acRate\": \"59.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

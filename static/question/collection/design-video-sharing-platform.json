@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2254",
+      "title": "Design Video Sharing Platform",
+      "titleSlug": "design-video-sharing-platform",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 75,
+      "dislikes": 10,
+      "similarQuestions": "[{\"title\": \"Tweet Counts Per Frequency\", \"titleSlug\": \"tweet-counts-per-frequency\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Design Browser History\", \"titleSlug\": \"design-browser-history\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Most Popular Video Creator\", \"titleSlug\": \"most-popular-video-creator\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.6K\", \"totalSubmission\": \"4.1K\", \"totalAcceptedRaw\": 2589, \"totalSubmissionRaw\": 4057, \"acRate\": \"63.8%\"}",
+      "hints": [
+        "How can we keep track of the videoId’s of removed videos?",
+        "When you remove a video, keep track of its videoId in an array called usedId. When a new video is uploaded, first check if usedId contains any elements, if it does, use the smallest value in usedId."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "tweet-counts-per-frequency",
+        "title": "Tweet Counts Per Frequency",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "design-browser-history",
+        "title": "Design Browser History",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "most-popular-video-creator",
+        "title": "Most Popular Video Creator",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How can we keep track of the videoId’s of removed videos?",
+      "When you remove a video, keep track of its videoId in an array called usedId. When a new video is uploaded, first check if usedId contains any elements, if it does, use the smallest value in usedId."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  }
+}

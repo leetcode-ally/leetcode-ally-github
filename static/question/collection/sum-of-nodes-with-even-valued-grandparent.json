@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1315",
+      "title": "Sum of Nodes with Even-Valued Grandparent",
+      "titleSlug": "sum-of-nodes-with-even-valued-grandparent",
+      "content": "<p>Given the <code>root</code> of a binary tree, return <em>the sum of values of nodes with an <strong>even-valued grandparent</strong></em>. If there are no nodes with an <strong>even-valued grandparent</strong>, return <code>0</code>.</p>\n\n<p>A <strong>grandparent</strong> of a node is the parent of its parent if it exists.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2021/08/10/even1-tree.jpg\" style=\"width: 504px; height: 302px;\" />\n<pre>\n<strong>Input:</strong> root = [6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]\n<strong>Output:</strong> 18\n<strong>Explanation:</strong> The red nodes are the nodes with even-value grandparent while the blue nodes are the even-value grandparents.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n<img alt=\"\" src=\"https://assets.leetcode.com/uploads/2021/08/10/even2-tree.jpg\" style=\"width: 64px; height: 65px;\" />\n<pre>\n<strong>Input:</strong> root = [1]\n<strong>Output:</strong> 0\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The number of nodes in the tree is in the range <code>[1, 10<sup>4</sup>]</code>.</li>\n\t<li><code>1 &lt;= Node.val &lt;= 100</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 2654,
+      "dislikes": 75,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"142.5K\", \"totalSubmission\": \"166.6K\", \"totalAcceptedRaw\": 142513, \"totalSubmissionRaw\": 166638, \"acRate\": \"85.5%\"}",
+      "hints": [
+        "Traverse the tree keeping the parent and the grandparent.",
+        "If the grandparent of the current node is even-valued, add the value of this node to the answer."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Traverse the tree keeping the parent and the grandparent.",
+      "If the grandparent of the current node is even-valued, add the value of this node to the answer."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

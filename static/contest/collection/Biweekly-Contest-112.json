@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-112",
+  "data": [
+    {
+      "id": 3502,
+      "question_id": 2999,
+      "credit": 3,
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "title_slug": "check-if-strings-can-be-made-equal-with-operations-i",
+      "likes": 168,
+      "dislikes": 21
+    },
+    {
+      "id": 3503,
+      "question_id": 2978,
+      "credit": 4,
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "title_slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "likes": 235,
+      "dislikes": 3
+    },
+    {
+      "id": 3504,
+      "question_id": 2954,
+      "credit": 5,
+      "title": "Maximum Sum of Almost Unique Subarray",
+      "title_slug": "maximum-sum-of-almost-unique-subarray",
+      "likes": 240,
+      "dislikes": 134
+    },
+    {
+      "id": 3505,
+      "question_id": 3057,
+      "credit": 6,
+      "title": "Count K-Subsequences of a String With Maximum Beauty",
+      "title_slug": "count-k-subsequences-of-a-string-with-maximum-beauty",
+      "likes": 298,
+      "dislikes": 24
+    }
+  ]
+}

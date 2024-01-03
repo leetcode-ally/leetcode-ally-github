@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "247",
+      "title": "Strobogrammatic Number II",
+      "titleSlug": "strobogrammatic-number-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 891,
+      "dislikes": 235,
+      "similarQuestions": "[{\"title\": \"Strobogrammatic Number\", \"titleSlug\": \"strobogrammatic-number\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Strobogrammatic Number III\", \"titleSlug\": \"strobogrammatic-number-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Sum of k-Mirror Numbers\", \"titleSlug\": \"sum-of-k-mirror-numbers\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"133.9K\", \"totalSubmission\": \"258K\", \"totalAcceptedRaw\": 133932, \"totalSubmissionRaw\": 258002, \"acRate\": \"51.9%\"}",
+      "hints": [
+        "Try to use recursion and notice that it should recurse with <i>n</i> - 2 instead of <i>n</i> - 1."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "strobogrammatic-number",
+        "title": "Strobogrammatic Number",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "strobogrammatic-number-iii",
+        "title": "Strobogrammatic Number III",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "sum-of-k-mirror-numbers",
+        "title": "Sum of k-Mirror Numbers",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to use recursion and notice that it should recurse with <i>n</i> - 2 instead of <i>n</i> - 1."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-329",
+  "data": [
+    {
+      "id": 3119,
+      "question_id": 2630,
+      "credit": 3,
+      "title": "Alternating Digit Sum",
+      "title_slug": "alternating-digit-sum",
+      "likes": 361,
+      "dislikes": 19
+    },
+    {
+      "id": 3120,
+      "question_id": 2631,
+      "credit": 4,
+      "title": "Sort the Students by Their Kth Score",
+      "title_slug": "sort-the-students-by-their-kth-score",
+      "likes": 584,
+      "dislikes": 35
+    },
+    {
+      "id": 3121,
+      "question_id": 2632,
+      "credit": 5,
+      "title": "Apply Bitwise Operations to Make Strings Equal",
+      "title_slug": "apply-bitwise-operations-to-make-strings-equal",
+      "likes": 240,
+      "dislikes": 97
+    },
+    {
+      "id": 3122,
+      "question_id": 2633,
+      "credit": 6,
+      "title": "Minimum Cost to Split an Array",
+      "title_slug": "minimum-cost-to-split-an-array",
+      "likes": 406,
+      "dislikes": 24
+    }
+  ]
+}

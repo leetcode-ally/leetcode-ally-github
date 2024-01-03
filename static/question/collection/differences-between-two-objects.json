@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2700",
+      "title": "Differences Between Two Objects",
+      "titleSlug": "differences-between-two-objects",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 133,
+      "dislikes": 21,
+      "similarQuestions": "[{\"title\": \"JSON Deep Equal\", \"titleSlug\": \"json-deep-equal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Convert Object to JSON String\", \"titleSlug\": \"convert-object-to-json-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"5.9K\", \"totalSubmission\": \"7.2K\", \"totalAcceptedRaw\": 5871, \"totalSubmissionRaw\": 7225, \"acRate\": \"81.3%\"}",
+      "hints": [
+        "Find the intersection of the keys/indices on the two arrays/objects.",
+        "Analyze the data structure recursively.",
+        "For each key in the intersection, omit if there are no differences in the leaves. Otherwise return the difference."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "json-deep-equal",
+        "title": "JSON Deep Equal",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "convert-object-to-json-string",
+        "title": "Convert Object to JSON String",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Find the intersection of the keys/indices on the two arrays/objects.",
+      "Analyze the data structure recursively.",
+      "For each key in the intersection, omit if there are no differences in the leaves. Otherwise return the difference."
+    ],
+    "relatedTopics": []
+  }
+}

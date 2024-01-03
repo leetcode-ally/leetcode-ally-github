@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-60",
+  "data": [
+    {
+      "id": 2218,
+      "question_id": 2102,
+      "credit": 3,
+      "title": "Find the Middle Index in Array",
+      "title_slug": "find-the-middle-index-in-array",
+      "likes": 1295,
+      "dislikes": 57
+    },
+    {
+      "id": 2219,
+      "question_id": 2103,
+      "credit": 4,
+      "title": "Find All Groups of Farmland",
+      "title_slug": "find-all-groups-of-farmland",
+      "likes": 772,
+      "dislikes": 25
+    },
+    {
+      "id": 2220,
+      "question_id": 2104,
+      "credit": 5,
+      "title": "Operations on Tree",
+      "title_slug": "operations-on-tree",
+      "likes": 430,
+      "dislikes": 72
+    },
+    {
+      "id": 2221,
+      "question_id": 2105,
+      "credit": 6,
+      "title": "The Number of Good Subsets",
+      "title_slug": "the-number-of-good-subsets",
+      "likes": 441,
+      "dislikes": 12
+    }
+  ]
+}

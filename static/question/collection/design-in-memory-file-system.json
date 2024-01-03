@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "588",
+      "title": "Design In-Memory File System",
+      "titleSlug": "design-in-memory-file-system",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 1429,
+      "dislikes": 152,
+      "similarQuestions": "[{\"title\": \"LRU Cache\", \"titleSlug\": \"lru-cache\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"LFU Cache\", \"titleSlug\": \"lfu-cache\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Design Log Storage System\", \"titleSlug\": \"design-log-storage-system\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"94.4K\", \"totalSubmission\": \"195.2K\", \"totalAcceptedRaw\": 94370, \"totalSubmissionRaw\": 195244, \"acRate\": \"48.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "lru-cache",
+        "title": "LRU Cache",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "lfu-cache",
+        "title": "LFU Cache",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "design-log-storage-system",
+        "title": "Design Log Storage System",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-302",
+  "data": [
+    {
+      "id": 2794,
+      "question_id": 2421,
+      "credit": 3,
+      "title": "Maximum Number of Pairs in Array",
+      "title_slug": "maximum-number-of-pairs-in-array",
+      "likes": 644,
+      "dislikes": 16
+    },
+    {
+      "id": 2795,
+      "question_id": 2473,
+      "credit": 4,
+      "title": "Max Sum of a Pair With Equal Sum of Digits",
+      "title_slug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+      "likes": 651,
+      "dislikes": 16
+    },
+    {
+      "id": 2796,
+      "question_id": 2422,
+      "credit": 5,
+      "title": "Query Kth Smallest Trimmed Number",
+      "title_slug": "query-kth-smallest-trimmed-number",
+      "likes": 276,
+      "dislikes": 412
+    },
+    {
+      "id": 2797,
+      "question_id": 2423,
+      "credit": 6,
+      "title": "Minimum Deletions to Make Array Divisible",
+      "title_slug": "minimum-deletions-to-make-array-divisible",
+      "likes": 531,
+      "dislikes": 124
+    }
+  ]
+}

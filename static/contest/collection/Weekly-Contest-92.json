@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-92",
+  "data": [
+    {
+      "id": 400,
+      "question_id": 898,
+      "credit": 2,
+      "title": "Transpose Matrix",
+      "title_slug": "transpose-matrix",
+      "likes": 3617,
+      "dislikes": 441
+    },
+    {
+      "id": 401,
+      "question_id": 896,
+      "credit": 5,
+      "title": "Smallest Subtree with all the Deepest Nodes",
+      "title_slug": "smallest-subtree-with-all-the-deepest-nodes",
+      "likes": 2550,
+      "dislikes": 363
+    },
+    {
+      "id": 402,
+      "question_id": 897,
+      "credit": 7,
+      "title": "Prime Palindrome",
+      "title_slug": "prime-palindrome",
+      "likes": 418,
+      "dislikes": 817
+    },
+    {
+      "id": 403,
+      "question_id": 895,
+      "credit": 9,
+      "title": "Shortest Path to Get All Keys",
+      "title_slug": "shortest-path-to-get-all-keys",
+      "likes": 2271,
+      "dislikes": 97
+    }
+  ]
+}

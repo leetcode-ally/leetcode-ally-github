@@ -1,0 +1,94 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "259",
+      "title": "3Sum Smaller",
+      "titleSlug": "3sum-smaller",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1507,
+      "dislikes": 150,
+      "similarQuestions": "[{\"title\": \"3Sum\", \"titleSlug\": \"3sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"3Sum Closest\", \"titleSlug\": \"3sum-closest\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Valid Triangle Number\", \"titleSlug\": \"valid-triangle-number\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Two Sum Less Than K\", \"titleSlug\": \"two-sum-less-than-k\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Maximize Greatness of an Array\", \"titleSlug\": \"maximize-greatness-of-an-array\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Polygon With the Largest Perimeter\", \"titleSlug\": \"find-polygon-with-the-largest-perimeter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"142.7K\", \"totalSubmission\": \"282.3K\", \"totalAcceptedRaw\": 142694, \"totalSubmissionRaw\": 282281, \"acRate\": \"50.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "3sum",
+        "title": "3Sum",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "3sum-closest",
+        "title": "3Sum Closest",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "valid-triangle-number",
+        "title": "Valid Triangle Number",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "two-sum-less-than-k",
+        "title": "Two Sum Less Than K",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "maximize-greatness-of-an-array",
+        "title": "Maximize Greatness of an Array",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "find-polygon-with-the-largest-perimeter",
+        "title": "Find Polygon With the Largest Perimeter",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

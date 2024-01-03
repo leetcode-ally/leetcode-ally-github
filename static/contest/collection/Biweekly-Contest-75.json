@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-75",
+  "data": [
+    {
+      "id": 2614,
+      "question_id": 2323,
+      "credit": 3,
+      "title": "Minimum Bit Flips to Convert Number",
+      "title_slug": "minimum-bit-flips-to-convert-number",
+      "likes": 785,
+      "dislikes": 14
+    },
+    {
+      "id": 2615,
+      "question_id": 2324,
+      "credit": 4,
+      "title": "Find Triangular Sum of an Array",
+      "title_slug": "find-triangular-sum-of-an-array",
+      "likes": 1029,
+      "dislikes": 52
+    },
+    {
+      "id": 2616,
+      "question_id": 2325,
+      "credit": 5,
+      "title": "Number of Ways to Select Buildings",
+      "title_slug": "number-of-ways-to-select-buildings",
+      "likes": 926,
+      "dislikes": 43
+    },
+    {
+      "id": 2617,
+      "question_id": 2326,
+      "credit": 6,
+      "title": "Sum of Scores of Built Strings",
+      "title_slug": "sum-of-scores-of-built-strings",
+      "likes": 237,
+      "dislikes": 181
+    }
+  ]
+}

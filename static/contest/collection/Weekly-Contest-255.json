@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-255",
+  "data": [
+    {
+      "id": 2210,
+      "question_id": 2106,
+      "credit": 3,
+      "title": "Find Greatest Common Divisor of Array",
+      "title_slug": "find-greatest-common-divisor-of-array",
+      "likes": 1052,
+      "dislikes": 45
+    },
+    {
+      "id": 2211,
+      "question_id": 2107,
+      "credit": 4,
+      "title": "Find Unique Binary String",
+      "title_slug": "find-unique-binary-string",
+      "likes": 1898,
+      "dislikes": 67
+    },
+    {
+      "id": 2212,
+      "question_id": 2108,
+      "credit": 5,
+      "title": "Minimize the Difference Between Target and Chosen Elements",
+      "title_slug": "minimize-the-difference-between-target-and-chosen-elements",
+      "likes": 891,
+      "dislikes": 136
+    },
+    {
+      "id": 2213,
+      "question_id": 2109,
+      "credit": 6,
+      "title": "Find Array Given Subset Sums",
+      "title_slug": "find-array-given-subset-sums",
+      "likes": 552,
+      "dislikes": 35
+    }
+  ]
+}

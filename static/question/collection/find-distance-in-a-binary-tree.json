@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1740",
+      "title": "Find Distance in a Binary Tree",
+      "titleSlug": "find-distance-in-a-binary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 398,
+      "dislikes": 15,
+      "similarQuestions": "[{\"title\": \"Step-By-Step Directions From a Binary Tree Node to Another\", \"titleSlug\": \"step-by-step-directions-from-a-binary-tree-node-to-another\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"21.1K\", \"totalSubmission\": \"30.2K\", \"totalAcceptedRaw\": 21143, \"totalSubmissionRaw\": 30214, \"acRate\": \"70.0%\"}",
+      "hints": [
+        "Get the LCA of p and q.",
+        "The answer is the sum of distances between p-LCA and q-LCA"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Get the LCA of p and q.",
+      "The answer is the sum of distances between p-LCA and q-LCA"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

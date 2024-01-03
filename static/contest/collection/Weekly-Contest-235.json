@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-235",
+  "data": [
+    {
+      "id": 1950,
+      "question_id": 1944,
+      "credit": 3,
+      "title": "Truncate Sentence",
+      "title_slug": "truncate-sentence",
+      "likes": 1067,
+      "dislikes": 28
+    },
+    {
+      "id": 1951,
+      "question_id": 1945,
+      "credit": 4,
+      "title": "Finding the Users Active Minutes",
+      "title_slug": "finding-the-users-active-minutes",
+      "likes": 791,
+      "dislikes": 292
+    },
+    {
+      "id": 1952,
+      "question_id": 1946,
+      "credit": 5,
+      "title": "Minimum Absolute Sum Difference",
+      "title_slug": "minimum-absolute-sum-difference",
+      "likes": 986,
+      "dislikes": 70
+    },
+    {
+      "id": 1953,
+      "question_id": 1947,
+      "credit": 6,
+      "title": "Number of Different Subsequences GCDs",
+      "title_slug": "number-of-different-subsequences-gcds",
+      "likes": 399,
+      "dislikes": 41
+    }
+  ]
+}

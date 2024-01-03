@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-79",
+  "data": [
+    {
+      "id": 345,
+      "question_id": 830,
+      "credit": 4,
+      "title": "Largest Triangle Area",
+      "title_slug": "largest-triangle-area",
+      "likes": 513,
+      "dislikes": 1573
+    },
+    {
+      "id": 346,
+      "question_id": 832,
+      "credit": 5,
+      "title": "Binary Tree Pruning",
+      "title_slug": "binary-tree-pruning",
+      "likes": 4428,
+      "dislikes": 111
+    },
+    {
+      "id": 347,
+      "question_id": 831,
+      "credit": 6,
+      "title": "Largest Sum of Averages",
+      "title_slug": "largest-sum-of-averages",
+      "likes": 2052,
+      "dislikes": 95
+    },
+    {
+      "id": 348,
+      "question_id": 833,
+      "credit": 7,
+      "title": "Bus Routes",
+      "title_slug": "bus-routes",
+      "likes": 4120,
+      "dislikes": 113
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-118",
+  "data": [
+    {
+      "id": 3649,
+      "question_id": 3194,
+      "credit": 3,
+      "title": "Find Words Containing Character",
+      "title_slug": "find-words-containing-character",
+      "likes": 161,
+      "dislikes": 4
+    },
+    {
+      "id": 3650,
+      "question_id": 3214,
+      "credit": 4,
+      "title": "Maximize Area of Square Hole in Grid",
+      "title_slug": "maximize-area-of-square-hole-in-grid",
+      "likes": 76,
+      "dislikes": 118
+    },
+    {
+      "id": 3651,
+      "question_id": 3209,
+      "credit": 5,
+      "title": "Minimum Number of Coins for Fruits",
+      "title_slug": "minimum-number-of-coins-for-fruits",
+      "likes": 148,
+      "dislikes": 28
+    },
+    {
+      "id": 3652,
+      "question_id": 3211,
+      "credit": 7,
+      "title": "Find Maximum Non-decreasing Array Length",
+      "title_slug": "find-maximum-non-decreasing-array-length",
+      "likes": 95,
+      "dislikes": 10
+    }
+  ]
+}

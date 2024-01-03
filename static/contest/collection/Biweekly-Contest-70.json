@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-70",
+  "data": [
+    {
+      "id": 2458,
+      "question_id": 2248,
+      "credit": 3,
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "title_slug": "minimum-cost-of-buying-candies-with-discount",
+      "likes": 557,
+      "dislikes": 17
+    },
+    {
+      "id": 2459,
+      "question_id": 2249,
+      "credit": 4,
+      "title": "Count the Hidden Sequences",
+      "title_slug": "count-the-hidden-sequences",
+      "likes": 499,
+      "dislikes": 46
+    },
+    {
+      "id": 2460,
+      "question_id": 2250,
+      "credit": 5,
+      "title": "K Highest Ranked Items Within a Price Range",
+      "title_slug": "k-highest-ranked-items-within-a-price-range",
+      "likes": 478,
+      "dislikes": 152
+    },
+    {
+      "id": 2461,
+      "question_id": 2251,
+      "credit": 6,
+      "title": "Number of Ways to Divide a Long Corridor",
+      "title_slug": "number-of-ways-to-divide-a-long-corridor",
+      "likes": 1023,
+      "dislikes": 104
+    }
+  ]
+}

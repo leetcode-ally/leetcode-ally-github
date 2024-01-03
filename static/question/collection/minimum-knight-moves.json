@@ -1,0 +1,48 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1197",
+      "title": "Minimum Knight Moves",
+      "titleSlug": "minimum-knight-moves",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1476,
+      "dislikes": 398,
+      "similarQuestions": "[{\"title\": \"Check Knight Tour Configuration\", \"titleSlug\": \"check-knight-tour-configuration\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"147.3K\", \"totalSubmission\": \"366.3K\", \"totalAcceptedRaw\": 147290, \"totalSubmissionRaw\": 366308, \"acRate\": \"40.2%\"}",
+      "hints": [
+        "You can simulate the movements since the limits are low.",
+        "Is there a search algorithm applicable to this problem?",
+        "Since we want the minimum number of moves, we can use Breadth First Search."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "check-knight-tour-configuration",
+        "title": "Check Knight Tour Configuration",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "You can simulate the movements since the limits are low.",
+      "Is there a search algorithm applicable to this problem?",
+      "Since we want the minimum number of moves, we can use Breadth First Search."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  }
+}

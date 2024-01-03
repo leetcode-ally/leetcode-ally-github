@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "578",
+      "title": "Get Highest Answer Rate Question",
+      "titleSlug": "get-highest-answer-rate-question",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 122,
+      "dislikes": 906,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"52.6K\", \"totalSubmission\": \"129.8K\", \"totalAcceptedRaw\": 52581, \"totalSubmissionRaw\": 129847, \"acRate\": \"40.5%\"}",
+      "hints": [
+        "Try to find all question ids by group",
+        "Try to find each group answer number and show number.",
+        "Rank all the rates (answer/(answer+show)) and return the max one"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Try to find all question ids by group",
+      "Try to find each group answer number and show number.",
+      "Rank all the rates (answer/(answer+show)) and return the max one"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

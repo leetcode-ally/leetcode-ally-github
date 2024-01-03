@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-167",
+  "data": [
+    {
+      "id": 1130,
+      "question_id": 1411,
+      "credit": 3,
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "title_slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "likes": 4042,
+      "dislikes": 150
+    },
+    {
+      "id": 1131,
+      "question_id": 1212,
+      "credit": 5,
+      "title": "Sequential Digits",
+      "title_slug": "sequential-digits",
+      "likes": 1955,
+      "dislikes": 109
+    },
+    {
+      "id": 1132,
+      "question_id": 1413,
+      "credit": 5,
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "title_slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "likes": 1052,
+      "dislikes": 87
+    },
+    {
+      "id": 1133,
+      "question_id": 1414,
+      "credit": 6,
+      "title": "Shortest Path in a Grid with Obstacles Elimination",
+      "title_slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+      "likes": 4398,
+      "dislikes": 82
+    }
+  ]
+}

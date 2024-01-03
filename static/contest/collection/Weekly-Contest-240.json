@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-240",
+  "data": [
+    {
+      "id": 2018,
+      "question_id": 1983,
+      "credit": 3,
+      "title": "Maximum Population Year",
+      "title_slug": "maximum-population-year",
+      "likes": 1208,
+      "dislikes": 194
+    },
+    {
+      "id": 2019,
+      "question_id": 1984,
+      "credit": 4,
+      "title": "Maximum Distance Between a Pair of Values",
+      "title_slug": "maximum-distance-between-a-pair-of-values",
+      "likes": 1161,
+      "dislikes": 28
+    },
+    {
+      "id": 2020,
+      "question_id": 1985,
+      "credit": 5,
+      "title": "Maximum Subarray Min-Product",
+      "title_slug": "maximum-subarray-min-product",
+      "likes": 1367,
+      "dislikes": 105
+    },
+    {
+      "id": 2021,
+      "question_id": 1986,
+      "credit": 6,
+      "title": "Largest Color Value in a Directed Graph",
+      "title_slug": "largest-color-value-in-a-directed-graph",
+      "likes": 2047,
+      "dislikes": 67
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1213",
+      "title": "Intersection of Three Sorted Arrays",
+      "titleSlug": "intersection-of-three-sorted-arrays",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 570,
+      "dislikes": 24,
+      "similarQuestions": "[{\"title\": \"Intersection of Two Arrays\", \"titleSlug\": \"intersection-of-two-arrays\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Intersection of Multiple Arrays\", \"titleSlug\": \"intersection-of-multiple-arrays\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"82.7K\", \"totalSubmission\": \"103.6K\", \"totalAcceptedRaw\": 82701, \"totalSubmissionRaw\": 103614, \"acRate\": \"79.8%\"}",
+      "hints": [
+        "Count the frequency of all elements in the three arrays.",
+        "The elements that appeared in all the arrays would have a frequency of 3."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "intersection-of-two-arrays",
+        "title": "Intersection of Two Arrays",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "intersection-of-multiple-arrays",
+        "title": "Intersection of Multiple Arrays",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Count the frequency of all elements in the three arrays.",
+      "The elements that appeared in all the arrays would have a frequency of 3."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  }
+}

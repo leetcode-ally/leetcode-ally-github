@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-206",
+  "data": [
+    {
+      "id": 1598,
+      "question_id": 1704,
+      "credit": 3,
+      "title": "Special Positions in a Binary Matrix",
+      "title_slug": "special-positions-in-a-binary-matrix",
+      "likes": 1410,
+      "dislikes": 64
+    },
+    {
+      "id": 1599,
+      "question_id": 1705,
+      "credit": 4,
+      "title": "Count Unhappy Friends",
+      "title_slug": "count-unhappy-friends",
+      "likes": 270,
+      "dislikes": 832
+    },
+    {
+      "id": 1600,
+      "question_id": 1706,
+      "credit": 5,
+      "title": "Min Cost to Connect All Points",
+      "title_slug": "min-cost-to-connect-all-points",
+      "likes": 4824,
+      "dislikes": 117
+    },
+    {
+      "id": 1601,
+      "question_id": 1707,
+      "credit": 6,
+      "title": "Check If String Is Transformable With Substring Sort Operations",
+      "title_slug": "check-if-string-is-transformable-with-substring-sort-operations",
+      "likes": 429,
+      "dislikes": 7
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-48",
+  "data": [
+    {
+      "id": 1924,
+      "question_id": 1904,
+      "credit": 3,
+      "title": "Second Largest Digit in a String",
+      "title_slug": "second-largest-digit-in-a-string",
+      "likes": 501,
+      "dislikes": 125
+    },
+    {
+      "id": 1925,
+      "question_id": 1905,
+      "credit": 4,
+      "title": "Design Authentication Manager",
+      "title_slug": "design-authentication-manager",
+      "likes": 336,
+      "dislikes": 45
+    },
+    {
+      "id": 1936,
+      "question_id": 1930,
+      "credit": 5,
+      "title": "Maximum Number of Consecutive Values You Can Make",
+      "title_slug": "maximum-number-of-consecutive-values-you-can-make",
+      "likes": 748,
+      "dislikes": 54
+    },
+    {
+      "id": 1937,
+      "question_id": 1906,
+      "credit": 6,
+      "title": "Maximize Score After N Operations",
+      "title_slug": "maximize-score-after-n-operations",
+      "likes": 1590,
+      "dislikes": 111
+    }
+  ]
+}

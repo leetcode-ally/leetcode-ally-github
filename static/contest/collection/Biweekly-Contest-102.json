@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-102",
+  "data": [
+    {
+      "id": 3259,
+      "question_id": 2675,
+      "credit": 3,
+      "title": "Find the Width of Columns of a Grid",
+      "title_slug": "find-the-width-of-columns-of-a-grid",
+      "likes": 153,
+      "dislikes": 31
+    },
+    {
+      "id": 3260,
+      "question_id": 2676,
+      "credit": 4,
+      "title": "Find the Score of All Prefixes of an Array",
+      "title_slug": "find-the-score-of-all-prefixes-of-an-array",
+      "likes": 251,
+      "dislikes": 25
+    },
+    {
+      "id": 3261,
+      "question_id": 2677,
+      "credit": 5,
+      "title": "Cousins in Binary Tree II",
+      "title_slug": "cousins-in-binary-tree-ii",
+      "likes": 515,
+      "dislikes": 8
+    },
+    {
+      "id": 3262,
+      "question_id": 2678,
+      "credit": 6,
+      "title": "Design Graph With Shortest Path Calculator",
+      "title_slug": "design-graph-with-shortest-path-calculator",
+      "likes": 763,
+      "dislikes": 51
+    }
+  ]
+}

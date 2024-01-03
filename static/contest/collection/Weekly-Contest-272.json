@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-272",
+  "data": [
+    {
+      "id": 2414,
+      "question_id": 2231,
+      "credit": 3,
+      "title": "Find First Palindromic String in the Array",
+      "title_slug": "find-first-palindromic-string-in-the-array",
+      "likes": 979,
+      "dislikes": 32
+    },
+    {
+      "id": 2415,
+      "question_id": 2232,
+      "credit": 4,
+      "title": "Adding Spaces to a String",
+      "title_slug": "adding-spaces-to-a-string",
+      "likes": 524,
+      "dislikes": 60
+    },
+    {
+      "id": 2416,
+      "question_id": 2233,
+      "credit": 5,
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "title_slug": "number-of-smooth-descent-periods-of-a-stock",
+      "likes": 674,
+      "dislikes": 27
+    },
+    {
+      "id": 2417,
+      "question_id": 2234,
+      "credit": 6,
+      "title": "Minimum Operations to Make the Array K-Increasing",
+      "title_slug": "minimum-operations-to-make-the-array-k-increasing",
+      "likes": 680,
+      "dislikes": 12
+    }
+  ]
+}

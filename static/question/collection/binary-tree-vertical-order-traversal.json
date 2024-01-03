@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "314",
+      "title": "Binary Tree Vertical Order Traversal",
+      "titleSlug": "binary-tree-vertical-order-traversal",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 3101,
+      "dislikes": 306,
+      "similarQuestions": "[{\"title\": \"Binary Tree Level Order Traversal\", \"titleSlug\": \"binary-tree-level-order-traversal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"357.5K\", \"totalSubmission\": \"670.9K\", \"totalAcceptedRaw\": 357515, \"totalSubmissionRaw\": 670879, \"acRate\": \"53.3%\"}",
+      "hints": [
+        "Do BFS from the root. Let the root be at column 0. In the BFS, keep in the queue the node and its column.",
+        "When you traverse a node, store its value in the column index. For example, the root's value should be stored at index 0.",
+        "If the node has a left node, it column should be col - 1. Similarly, if the node has a right node, its column should be col + 1.",
+        "At the end, check the minimum and maximum col and output their values."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-tree-level-order-traversal",
+        "title": "Binary Tree Level Order Traversal",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Do BFS from the root. Let the root be at column 0. In the BFS, keep in the queue the node and its column.",
+      "When you traverse a node, store its value in the column index. For example, the root's value should be stored at index 0.",
+      "If the node has a left node, it column should be col - 1. Similarly, if the node has a right node, its column should be col + 1.",
+      "At the end, check the minimum and maximum col and output their values."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-39",
+  "data": [
+    {
+      "id": 1708,
+      "question_id": 1755,
+      "credit": 3,
+      "title": "Defuse the Bomb",
+      "title_slug": "defuse-the-bomb",
+      "likes": 704,
+      "dislikes": 66
+    },
+    {
+      "id": 1709,
+      "question_id": 1756,
+      "credit": 4,
+      "title": "Minimum Deletions to Make String Balanced",
+      "title_slug": "minimum-deletions-to-make-string-balanced",
+      "likes": 1272,
+      "dislikes": 36
+    },
+    {
+      "id": 1710,
+      "question_id": 1757,
+      "credit": 5,
+      "title": "Minimum Jumps to Reach Home",
+      "title_slug": "minimum-jumps-to-reach-home",
+      "likes": 1440,
+      "dislikes": 260
+    },
+    {
+      "id": 1711,
+      "question_id": 1758,
+      "credit": 6,
+      "title": "Distribute Repeating Integers",
+      "title_slug": "distribute-repeating-integers",
+      "likes": 394,
+      "dislikes": 22
+    }
+  ]
+}

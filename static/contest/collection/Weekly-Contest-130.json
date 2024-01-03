@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-130",
+  "data": [
+    {
+      "id": 636,
+      "question_id": 1071,
+      "credit": 4,
+      "title": "Binary Prefix Divisible By 5",
+      "title_slug": "binary-prefix-divisible-by-5",
+      "likes": 710,
+      "dislikes": 182
+    },
+    {
+      "id": 637,
+      "question_id": 1070,
+      "credit": 5,
+      "title": "Convert to Base -2",
+      "title_slug": "convert-to-base-2",
+      "likes": 494,
+      "dislikes": 281
+    },
+    {
+      "id": 638,
+      "question_id": 1072,
+      "credit": 5,
+      "title": "Next Greater Node In Linked List",
+      "title_slug": "next-greater-node-in-linked-list",
+      "likes": 3185,
+      "dislikes": 114
+    },
+    {
+      "id": 639,
+      "question_id": 1073,
+      "credit": 5,
+      "title": "Number of Enclaves",
+      "title_slug": "number-of-enclaves",
+      "likes": 3836,
+      "dislikes": 71
+    }
+  ]
+}

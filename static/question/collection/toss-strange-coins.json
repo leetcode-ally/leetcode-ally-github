@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1230",
+      "title": "Toss Strange Coins",
+      "titleSlug": "toss-strange-coins",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 379,
+      "dislikes": 46,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Probability and Statistics",
+          "slug": "probability-and-statistics"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"17.4K\", \"totalSubmission\": \"31K\", \"totalAcceptedRaw\": 17441, \"totalSubmissionRaw\": 30993, \"acRate\": \"56.3%\"}",
+      "hints": [
+        "What about solving the problem with DP?",
+        "Use DP with two states dp[pos][cnt], where pos represents the pos-th coin and cnt is the number of heads seen so far.",
+        "You can do the transitions with a little bit math.",
+        "For the base case, when pos == n return (cnt == target) to filter out the invalid scenarios."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "What about solving the problem with DP?",
+      "Use DP with two states dp[pos][cnt], where pos represents the pos-th coin and cnt is the number of heads seen so far.",
+      "You can do the transitions with a little bit math.",
+      "For the base case, when pos == n return (cnt == target) to filter out the invalid scenarios."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Probability and Statistics",
+        "slug": "probability-and-statistics"
+      }
+    ]
+  }
+}

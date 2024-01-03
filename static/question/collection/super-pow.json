@@ -1,0 +1,48 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "372",
+      "title": "Super Pow",
+      "titleSlug": "super-pow",
+      "content": "<p>Your task is to calculate <code>a<sup>b</sup></code> mod <code>1337</code> where <code>a</code> is a positive integer and <code>b</code> is an extremely large positive integer given in the form of an array.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> a = 2, b = [3]\n<strong>Output:</strong> 8\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> a = 2, b = [1,0]\n<strong>Output:</strong> 1024\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> a = 1, b = [4,3,3,8,5,2]\n<strong>Output:</strong> 1\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= a &lt;= 2<sup>31</sup> - 1</code></li>\n\t<li><code>1 &lt;= b.length &lt;= 2000</code></li>\n\t<li><code>0 &lt;= b[i] &lt;= 9</code></li>\n\t<li><code>b</code> does not contain leading zeros.</li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 871,
+      "dislikes": 1412,
+      "similarQuestions": "[{\"title\": \"Pow(x, n)\", \"titleSlug\": \"powx-n\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"66.6K\", \"totalSubmission\": \"188.1K\", \"totalAcceptedRaw\": 66643, \"totalSubmissionRaw\": 188081, \"acRate\": \"35.4%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "powx-n",
+        "title": "Pow(x, n)",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      }
+    ]
+  }
+}

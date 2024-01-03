@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1804",
+      "title": "Implement Trie II (Prefix Tree)",
+      "titleSlug": "implement-trie-ii-prefix-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 302,
+      "dislikes": 16,
+      "similarQuestions": "[{\"title\": \"Implement Trie (Prefix Tree)\", \"titleSlug\": \"implement-trie-prefix-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Encrypt and Decrypt Strings\", \"titleSlug\": \"encrypt-and-decrypt-strings\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"16.9K\", \"totalSubmission\": \"27.6K\", \"totalAcceptedRaw\": 16934, \"totalSubmissionRaw\": 27588, \"acRate\": \"61.4%\"}",
+      "hints": [
+        "Try to solve the first version first and reuse your code.",
+        "To implement the delete function, you should delete the trie nodes of the word if they are not shared with other words.",
+        "You should keep for each trie node a counter of how many words share this node."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "implement-trie-prefix-tree",
+        "title": "Implement Trie (Prefix Tree)",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "encrypt-and-decrypt-strings",
+        "title": "Encrypt and Decrypt Strings",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to solve the first version first and reuse your code.",
+      "To implement the delete function, you should delete the trie nodes of the word if they are not shared with other words.",
+      "You should keep for each trie node a counter of how many words share this node."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1085",
+      "title": "Sum of Digits in the Minimum Number",
+      "titleSlug": "sum-of-digits-in-the-minimum-number",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 114,
+      "dislikes": 151,
+      "similarQuestions": "[{\"title\": \"Add Digits\", \"titleSlug\": \"add-digits\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"23.5K\", \"totalSubmission\": \"30.7K\", \"totalAcceptedRaw\": 23493, \"totalSubmissionRaw\": 30731, \"acRate\": \"76.4%\"}",
+      "hints": [
+        "How to find the minimum number in an array?",
+        "Loop over the array and compare each one of the numbers.",
+        "How to find the sum of digits?",
+        "Divide the number consecutively and get their remainder modulus 10. Sum those remainders and return the answer as the problem asks."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "add-digits",
+        "title": "Add Digits",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How to find the minimum number in an array?",
+      "Loop over the array and compare each one of the numbers.",
+      "How to find the sum of digits?",
+      "Divide the number consecutively and get their remainder modulus 10. Sum those remainders and return the answer as the problem asks."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  }
+}

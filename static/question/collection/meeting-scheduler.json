@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1229",
+      "title": "Meeting Scheduler",
+      "titleSlug": "meeting-scheduler",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 869,
+      "dislikes": 33,
+      "similarQuestions": "[{\"title\": \"Merge Two 2D Arrays by Summing Values\", \"titleSlug\": \"merge-two-2d-arrays-by-summing-values\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"75.9K\", \"totalSubmission\": \"137.6K\", \"totalAcceptedRaw\": 75855, \"totalSubmissionRaw\": 137632, \"acRate\": \"55.1%\"}",
+      "hints": [
+        "Assume that in the solution, the selected slot from slotsA is bigger than the respectively selected slot from slotsB.",
+        "Use two pointers in order to try all the possible intersections, and check the length.",
+        "Do the same in step N° 1 but now assume that the selected slot from slotsB is bigger, return the minimum of the two options."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "merge-two-2d-arrays-by-summing-values",
+        "title": "Merge Two 2D Arrays by Summing Values",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Assume that in the solution, the selected slot from slotsA is bigger than the respectively selected slot from slotsB.",
+      "Use two pointers in order to try all the possible intersections, and check the length.",
+      "Do the same in step N° 1 but now assume that the selected slot from slotsB is bigger, return the minimum of the two options."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

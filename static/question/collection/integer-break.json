@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "343",
+      "title": "Integer Break",
+      "titleSlug": "integer-break",
+      "content": "<p>Given an integer <code>n</code>, break it into the sum of <code>k</code> <strong>positive integers</strong>, where <code>k &gt;= 2</code>, and maximize the product of those integers.</p>\n\n<p>Return <em>the maximum product you can get</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 2\n<strong>Output:</strong> 1\n<strong>Explanation:</strong> 2 = 1 + 1, 1 &times; 1 = 1.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 10\n<strong>Output:</strong> 36\n<strong>Explanation:</strong> 10 = 3 + 3 + 4, 3 &times; 3 &times; 4 = 36.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>2 &lt;= n &lt;= 58</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 4973,
+      "dislikes": 431,
+      "similarQuestions": "[{\"title\": \"Maximize Number of Nice Divisors\", \"titleSlug\": \"maximize-number-of-nice-divisors\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"340.1K\", \"totalSubmission\": \"566.2K\", \"totalAcceptedRaw\": 340128, \"totalSubmissionRaw\": 566242, \"acRate\": \"60.1%\"}",
+      "hints": [
+        "There is a simple O(n) solution to this problem.",
+        "You may check the breaking results of <i>n</i> ranging from 7 to 10 to discover the regularities."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "maximize-number-of-nice-divisors",
+        "title": "Maximize Number of Nice Divisors",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "There is a simple O(n) solution to this problem.",
+      "You may check the breaking results of <i>n</i> ranging from 7 to 10 to discover the regularities."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

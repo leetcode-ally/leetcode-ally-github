@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2604",
+      "title": "Minimum Time to Eat All Grains",
+      "titleSlug": "minimum-time-to-eat-all-grains",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 37,
+      "dislikes": 2,
+      "similarQuestions": "[{\"title\": \"Kth Smallest Number in Multiplication Table\", \"titleSlug\": \"kth-smallest-number-in-multiplication-table\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"842\", \"totalSubmission\": \"1.9K\", \"totalAcceptedRaw\": 842, \"totalSubmissionRaw\": 1910, \"acRate\": \"44.1%\"}",
+      "hints": [
+        "Binary search the answer.",
+        "To check if an answer is possible, for the ith hen check how far right it can go after ensuring that it eats the leftmost uneaten grain.",
+        "If the last grain is eaten in this process, the answer is possible."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "kth-smallest-number-in-multiplication-table",
+        "title": "Kth Smallest Number in Multiplication Table",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Binary search the answer.",
+      "To check if an answer is possible, for the ith hen check how far right it can go after ensuring that it eats the leftmost uneaten grain.",
+      "If the last grain is eaten in this process, the answer is possible."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

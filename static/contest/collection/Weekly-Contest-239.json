@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-239",
+  "data": [
+    {
+      "id": 2010,
+      "question_id": 1975,
+      "credit": 3,
+      "title": "Minimum Distance to the Target Element",
+      "title_slug": "minimum-distance-to-the-target-element",
+      "likes": 342,
+      "dislikes": 59
+    },
+    {
+      "id": 2011,
+      "question_id": 1976,
+      "credit": 4,
+      "title": "Splitting a String Into Descending Consecutive Values",
+      "title_slug": "splitting-a-string-into-descending-consecutive-values",
+      "likes": 502,
+      "dislikes": 110
+    },
+    {
+      "id": 2012,
+      "question_id": 1978,
+      "credit": 5,
+      "title": "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+      "title_slug": "minimum-adjacent-swaps-to-reach-the-kth-smallest-number",
+      "likes": 738,
+      "dislikes": 96
+    },
+    {
+      "id": 2013,
+      "question_id": 1977,
+      "credit": 6,
+      "title": "Minimum Interval to Include Each Query",
+      "title_slug": "minimum-interval-to-include-each-query",
+      "likes": 870,
+      "dislikes": 23
+    }
+  ]
+}

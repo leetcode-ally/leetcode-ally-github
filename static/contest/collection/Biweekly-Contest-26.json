@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-26",
+  "data": [
+    {
+      "id": 1398,
+      "question_id": 1542,
+      "credit": 3,
+      "title": "Consecutive Characters",
+      "title_slug": "consecutive-characters",
+      "likes": 1695,
+      "dislikes": 33
+    },
+    {
+      "id": 1399,
+      "question_id": 1543,
+      "credit": 4,
+      "title": "Simplified Fractions",
+      "title_slug": "simplified-fractions",
+      "likes": 400,
+      "dislikes": 43
+    },
+    {
+      "id": 1400,
+      "question_id": 1544,
+      "credit": 5,
+      "title": "Count Good Nodes in Binary Tree",
+      "title_slug": "count-good-nodes-in-binary-tree",
+      "likes": 5564,
+      "dislikes": 144
+    },
+    {
+      "id": 1401,
+      "question_id": 1545,
+      "credit": 7,
+      "title": "Form Largest Integer With Digits That Add up to Target",
+      "title_slug": "form-largest-integer-with-digits-that-add-up-to-target",
+      "likes": 667,
+      "dislikes": 15
+    }
+  ]
+}

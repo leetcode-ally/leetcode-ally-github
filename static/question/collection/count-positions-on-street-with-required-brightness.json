@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2237",
+      "title": "Count Positions on Street With Required Brightness",
+      "titleSlug": "count-positions-on-street-with-required-brightness",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 72,
+      "dislikes": 5,
+      "similarQuestions": "[{\"title\": \"Range Addition\", \"titleSlug\": \"range-addition\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Brightest Position on Street\", \"titleSlug\": \"brightest-position-on-street\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Increment Submatrices by One\", \"titleSlug\": \"increment-submatrices-by-one\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.7K\", \"totalSubmission\": \"4.2K\", \"totalAcceptedRaw\": 2660, \"totalSubmissionRaw\": 4174, \"acRate\": \"63.7%\"}",
+      "hints": [
+        "How can we find the brightness at every position on the street?",
+        "We can use a hash table to store the change in brightness from the previous position to the current position."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "range-addition",
+        "title": "Range Addition",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "brightest-position-on-street",
+        "title": "Brightest Position on Street",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "increment-submatrices-by-one",
+        "title": "Increment Submatrices by One",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How can we find the brightness at every position on the street?",
+      "We can use a hash table to store the change in brightness from the previous position to the current position."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

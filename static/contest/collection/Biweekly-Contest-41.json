@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-41",
+  "data": [
+    {
+      "id": 1756,
+      "question_id": 1786,
+      "credit": 3,
+      "title": "Count the Number of Consistent Strings",
+      "title_slug": "count-the-number-of-consistent-strings",
+      "likes": 1643,
+      "dislikes": 64
+    },
+    {
+      "id": 1757,
+      "question_id": 1787,
+      "credit": 4,
+      "title": "Sum of Absolute Differences in a Sorted Array",
+      "title_slug": "sum-of-absolute-differences-in-a-sorted-array",
+      "likes": 1982,
+      "dislikes": 68
+    },
+    {
+      "id": 1758,
+      "question_id": 1788,
+      "credit": 5,
+      "title": "Stone Game VI",
+      "title_slug": "stone-game-vi",
+      "likes": 781,
+      "dislikes": 65
+    },
+    {
+      "id": 1759,
+      "question_id": 1789,
+      "credit": 7,
+      "title": "Delivering Boxes from Storage to Ports",
+      "title_slug": "delivering-boxes-from-storage-to-ports",
+      "likes": 360,
+      "dislikes": 28
+    }
+  ]
+}

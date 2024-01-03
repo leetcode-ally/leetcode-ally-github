@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1660",
+      "title": "Correct a Binary Tree",
+      "titleSlug": "correct-a-binary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 261,
+      "dislikes": 43,
+      "similarQuestions": "[{\"title\": \"Flatten Binary Tree to Linked List\", \"titleSlug\": \"flatten-binary-tree-to-linked-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Flatten a Multilevel Doubly Linked List\", \"titleSlug\": \"flatten-a-multilevel-doubly-linked-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"18.4K\", \"totalSubmission\": \"24.7K\", \"totalAcceptedRaw\": 18398, \"totalSubmissionRaw\": 24723, \"acRate\": \"74.4%\"}",
+      "hints": [
+        "If you traverse the tree from right to left, the invalid node will point to a node that has already been visited."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "flatten-binary-tree-to-linked-list",
+        "title": "Flatten Binary Tree to Linked List",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "flatten-a-multilevel-doubly-linked-list",
+        "title": "Flatten a Multilevel Doubly Linked List",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "If you traverse the tree from right to left, the invalid node will point to a node that has already been visited."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

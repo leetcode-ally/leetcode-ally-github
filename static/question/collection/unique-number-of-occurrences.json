@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "titleSlug": "unique-number-of-occurrences",
+      "content": "<p>Given an array of integers <code>arr</code>, return <code>true</code> <em>if the number of occurrences of each value in the array is <strong>unique</strong> or </em><code>false</code><em> otherwise</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> arr = [1,2,2,1,1,3]\n<strong>Output:</strong> true\n<strong>Explanation:</strong>&nbsp;The value 1 has 3 occurrences, 2 has 2 and 3 has 1. No two values have the same number of occurrences.</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> arr = [1,2]\n<strong>Output:</strong> false\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> arr = [-3,0,1,-3,1,1,1,-3,10,0]\n<strong>Output:</strong> true\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= arr.length &lt;= 1000</code></li>\n\t<li><code>-1000 &lt;= arr[i] &lt;= 1000</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Easy",
+      "likes": 4415,
+      "dislikes": 104,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"396.3K\", \"totalSubmission\": \"531.1K\", \"totalAcceptedRaw\": 396267, \"totalSubmissionRaw\": 531054, \"acRate\": \"74.6%\"}",
+      "hints": [
+        "Find the number of occurrences of each element in the array using a hash map.",
+        "Iterate through the hash map and check if there is a repeated value."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Find the number of occurrences of each element in the array using a hash map.",
+      "Iterate through the hash map and check if there is a repeated value."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-74",
+  "data": [
+    {
+      "id": 2582,
+      "question_id": 2308,
+      "credit": 3,
+      "title": "Divide Array Into Equal Pairs",
+      "title_slug": "divide-array-into-equal-pairs",
+      "likes": 676,
+      "dislikes": 31
+    },
+    {
+      "id": 2583,
+      "question_id": 2309,
+      "credit": 4,
+      "title": "Maximize Number of Subsequences in a String",
+      "title_slug": "maximize-number-of-subsequences-in-a-string",
+      "likes": 461,
+      "dislikes": 30
+    },
+    {
+      "id": 2584,
+      "question_id": 2310,
+      "credit": 5,
+      "title": "Minimum Operations to Halve Array Sum",
+      "title_slug": "minimum-operations-to-halve-array-sum",
+      "likes": 563,
+      "dislikes": 27
+    },
+    {
+      "id": 2585,
+      "question_id": 2311,
+      "credit": 6,
+      "title": "Minimum White Tiles After Covering With Carpets",
+      "title_slug": "minimum-white-tiles-after-covering-with-carpets",
+      "likes": 488,
+      "dislikes": 16
+    }
+  ]
+}

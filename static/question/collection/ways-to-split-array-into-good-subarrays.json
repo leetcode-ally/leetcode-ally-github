@@ -1,0 +1,70 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2750",
+      "title": "Ways to Split Array Into Good Subarrays",
+      "titleSlug": "ways-to-split-array-into-good-subarrays",
+      "content": "<p>You are given a binary array <code>nums</code>.</p>\n\n<p>A subarray of an array is <strong>good</strong> if it contains <strong>exactly</strong> <strong>one</strong> element with the value <code>1</code>.</p>\n\n<p>Return <em>an integer denoting the number of ways to split the array </em><code>nums</code><em> into <strong>good</strong> subarrays</em>. As the number may be too large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>\n\n<p>A subarray is a contiguous <strong>non-empty</strong> sequence of elements within an array.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [0,1,0,0,1]\n<strong>Output:</strong> 3\n<strong>Explanation:</strong> There are 3 ways to split nums into good subarrays:\n- [0,1] [0,0,1]\n- [0,1,0] [0,1]\n- [0,1,0,0] [1]\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [0,1,0]\n<strong>Output:</strong> 1\n<strong>Explanation:</strong> There is 1 way to split nums into good subarrays:\n- [0,1,0]\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>0 &lt;= nums[i] &lt;= 1</code></li>\n</ul>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 385,
+      "dislikes": 11,
+      "similarQuestions": "[{\"title\": \"Binary Subarrays With Sum\", \"titleSlug\": \"binary-subarrays-with-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Number of Nice Subarrays\", \"titleSlug\": \"count-number-of-nice-subarrays\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"18.2K\", \"totalSubmission\": \"55K\", \"totalAcceptedRaw\": 18246, \"totalSubmissionRaw\": 55011, \"acRate\": \"33.2%\"}",
+      "hints": [
+        "If the array consists of only 0s answer is 0.",
+        "In the final split, exactly one separation point exists between two consecutive 1s.",
+        "In how many ways can separation points be put?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "binary-subarrays-with-sum",
+        "title": "Binary Subarrays With Sum",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-number-of-nice-subarrays",
+        "title": "Count Number of Nice Subarrays",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "If the array consists of only 0s answer is 0.",
+      "In the final split, exactly one separation point exists between two consecutive 1s.",
+      "In how many ways can separation points be put?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  }
+}

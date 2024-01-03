@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2408",
+      "title": "Design SQL",
+      "titleSlug": "design-sql",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 42,
+      "dislikes": 64,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.9K\", \"totalSubmission\": \"5K\", \"totalAcceptedRaw\": 3912, \"totalSubmissionRaw\": 5026, \"acRate\": \"77.8%\"}",
+      "hints": [
+        "What data structure do you need to use for this problem?",
+        "Try using a Hash map, each table name will be the key, and the value will be an array of all rows."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "What data structure do you need to use for this problem?",
+      "Try using a Hash map, each table name will be the key, and the value will be an array of all rows."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ]
+  }
+}

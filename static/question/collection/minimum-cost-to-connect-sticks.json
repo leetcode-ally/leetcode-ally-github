@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1167",
+      "title": "Minimum Cost to Connect Sticks",
+      "titleSlug": "minimum-cost-to-connect-sticks",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 1265,
+      "dislikes": 151,
+      "similarQuestions": "[{\"title\": \"Minimum Cost to Merge Stones\", \"titleSlug\": \"minimum-cost-to-merge-stones\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"111.8K\", \"totalSubmission\": \"161.6K\", \"totalAcceptedRaw\": 111813, \"totalSubmissionRaw\": 161560, \"acRate\": \"69.2%\"}",
+      "hints": [
+        "How many times does every stick contribute to the answer?",
+        "Some of the sticks will be used more than the others. Which sticks should be used the most/least?",
+        "The sticks with long lengths cost a lot so we should use these the least.",
+        "What if we keep merging the two shortest sticks?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-cost-to-merge-stones",
+        "title": "Minimum Cost to Merge Stones",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How many times does every stick contribute to the answer?",
+      "Some of the sticks will be used more than the others. Which sticks should be used the most/least?",
+      "The sticks with long lengths cost a lot so we should use these the least.",
+      "What if we keep merging the two shortest sticks?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  }
+}

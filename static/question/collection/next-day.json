@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2758",
+      "title": "Next Day",
+      "titleSlug": "next-day",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 12,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"606\", \"totalSubmission\": \"699\", \"totalAcceptedRaw\": 606, \"totalSubmissionRaw\": 699, \"acRate\": \"86.7%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2647",
+      "title": "Color the Triangle Red",
+      "titleSlug": "color-the-triangle-red",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 10,
+      "dislikes": 13,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"279\", \"totalSubmission\": \"412\", \"totalAcceptedRaw\": 279, \"totalSubmissionRaw\": 412, \"acRate\": \"67.7%\"}",
+      "hints": [
+        "Calculate the minimal value of k by strategically designing a monovariant.",
+        "Construct the solution four rows at a time, going bottom up."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Calculate the minimal value of k by strategically designing a monovariant.",
+      "Construct the solution four rows at a time, going bottom up."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2489",
+      "title": "Number of Substrings With Fixed Ratio",
+      "titleSlug": "number-of-substrings-with-fixed-ratio",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 36,
+      "dislikes": 2,
+      "similarQuestions": "[{\"title\": \"Count Binary Substrings\", \"titleSlug\": \"count-binary-substrings\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"760\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 760, \"totalSubmissionRaw\": 1295, \"acRate\": \"58.7%\"}",
+      "hints": [
+        "Let Func(i) denote the number of 0’s in the prefix [0…i]. We want to find the number of pairs of indices L and R such that Func(R) - Func(L) : R - L - Func(R) + Func(L) = num1 : num2.",
+        "It is better to simplify the formula.",
+        "Func(R) * (num1 + num2) - R * num1 = Func(L) * (num1 + num2) - L * num1.",
+        "Iterate from left to right and use a hash map to count the number of indices having the same value for the above formula."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "count-binary-substrings",
+        "title": "Count Binary Substrings",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Let Func(i) denote the number of 0’s in the prefix [0…i]. We want to find the number of pairs of indices L and R such that Func(R) - Func(L) : R - L - Func(R) + Func(L) = num1 : num2.",
+      "It is better to simplify the formula.",
+      "Func(R) * (num1 + num2) - R * num1 = Func(L) * (num1 + num2) - L * num1.",
+      "Iterate from left to right and use a hash map to count the number of indices having the same value for the above formula."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

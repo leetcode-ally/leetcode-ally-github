@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-31",
+  "data": [
+    {
+      "id": 1518,
+      "question_id": 1630,
+      "credit": 3,
+      "title": "Count Odd Numbers in an Interval Range",
+      "title_slug": "count-odd-numbers-in-an-interval-range",
+      "likes": 2702,
+      "dislikes": 154
+    },
+    {
+      "id": 1519,
+      "question_id": 1631,
+      "credit": 4,
+      "title": "Number of Sub-arrays With Odd Sum",
+      "title_slug": "number-of-sub-arrays-with-odd-sum",
+      "likes": 1302,
+      "dislikes": 57
+    },
+    {
+      "id": 1520,
+      "question_id": 1632,
+      "credit": 5,
+      "title": "Number of Good Ways to Split a String",
+      "title_slug": "number-of-good-ways-to-split-a-string",
+      "likes": 1989,
+      "dislikes": 46
+    },
+    {
+      "id": 1521,
+      "question_id": 1633,
+      "credit": 7,
+      "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "title_slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "likes": 1396,
+      "dislikes": 64
+    }
+  ]
+}

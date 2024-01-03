@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-66",
+  "data": [
+    {
+      "id": 2362,
+      "question_id": 2190,
+      "credit": 3,
+      "title": "Count Common Words With One Occurrence",
+      "title_slug": "count-common-words-with-one-occurrence",
+      "likes": 752,
+      "dislikes": 16
+    },
+    {
+      "id": 2363,
+      "question_id": 2191,
+      "credit": 4,
+      "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "title_slug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "likes": 511,
+      "dislikes": 23
+    },
+    {
+      "id": 2364,
+      "question_id": 2192,
+      "credit": 5,
+      "title": "Minimum Cost Homecoming of a Robot in a Grid",
+      "title_slug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "likes": 638,
+      "dislikes": 85
+    },
+    {
+      "id": 2365,
+      "question_id": 2193,
+      "credit": 6,
+      "title": "Count Fertile Pyramids in a Land",
+      "title_slug": "count-fertile-pyramids-in-a-land",
+      "likes": 343,
+      "dislikes": 15
+    }
+  ]
+}

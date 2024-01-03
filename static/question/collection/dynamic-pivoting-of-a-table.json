@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2252",
+      "title": "Dynamic Pivoting of a Table",
+      "titleSlug": "dynamic-pivoting-of-a-table",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 27,
+      "dislikes": 7,
+      "similarQuestions": "[{\"title\": \"Product's Price for Each Store\", \"titleSlug\": \"products-price-for-each-store\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.3K\", \"totalSubmission\": \"2.4K\", \"totalAcceptedRaw\": 1280, \"totalSubmissionRaw\": 2356, \"acRate\": \"54.3%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "products-price-for-each-store",
+        "title": "Product's Price for Each Store",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

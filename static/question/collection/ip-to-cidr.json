@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "751",
+      "title": "IP to CIDR",
+      "titleSlug": "ip-to-cidr",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 76,
+      "dislikes": 298,
+      "similarQuestions": "[{\"title\": \"Restore IP Addresses\", \"titleSlug\": \"restore-ip-addresses\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Validate IP Address\", \"titleSlug\": \"validate-ip-address\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"21.9K\", \"totalSubmission\": \"40.1K\", \"totalAcceptedRaw\": 21851, \"totalSubmissionRaw\": 40094, \"acRate\": \"54.5%\"}",
+      "hints": [
+        "Convert the ip addresses to and from (long) integers.  You want to know what is the most addresses you can put in this block starting from the \"start\" ip, up to n.  It is the smallest between the lowest bit of start and the highest bit of n.  Then, repeat this process with a new start and n."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "restore-ip-addresses",
+        "title": "Restore IP Addresses",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "validate-ip-address",
+        "title": "Validate IP Address",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Convert the ip addresses to and from (long) integers.  You want to know what is the most addresses you can put in this block starting from the \"start\" ip, up to n.  It is the smallest between the lowest bit of start and the highest bit of n.  Then, repeat this process with a new start and n."
+    ],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  }
+}

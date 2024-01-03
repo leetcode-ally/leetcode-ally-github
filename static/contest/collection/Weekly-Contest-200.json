@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-200",
+  "data": [
+    {
+      "id": 1526,
+      "question_id": 1656,
+      "credit": 3,
+      "title": "Count Good Triplets",
+      "title_slug": "count-good-triplets",
+      "likes": 723,
+      "dislikes": 1176
+    },
+    {
+      "id": 1527,
+      "question_id": 1657,
+      "credit": 4,
+      "title": "Find the Winner of an Array Game",
+      "title_slug": "find-the-winner-of-an-array-game",
+      "likes": 1525,
+      "dislikes": 73
+    },
+    {
+      "id": 1528,
+      "question_id": 1658,
+      "credit": 5,
+      "title": "Minimum Swaps to Arrange a Binary Grid",
+      "title_slug": "minimum-swaps-to-arrange-a-binary-grid",
+      "likes": 549,
+      "dislikes": 69
+    },
+    {
+      "id": 1529,
+      "question_id": 1659,
+      "credit": 6,
+      "title": "Get the Maximum Score",
+      "title_slug": "get-the-maximum-score",
+      "likes": 944,
+      "dislikes": 49
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-294",
+  "data": [
+    {
+      "id": 2698,
+      "question_id": 2365,
+      "credit": 3,
+      "title": "Percentage of Letter in String",
+      "title_slug": "percentage-of-letter-in-string",
+      "likes": 474,
+      "dislikes": 53
+    },
+    {
+      "id": 2699,
+      "question_id": 2366,
+      "credit": 4,
+      "title": "Maximum Bags With Full Capacity of Rocks",
+      "title_slug": "maximum-bags-with-full-capacity-of-rocks",
+      "likes": 1621,
+      "dislikes": 68
+    },
+    {
+      "id": 2700,
+      "question_id": 2367,
+      "credit": 5,
+      "title": "Minimum Lines to Represent a Line Chart",
+      "title_slug": "minimum-lines-to-represent-a-line-chart",
+      "likes": 322,
+      "dislikes": 509
+    },
+    {
+      "id": 2701,
+      "question_id": 2368,
+      "credit": 6,
+      "title": "Sum of Total Strength of Wizards",
+      "title_slug": "sum-of-total-strength-of-wizards",
+      "likes": 1115,
+      "dislikes": 90
+    }
+  ]
+}

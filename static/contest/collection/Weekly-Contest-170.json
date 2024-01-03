@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-170",
+  "data": [
+    {
+      "id": 1166,
+      "question_id": 1434,
+      "credit": 3,
+      "title": "Decrypt String from Alphabet to Integer Mapping",
+      "title_slug": "decrypt-string-from-alphabet-to-integer-mapping",
+      "likes": 1497,
+      "dislikes": 105
+    },
+    {
+      "id": 1167,
+      "question_id": 1435,
+      "credit": 5,
+      "title": "XOR Queries of a Subarray",
+      "title_slug": "xor-queries-of-a-subarray",
+      "likes": 1443,
+      "dislikes": 37
+    },
+    {
+      "id": 1168,
+      "question_id": 1436,
+      "credit": 5,
+      "title": "Get Watched Videos by Your Friends",
+      "title_slug": "get-watched-videos-by-your-friends",
+      "likes": 359,
+      "dislikes": 407
+    },
+    {
+      "id": 1169,
+      "question_id": 1437,
+      "credit": 7,
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "title_slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+      "likes": 4805,
+      "dislikes": 61
+    }
+  ]
+}

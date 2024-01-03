@@ -1,0 +1,61 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "750",
+      "title": "Number Of Corner Rectangles",
+      "titleSlug": "number-of-corner-rectangles",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 613,
+      "dislikes": 91,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"38K\", \"totalSubmission\": \"56.2K\", \"totalAcceptedRaw\": 37997, \"totalSubmissionRaw\": 56159, \"acRate\": \"67.7%\"}",
+      "hints": [
+        "For each pair of 1s in the new row (say at `new_row[i]` and `new_row[j]`), we could create more rectangles where that pair forms the base.  The number of new rectangles is the number of times some previous row had `row[i] = row[j] = 1`."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "For each pair of 1s in the new row (say at `new_row[i]` and `new_row[j]`), we could create more rectangles where that pair forms the base.  The number of new rectangles is the number of times some previous row had `row[i] = row[j] = 1`."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

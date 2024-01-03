@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2298",
+      "title": "Tasks Count in the Weekend",
+      "titleSlug": "tasks-count-in-the-weekend",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 43,
+      "dislikes": 9,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5K\", \"totalSubmission\": \"6.2K\", \"totalAcceptedRaw\": 4974, \"totalSubmissionRaw\": 6169, \"acRate\": \"80.6%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

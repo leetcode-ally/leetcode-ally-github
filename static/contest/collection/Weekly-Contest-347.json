@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-347",
+  "data": [
+    {
+      "id": 3333,
+      "question_id": 2819,
+      "credit": 3,
+      "title": "Remove Trailing Zeros From a String",
+      "title_slug": "remove-trailing-zeros-from-a-string",
+      "likes": 274,
+      "dislikes": 9
+    },
+    {
+      "id": 3334,
+      "question_id": 2801,
+      "credit": 4,
+      "title": "Difference of Number of Distinct Values on Diagonals",
+      "title_slug": "difference-of-number-of-distinct-values-on-diagonals",
+      "likes": 113,
+      "dislikes": 198
+    },
+    {
+      "id": 3335,
+      "question_id": 2817,
+      "credit": 5,
+      "title": "Minimum Cost to Make All Characters Equal",
+      "title_slug": "minimum-cost-to-make-all-characters-equal",
+      "likes": 497,
+      "dislikes": 21
+    },
+    {
+      "id": 3336,
+      "question_id": 2818,
+      "credit": 6,
+      "title": "Maximum Strictly Increasing Cells in a Matrix",
+      "title_slug": "maximum-strictly-increasing-cells-in-a-matrix",
+      "likes": 512,
+      "dislikes": 18
+    }
+  ]
+}

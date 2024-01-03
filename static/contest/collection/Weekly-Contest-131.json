@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-131",
+  "data": [
+    {
+      "id": 652,
+      "question_id": 1078,
+      "credit": 5,
+      "title": "Remove Outermost Parentheses",
+      "title_slug": "remove-outermost-parentheses",
+      "likes": 2677,
+      "dislikes": 1537
+    },
+    {
+      "id": 653,
+      "question_id": 1079,
+      "credit": 5,
+      "title": "Sum of Root To Leaf Binary Numbers",
+      "title_slug": "sum-of-root-to-leaf-binary-numbers",
+      "likes": 3268,
+      "dislikes": 183
+    },
+    {
+      "id": 654,
+      "question_id": 1080,
+      "credit": 6,
+      "title": "Camelcase Matching",
+      "title_slug": "camelcase-matching",
+      "likes": 854,
+      "dislikes": 313
+    },
+    {
+      "id": 655,
+      "question_id": 1081,
+      "credit": 6,
+      "title": "Video Stitching",
+      "title_slug": "video-stitching",
+      "likes": 1715,
+      "dislikes": 60
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1885",
+      "title": "Count Pairs in Two Arrays",
+      "titleSlug": "count-pairs-in-two-arrays",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 166,
+      "dislikes": 12,
+      "similarQuestions": "[{\"title\": \"Max Value of Equation\", \"titleSlug\": \"max-value-of-equation\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Substrings That Begin and End With the Same Letter\", \"titleSlug\": \"substrings-that-begin-and-end-with-the-same-letter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.3K\", \"totalSubmission\": \"8.9K\", \"totalAcceptedRaw\": 5260, \"totalSubmissionRaw\": 8905, \"acRate\": \"59.1%\"}",
+      "hints": [
+        "We can write it as nums1[i] - nums2[i] > nums2[j] - nums1[j] instead of nums1[i] + nums1[j] > nums2[i] + nums2[j].",
+        "Store nums1[idx] - nums2[idx] in a data structure.",
+        "Store nums2[idx] - nums1[idx] in a different data structure.",
+        "For each integer in the first data structure, count the number of the strictly smaller integers in the second data structure with a larger index in the original array."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "max-value-of-equation",
+        "title": "Max Value of Equation",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+        "title": "Substrings That Begin and End With the Same Letter",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "We can write it as nums1[i] - nums2[i] > nums2[j] - nums1[j] instead of nums1[i] + nums1[j] > nums2[i] + nums2[j].",
+      "Store nums1[idx] - nums2[idx] in a data structure.",
+      "Store nums2[idx] - nums1[idx] in a different data structure.",
+      "For each integer in the first data structure, count the number of the strictly smaller integers in the second data structure with a larger index in the original array."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

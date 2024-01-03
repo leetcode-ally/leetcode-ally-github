@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2686",
+      "title": "Immediate Food Delivery III",
+      "titleSlug": "immediate-food-delivery-iii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 10,
+      "dislikes": 0,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.4K\", \"totalSubmission\": \"2.4K\", \"totalAcceptedRaw\": 1417, \"totalSubmissionRaw\": 2356, \"acRate\": \"60.1%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

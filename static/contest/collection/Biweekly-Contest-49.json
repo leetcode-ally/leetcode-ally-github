@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-49",
+  "data": [
+    {
+      "id": 1954,
+      "question_id": 1920,
+      "credit": 3,
+      "title": "Determine Color of a Chessboard Square",
+      "title_slug": "determine-color-of-a-chessboard-square",
+      "likes": 769,
+      "dislikes": 16
+    },
+    {
+      "id": 1955,
+      "question_id": 1923,
+      "credit": 4,
+      "title": "Sentence Similarity III",
+      "title_slug": "sentence-similarity-iii",
+      "likes": 384,
+      "dislikes": 61
+    },
+    {
+      "id": 1956,
+      "question_id": 1925,
+      "credit": 5,
+      "title": "Count Nice Pairs in an Array",
+      "title_slug": "count-nice-pairs-in-an-array",
+      "likes": 1728,
+      "dislikes": 76
+    },
+    {
+      "id": 1957,
+      "question_id": 1924,
+      "credit": 6,
+      "title": "Maximum Number of Groups Getting Fresh Donuts",
+      "title_slug": "maximum-number-of-groups-getting-fresh-donuts",
+      "likes": 332,
+      "dislikes": 23
+    }
+  ]
+}

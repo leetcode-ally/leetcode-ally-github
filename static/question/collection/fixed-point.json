@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1064",
+      "title": "Fixed Point",
+      "titleSlug": "fixed-point",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 431,
+      "dislikes": 66,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"42.9K\", \"totalSubmission\": \"66.8K\", \"totalAcceptedRaw\": 42858, \"totalSubmissionRaw\": 66826, \"acRate\": \"64.1%\"}",
+      "hints": [
+        "Loop over the array and check the first index i such A[i] == i"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Loop over the array and check the first index i such A[i] == i"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "580",
+      "title": "Count Student Number in Departments",
+      "titleSlug": "count-student-number-in-departments",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 241,
+      "dislikes": 35,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"64.2K\", \"totalSubmission\": \"109.2K\", \"totalAcceptedRaw\": 64154, \"totalSubmissionRaw\": 109181, \"acRate\": \"58.8%\"}",
+      "hints": [
+        "Still remember the difference between 'INNER JOIN' and 'OUTTER JOIN' in SQL?",
+        "Do you know other expressions using the 'COUNT' function besides 'COUNT(*)'?"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Still remember the difference between 'INNER JOIN' and 'OUTTER JOIN' in SQL?",
+      "Do you know other expressions using the 'COUNT' function besides 'COUNT(*)'?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

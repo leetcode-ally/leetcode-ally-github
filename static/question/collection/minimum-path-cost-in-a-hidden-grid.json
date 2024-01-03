@@ -1,0 +1,86 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1810",
+      "title": "Minimum Path Cost in a Hidden Grid",
+      "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 76,
+      "dislikes": 26,
+      "similarQuestions": "[{\"title\": \"Robot Room Cleaner\", \"titleSlug\": \"robot-room-cleaner\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Shortest Path in a Hidden Grid\", \"titleSlug\": \"shortest-path-in-a-hidden-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.7K\", \"totalSubmission\": \"4.9K\", \"totalAcceptedRaw\": 2719, \"totalSubmissionRaw\": 4921, \"acRate\": \"55.3%\"}",
+      "hints": [
+        "The grid is at a maximum 100 x 100, so it is clever to assume that the robot's initial cell is grid[101][101]",
+        "Run a DFS from the robot's position to make sure that you can reach the target, otherwise you should return -1.",
+        "Now that you are sure you can reach the target and that you know the grid, run Dijkstra to find the minimum cost."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "robot-room-cleaner",
+        "title": "Robot Room Cleaner",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "shortest-path-in-a-hidden-grid",
+        "title": "Shortest Path in a Hidden Grid",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "The grid is at a maximum 100 x 100, so it is clever to assume that the robot's initial cell is grid[101][101]",
+      "Run a DFS from the robot's position to make sure that you can reach the target, otherwise you should return -1.",
+      "Now that you are sure you can reach the target and that you know the grid, run Dijkstra to find the minimum cost."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ]
+  }
+}

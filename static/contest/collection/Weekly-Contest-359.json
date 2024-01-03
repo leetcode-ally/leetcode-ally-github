@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-359",
+  "data": [
+    {
+      "id": 3486,
+      "question_id": 2977,
+      "credit": 3,
+      "title": "Check if a String Is an Acronym of Words",
+      "title_slug": "check-if-a-string-is-an-acronym-of-words",
+      "likes": 274,
+      "dislikes": 8
+    },
+    {
+      "id": 3487,
+      "question_id": 2811,
+      "credit": 4,
+      "title": "Determine the Minimum Sum of a k-avoiding Array",
+      "title_slug": "determine-the-minimum-sum-of-a-k-avoiding-array",
+      "likes": 312,
+      "dislikes": 8
+    },
+    {
+      "id": 3488,
+      "question_id": 2979,
+      "credit": 5,
+      "title": "Maximize the Profit as the Salesman",
+      "title_slug": "maximize-the-profit-as-the-salesman",
+      "likes": 610,
+      "dislikes": 21
+    },
+    {
+      "id": 3489,
+      "question_id": 2832,
+      "credit": 5,
+      "title": "Find the Longest Equal Subarray",
+      "title_slug": "find-the-longest-equal-subarray",
+      "likes": 596,
+      "dislikes": 16
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1940",
+      "title": "Longest Common Subsequence Between Sorted Arrays",
+      "titleSlug": "longest-common-subsequence-between-sorted-arrays",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 143,
+      "dislikes": 6,
+      "similarQuestions": "[{\"title\": \"Merge Two Sorted Lists\", \"titleSlug\": \"merge-two-sorted-lists\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.9K\", \"totalSubmission\": \"7.5K\", \"totalAcceptedRaw\": 5893, \"totalSubmissionRaw\": 7480, \"acRate\": \"78.8%\"}",
+      "hints": [
+        "Fix one array.",
+        "Choose the next array and get the common elements.",
+        "Use the common elements as the new fixed array and keep merging with the rest of the arrays."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "merge-two-sorted-lists",
+        "title": "Merge Two Sorted Lists",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Fix one array.",
+      "Choose the next array and get the common elements.",
+      "Use the common elements as the new fixed array and keep merging with the rest of the arrays."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  }
+}

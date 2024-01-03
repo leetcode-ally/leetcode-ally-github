@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "361",
+      "title": "Bomb Enemy",
+      "titleSlug": "bomb-enemy",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 941,
+      "dislikes": 116,
+      "similarQuestions": "[{\"title\": \"Minimum Cost Homecoming of a Robot in a Grid\", \"titleSlug\": \"minimum-cost-homecoming-of-a-robot-in-a-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Stamping the Grid\", \"titleSlug\": \"stamping-the-grid\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Count Unguarded Cells in the Grid\", \"titleSlug\": \"count-unguarded-cells-in-the-grid\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Trailing Zeros in a Cornered Path\", \"titleSlug\": \"maximum-trailing-zeros-in-a-cornered-path\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"76.7K\", \"totalSubmission\": \"148.6K\", \"totalAcceptedRaw\": 76723, \"totalSubmissionRaw\": 148628, \"acRate\": \"51.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "stamping-the-grid",
+        "title": "Stamping the Grid",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-unguarded-cells-in-the-grid",
+        "title": "Count Unguarded Cells in the Grid",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "maximum-trailing-zeros-in-a-cornered-path",
+        "title": "Maximum Trailing Zeros in a Cornered Path",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-8",
+  "data": [
+    {
+      "id": 950,
+      "question_id": 1131,
+      "credit": 3,
+      "title": "Count Substrings with Only One Distinct Letter",
+      "title_slug": "count-substrings-with-only-one-distinct-letter",
+      "likes": 345,
+      "dislikes": 49
+    },
+    {
+      "id": 951,
+      "question_id": 1132,
+      "credit": 5,
+      "title": "Before and After Puzzle",
+      "title_slug": "before-and-after-puzzle",
+      "likes": 72,
+      "dislikes": 152
+    },
+    {
+      "id": 952,
+      "question_id": 1134,
+      "credit": 5,
+      "title": "Shortest Distance to Target Color",
+      "title_slug": "shortest-distance-to-target-color",
+      "likes": 505,
+      "dislikes": 22
+    },
+    {
+      "id": 953,
+      "question_id": 1152,
+      "credit": 8,
+      "title": "Maximum Number of Ones",
+      "title_slug": "maximum-number-of-ones",
+      "likes": 159,
+      "dislikes": 26
+    }
+  ]
+}

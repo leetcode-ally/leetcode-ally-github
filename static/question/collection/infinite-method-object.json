@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2690",
+      "title": "Infinite Method Object",
+      "titleSlug": "infinite-method-object",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 24,
+      "dislikes": 4,
+      "similarQuestions": "[{\"title\": \"Immutability Helper\", \"titleSlug\": \"immutability-helper\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Make Object Immutable\", \"titleSlug\": \"make-object-immutable\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"801\", \"totalSubmission\": \"867\", \"totalAcceptedRaw\": 801, \"totalSubmissionRaw\": 867, \"acRate\": \"92.4%\"}",
+      "hints": [
+        "Javascript has the concept of Proxy. That concept is critical to this problem.",
+        "Override all \"get\" for the object. Return a function instead.",
+        "That function should return the \"prop\", i.e. the method name."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "immutability-helper",
+        "title": "Immutability Helper",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "make-object-immutable",
+        "title": "Make Object Immutable",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Javascript has the concept of Proxy. That concept is critical to this problem.",
+      "Override all \"get\" for the object. Return a function instead.",
+      "That function should return the \"prop\", i.e. the method name."
+    ],
+    "relatedTopics": []
+  }
+}

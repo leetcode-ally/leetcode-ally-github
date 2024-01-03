@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-70",
+  "data": [
+    {
+      "id": 303,
+      "question_id": 795,
+      "credit": 5,
+      "title": "K-th Symbol in Grammar",
+      "title_slug": "k-th-symbol-in-grammar",
+      "likes": 3665,
+      "dislikes": 380
+    },
+    {
+      "id": 304,
+      "question_id": 791,
+      "credit": 8,
+      "title": "Split BST",
+      "title_slug": "split-bst",
+      "likes": 1001,
+      "dislikes": 101
+    },
+    {
+      "id": 305,
+      "question_id": 793,
+      "credit": 8,
+      "title": "Swap Adjacent in LR String",
+      "title_slug": "swap-adjacent-in-lr-string",
+      "likes": 1179,
+      "dislikes": 921
+    },
+    {
+      "id": 306,
+      "question_id": 794,
+      "credit": 8,
+      "title": "Swim in Rising Water",
+      "title_slug": "swim-in-rising-water",
+      "likes": 3466,
+      "dislikes": 228
+    }
+  ]
+}

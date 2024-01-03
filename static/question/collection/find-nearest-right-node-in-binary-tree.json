@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1602",
+      "title": "Find Nearest Right Node in Binary Tree",
+      "titleSlug": "find-nearest-right-node-in-binary-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 324,
+      "dislikes": 10,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"22.4K\", \"totalSubmission\": \"29.6K\", \"totalAcceptedRaw\": 22366, \"totalSubmissionRaw\": 29637, \"acRate\": \"75.5%\"}",
+      "hints": [
+        "Use BFS, traverse the tree level by level and always push the left node first",
+        "When you reach the target node, mark  a boolean variable true",
+        "If you meet another node in the same level after marking the boolean true, return this node.",
+        "If you did not meet new nodes in the same level and started traversing a new level, return Null"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Use BFS, traverse the tree level by level and always push the left node first",
+      "When you reach the target node, mark  a boolean variable true",
+      "If you meet another node in the same level after marking the boolean true, return this node.",
+      "If you did not meet new nodes in the same level and started traversing a new level, return Null"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ]
+  }
+}

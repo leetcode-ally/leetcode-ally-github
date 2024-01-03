@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-142",
+  "data": [
+    {
+      "id": 793,
+      "question_id": 1183,
+      "credit": 5,
+      "title": "Statistics from a Large Sample",
+      "title_slug": "statistics-from-a-large-sample",
+      "likes": 131,
+      "dislikes": 100
+    },
+    {
+      "id": 794,
+      "question_id": 1184,
+      "credit": 5,
+      "title": "Car Pooling",
+      "title_slug": "car-pooling",
+      "likes": 4333,
+      "dislikes": 89
+    },
+    {
+      "id": 795,
+      "question_id": 1185,
+      "credit": 8,
+      "title": "Find in Mountain Array",
+      "title_slug": "find-in-mountain-array",
+      "likes": 3110,
+      "dislikes": 126
+    },
+    {
+      "id": 796,
+      "question_id": 1188,
+      "credit": 8,
+      "title": "Brace Expansion II",
+      "title_slug": "brace-expansion-ii",
+      "likes": 470,
+      "dislikes": 281
+    }
+  ]
+}

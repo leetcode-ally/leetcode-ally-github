@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-223",
+  "data": [
+    {
+      "id": 1808,
+      "question_id": 1839,
+      "credit": 3,
+      "title": "Decode XORed Array",
+      "title_slug": "decode-xored-array",
+      "likes": 1529,
+      "dislikes": 210
+    },
+    {
+      "id": 1809,
+      "question_id": 528,
+      "credit": 4,
+      "title": "Swapping Nodes in a Linked List",
+      "title_slug": "swapping-nodes-in-a-linked-list",
+      "likes": 5169,
+      "dislikes": 166
+    },
+    {
+      "id": 1810,
+      "question_id": 1840,
+      "credit": 5,
+      "title": "Minimize Hamming Distance After Swap Operations",
+      "title_slug": "minimize-hamming-distance-after-swap-operations",
+      "likes": 816,
+      "dislikes": 26
+    },
+    {
+      "id": 1811,
+      "question_id": 1825,
+      "credit": 6,
+      "title": "Find Minimum Time to Finish All Jobs",
+      "title_slug": "find-minimum-time-to-finish-all-jobs",
+      "likes": 1006,
+      "dislikes": 29
+    }
+  ]
+}

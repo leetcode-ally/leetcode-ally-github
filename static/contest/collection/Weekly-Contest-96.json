@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-96",
+  "data": [
+    {
+      "id": 416,
+      "question_id": 919,
+      "credit": 4,
+      "title": "Projection Area of 3D Shapes",
+      "title_slug": "projection-area-of-3d-shapes",
+      "likes": 559,
+      "dislikes": 1393
+    },
+    {
+      "id": 417,
+      "question_id": 917,
+      "credit": 5,
+      "title": "Boats to Save People",
+      "title_slug": "boats-to-save-people",
+      "likes": 5737,
+      "dislikes": 135
+    },
+    {
+      "id": 418,
+      "question_id": 916,
+      "credit": 6,
+      "title": "Decoded String at Index",
+      "title_slug": "decoded-string-at-index",
+      "likes": 2451,
+      "dislikes": 346
+    },
+    {
+      "id": 419,
+      "question_id": 918,
+      "credit": 7,
+      "title": "Reachable Nodes In Subdivided Graph",
+      "title_slug": "reachable-nodes-in-subdivided-graph",
+      "likes": 768,
+      "dislikes": 220
+    }
+  ]
+}

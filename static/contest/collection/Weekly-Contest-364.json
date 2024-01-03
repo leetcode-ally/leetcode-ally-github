@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-364",
+  "data": [
+    {
+      "id": 3541,
+      "question_id": 3055,
+      "credit": 3,
+      "title": "Maximum Odd Binary Number",
+      "title_slug": "maximum-odd-binary-number",
+      "likes": 161,
+      "dislikes": 2
+    },
+    {
+      "id": 3542,
+      "question_id": 3114,
+      "credit": 4,
+      "title": "Beautiful Towers I",
+      "title_slug": "beautiful-towers-i",
+      "likes": 166,
+      "dislikes": 29
+    },
+    {
+      "id": 3543,
+      "question_id": 3113,
+      "credit": 5,
+      "title": "Beautiful Towers II",
+      "title_slug": "beautiful-towers-ii",
+      "likes": 353,
+      "dislikes": 23
+    },
+    {
+      "id": 3544,
+      "question_id": 3112,
+      "credit": 6,
+      "title": "Count Valid Paths in a Tree",
+      "title_slug": "count-valid-paths-in-a-tree",
+      "likes": 216,
+      "dislikes": 5
+    }
+  ]
+}

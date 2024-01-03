@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2691",
+      "title": "Immutability Helper",
+      "titleSlug": "immutability-helper",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 9,
+      "dislikes": 8,
+      "similarQuestions": "[{\"title\": \"Infinite Method Object\", \"titleSlug\": \"infinite-method-object\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Make Object Immutable\", \"titleSlug\": \"make-object-immutable\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"153\", \"totalSubmission\": \"372\", \"totalAcceptedRaw\": 153, \"totalSubmissionRaw\": 372, \"acRate\": \"41.1%\"}",
+      "hints": [
+        "Javascript has the concept of Proxy. That concept is critical to this problem.",
+        "You you need to keep track of which values in the JSON were overwritten with new values.",
+        "Somehow, keep a tree structure that exists parallel to the original object. This will keep track of all the edits.",
+        "When the mutator function is done. Return a clone with those mutations applied. It will be inefficient to clone the entire object so only clone the minimum number of nodes."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "infinite-method-object",
+        "title": "Infinite Method Object",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "make-object-immutable",
+        "title": "Make Object Immutable",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Javascript has the concept of Proxy. That concept is critical to this problem.",
+      "You you need to keep track of which values in the JSON were overwritten with new values.",
+      "Somehow, keep a tree structure that exists parallel to the original object. This will keep track of all the edits.",
+      "When the mutator function is done. Return a clone with those mutations applied. It will be inefficient to clone the entire object so only clone the minimum number of nodes."
+    ],
+    "relatedTopics": []
+  }
+}

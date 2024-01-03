@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-287",
+  "data": [
+    {
+      "id": 2618,
+      "question_id": 2345,
+      "credit": 3,
+      "title": "Minimum Number of Operations to Convert Time",
+      "title_slug": "minimum-number-of-operations-to-convert-time",
+      "likes": 431,
+      "dislikes": 34
+    },
+    {
+      "id": 2619,
+      "question_id": 1354,
+      "credit": 4,
+      "title": "Find Players With Zero or One Losses",
+      "title_slug": "find-players-with-zero-or-one-losses",
+      "likes": 1513,
+      "dislikes": 96
+    },
+    {
+      "id": 2620,
+      "question_id": 1335,
+      "credit": 5,
+      "title": "Maximum Candies Allocated to K Children",
+      "title_slug": "maximum-candies-allocated-to-k-children",
+      "likes": 1027,
+      "dislikes": 40
+    },
+    {
+      "id": 2621,
+      "question_id": 1433,
+      "credit": 6,
+      "title": "Encrypt and Decrypt Strings",
+      "title_slug": "encrypt-and-decrypt-strings",
+      "likes": 317,
+      "dislikes": 69
+    }
+  ]
+}

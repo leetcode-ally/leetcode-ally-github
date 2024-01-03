@@ -1,0 +1,92 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2355",
+      "title": "Maximum Number of Books You Can Take",
+      "titleSlug": "maximum-number-of-books-you-can-take",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 249,
+      "dislikes": 24,
+      "similarQuestions": "[{\"title\": \"Longest Increasing Subsequence\", \"titleSlug\": \"longest-increasing-subsequence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Maximum Ascending Subarray Sum\", \"titleSlug\": \"maximum-ascending-subarray-sum\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Beautiful Towers II\", \"titleSlug\": \"beautiful-towers-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Beautiful Towers I\", \"titleSlug\": \"beautiful-towers-i\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"8.5K\", \"totalSubmission\": \"19.9K\", \"totalAcceptedRaw\": 8509, \"totalSubmissionRaw\": 19895, \"acRate\": \"42.8%\"}",
+      "hints": [
+        "Create a dp array where dp[i] is the maximum number of books you can take if you can only take books from bookshelves 0 to i and you must take books from bookshelf i.",
+        "Keep taking as many books as you can (i.e. starting from bookshelf i and going backwards, you take arr[i], arr[i] - 1, arr[i] - 2, … books).",
+        "You may reach an index j where arr[j] < arr[i] - (i - j). Have we already found the maximum number of books you can take from bookshelves 0 to j? How do we quickly find such an index j?",
+        "Keep a stack of possible indices for j. If x is the number at the top of the stack, keep popping from the stack while arr[x] ≥ arr[i] - (i - x). This is because if the inequality mentioned before is true, x will never be an index j as index i will run out of items first."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "longest-increasing-subsequence",
+        "title": "Longest Increasing Subsequence",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "maximum-ascending-subarray-sum",
+        "title": "Maximum Ascending Subarray Sum",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "beautiful-towers-ii",
+        "title": "Beautiful Towers II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "beautiful-towers-i",
+        "title": "Beautiful Towers I",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Create a dp array where dp[i] is the maximum number of books you can take if you can only take books from bookshelves 0 to i and you must take books from bookshelf i.",
+      "Keep taking as many books as you can (i.e. starting from bookshelf i and going backwards, you take arr[i], arr[i] - 1, arr[i] - 2, … books).",
+      "You may reach an index j where arr[j] < arr[i] - (i - j). Have we already found the maximum number of books you can take from bookshelves 0 to j? How do we quickly find such an index j?",
+      "Keep a stack of possible indices for j. If x is the number at the top of the stack, keep popping from the stack while arr[x] ≥ arr[i] - (i - x). This is because if the inequality mentioned before is true, x will never be an index j as index i will run out of items first."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  }
+}

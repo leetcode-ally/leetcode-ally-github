@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-77",
+  "data": [
+    {
+      "id": 2666,
+      "question_id": 2341,
+      "credit": 3,
+      "title": "Count Prefixes of a Given String",
+      "title_slug": "count-prefixes-of-a-given-string",
+      "likes": 513,
+      "dislikes": 18
+    },
+    {
+      "id": 2667,
+      "question_id": 2342,
+      "credit": 4,
+      "title": "Minimum Average Difference",
+      "title_slug": "minimum-average-difference",
+      "likes": 1462,
+      "dislikes": 166
+    },
+    {
+      "id": 2668,
+      "question_id": 2343,
+      "credit": 5,
+      "title": "Count Unguarded Cells in the Grid",
+      "title_slug": "count-unguarded-cells-in-the-grid",
+      "likes": 401,
+      "dislikes": 34
+    },
+    {
+      "id": 2669,
+      "question_id": 2344,
+      "credit": 6,
+      "title": "Escape the Spreading Fire",
+      "title_slug": "escape-the-spreading-fire",
+      "likes": 668,
+      "dislikes": 26
+    }
+  ]
+}

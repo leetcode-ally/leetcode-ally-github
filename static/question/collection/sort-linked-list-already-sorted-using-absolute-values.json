@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2046",
+      "title": "Sort Linked List Already Sorted Using Absolute Values",
+      "titleSlug": "sort-linked-list-already-sorted-using-absolute-values",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 157,
+      "dislikes": 3,
+      "similarQuestions": "[{\"title\": \"Sort List\", \"titleSlug\": \"sort-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"7K\", \"totalSubmission\": \"10.4K\", \"totalAcceptedRaw\": 7009, \"totalSubmissionRaw\": 10412, \"acRate\": \"67.3%\"}",
+      "hints": [
+        "The nodes with positive values are already in the correct order.",
+        "Nodes with negative values need to be moved to the front.",
+        "Nodes with negative values are in reversed order."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "sort-list",
+        "title": "Sort List",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "The nodes with positive values are already in the correct order.",
+      "Nodes with negative values need to be moved to the front.",
+      "Nodes with negative values are in reversed order."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

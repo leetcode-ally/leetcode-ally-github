@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "266",
+      "title": "Palindrome Permutation",
+      "titleSlug": "palindrome-permutation",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 1029,
+      "dislikes": 68,
+      "similarQuestions": "[{\"title\": \"Longest Palindromic Substring\", \"titleSlug\": \"longest-palindromic-substring\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Valid Anagram\", \"titleSlug\": \"valid-anagram\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Palindrome Permutation II\", \"titleSlug\": \"palindrome-permutation-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Longest Palindrome\", \"titleSlug\": \"longest-palindrome\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"192.1K\", \"totalSubmission\": \"288.2K\", \"totalAcceptedRaw\": 192134, \"totalSubmissionRaw\": 288216, \"acRate\": \"66.7%\"}",
+      "hints": [
+        "Consider the palindromes of odd vs even length. What difference do you notice?",
+        "Count the frequency of each character.",
+        "If each character occurs even number of times, then it must be a palindrome. How about character which occurs odd number of times?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "longest-palindromic-substring",
+        "title": "Longest Palindromic Substring",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "valid-anagram",
+        "title": "Valid Anagram",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "palindrome-permutation-ii",
+        "title": "Palindrome Permutation II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "longest-palindrome",
+        "title": "Longest Palindrome",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Consider the palindromes of odd vs even length. What difference do you notice?",
+      "Count the frequency of each character.",
+      "If each character occurs even number of times, then it must be a palindrome. How about character which occurs odd number of times?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  }
+}

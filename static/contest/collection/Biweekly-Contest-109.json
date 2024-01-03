@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-109",
+  "data": [
+    {
+      "id": 3443,
+      "question_id": 2892,
+      "credit": 3,
+      "title": "Check if Array is Good",
+      "title_slug": "check-if-array-is-good",
+      "likes": 242,
+      "dislikes": 45
+    },
+    {
+      "id": 3444,
+      "question_id": 2887,
+      "credit": 4,
+      "title": "Sort Vowels in a String",
+      "title_slug": "sort-vowels-in-a-string",
+      "likes": 913,
+      "dislikes": 52
+    },
+    {
+      "id": 3445,
+      "question_id": 2893,
+      "credit": 5,
+      "title": "Visit Array Positions to Maximize Score",
+      "title_slug": "visit-array-positions-to-maximize-score",
+      "likes": 443,
+      "dislikes": 23
+    },
+    {
+      "id": 3446,
+      "question_id": 2882,
+      "credit": 5,
+      "title": "Ways to Express an Integer as Sum of Powers",
+      "title_slug": "ways-to-express-an-integer-as-sum-of-powers",
+      "likes": 351,
+      "dislikes": 12
+    }
+  ]
+}

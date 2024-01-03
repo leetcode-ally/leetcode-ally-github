@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-353",
+  "data": [
+    {
+      "id": 3409,
+      "question_id": 2812,
+      "credit": 3,
+      "title": "Find the Maximum Achievable Number",
+      "title_slug": "find-the-maximum-achievable-number",
+      "likes": 248,
+      "dislikes": 325
+    },
+    {
+      "id": 3410,
+      "question_id": 2855,
+      "credit": 4,
+      "title": "Maximum Number of Jumps to Reach the Last Index",
+      "title_slug": "maximum-number-of-jumps-to-reach-the-last-index",
+      "likes": 367,
+      "dislikes": 11
+    },
+    {
+      "id": 3411,
+      "question_id": 2869,
+      "credit": 5,
+      "title": "Longest Non-decreasing Subarray From Two Arrays",
+      "title_slug": "longest-non-decreasing-subarray-from-two-arrays",
+      "likes": 532,
+      "dislikes": 11
+    },
+    {
+      "id": 3412,
+      "question_id": 2878,
+      "credit": 5,
+      "title": "Apply Operations to Make All Array Elements Equal to Zero",
+      "title_slug": "apply-operations-to-make-all-array-elements-equal-to-zero",
+      "likes": 342,
+      "dislikes": 20
+    }
+  ]
+}

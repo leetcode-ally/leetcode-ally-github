@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-98",
+  "data": [
+    {
+      "id": 3171,
+      "question_id": 2704,
+      "credit": 3,
+      "title": "Maximum Difference by Remapping a Digit",
+      "title_slug": "maximum-difference-by-remapping-a-digit",
+      "likes": 219,
+      "dislikes": 34
+    },
+    {
+      "id": 3172,
+      "question_id": 2706,
+      "credit": 4,
+      "title": "Minimum Score by Changing Two Elements",
+      "title_slug": "minimum-score-by-changing-two-elements",
+      "likes": 208,
+      "dislikes": 198
+    },
+    {
+      "id": 3173,
+      "question_id": 2705,
+      "credit": 5,
+      "title": "Minimum Impossible OR",
+      "title_slug": "minimum-impossible-or",
+      "likes": 330,
+      "dislikes": 18
+    },
+    {
+      "id": 3174,
+      "question_id": 2703,
+      "credit": 7,
+      "title": "Handling Sum Queries After Update",
+      "title_slug": "handling-sum-queries-after-update",
+      "likes": 164,
+      "dislikes": 23
+    }
+  ]
+}

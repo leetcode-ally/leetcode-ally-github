@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2330",
+      "title": "Valid Palindrome IV",
+      "titleSlug": "valid-palindrome-iv",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 84,
+      "dislikes": 26,
+      "similarQuestions": "[{\"title\": \"Valid Palindrome\", \"titleSlug\": \"valid-palindrome\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Valid Palindrome II\", \"titleSlug\": \"valid-palindrome-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Valid Palindrome III\", \"titleSlug\": \"valid-palindrome-iii\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"7K\", \"totalSubmission\": \"9.3K\", \"totalAcceptedRaw\": 7031, \"totalSubmissionRaw\": 9311, \"acRate\": \"75.5%\"}",
+      "hints": [
+        "Count the number of pairs of characters that should be equal if s were a palindrome, but are not equal.",
+        "If the number of pairs is 0, then s is already palindrome. You can pick any pair of characters and change them both to a different character and s will stay a palindrome."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "valid-palindrome",
+        "title": "Valid Palindrome",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "valid-palindrome-ii",
+        "title": "Valid Palindrome II",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "valid-palindrome-iii",
+        "title": "Valid Palindrome III",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Count the number of pairs of characters that should be equal if s were a palindrome, but are not equal.",
+      "If the number of pairs is 0, then s is already palindrome. You can pick any pair of characters and change them both to a different character and s will stay a palindrome."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

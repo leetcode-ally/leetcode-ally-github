@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-62",
+  "data": [
+    {
+      "id": 2270,
+      "question_id": 2132,
+      "credit": 3,
+      "title": "Convert 1D Array Into 2D Array",
+      "title_slug": "convert-1d-array-into-2d-array",
+      "likes": 735,
+      "dislikes": 54
+    },
+    {
+      "id": 2271,
+      "question_id": 2133,
+      "credit": 4,
+      "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+      "title_slug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
+      "likes": 667,
+      "dislikes": 49
+    },
+    {
+      "id": 2272,
+      "question_id": 2134,
+      "credit": 5,
+      "title": "Maximize the Confusion of an Exam",
+      "title_slug": "maximize-the-confusion-of-an-exam",
+      "likes": 2768,
+      "dislikes": 39
+    },
+    {
+      "id": 2273,
+      "question_id": 2135,
+      "credit": 6,
+      "title": "Maximum Number of Ways to Partition an Array",
+      "title_slug": "maximum-number-of-ways-to-partition-an-array",
+      "likes": 441,
+      "dislikes": 47
+    }
+  ]
+}

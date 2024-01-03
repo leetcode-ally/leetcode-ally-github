@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2378",
+      "title": "Choose Edges to Maximize Score in a Tree",
+      "titleSlug": "choose-edges-to-maximize-score-in-a-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 48,
+      "dislikes": 12,
+      "similarQuestions": "[{\"title\": \"Binary Tree Cameras\", \"titleSlug\": \"binary-tree-cameras\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Longest Path With Different Adjacent Characters\", \"titleSlug\": \"longest-path-with-different-adjacent-characters\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"2.1K\", \"totalAcceptedRaw\": 1219, \"totalSubmissionRaw\": 2063, \"acRate\": \"59.1%\"}",
+      "hints": [
+        "Use dynamic programming to recursively solve the problem for smaller subtrees.",
+        "You can ignore the edges with negative weights.",
+        "The states of the dp are the following: the root of the subtree you are at, and a boolean variable that will tell you if you have chosen the edge that connects that node and its parent.",
+        "What are the transitions of this dp?"
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "binary-tree-cameras",
+        "title": "Binary Tree Cameras",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "longest-path-with-different-adjacent-characters",
+        "title": "Longest Path With Different Adjacent Characters",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Use dynamic programming to recursively solve the problem for smaller subtrees.",
+      "You can ignore the edges with negative weights.",
+      "The states of the dp are the following: the root of the subtree you are at, and a boolean variable that will tell you if you have chosen the edge that connects that node and its parent.",
+      "What are the transitions of this dp?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2277",
+      "title": "Closest Node to Path in Tree",
+      "titleSlug": "closest-node-to-path-in-tree",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 119,
+      "dislikes": 2,
+      "similarQuestions": "[{\"title\": \"Count Number of Possible Root Nodes\", \"titleSlug\": \"count-number-of-possible-root-nodes\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Design Graph With Shortest Path Calculator\", \"titleSlug\": \"design-graph-with-shortest-path-calculator\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4K\", \"totalSubmission\": \"6.4K\", \"totalAcceptedRaw\": 4002, \"totalSubmissionRaw\": 6393, \"acRate\": \"62.6%\"}",
+      "hints": [
+        "For the ith query, find the distance from node_i to every other node in the tree.",
+        "We can use a BFS to find the distances.",
+        "Use DFS to find all the nodes on the path from start_i to end_i."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "count-number-of-possible-root-nodes",
+        "title": "Count Number of Possible Root Nodes",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "design-graph-with-shortest-path-calculator",
+        "title": "Design Graph With Shortest Path Calculator",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "For the ith query, find the distance from node_i to every other node in the tree.",
+      "We can use a BFS to find the distances.",
+      "Use DFS to find all the nodes on the path from start_i to end_i."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  }
+}

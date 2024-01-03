@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2204",
+      "title": "Distance to a Cycle in Undirected Graph",
+      "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 102,
+      "dislikes": 7,
+      "similarQuestions": "[{\"title\": \"Paths in Maze That Lead to Same Room\", \"titleSlug\": \"paths-in-maze-that-lead-to-same-room\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.5K\", \"totalSubmission\": \"3.6K\", \"totalAcceptedRaw\": 2538, \"totalSubmissionRaw\": 3612, \"acRate\": \"70.3%\"}",
+      "hints": [
+        "This problem can be broken down into two parts: finding the cycle, and finding the distance between each node and the cycle.",
+        "How can we find the cycle? We can use DFS and keep track of the nodes we’ve seen, and the order that we see them in. Once we see a node we’ve already visited, we know that the cycle contains the node that was seen twice and all the nodes that we visited in between.",
+        "Now that we know which nodes are part of the cycle, how can we find the distances? We can run a multi-source BFS starting from the nodes in the cycle and expanding outward."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "paths-in-maze-that-lead-to-same-room",
+        "title": "Paths in Maze That Lead to Same Room",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "This problem can be broken down into two parts: finding the cycle, and finding the distance between each node and the cycle.",
+      "How can we find the cycle? We can use DFS and keep track of the nodes we’ve seen, and the order that we see them in. Once we see a node we’ve already visited, we know that the cycle contains the node that was seen twice and all the nodes that we visited in between.",
+      "Now that we know which nodes are part of the cycle, how can we find the distances? We can run a multi-source BFS starting from the nodes in the cycle and expanding outward."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ]
+  }
+}

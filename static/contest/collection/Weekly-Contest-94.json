@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-94",
+  "data": [
+    {
+      "id": 408,
+      "question_id": 904,
+      "credit": 4,
+      "title": "Leaf-Similar Trees",
+      "title_slug": "leaf-similar-trees",
+      "likes": 3403,
+      "dislikes": 75
+    },
+    {
+      "id": 409,
+      "question_id": 906,
+      "credit": 4,
+      "title": "Walking Robot Simulation",
+      "title_slug": "walking-robot-simulation",
+      "likes": 190,
+      "dislikes": 46
+    },
+    {
+      "id": 410,
+      "question_id": 907,
+      "credit": 6,
+      "title": "Koko Eating Bananas",
+      "title_slug": "koko-eating-bananas",
+      "likes": 9706,
+      "dislikes": 501
+    },
+    {
+      "id": 411,
+      "question_id": 905,
+      "credit": 6,
+      "title": "Length of Longest Fibonacci Subsequence",
+      "title_slug": "length-of-longest-fibonacci-subsequence",
+      "likes": 1969,
+      "dislikes": 67
+    }
+  ]
+}

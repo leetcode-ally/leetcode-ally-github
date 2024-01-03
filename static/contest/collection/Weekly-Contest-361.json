@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-361",
+  "data": [
+    {
+      "id": 3506,
+      "question_id": 2998,
+      "credit": 3,
+      "title": "  Count Symmetric Integers",
+      "title_slug": "count-symmetric-integers",
+      "likes": 225,
+      "dislikes": 9
+    },
+    {
+      "id": 3507,
+      "question_id": 3046,
+      "credit": 4,
+      "title": "Minimum Operations to Make a Special Number",
+      "title_slug": "minimum-operations-to-make-a-special-number",
+      "likes": 323,
+      "dislikes": 49
+    },
+    {
+      "id": 3508,
+      "question_id": 2915,
+      "credit": 5,
+      "title": "Count of Interesting Subarrays",
+      "title_slug": "count-of-interesting-subarrays",
+      "likes": 463,
+      "dislikes": 63
+    },
+    {
+      "id": 3509,
+      "question_id": 3079,
+      "credit": 6,
+      "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+      "title_slug": "minimum-edge-weight-equilibrium-queries-in-a-tree",
+      "likes": 265,
+      "dislikes": 4
+    }
+  ]
+}

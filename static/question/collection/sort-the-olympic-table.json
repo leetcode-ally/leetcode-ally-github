@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2377",
+      "title": "Sort the Olympic Table",
+      "titleSlug": "sort-the-olympic-table",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 34,
+      "dislikes": 2,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.9K\", \"totalSubmission\": \"6.3K\", \"totalAcceptedRaw\": 4887, \"totalSubmissionRaw\": 6257, \"acRate\": \"78.1%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

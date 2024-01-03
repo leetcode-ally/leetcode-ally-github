@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2636",
+      "title": "Promise Pool",
+      "titleSlug": "promise-pool",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 274,
+      "dislikes": 25,
+      "similarQuestions": "[{\"title\": \"Sleep\", \"titleSlug\": \"sleep\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Promise Time Limit\", \"titleSlug\": \"promise-time-limit\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Cache With Time Limit\", \"titleSlug\": \"cache-with-time-limit\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Throttle\", \"titleSlug\": \"throttle\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [],
+      "stats": "{\"totalAccepted\": \"11.1K\", \"totalSubmission\": \"13.8K\", \"totalAcceptedRaw\": 11099, \"totalSubmissionRaw\": 13819, \"acRate\": \"80.3%\"}",
+      "hints": [
+        "Initially execute all the functions until the queue fills up.",
+        "Every time a function resolves, add a new promise to the queue if possible."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "sleep",
+        "title": "Sleep",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "promise-time-limit",
+        "title": "Promise Time Limit",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "cache-with-time-limit",
+        "title": "Cache With Time Limit",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "throttle",
+        "title": "Throttle",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Initially execute all the functions until the queue fills up.",
+      "Every time a function resolves, add a new promise to the queue if possible."
+    ],
+    "relatedTopics": []
+  }
+}

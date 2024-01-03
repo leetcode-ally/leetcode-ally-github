@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2184",
+      "title": "Number of Ways to Build Sturdy Brick Wall",
+      "titleSlug": "number-of-ways-to-build-sturdy-brick-wall",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 151,
+      "dislikes": 97,
+      "similarQuestions": "[{\"title\": \"Brick Wall\", \"titleSlug\": \"brick-wall\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Bricks Falling When Hit\", \"titleSlug\": \"bricks-falling-when-hit\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Time to Kill All Monsters\", \"titleSlug\": \"minimum-time-to-kill-all-monsters\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.9K\", \"totalSubmission\": \"11.8K\", \"totalAcceptedRaw\": 5940, \"totalSubmissionRaw\": 11821, \"acRate\": \"50.2%\"}",
+      "hints": [
+        "A row of bricks can be represented uniquely by the points where two bricks are joined together.",
+        "For a given row of bricks, how many configurations of bricks could you have put below this row such that the wall is sturdy?",
+        "Use dynamic programming to store the number of possible sturdy walls with a given height and configuration of bricks on the top row."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "brick-wall",
+        "title": "Brick Wall",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "bricks-falling-when-hit",
+        "title": "Bricks Falling When Hit",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "minimum-time-to-kill-all-monsters",
+        "title": "Minimum Time to Kill All Monsters",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "A row of bricks can be represented uniquely by the points where two bricks are joined together.",
+      "For a given row of bricks, how many configurations of bricks could you have put below this row such that the wall is sturdy?",
+      "Use dynamic programming to store the number of possible sturdy walls with a given height and configuration of bricks on the top row."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ]
+  }
+}

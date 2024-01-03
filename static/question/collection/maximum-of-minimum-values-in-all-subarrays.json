@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1950",
+      "title": "Maximum of Minimum Values in All Subarrays",
+      "titleSlug": "maximum-of-minimum-values-in-all-subarrays",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 130,
+      "dislikes": 52,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.8K\", \"totalSubmission\": \"5.6K\", \"totalAcceptedRaw\": 2772, \"totalSubmissionRaw\": 5571, \"acRate\": \"49.8%\"}",
+      "hints": [
+        "Imagine the array is empty, and each element is coming to its index one by one, starting with the smallest element.",
+        "For each coming element nums[i], calculate L and R, the indices of the first smallest elements on the left and the right respectively.",
+        "The answer of the queries from 1 to R-L+1 will be at least this element."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Imagine the array is empty, and each element is coming to its index one by one, starting with the smallest element.",
+      "For each coming element nums[i], calculate L and R, the indices of the first smallest elements on the left and the right respectively.",
+      "The answer of the queries from 1 to R-L+1 will be at least this element."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  }
+}

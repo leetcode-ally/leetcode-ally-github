@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-141",
+  "data": [
+    {
+      "id": 777,
+      "question_id": 1168,
+      "credit": 4,
+      "title": "Duplicate Zeros",
+      "title_slug": "duplicate-zeros",
+      "likes": 2520,
+      "dislikes": 718
+    },
+    {
+      "id": 779,
+      "question_id": 1169,
+      "credit": 5,
+      "title": "Largest Values From Labels",
+      "title_slug": "largest-values-from-labels",
+      "likes": 426,
+      "dislikes": 622
+    },
+    {
+      "id": 778,
+      "question_id": 1171,
+      "credit": 5,
+      "title": "Shortest Path in Binary Matrix",
+      "title_slug": "shortest-path-in-binary-matrix",
+      "likes": 6212,
+      "dislikes": 218
+    },
+    {
+      "id": 780,
+      "question_id": 1170,
+      "credit": 8,
+      "title": "Shortest Common Supersequence ",
+      "title_slug": "shortest-common-supersequence",
+      "likes": 4602,
+      "dislikes": 64
+    }
+  ]
+}

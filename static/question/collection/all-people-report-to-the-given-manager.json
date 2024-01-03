@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1270",
+      "title": "All People Report to the Given Manager",
+      "titleSlug": "all-people-report-to-the-given-manager",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 410,
+      "dislikes": 26,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"51.2K\", \"totalSubmission\": \"60K\", \"totalAcceptedRaw\": 51247, \"totalSubmissionRaw\": 60024, \"acRate\": \"85.4%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

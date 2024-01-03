@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-244",
+  "data": [
+    {
+      "id": 2070,
+      "question_id": 2015,
+      "credit": 3,
+      "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+      "title_slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+      "likes": 1379,
+      "dislikes": 107
+    },
+    {
+      "id": 2071,
+      "question_id": 2016,
+      "credit": 4,
+      "title": "Reduction Operations to Make the Array Elements Equal",
+      "title_slug": "reduction-operations-to-make-the-array-elements-equal",
+      "likes": 1190,
+      "dislikes": 47
+    },
+    {
+      "id": 2072,
+      "question_id": 2017,
+      "credit": 5,
+      "title": "Minimum Number of Flips to Make the Binary String Alternating",
+      "title_slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+      "likes": 1142,
+      "dislikes": 57
+    },
+    {
+      "id": 2073,
+      "question_id": 2018,
+      "credit": 6,
+      "title": "Minimum Space Wasted From Packaging",
+      "title_slug": "minimum-space-wasted-from-packaging",
+      "likes": 390,
+      "dislikes": 34
+    }
+  ]
+}

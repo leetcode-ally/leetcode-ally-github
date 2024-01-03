@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-185",
+  "data": [
+    {
+      "id": 1346,
+      "question_id": 1532,
+      "credit": 3,
+      "title": "Reformat The String",
+      "title_slug": "reformat-the-string",
+      "likes": 572,
+      "dislikes": 101
+    },
+    {
+      "id": 1347,
+      "question_id": 1533,
+      "credit": 4,
+      "title": "Display Table of Food Orders in a Restaurant",
+      "title_slug": "display-table-of-food-orders-in-a-restaurant",
+      "likes": 365,
+      "dislikes": 466
+    },
+    {
+      "id": 1348,
+      "question_id": 1534,
+      "credit": 5,
+      "title": "Minimum Number of Frogs Croaking",
+      "title_slug": "minimum-number-of-frogs-croaking",
+      "likes": 993,
+      "dislikes": 80
+    },
+    {
+      "id": 1349,
+      "question_id": 1535,
+      "credit": 6,
+      "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+      "title_slug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+      "likes": 1301,
+      "dislikes": 86
+    }
+  ]
+}

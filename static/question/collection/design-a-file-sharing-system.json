@@ -1,0 +1,70 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1500",
+      "title": "Design a File Sharing System",
+      "titleSlug": "design-a-file-sharing-system",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 46,
+      "dislikes": 119,
+      "similarQuestions": "[{\"title\": \"Design Twitter\", \"titleSlug\": \"design-twitter\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4K\", \"totalSubmission\": \"9K\", \"totalAcceptedRaw\": 3968, \"totalSubmissionRaw\": 9029, \"acRate\": \"43.9%\"}",
+      "hints": [
+        "Try to solve it by keeping for each file chunk, the users who have this chunk.",
+        "Try to solve it by keeping all the users in the system with their owned chunks, and when you request a chunk, check all users for it."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "design-twitter",
+        "title": "Design Twitter",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Try to solve it by keeping for each file chunk, the users who have this chunk.",
+      "Try to solve it by keeping all the users in the system with their owned chunks, and when you request a chunk, check all users for it."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1198",
+      "title": "Find Smallest Common Element in All Rows",
+      "titleSlug": "find-smallest-common-element-in-all-rows",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 557,
+      "dislikes": 30,
+      "similarQuestions": "[{\"title\": \"Intersection of Multiple Arrays\", \"titleSlug\": \"intersection-of-multiple-arrays\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"42.6K\", \"totalSubmission\": \"55.6K\", \"totalAcceptedRaw\": 42590, \"totalSubmissionRaw\": 55628, \"acRate\": \"76.6%\"}",
+      "hints": [
+        "Notice that each row has no duplicates.",
+        "Is counting the frequency of elements enough to find the answer?",
+        "Use a data structure to count the frequency of elements.",
+        "Find an element whose frequency equals the number of rows."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "intersection-of-multiple-arrays",
+        "title": "Intersection of Multiple Arrays",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Notice that each row has no duplicates.",
+      "Is counting the frequency of elements enough to find the answer?",
+      "Use a data structure to count the frequency of elements.",
+      "Find an element whose frequency equals the number of rows."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "681",
+      "title": "Next Closest Time",
+      "titleSlug": "next-closest-time",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 716,
+      "dislikes": 1053,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"104.9K\", \"totalSubmission\": \"225.8K\", \"totalAcceptedRaw\": 104922, \"totalSubmissionRaw\": 225826, \"acRate\": \"46.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-161",
+  "data": [
+    {
+      "id": 1058,
+      "question_id": 1369,
+      "credit": 4,
+      "title": "Minimum Swaps to Make Strings Equal",
+      "title_slug": "minimum-swaps-to-make-strings-equal",
+      "likes": 1305,
+      "dislikes": 234
+    },
+    {
+      "id": 1059,
+      "question_id": 1370,
+      "credit": 4,
+      "title": "Count Number of Nice Subarrays",
+      "title_slug": "count-number-of-nice-subarrays",
+      "likes": 3591,
+      "dislikes": 77
+    },
+    {
+      "id": 1060,
+      "question_id": 1371,
+      "credit": 5,
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "title_slug": "minimum-remove-to-make-valid-parentheses",
+      "likes": 6053,
+      "dislikes": 111
+    },
+    {
+      "id": 1061,
+      "question_id": 1372,
+      "credit": 6,
+      "title": "Check If It Is a Good Array",
+      "title_slug": "check-if-it-is-a-good-array",
+      "likes": 480,
+      "dislikes": 368
+    }
+  ]
+}

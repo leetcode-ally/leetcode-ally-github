@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-285",
+  "data": [
+    {
+      "id": 2586,
+      "question_id": 2316,
+      "credit": 3,
+      "title": "Count Hills and Valleys in an Array",
+      "title_slug": "count-hills-and-valleys-in-an-array",
+      "likes": 630,
+      "dislikes": 84
+    },
+    {
+      "id": 2587,
+      "question_id": 2317,
+      "credit": 4,
+      "title": "Count Collisions on a Road",
+      "title_slug": "count-collisions-on-a-road",
+      "likes": 621,
+      "dislikes": 220
+    },
+    {
+      "id": 2588,
+      "question_id": 2318,
+      "credit": 5,
+      "title": "Maximum Points in an Archery Competition",
+      "title_slug": "maximum-points-in-an-archery-competition",
+      "likes": 480,
+      "dislikes": 46
+    },
+    {
+      "id": 2589,
+      "question_id": 2319,
+      "credit": 6,
+      "title": "Longest Substring of One Repeating Character",
+      "title_slug": "longest-substring-of-one-repeating-character",
+      "likes": 279,
+      "dislikes": 82
+    }
+  ]
+}

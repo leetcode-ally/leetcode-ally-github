@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2219",
+      "title": "Maximum Sum Score of Array",
+      "titleSlug": "maximum-sum-score-of-array",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 62,
+      "dislikes": 15,
+      "similarQuestions": "[{\"title\": \"Subarray Sum Equals K\", \"titleSlug\": \"subarray-sum-equals-k\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find Pivot Index\", \"titleSlug\": \"find-pivot-index\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Find the Middle Index in Array\", \"titleSlug\": \"find-the-middle-index-in-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.6K\", \"totalSubmission\": \"5.8K\", \"totalAcceptedRaw\": 3604, \"totalSubmissionRaw\": 5808, \"acRate\": \"62.1%\"}",
+      "hints": [
+        "How can we use precalculation to efficiently calculate the average difference at an index?",
+        "Create a prefix and/or suffix sum array."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "subarray-sum-equals-k",
+        "title": "Subarray Sum Equals K",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "find-pivot-index",
+        "title": "Find Pivot Index",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "find-the-middle-index-in-array",
+        "title": "Find the Middle Index in Array",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "How can we use precalculation to efficiently calculate the average difference at an index?",
+      "Create a prefix and/or suffix sum array."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Smarking-Algorithm-Contest-2",
+  "data": [
+    {
+      "id": 40,
+      "question_id": 435,
+      "credit": 1,
+      "title": "Non-overlapping Intervals",
+      "title_slug": "non-overlapping-intervals",
+      "likes": 7768,
+      "dislikes": 209
+    },
+    {
+      "id": 41,
+      "question_id": 436,
+      "credit": 1,
+      "title": "Find Right Interval",
+      "title_slug": "find-right-interval",
+      "likes": 2050,
+      "dislikes": 329
+    },
+    {
+      "id": 39,
+      "question_id": 441,
+      "credit": 1,
+      "title": "Arranging Coins",
+      "title_slug": "arranging-coins",
+      "likes": 3722,
+      "dislikes": 1295
+    },
+    {
+      "id": 42,
+      "question_id": 444,
+      "credit": 1,
+      "title": "Sequence Reconstruction",
+      "title_slug": "sequence-reconstruction",
+      "likes": 557,
+      "dislikes": 1489
+    }
+  ]
+}

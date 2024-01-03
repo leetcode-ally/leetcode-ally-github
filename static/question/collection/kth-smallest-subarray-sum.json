@@ -1,0 +1,55 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1918",
+      "title": "Kth Smallest Subarray Sum",
+      "titleSlug": "kth-smallest-subarray-sum",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 191,
+      "dislikes": 11,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.9K\", \"totalSubmission\": \"7.3K\", \"totalAcceptedRaw\": 3852, \"totalSubmissionRaw\": 7305, \"acRate\": \"52.7%\"}",
+      "hints": [
+        "How can you compute the number of subarrays with a sum less than a given value?",
+        "Can we use binary search to help find the answer?"
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "How can you compute the number of subarrays with a sum less than a given value?",
+      "Can we use binary search to help find the answer?"
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

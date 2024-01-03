@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-63",
+  "data": [
+    {
+      "id": 2294,
+      "question_id": 2148,
+      "credit": 3,
+      "title": "Minimum Number of Moves to Seat Everyone",
+      "title_slug": "minimum-number-of-moves-to-seat-everyone",
+      "likes": 742,
+      "dislikes": 142
+    },
+    {
+      "id": 2295,
+      "question_id": 2149,
+      "credit": 4,
+      "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+      "title_slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "likes": 1506,
+      "dislikes": 115
+    },
+    {
+      "id": 2296,
+      "question_id": 2151,
+      "credit": 5,
+      "title": "The Time When the Network Becomes Idle",
+      "title_slug": "the-time-when-the-network-becomes-idle",
+      "likes": 621,
+      "dislikes": 55
+    },
+    {
+      "id": 2297,
+      "question_id": 2150,
+      "credit": 6,
+      "title": "Kth Smallest Product of Two Sorted Arrays",
+      "title_slug": "kth-smallest-product-of-two-sorted-arrays",
+      "likes": 663,
+      "dislikes": 37
+    }
+  ]
+}

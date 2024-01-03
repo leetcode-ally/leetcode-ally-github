@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1273",
+      "title": "Delete Tree Nodes",
+      "titleSlug": "delete-tree-nodes",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 221,
+      "dislikes": 63,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"9.9K\", \"totalSubmission\": \"16.2K\", \"totalAcceptedRaw\": 9926, \"totalSubmissionRaw\": 16229, \"acRate\": \"61.2%\"}",
+      "hints": [
+        "Traverse the tree using depth first search.",
+        "Find for every node the sum of values of its sub-tree.",
+        "Traverse the tree again from the root and return once you reach a node with zero sum of values in its sub-tree."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Traverse the tree using depth first search.",
+      "Find for every node the sum of values of its sub-tree.",
+      "Traverse the tree again from the root and return once you reach a node with zero sum of values in its sub-tree."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ]
+  }
+}

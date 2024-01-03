@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-71",
+  "data": [
+    {
+      "id": 307,
+      "question_id": 799,
+      "credit": 3,
+      "title": "Minimum Distance Between BST Nodes",
+      "title_slug": "minimum-distance-between-bst-nodes",
+      "likes": 3405,
+      "dislikes": 411
+    },
+    {
+      "id": 308,
+      "question_id": 797,
+      "credit": 5,
+      "title": "Rabbits in Forest",
+      "title_slug": "rabbits-in-forest",
+      "likes": 1238,
+      "dislikes": 583
+    },
+    {
+      "id": 309,
+      "question_id": 796,
+      "credit": 7,
+      "title": "Reaching Points",
+      "title_slug": "reaching-points",
+      "likes": 1441,
+      "dislikes": 223
+    },
+    {
+      "id": 310,
+      "question_id": 798,
+      "credit": 10,
+      "title": "Transform to Chessboard",
+      "title_slug": "transform-to-chessboard",
+      "likes": 347,
+      "dislikes": 307
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1777",
+      "title": "Product's Price for Each Store",
+      "titleSlug": "products-price-for-each-store",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 125,
+      "dislikes": 13,
+      "similarQuestions": "[{\"title\": \"Rearrange Products Table\", \"titleSlug\": \"rearrange-products-table\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Dynamic Pivoting of a Table\", \"titleSlug\": \"dynamic-pivoting-of-a-table\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"18.6K\", \"totalSubmission\": \"22.6K\", \"totalAcceptedRaw\": 18635, \"totalSubmissionRaw\": 22600, \"acRate\": \"82.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "rearrange-products-table",
+        "title": "Rearrange Products Table",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "dynamic-pivoting-of-a-table",
+        "title": "Dynamic Pivoting of a Table",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

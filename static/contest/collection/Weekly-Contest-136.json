@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-136",
+  "data": [
+    {
+      "id": 713,
+      "question_id": 1119,
+      "credit": 4,
+      "title": "Robot Bounded In Circle",
+      "title_slug": "robot-bounded-in-circle",
+      "likes": 3648,
+      "dislikes": 686
+    },
+    {
+      "id": 714,
+      "question_id": 1120,
+      "credit": 5,
+      "title": "Flower Planting With No Adjacent",
+      "title_slug": "flower-planting-with-no-adjacent",
+      "likes": 1374,
+      "dislikes": 711
+    },
+    {
+      "id": 715,
+      "question_id": 1121,
+      "credit": 6,
+      "title": "Partition Array for Maximum Sum",
+      "title_slug": "partition-array-for-maximum-sum",
+      "likes": 3715,
+      "dislikes": 248
+    },
+    {
+      "id": 716,
+      "question_id": 1122,
+      "credit": 8,
+      "title": "Longest Duplicate Substring",
+      "title_slug": "longest-duplicate-substring",
+      "likes": 2162,
+      "dislikes": 377
+    }
+  ]
+}

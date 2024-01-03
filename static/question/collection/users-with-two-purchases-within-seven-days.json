@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2228",
+      "title": "Users With Two Purchases Within Seven Days",
+      "titleSlug": "users-with-two-purchases-within-seven-days",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 56,
+      "dislikes": 8,
+      "similarQuestions": "[{\"title\": \"Biggest Window Between Visits\", \"titleSlug\": \"biggest-window-between-visits\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.5K\", \"totalSubmission\": \"14.9K\", \"totalAcceptedRaw\": 6534, \"totalSubmissionRaw\": 14944, \"acRate\": \"43.7%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "biggest-window-between-visits",
+        "title": "Biggest Window Between Visits",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

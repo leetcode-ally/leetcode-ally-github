@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-143",
+  "data": [
+    {
+      "id": 806,
+      "question_id": 1195,
+      "credit": 4,
+      "title": "Distribute Candies to People",
+      "title_slug": "distribute-candies-to-people",
+      "likes": 949,
+      "dislikes": 191
+    },
+    {
+      "id": 805,
+      "question_id": 1194,
+      "credit": 4,
+      "title": "Path In Zigzag Labelled Binary Tree",
+      "title_slug": "path-in-zigzag-labelled-binary-tree",
+      "likes": 1457,
+      "dislikes": 310
+    },
+    {
+      "id": 807,
+      "question_id": 1196,
+      "credit": 6,
+      "title": "Filling Bookcase Shelves",
+      "title_slug": "filling-bookcase-shelves",
+      "likes": 1789,
+      "dislikes": 121
+    },
+    {
+      "id": 808,
+      "question_id": 1197,
+      "credit": 6,
+      "title": "Parsing A Boolean Expression",
+      "title_slug": "parsing-a-boolean-expression",
+      "likes": 1099,
+      "dislikes": 54
+    }
+  ]
+}

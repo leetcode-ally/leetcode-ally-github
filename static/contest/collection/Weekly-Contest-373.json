@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-373",
+  "data": [
+    {
+      "id": 3653,
+      "question_id": 3215,
+      "credit": 3,
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "title_slug": "matrix-similarity-after-cyclic-shifts",
+      "likes": 75,
+      "dislikes": 49
+    },
+    {
+      "id": 3654,
+      "question_id": 3210,
+      "credit": 4,
+      "title": "Count Beautiful Substrings I",
+      "title_slug": "count-beautiful-substrings-i",
+      "likes": 108,
+      "dislikes": 8
+    },
+    {
+      "id": 3655,
+      "question_id": 3219,
+      "credit": 5,
+      "title": "Make Lexicographically Smallest Array by Swapping Elements",
+      "title_slug": "make-lexicographically-smallest-array-by-swapping-elements",
+      "likes": 200,
+      "dislikes": 11
+    },
+    {
+      "id": 3656,
+      "question_id": 3208,
+      "credit": 6,
+      "title": "Count Beautiful Substrings II",
+      "title_slug": "count-beautiful-substrings-ii",
+      "likes": 142,
+      "dislikes": 3
+    }
+  ]
+}

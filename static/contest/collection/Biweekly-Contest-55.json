@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-55",
+  "data": [
+    {
+      "id": 2106,
+      "question_id": 2020,
+      "credit": 3,
+      "title": "Remove One Element to Make the Array Strictly Increasing",
+      "title_slug": "remove-one-element-to-make-the-array-strictly-increasing",
+      "likes": 1174,
+      "dislikes": 318
+    },
+    {
+      "id": 2107,
+      "question_id": 2021,
+      "credit": 4,
+      "title": "Remove All Occurrences of a Substring",
+      "title_slug": "remove-all-occurrences-of-a-substring",
+      "likes": 1677,
+      "dislikes": 56
+    },
+    {
+      "id": 2108,
+      "question_id": 2022,
+      "credit": 5,
+      "title": "Maximum Alternating Subsequence Sum",
+      "title_slug": "maximum-alternating-subsequence-sum",
+      "likes": 1144,
+      "dislikes": 19
+    },
+    {
+      "id": 2109,
+      "question_id": 2023,
+      "credit": 6,
+      "title": "Design Movie Rental System",
+      "title_slug": "design-movie-rental-system",
+      "likes": 231,
+      "dislikes": 45
+    }
+  ]
+}

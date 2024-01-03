@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-160",
+  "data": [
+    {
+      "id": 1046,
+      "question_id": 1358,
+      "credit": 3,
+      "title": "Find Positive Integer Solution for a Given Equation",
+      "title_slug": "find-positive-integer-solution-for-a-given-equation",
+      "likes": 487,
+      "dislikes": 1406
+    },
+    {
+      "id": 1047,
+      "question_id": 1359,
+      "credit": 5,
+      "title": "Circular Permutation in Binary Representation",
+      "title_slug": "circular-permutation-in-binary-representation",
+      "likes": 404,
+      "dislikes": 184
+    },
+    {
+      "id": 1048,
+      "question_id": 1360,
+      "credit": 5,
+      "title": "Maximum Length of a Concatenated String with Unique Characters",
+      "title_slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+      "likes": 3619,
+      "dislikes": 247
+    },
+    {
+      "id": 1049,
+      "question_id": 1361,
+      "credit": 7,
+      "title": "Tiling a Rectangle with the Fewest Squares",
+      "title_slug": "tiling-a-rectangle-with-the-fewest-squares",
+      "likes": 669,
+      "dislikes": 562
+    }
+  ]
+}

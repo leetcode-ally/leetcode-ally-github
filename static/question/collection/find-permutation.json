@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "484",
+      "title": "Find Permutation",
+      "titleSlug": "find-permutation",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 683,
+      "dislikes": 139,
+      "similarQuestions": "[{\"title\": \"Using a Robot to Print the Lexicographically Smallest String\", \"titleSlug\": \"using-a-robot-to-print-the-lexicographically-smallest-string\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"38K\", \"totalSubmission\": \"56.8K\", \"totalAcceptedRaw\": 37976, \"totalSubmissionRaw\": 56780, \"acRate\": \"66.9%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

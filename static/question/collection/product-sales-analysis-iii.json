@@ -1,0 +1,52 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1070",
+      "title": "Product Sales Analysis III",
+      "titleSlug": "product-sales-analysis-iii",
+      "content": "<p>Table: <code>Sales</code></p>\n\n<pre>\n+-------------+-------+\n| Column Name | Type  |\n+-------------+-------+\n| sale_id     | int   |\n| product_id  | int   |\n| year        | int   |\n| quantity    | int   |\n| price       | int   |\n+-------------+-------+\n(sale_id, year) is the primary key (combination of columns with unique values) of this table.\nproduct_id is a foreign key (reference column) to <code>Product</code> table.\nEach row of this table shows a sale on the product product_id in a certain year.\nNote that the price is per unit.\n</pre>\n\n<p>&nbsp;</p>\n\n<p>Table: <code>Product</code></p>\n\n<pre>\n+--------------+---------+\n| Column Name  | Type    |\n+--------------+---------+\n| product_id   | int     |\n| product_name | varchar |\n+--------------+---------+\nproduct_id is the primary key (column with unique values) of this table.\nEach row of this table indicates the product name of each product.\n</pre>\n\n<p>&nbsp;</p>\n\n<p>Write a solution to select&nbsp;the <strong>product id</strong>, <strong>year</strong>, <strong>quantity</strong>, and <strong>price</strong> for the <strong>first year</strong> of every product sold.</p>\n\n<p>Return the resulting table in <strong>any order</strong>.</p>\n\n<p>The&nbsp;result format is in the following example.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> \nSales table:\n+---------+------------+------+----------+-------+\n| sale_id | product_id | year | quantity | price |\n+---------+------------+------+----------+-------+ \n| 1       | 100        | 2008 | 10       | 5000  |\n| 2       | 100        | 2009 | 12       | 5000  |\n| 7       | 200        | 2011 | 15       | 9000  |\n+---------+------------+------+----------+-------+\nProduct table:\n+------------+--------------+\n| product_id | product_name |\n+------------+--------------+\n| 100        | Nokia        |\n| 200        | Apple        |\n| 300        | Samsung      |\n+------------+--------------+\n<strong>Output:</strong> \n+------------+------------+----------+-------+\n| product_id | first_year | quantity | price |\n+------------+------------+----------+-------+ \n| 100        | 2008       | 10       | 5000  |\n| 200        | 2011       | 15       | 9000  |\n+------------+------------+----------+-------+\n</pre>\n",
+      "isPaidOnly": false,
+      "difficulty": "Medium",
+      "likes": 306,
+      "dislikes": 767,
+      "similarQuestions": "[{\"title\": \"Product Sales Analysis II\", \"titleSlug\": \"product-sales-analysis-ii\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis IV\", \"titleSlug\": \"product-sales-analysis-iv\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Product Sales Analysis V\", \"titleSlug\": \"product-sales-analysis-v\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"92.3K\", \"totalSubmission\": \"215.5K\", \"totalAcceptedRaw\": 92319, \"totalSubmissionRaw\": 215494, \"acRate\": \"42.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "product-sales-analysis-ii",
+        "title": "Product Sales Analysis II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "product-sales-analysis-iv",
+        "title": "Product Sales Analysis IV",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "product-sales-analysis-v",
+        "title": "Product Sales Analysis V",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

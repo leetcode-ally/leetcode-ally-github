@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-115",
+  "data": [
+    {
+      "id": 505,
+      "question_id": 998,
+      "credit": 5,
+      "title": "Check Completeness of a Binary Tree",
+      "title_slug": "check-completeness-of-a-binary-tree",
+      "likes": 4141,
+      "dislikes": 54
+    },
+    {
+      "id": 504,
+      "question_id": 994,
+      "credit": 6,
+      "title": "Prison Cells After N Days",
+      "title_slug": "prison-cells-after-n-days",
+      "likes": 1452,
+      "dislikes": 1724
+    },
+    {
+      "id": 507,
+      "question_id": 999,
+      "credit": 7,
+      "title": "Regions Cut By Slashes",
+      "title_slug": "regions-cut-by-slashes",
+      "likes": 3018,
+      "dislikes": 565
+    },
+    {
+      "id": 506,
+      "question_id": 1000,
+      "credit": 7,
+      "title": "Delete Columns to Make Sorted III",
+      "title_slug": "delete-columns-to-make-sorted-iii",
+      "likes": 580,
+      "dislikes": 13
+    }
+  ]
+}

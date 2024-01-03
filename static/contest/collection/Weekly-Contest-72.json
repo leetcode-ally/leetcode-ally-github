@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-72",
+  "data": [
+    {
+      "id": 311,
+      "question_id": 800,
+      "credit": 4,
+      "title": "Letter Case Permutation",
+      "title_slug": "letter-case-permutation",
+      "likes": 4552,
+      "dislikes": 153
+    },
+    {
+      "id": 312,
+      "question_id": 801,
+      "credit": 6,
+      "title": "Is Graph Bipartite?",
+      "title_slug": "is-graph-bipartite",
+      "likes": 7930,
+      "dislikes": 358
+    },
+    {
+      "id": 313,
+      "question_id": 803,
+      "credit": 8,
+      "title": "Cheapest Flights Within K Stops",
+      "title_slug": "cheapest-flights-within-k-stops",
+      "likes": 8960,
+      "dislikes": 366
+    },
+    {
+      "id": 314,
+      "question_id": 802,
+      "credit": 8,
+      "title": "K-th Smallest Prime Fraction",
+      "title_slug": "k-th-smallest-prime-fraction",
+      "likes": 1229,
+      "dislikes": 52
+    }
+  ]
+}

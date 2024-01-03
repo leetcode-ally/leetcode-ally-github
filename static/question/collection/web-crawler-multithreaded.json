@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1242",
+      "title": "Web Crawler Multithreaded",
+      "titleSlug": "web-crawler-multithreaded",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 513,
+      "dislikes": 84,
+      "similarQuestions": "[{\"title\": \"Web Crawler\", \"titleSlug\": \"web-crawler\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Concurrency",
+          "slug": "concurrency"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"49.1K\", \"totalSubmission\": \"100.6K\", \"totalAcceptedRaw\": 49113, \"totalSubmissionRaw\": 100628, \"acRate\": \"48.8%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "web-crawler",
+        "title": "Web Crawler",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ]
+  }
+}

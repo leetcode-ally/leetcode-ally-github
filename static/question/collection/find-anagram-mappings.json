@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "760",
+      "title": "Find Anagram Mappings",
+      "titleSlug": "find-anagram-mappings",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 603,
+      "dislikes": 230,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"98.5K\", \"totalSubmission\": \"117.9K\", \"totalAcceptedRaw\": 98465, \"totalSubmissionRaw\": 117878, \"acRate\": \"83.5%\"}",
+      "hints": [
+        "Create a hashmap so that D[x] = i  whenever B[i] = x.  Then, the answer is [D[x] for x in A]."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Create a hashmap so that D[x] = i  whenever B[i] = x.  Then, the answer is [D[x] for x in A]."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  }
+}

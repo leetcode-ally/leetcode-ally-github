@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-33",
+  "data": [
+    {
+      "id": 1558,
+      "question_id": 1660,
+      "credit": 3,
+      "title": "Thousand Separator",
+      "title_slug": "thousand-separator",
+      "likes": 473,
+      "dislikes": 36
+    },
+    {
+      "id": 1559,
+      "question_id": 1661,
+      "credit": 4,
+      "title": "Minimum Number of Vertices to Reach All Nodes",
+      "title_slug": "minimum-number-of-vertices-to-reach-all-nodes",
+      "likes": 3575,
+      "dislikes": 121
+    },
+    {
+      "id": 1560,
+      "question_id": 1662,
+      "credit": 5,
+      "title": "Minimum Numbers of Function Calls to Make Target Array",
+      "title_slug": "minimum-numbers-of-function-calls-to-make-target-array",
+      "likes": 612,
+      "dislikes": 34
+    },
+    {
+      "id": 1561,
+      "question_id": 1663,
+      "credit": 6,
+      "title": "Detect Cycles in 2D Grid",
+      "title_slug": "detect-cycles-in-2d-grid",
+      "likes": 1116,
+      "dislikes": 27
+    }
+  ]
+}

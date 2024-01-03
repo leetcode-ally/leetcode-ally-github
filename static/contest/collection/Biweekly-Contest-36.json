@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-36",
+  "data": [
+    {
+      "id": 1634,
+      "question_id": 1708,
+      "credit": 3,
+      "title": "Design Parking System",
+      "title_slug": "design-parking-system",
+      "likes": 1889,
+      "dislikes": 438
+    },
+    {
+      "id": 1635,
+      "question_id": 1709,
+      "credit": 4,
+      "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "title_slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "likes": 299,
+      "dislikes": 407
+    },
+    {
+      "id": 1636,
+      "question_id": 1711,
+      "credit": 6,
+      "title": "Find Valid Matrix Given Row and Column Sums",
+      "title_slug": "find-valid-matrix-given-row-and-column-sums",
+      "likes": 1373,
+      "dislikes": 38
+    },
+    {
+      "id": 1637,
+      "question_id": 1710,
+      "credit": 7,
+      "title": "Find Servers That Handled Most Number of Requests",
+      "title_slug": "find-servers-that-handled-most-number-of-requests",
+      "likes": 574,
+      "dislikes": 24
+    }
+  ]
+}

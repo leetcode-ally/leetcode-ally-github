@@ -1,0 +1,57 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2422",
+      "title": "Merge Operations to Turn Array Into a Palindrome",
+      "titleSlug": "merge-operations-to-turn-array-into-a-palindrome",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 116,
+      "dislikes": 11,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"6.6K\", \"totalSubmission\": \"9.6K\", \"totalAcceptedRaw\": 6613, \"totalSubmissionRaw\": 9620, \"acRate\": \"68.7%\"}",
+      "hints": [
+        "Can you find how many operations are needed to make the first element of the array equal to the last element?",
+        "Notice that you can use the same idea of the previous hint to make the second element equal to the second last one.",
+        "Use the same idea until all elements of the array are used."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Can you find how many operations are needed to make the first element of the array equal to the last element?",
+      "Notice that you can use the same idea of the previous hint to make the second element equal to the second last one.",
+      "Use the same idea until all elements of the array are used."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  }
+}

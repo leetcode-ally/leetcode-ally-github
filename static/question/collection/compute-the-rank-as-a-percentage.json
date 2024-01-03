@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2346",
+      "title": "Compute the Rank as a Percentage",
+      "titleSlug": "compute-the-rank-as-a-percentage",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 24,
+      "dislikes": 70,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.6K\", \"totalSubmission\": \"11K\", \"totalAcceptedRaw\": 3646, \"totalSubmissionRaw\": 11039, \"acRate\": \"33.0%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

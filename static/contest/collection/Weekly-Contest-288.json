@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-288",
+  "data": [
+    {
+      "id": 2626,
+      "question_id": 2327,
+      "credit": 3,
+      "title": "Largest Number After Digit Swaps by Parity",
+      "title_slug": "largest-number-after-digit-swaps-by-parity",
+      "likes": 582,
+      "dislikes": 290
+    },
+    {
+      "id": 2627,
+      "question_id": 2328,
+      "credit": 4,
+      "title": "Minimize Result by Adding Parentheses to Expression",
+      "title_slug": "minimize-result-by-adding-parentheses-to-expression",
+      "likes": 191,
+      "dislikes": 324
+    },
+    {
+      "id": 2628,
+      "question_id": 2329,
+      "credit": 5,
+      "title": "Maximum Product After K Increments",
+      "title_slug": "maximum-product-after-k-increments",
+      "likes": 659,
+      "dislikes": 43
+    },
+    {
+      "id": 2629,
+      "question_id": 2330,
+      "credit": 6,
+      "title": "Maximum Total Beauty of the Gardens",
+      "title_slug": "maximum-total-beauty-of-the-gardens",
+      "likes": 417,
+      "dislikes": 37
+    }
+  ]
+}

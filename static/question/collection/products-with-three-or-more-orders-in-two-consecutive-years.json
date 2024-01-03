@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2292",
+      "title": "Products With Three or More Orders in Two Consecutive Years",
+      "titleSlug": "products-with-three-or-more-orders-in-two-consecutive-years",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 56,
+      "dislikes": 25,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.5K\", \"totalSubmission\": \"14.3K\", \"totalAcceptedRaw\": 5519, \"totalSubmissionRaw\": 14342, \"acRate\": \"38.5%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

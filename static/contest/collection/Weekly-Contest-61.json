@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-61",
+  "data": [
+    {
+      "id": 264,
+      "question_id": 739,
+      "credit": 5,
+      "title": "Daily Temperatures",
+      "title_slug": "daily-temperatures",
+      "likes": 12070,
+      "dislikes": 275
+    },
+    {
+      "id": 265,
+      "question_id": 738,
+      "credit": 6,
+      "title": "Monotone Increasing Digits",
+      "title_slug": "monotone-increasing-digits",
+      "likes": 1280,
+      "dislikes": 103
+    },
+    {
+      "id": 266,
+      "question_id": 740,
+      "credit": 6,
+      "title": "Delete and Earn",
+      "title_slug": "delete-and-earn",
+      "likes": 7298,
+      "dislikes": 366
+    },
+    {
+      "id": 267,
+      "question_id": 741,
+      "credit": 9,
+      "title": "Cherry Pickup",
+      "title_slug": "cherry-pickup",
+      "likes": 4089,
+      "dislikes": 148
+    }
+  ]
+}

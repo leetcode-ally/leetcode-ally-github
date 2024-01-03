@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1142",
+      "title": "User Activity for the Past 30 Days II",
+      "titleSlug": "user-activity-for-the-past-30-days-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 99,
+      "dislikes": 362,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"40K\", \"totalSubmission\": \"112.5K\", \"totalAcceptedRaw\": 39996, \"totalSubmissionRaw\": 112490, \"acRate\": \"35.6%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

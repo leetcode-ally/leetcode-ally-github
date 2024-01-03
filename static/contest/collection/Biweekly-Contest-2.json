@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-2",
+  "data": [
+    {
+      "id": 781,
+      "question_id": 1082,
+      "credit": 3,
+      "title": "Sum of Digits in the Minimum Number",
+      "title_slug": "sum-of-digits-in-the-minimum-number",
+      "likes": 114,
+      "dislikes": 151
+    },
+    {
+      "id": 782,
+      "question_id": 1074,
+      "credit": 4,
+      "title": "High Five",
+      "title_slug": "high-five",
+      "likes": 778,
+      "dislikes": 124
+    },
+    {
+      "id": 783,
+      "question_id": 1076,
+      "credit": 5,
+      "title": "Brace Expansion",
+      "title_slug": "brace-expansion",
+      "likes": 632,
+      "dislikes": 50
+    },
+    {
+      "id": 784,
+      "question_id": 1077,
+      "credit": 7,
+      "title": "Confusing Number II",
+      "title_slug": "confusing-number-ii",
+      "likes": 485,
+      "dislikes": 142
+    }
+  ]
+}

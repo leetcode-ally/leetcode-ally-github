@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-19",
+  "data": [
+    {
+      "id": 1230,
+      "question_id": 1444,
+      "credit": 3,
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "title_slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "likes": 3809,
+      "dislikes": 167
+    },
+    {
+      "id": 1231,
+      "question_id": 1445,
+      "credit": 4,
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "title_slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "likes": 1510,
+      "dislikes": 97
+    },
+    {
+      "id": 1232,
+      "question_id": 1446,
+      "credit": 5,
+      "title": "Angle Between Hands of a Clock",
+      "title_slug": "angle-between-hands-of-a-clock",
+      "likes": 1284,
+      "dislikes": 237
+    },
+    {
+      "id": 1233,
+      "question_id": 1447,
+      "credit": 6,
+      "title": "Jump Game IV",
+      "title_slug": "jump-game-iv",
+      "likes": 3662,
+      "dislikes": 128
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "439",
+      "title": "Ternary Expression Parser",
+      "titleSlug": "ternary-expression-parser",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 473,
+      "dislikes": 64,
+      "similarQuestions": "[{\"title\": \"Mini Parser\", \"titleSlug\": \"mini-parser\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Remove Comments\", \"titleSlug\": \"remove-comments\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Parse Lisp Expression\", \"titleSlug\": \"parse-lisp-expression\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"31.5K\", \"totalSubmission\": \"52K\", \"totalAcceptedRaw\": 31512, \"totalSubmissionRaw\": 52042, \"acRate\": \"60.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "mini-parser",
+        "title": "Mini Parser",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "remove-comments",
+        "title": "Remove Comments",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "parse-lisp-expression",
+        "title": "Parse Lisp Expression",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ]
+  }
+}

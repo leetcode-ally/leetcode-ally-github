@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-232",
+  "data": [
+    {
+      "id": 1912,
+      "question_id": 1915,
+      "credit": 3,
+      "title": "Check if One String Swap Can Make Strings Equal",
+      "title_slug": "check-if-one-string-swap-can-make-strings-equal",
+      "likes": 1033,
+      "dislikes": 56
+    },
+    {
+      "id": 1913,
+      "question_id": 1916,
+      "credit": 3,
+      "title": "Find Center of Star Graph",
+      "title_slug": "find-center-of-star-graph",
+      "likes": 1323,
+      "dislikes": 146
+    },
+    {
+      "id": 1914,
+      "question_id": 1917,
+      "credit": 5,
+      "title": "Maximum Average Pass Ratio",
+      "title_slug": "maximum-average-pass-ratio",
+      "likes": 706,
+      "dislikes": 79
+    },
+    {
+      "id": 1915,
+      "question_id": 1918,
+      "credit": 6,
+      "title": "Maximum Score of a Good Subarray",
+      "title_slug": "maximum-score-of-a-good-subarray",
+      "likes": 1750,
+      "dislikes": 44
+    }
+  ]
+}

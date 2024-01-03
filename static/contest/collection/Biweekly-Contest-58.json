@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-58",
+  "data": [
+    {
+      "id": 2170,
+      "question_id": 1302,
+      "credit": 3,
+      "title": "Delete Characters to Make Fancy String",
+      "title_slug": "delete-characters-to-make-fancy-string",
+      "likes": 418,
+      "dislikes": 22
+    },
+    {
+      "id": 2171,
+      "question_id": 2080,
+      "credit": 4,
+      "title": "Check if Move is Legal",
+      "title_slug": "check-if-move-is-legal",
+      "likes": 136,
+      "dislikes": 260
+    },
+    {
+      "id": 2172,
+      "question_id": 2081,
+      "credit": 5,
+      "title": "Minimum Total Space Wasted With K Resizing Operations",
+      "title_slug": "minimum-total-space-wasted-with-k-resizing-operations",
+      "likes": 547,
+      "dislikes": 48
+    },
+    {
+      "id": 2173,
+      "question_id": 1336,
+      "credit": 6,
+      "title": "Maximum Product of the Length of Two Palindromic Substrings",
+      "title_slug": "maximum-product-of-the-length-of-two-palindromic-substrings",
+      "likes": 236,
+      "dislikes": 40
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-65",
+  "data": [
+    {
+      "id": 280,
+      "question_id": 755,
+      "credit": 4,
+      "title": "Reach a Number",
+      "title_slug": "reach-a-number",
+      "likes": 1741,
+      "dislikes": 780
+    },
+    {
+      "id": 281,
+      "question_id": 756,
+      "credit": 6,
+      "title": "Pour Water",
+      "title_slug": "pour-water",
+      "likes": 292,
+      "dislikes": 748
+    },
+    {
+      "id": 282,
+      "question_id": 757,
+      "credit": 7,
+      "title": "Pyramid Transition Matrix",
+      "title_slug": "pyramid-transition-matrix",
+      "likes": 516,
+      "dislikes": 474
+    },
+    {
+      "id": 283,
+      "question_id": 759,
+      "credit": 10,
+      "title": "Set Intersection Size At Least Two",
+      "title_slug": "set-intersection-size-at-least-two",
+      "likes": 688,
+      "dislikes": 81
+    }
+  ]
+}

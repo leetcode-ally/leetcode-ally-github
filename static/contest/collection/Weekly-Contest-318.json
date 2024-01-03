@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-318",
+  "data": [
+    {
+      "id": 2986,
+      "question_id": 2551,
+      "credit": 3,
+      "title": "Apply Operations to an Array",
+      "title_slug": "apply-operations-to-an-array",
+      "likes": 503,
+      "dislikes": 19
+    },
+    {
+      "id": 2987,
+      "question_id": 2552,
+      "credit": 4,
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "title_slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "likes": 1135,
+      "dislikes": 18
+    },
+    {
+      "id": 2988,
+      "question_id": 2553,
+      "credit": 5,
+      "title": "Total Cost to Hire K Workers",
+      "title_slug": "total-cost-to-hire-k-workers",
+      "likes": 1744,
+      "dislikes": 477
+    },
+    {
+      "id": 2989,
+      "question_id": 2554,
+      "credit": 6,
+      "title": "Minimum Total Distance Traveled",
+      "title_slug": "minimum-total-distance-traveled",
+      "likes": 454,
+      "dislikes": 4
+    }
+  ]
+}

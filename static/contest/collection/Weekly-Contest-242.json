@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-242",
+  "data": [
+    {
+      "id": 2042,
+      "question_id": 1999,
+      "credit": 3,
+      "title": "Longer Contiguous Segments of Ones than Zeros",
+      "title_slug": "longer-contiguous-segments-of-ones-than-zeros",
+      "likes": 499,
+      "dislikes": 13
+    },
+    {
+      "id": 2043,
+      "question_id": 2000,
+      "credit": 4,
+      "title": "Minimum Speed to Arrive on Time",
+      "title_slug": "minimum-speed-to-arrive-on-time",
+      "likes": 2243,
+      "dislikes": 268
+    },
+    {
+      "id": 2044,
+      "question_id": 2001,
+      "credit": 5,
+      "title": "Jump Game VII",
+      "title_slug": "jump-game-vii",
+      "likes": 1582,
+      "dislikes": 92
+    },
+    {
+      "id": 2045,
+      "question_id": 2002,
+      "credit": 6,
+      "title": "Stone Game VIII",
+      "title_slug": "stone-game-viii",
+      "likes": 435,
+      "dislikes": 23
+    }
+  ]
+}

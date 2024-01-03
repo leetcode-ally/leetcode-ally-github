@@ -1,0 +1,74 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2282",
+      "title": "Number of People That Can Be Seen in a Grid",
+      "titleSlug": "number-of-people-that-can-be-seen-in-a-grid",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 54,
+      "dislikes": 25,
+      "similarQuestions": "[{\"title\": \"Number of Visible People in a Queue\", \"titleSlug\": \"number-of-visible-people-in-a-queue\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"1.6K\", \"totalSubmission\": \"3.2K\", \"totalAcceptedRaw\": 1576, \"totalSubmissionRaw\": 3234, \"acRate\": \"48.7%\"}",
+      "hints": [
+        "Imagine you are looking to the right. The heights of the people you see form an ascending sequence.",
+        "Iterate through the row from right to left. Use a decreasing monotonic stack to keep track of the people that you can see.",
+        "Use binary search to find the number of people in the stack that are shorter than the current person.",
+        "Repeat this process for each column."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "title": "Number of Visible People in a Queue",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Imagine you are looking to the right. The heights of the people you see form an ascending sequence.",
+      "Iterate through the row from right to left. Use a decreasing monotonic stack to keep track of the people that you can see.",
+      "Use binary search to find the number of people in the stack that are shorter than the current person.",
+      "Repeat this process for each column."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  }
+}

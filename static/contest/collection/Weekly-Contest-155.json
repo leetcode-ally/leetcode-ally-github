@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-155",
+  "data": [
+    {
+      "id": 974,
+      "question_id": 1306,
+      "credit": 3,
+      "title": "Minimum Absolute Difference",
+      "title_slug": "minimum-absolute-difference",
+      "likes": 2288,
+      "dislikes": 74
+    },
+    {
+      "id": 975,
+      "question_id": 1307,
+      "credit": 4,
+      "title": "Ugly Number III",
+      "title_slug": "ugly-number-iii",
+      "likes": 1168,
+      "dislikes": 493
+    },
+    {
+      "id": 976,
+      "question_id": 1308,
+      "credit": 5,
+      "title": "Smallest String With Swaps",
+      "title_slug": "smallest-string-with-swaps",
+      "likes": 3598,
+      "dislikes": 134
+    },
+    {
+      "id": 977,
+      "question_id": 1309,
+      "credit": 8,
+      "title": "Sort Items by Groups Respecting Dependencies",
+      "title_slug": "sort-items-by-groups-respecting-dependencies",
+      "likes": 1706,
+      "dislikes": 284
+    }
+  ]
+}

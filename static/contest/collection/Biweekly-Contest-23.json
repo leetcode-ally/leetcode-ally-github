@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-23",
+  "data": [
+    {
+      "id": 1322,
+      "question_id": 1500,
+      "credit": 3,
+      "title": "Count Largest Group",
+      "title_slug": "count-largest-group",
+      "likes": 424,
+      "dislikes": 943
+    },
+    {
+      "id": 1323,
+      "question_id": 1502,
+      "credit": 5,
+      "title": "Construct K Palindrome Strings",
+      "title_slug": "construct-k-palindrome-strings",
+      "likes": 1017,
+      "dislikes": 88
+    },
+    {
+      "id": 1324,
+      "question_id": 1501,
+      "credit": 5,
+      "title": "Circle and Rectangle Overlapping",
+      "title_slug": "circle-and-rectangle-overlapping",
+      "likes": 327,
+      "dislikes": 76
+    },
+    {
+      "id": 1325,
+      "question_id": 1503,
+      "credit": 6,
+      "title": "Reducing Dishes",
+      "title_slug": "reducing-dishes",
+      "likes": 3184,
+      "dislikes": 296
+    }
+  ]
+}

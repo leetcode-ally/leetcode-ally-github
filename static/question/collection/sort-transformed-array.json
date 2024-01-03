@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "360",
+      "title": "Sort Transformed Array",
+      "titleSlug": "sort-transformed-array",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 660,
+      "dislikes": 207,
+      "similarQuestions": "[{\"title\": \"Squares of a Sorted Array\", \"titleSlug\": \"squares-of-a-sorted-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Minimum Time to Repair Cars\", \"titleSlug\": \"minimum-time-to-repair-cars\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"63.8K\", \"totalSubmission\": \"115.1K\", \"totalAcceptedRaw\": 63799, \"totalSubmissionRaw\": 115087, \"acRate\": \"55.4%\"}",
+      "hints": [
+        "x^2 + x  will form a parabola.",
+        "Parameter A in:  A * x^2 + B * x + C dictates the shape of the parabola.</br>\r\nPositive A means the parabola remains concave (high-low-high), but negative A inverts the parabola to be convex (low-high-low)."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "squares-of-a-sorted-array",
+        "title": "Squares of a Sorted Array",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-time-to-repair-cars",
+        "title": "Minimum Time to Repair Cars",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "x^2 + x  will form a parabola.",
+      "Parameter A in:  A * x^2 + B * x + C dictates the shape of the parabola.</br>\r\nPositive A means the parabola remains concave (high-low-high), but negative A inverts the parabola to be convex (low-high-low)."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  }
+}

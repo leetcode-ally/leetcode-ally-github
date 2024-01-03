@@ -1,0 +1,76 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1724",
+      "title": "Checking Existence of Edge Length Limited Paths II",
+      "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 101,
+      "dislikes": 9,
+      "similarQuestions": "[{\"title\": \"Checking Existence of Edge Length Limited Paths\", \"titleSlug\": \"checking-existence-of-edge-length-limited-paths\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Number of Good Paths\", \"titleSlug\": \"number-of-good-paths\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Minimum Score of a Path Between Two Cities\", \"titleSlug\": \"minimum-score-of-a-path-between-two-cities\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Union Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Minimum Spanning Tree",
+          "slug": "minimum-spanning-tree"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"2.8K\", \"totalSubmission\": \"5.3K\", \"totalAcceptedRaw\": 2761, \"totalSubmissionRaw\": 5261, \"acRate\": \"52.5%\"}",
+      "hints": [
+        "Find the minimum spanning tree of the given graph.",
+        "Root the tree in an arbitrary node and calculate the maximum weight of the edge from each node to the chosen root.",
+        "To answer a query, find the lca between the two nodes, and find the maximum weight from each of the query nodes to their lca and compare it to the given limit."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "checking-existence-of-edge-length-limited-paths",
+        "title": "Checking Existence of Edge Length Limited Paths",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Hard",
+        "titleSlug": "number-of-good-paths",
+        "title": "Number of Good Paths",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-score-of-a-path-between-two-cities",
+        "title": "Minimum Score of a Path Between Two Cities",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Find the minimum spanning tree of the given graph.",
+      "Root the tree in an arbitrary node and calculate the maximum weight of the edge from each node to the chosen root.",
+      "To answer a query, find the lca between the two nodes, and find the maximum weight from each of the query nodes to their lca and compare it to the given limit."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      }
+    ]
+  }
+}

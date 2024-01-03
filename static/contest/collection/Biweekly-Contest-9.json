@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-9",
+  "data": [
+    {
+      "id": 978,
+      "question_id": 1141,
+      "credit": 3,
+      "title": "How Many Apples Can You Put into the Basket",
+      "title_slug": "how-many-apples-can-you-put-into-the-basket",
+      "likes": 211,
+      "dislikes": 16
+    },
+    {
+      "id": 979,
+      "question_id": 1142,
+      "credit": 4,
+      "title": "Minimum Knight Moves",
+      "title_slug": "minimum-knight-moves",
+      "likes": 1477,
+      "dislikes": 399
+    },
+    {
+      "id": 980,
+      "question_id": 1143,
+      "credit": 4,
+      "title": "Find Smallest Common Element in All Rows",
+      "title_slug": "find-smallest-common-element-in-all-rows",
+      "likes": 558,
+      "dislikes": 30
+    },
+    {
+      "id": 981,
+      "question_id": 1167,
+      "credit": 7,
+      "title": "Minimum Time to Build Blocks",
+      "title_slug": "minimum-time-to-build-blocks",
+      "likes": 230,
+      "dislikes": 30
+    }
+  ]
+}

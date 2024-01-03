@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-118",
+  "data": [
+    {
+      "id": 528,
+      "question_id": 1010,
+      "credit": 3,
+      "title": "Powerful Integers",
+      "title_slug": "powerful-integers",
+      "likes": 371,
+      "dislikes": 79
+    },
+    {
+      "id": 529,
+      "question_id": 1009,
+      "credit": 5,
+      "title": "Pancake Sorting",
+      "title_slug": "pancake-sorting",
+      "likes": 1434,
+      "dislikes": 1500
+    },
+    {
+      "id": 530,
+      "question_id": 1011,
+      "credit": 6,
+      "title": "Flip Binary Tree To Match Preorder Traversal",
+      "title_slug": "flip-binary-tree-to-match-preorder-traversal",
+      "likes": 921,
+      "dislikes": 267
+    },
+    {
+      "id": 531,
+      "question_id": 1012,
+      "credit": 8,
+      "title": "Equal Rational Numbers",
+      "title_slug": "equal-rational-numbers",
+      "likes": 91,
+      "dislikes": 211
+    }
+  ]
+}

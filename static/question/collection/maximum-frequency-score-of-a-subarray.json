@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2524",
+      "title": "Maximum Frequency Score of a Subarray",
+      "titleSlug": "maximum-frequency-score-of-a-subarray",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 21,
+      "dislikes": 3,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"781\", \"totalSubmission\": \"1.9K\", \"totalAcceptedRaw\": 781, \"totalSubmissionRaw\": 1931, \"acRate\": \"40.4%\"}",
+      "hints": [
+        "Calculate the frequency score of each subarray of size k and return the maximum one.",
+        "Use the sliding window technique to keep the frequency scores."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Calculate the frequency score of each subarray of size k and return the maximum one.",
+      "Use the sliding window technique to keep the frequency scores."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  }
+}

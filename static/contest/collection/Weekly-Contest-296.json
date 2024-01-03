@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-296",
+  "data": [
+    {
+      "id": 2722,
+      "question_id": 2386,
+      "credit": 3,
+      "title": "Min Max Game",
+      "title_slug": "min-max-game",
+      "likes": 510,
+      "dislikes": 24
+    },
+    {
+      "id": 2723,
+      "question_id": 2387,
+      "credit": 4,
+      "title": "Partition Array Such That Maximum Difference Is K",
+      "title_slug": "partition-array-such-that-maximum-difference-is-k",
+      "likes": 716,
+      "dislikes": 25
+    },
+    {
+      "id": 2724,
+      "question_id": 2388,
+      "credit": 5,
+      "title": "Replace Elements in an Array",
+      "title_slug": "replace-elements-in-an-array",
+      "likes": 594,
+      "dislikes": 32
+    },
+    {
+      "id": 2725,
+      "question_id": 2389,
+      "credit": 6,
+      "title": "Design a Text Editor",
+      "title_slug": "design-a-text-editor",
+      "likes": 516,
+      "dislikes": 222
+    }
+  ]
+}

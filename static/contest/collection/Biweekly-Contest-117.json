@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-117",
+  "data": [
+    {
+      "id": 3623,
+      "question_id": 3199,
+      "credit": 3,
+      "title": "Distribute Candies Among Children I",
+      "title_slug": "distribute-candies-among-children-i",
+      "likes": 68,
+      "dislikes": 31
+    },
+    {
+      "id": 3624,
+      "question_id": 3201,
+      "credit": 4,
+      "title": "Distribute Candies Among Children II",
+      "title_slug": "distribute-candies-among-children-ii",
+      "likes": 76,
+      "dislikes": 101
+    },
+    {
+      "id": 3625,
+      "question_id": 3200,
+      "credit": 5,
+      "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+      "title_slug": "number-of-strings-which-can-be-rearranged-to-contain-substring",
+      "likes": 138,
+      "dislikes": 59
+    },
+    {
+      "id": 3626,
+      "question_id": 3107,
+      "credit": 6,
+      "title": "Maximum Spending After Buying Items",
+      "title_slug": "maximum-spending-after-buying-items",
+      "likes": 73,
+      "dislikes": 24
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2230",
+      "title": "The Users That Are Eligible for Discount",
+      "titleSlug": "the-users-that-are-eligible-for-discount",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 19,
+      "dislikes": 41,
+      "similarQuestions": "[{\"title\": \"The Number of Users That Are Eligible for Discount\", \"titleSlug\": \"the-number-of-users-that-are-eligible-for-discount\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"4.6K\", \"totalSubmission\": \"9.2K\", \"totalAcceptedRaw\": 4574, \"totalSubmissionRaw\": 9243, \"acRate\": \"49.5%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Easy",
+        "titleSlug": "the-number-of-users-that-are-eligible-for-discount",
+        "title": "The Number of Users That Are Eligible for Discount",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

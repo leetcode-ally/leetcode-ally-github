@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2480",
+      "title": "Form a Chemical Bond",
+      "titleSlug": "form-a-chemical-bond",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 24,
+      "dislikes": 9,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"3.2K\", \"totalSubmission\": \"4.5K\", \"totalAcceptedRaw\": 3187, \"totalSubmissionRaw\": 4466, \"acRate\": \"71.4%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

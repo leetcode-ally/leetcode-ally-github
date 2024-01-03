@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-187",
+  "data": [
+    {
+      "id": 1374,
+      "question_id": 1547,
+      "credit": 3,
+      "title": "Destination City",
+      "title_slug": "destination-city",
+      "likes": 2120,
+      "dislikes": 95
+    },
+    {
+      "id": 1375,
+      "question_id": 1548,
+      "credit": 4,
+      "title": "Check If All 1's Are at Least Length K Places Away",
+      "title_slug": "check-if-all-1s-are-at-least-length-k-places-away",
+      "likes": 611,
+      "dislikes": 221
+    },
+    {
+      "id": 1376,
+      "question_id": 1549,
+      "credit": 5,
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "title_slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "likes": 3204,
+      "dislikes": 132
+    },
+    {
+      "id": 1377,
+      "question_id": 1550,
+      "credit": 7,
+      "title": "Find the Kth Smallest Sum of a Matrix With Sorted Rows",
+      "title_slug": "find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows",
+      "likes": 1191,
+      "dislikes": 15
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-336",
+  "data": [
+    {
+      "id": 3199,
+      "question_id": 2654,
+      "credit": 3,
+      "title": "Count the Number of Vowel Strings in Range",
+      "title_slug": "count-the-number-of-vowel-strings-in-range",
+      "likes": 307,
+      "dislikes": 20
+    },
+    {
+      "id": 3200,
+      "question_id": 2655,
+      "credit": 4,
+      "title": "Rearrange Array to Maximize Prefix Score",
+      "title_slug": "rearrange-array-to-maximize-prefix-score",
+      "likes": 270,
+      "dislikes": 41
+    },
+    {
+      "id": 3201,
+      "question_id": 2656,
+      "credit": 5,
+      "title": "Count the Number of Beautiful Subarrays",
+      "title_slug": "count-the-number-of-beautiful-subarrays",
+      "likes": 459,
+      "dislikes": 17
+    },
+    {
+      "id": 3202,
+      "question_id": 2657,
+      "credit": 6,
+      "title": "Minimum Time to Complete All Tasks",
+      "title_slug": "minimum-time-to-complete-all-tasks",
+      "likes": 402,
+      "dislikes": 15
+    }
+  ]
+}

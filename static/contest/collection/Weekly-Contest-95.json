@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-95",
+  "data": [
+    {
+      "id": 412,
+      "question_id": 908,
+      "credit": 3,
+      "title": "Middle of the Linked List",
+      "title_slug": "middle-of-the-linked-list",
+      "likes": 10868,
+      "dislikes": 330
+    },
+    {
+      "id": 413,
+      "question_id": 909,
+      "credit": 5,
+      "title": "Stone Game",
+      "title_slug": "stone-game",
+      "likes": 3105,
+      "dislikes": 2828
+    },
+    {
+      "id": 414,
+      "question_id": 910,
+      "credit": 7,
+      "title": "Nth Magical Number",
+      "title_slug": "nth-magical-number",
+      "likes": 1244,
+      "dislikes": 155
+    },
+    {
+      "id": 415,
+      "question_id": 911,
+      "credit": 7,
+      "title": "Profitable Schemes",
+      "title_slug": "profitable-schemes",
+      "likes": 1783,
+      "dislikes": 120
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-152",
+  "data": [
+    {
+      "id": 938,
+      "question_id": 1279,
+      "credit": 3,
+      "title": "Prime Arrangements",
+      "title_slug": "prime-arrangements",
+      "likes": 382,
+      "dislikes": 507
+    },
+    {
+      "id": 939,
+      "question_id": 1280,
+      "credit": 4,
+      "title": "Diet Plan Performance",
+      "title_slug": "diet-plan-performance",
+      "likes": 151,
+      "dislikes": 285
+    },
+    {
+      "id": 940,
+      "question_id": 1281,
+      "credit": 5,
+      "title": "Can Make Palindrome from Substring",
+      "title_slug": "can-make-palindrome-from-substring",
+      "likes": 771,
+      "dislikes": 269
+    },
+    {
+      "id": 941,
+      "question_id": 1282,
+      "credit": 6,
+      "title": "Number of Valid Words for Each Puzzle",
+      "title_slug": "number-of-valid-words-for-each-puzzle",
+      "likes": 1246,
+      "dislikes": 82
+    }
+  ]
+}

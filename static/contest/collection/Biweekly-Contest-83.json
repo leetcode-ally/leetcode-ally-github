@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-83",
+  "data": [
+    {
+      "id": 2810,
+      "question_id": 2433,
+      "credit": 3,
+      "title": "Best Poker Hand",
+      "title_slug": "best-poker-hand",
+      "likes": 358,
+      "dislikes": 34
+    },
+    {
+      "id": 2811,
+      "question_id": 2432,
+      "credit": 4,
+      "title": "Number of Zero-Filled Subarrays",
+      "title_slug": "number-of-zero-filled-subarrays",
+      "likes": 2187,
+      "dislikes": 73
+    },
+    {
+      "id": 2812,
+      "question_id": 2434,
+      "credit": 5,
+      "title": "Design a Number Container System",
+      "title_slug": "design-a-number-container-system",
+      "likes": 378,
+      "dislikes": 31
+    },
+    {
+      "id": 2813,
+      "question_id": 2435,
+      "credit": 6,
+      "title": "Shortest Impossible Sequence of Rolls",
+      "title_slug": "shortest-impossible-sequence-of-rolls",
+      "likes": 618,
+      "dislikes": 44
+    }
+  ]
+}

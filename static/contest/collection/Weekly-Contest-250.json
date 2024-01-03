@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-250",
+  "data": [
+    {
+      "id": 2142,
+      "question_id": 1264,
+      "credit": 3,
+      "title": "Maximum Number of Words You Can Type",
+      "title_slug": "maximum-number-of-words-you-can-type",
+      "likes": 565,
+      "dislikes": 26
+    },
+    {
+      "id": 2143,
+      "question_id": 2066,
+      "credit": 4,
+      "title": "Add Minimum Number of Rungs",
+      "title_slug": "add-minimum-number-of-rungs",
+      "likes": 353,
+      "dislikes": 26
+    },
+    {
+      "id": 2144,
+      "question_id": 2067,
+      "credit": 5,
+      "title": "Maximum Number of Points with Cost",
+      "title_slug": "maximum-number-of-points-with-cost",
+      "likes": 2258,
+      "dislikes": 135
+    },
+    {
+      "id": 2145,
+      "question_id": 2068,
+      "credit": 6,
+      "title": "Maximum Genetic Difference Query",
+      "title_slug": "maximum-genetic-difference-query",
+      "likes": 368,
+      "dislikes": 18
+    }
+  ]
+}

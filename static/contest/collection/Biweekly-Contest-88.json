@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-88",
+  "data": [
+    {
+      "id": 2930,
+      "question_id": 2532,
+      "credit": 3,
+      "title": "Remove Letter To Equalize Frequency",
+      "title_slug": "remove-letter-to-equalize-frequency",
+      "likes": 592,
+      "dislikes": 1130
+    },
+    {
+      "id": 2931,
+      "question_id": 2512,
+      "credit": 4,
+      "title": "Longest Uploaded Prefix",
+      "title_slug": "longest-uploaded-prefix",
+      "likes": 333,
+      "dislikes": 24
+    },
+    {
+      "id": 2932,
+      "question_id": 2533,
+      "credit": 5,
+      "title": "Bitwise XOR of All Pairings",
+      "title_slug": "bitwise-xor-of-all-pairings",
+      "likes": 375,
+      "dislikes": 13
+    },
+    {
+      "id": 2933,
+      "question_id": 2513,
+      "credit": 6,
+      "title": "Number of Pairs Satisfying Inequality",
+      "title_slug": "number-of-pairs-satisfying-inequality",
+      "likes": 515,
+      "dislikes": 9
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-300",
+  "data": [
+    {
+      "id": 2770,
+      "question_id": 2406,
+      "credit": 3,
+      "title": "Decode the Message",
+      "title_slug": "decode-the-message",
+      "likes": 898,
+      "dislikes": 84
+    },
+    {
+      "id": 2771,
+      "question_id": 2411,
+      "credit": 4,
+      "title": "Spiral Matrix IV",
+      "title_slug": "spiral-matrix-iv",
+      "likes": 694,
+      "dislikes": 26
+    },
+    {
+      "id": 2772,
+      "question_id": 2408,
+      "credit": 5,
+      "title": "Number of People Aware of a Secret",
+      "title_slug": "number-of-people-aware-of-a-secret",
+      "likes": 774,
+      "dislikes": 112
+    },
+    {
+      "id": 2773,
+      "question_id": 2409,
+      "credit": 6,
+      "title": "Number of Increasing Paths in a Grid",
+      "title_slug": "number-of-increasing-paths-in-a-grid",
+      "likes": 1903,
+      "dislikes": 42
+    }
+  ]
+}

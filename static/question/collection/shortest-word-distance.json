@@ -1,0 +1,60 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "243",
+      "title": "Shortest Word Distance",
+      "titleSlug": "shortest-word-distance",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 1248,
+      "dislikes": 110,
+      "similarQuestions": "[{\"title\": \"Shortest Word Distance II\", \"titleSlug\": \"shortest-word-distance-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Shortest Word Distance III\", \"titleSlug\": \"shortest-word-distance-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Find All K-Distant Indices in an Array\", \"titleSlug\": \"find-all-k-distant-indices-in-an-array\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"208.5K\", \"totalSubmission\": \"319.9K\", \"totalAcceptedRaw\": 208540, \"totalSubmissionRaw\": 319906, \"acRate\": \"65.2%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "shortest-word-distance-ii",
+        "title": "Shortest Word Distance II",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "shortest-word-distance-iii",
+        "title": "Shortest Word Distance III",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Easy",
+        "titleSlug": "find-all-k-distant-indices-in-an-array",
+        "title": "Find All K-Distant Indices in an Array",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  }
+}

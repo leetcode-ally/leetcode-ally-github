@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "615",
+      "title": "Average Salary: Departments VS Company",
+      "titleSlug": "average-salary-departments-vs-company",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 232,
+      "dislikes": 73,
+      "similarQuestions": "[{\"title\": \"Countries You Can Safely Invest In\", \"titleSlug\": \"countries-you-can-safely-invest-in\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"34.2K\", \"totalSubmission\": \"61K\", \"totalAcceptedRaw\": 34197, \"totalSubmissionRaw\": 61009, \"acRate\": \"56.1%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "countries-you-can-safely-invest-in",
+        "title": "Countries You Can Safely Invest In",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

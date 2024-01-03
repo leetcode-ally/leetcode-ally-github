@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2701",
+      "title": "Consecutive Transactions with Increasing Amounts",
+      "titleSlug": "consecutive-transactions-with-increasing-amounts",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 29,
+      "dislikes": 1,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"804\", \"totalSubmission\": \"3.1K\", \"totalAcceptedRaw\": 804, \"totalSubmissionRaw\": 3117, \"acRate\": \"25.8%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

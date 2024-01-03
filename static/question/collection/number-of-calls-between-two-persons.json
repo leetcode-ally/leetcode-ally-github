@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1699",
+      "title": "Number of Calls Between Two Persons",
+      "titleSlug": "number-of-calls-between-two-persons",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 283,
+      "dislikes": 14,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"38.2K\", \"totalSubmission\": \"47K\", \"totalAcceptedRaw\": 38193, \"totalSubmissionRaw\": 46993, \"acRate\": \"81.3%\"}",
+      "hints": []
+    },
+    "similar": [],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

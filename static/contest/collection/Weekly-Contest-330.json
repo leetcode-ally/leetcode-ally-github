@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-330",
+  "data": [
+    {
+      "id": 3131,
+      "question_id": 2679,
+      "credit": 3,
+      "title": "Count Distinct Numbers on Board",
+      "title_slug": "count-distinct-numbers-on-board",
+      "likes": 240,
+      "dislikes": 246
+    },
+    {
+      "id": 3132,
+      "question_id": 2680,
+      "credit": 4,
+      "title": "Count Collisions of Monkeys on a Polygon",
+      "title_slug": "count-collisions-of-monkeys-on-a-polygon",
+      "likes": 173,
+      "dislikes": 480
+    },
+    {
+      "id": 3133,
+      "question_id": 2681,
+      "credit": 6,
+      "title": "Put Marbles in Bags",
+      "title_slug": "put-marbles-in-bags",
+      "likes": 1979,
+      "dislikes": 79
+    },
+    {
+      "id": 3134,
+      "question_id": 2682,
+      "credit": 7,
+      "title": "Count Increasing Quadruplets",
+      "title_slug": "count-increasing-quadruplets",
+      "likes": 352,
+      "dislikes": 63
+    }
+  ]
+}

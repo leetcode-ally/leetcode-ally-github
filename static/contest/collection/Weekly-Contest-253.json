@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-253",
+  "data": [
+    {
+      "id": 2186,
+      "question_id": 2093,
+      "credit": 3,
+      "title": "Check If String Is a Prefix of Array",
+      "title_slug": "check-if-string-is-a-prefix-of-array",
+      "likes": 464,
+      "dislikes": 83
+    },
+    {
+      "id": 2187,
+      "question_id": 2094,
+      "credit": 4,
+      "title": "Remove Stones to Minimize the Total",
+      "title_slug": "remove-stones-to-minimize-the-total",
+      "likes": 1757,
+      "dislikes": 147
+    },
+    {
+      "id": 2188,
+      "question_id": 2095,
+      "credit": 5,
+      "title": "Minimum Number of Swaps to Make the String Balanced",
+      "title_slug": "minimum-number-of-swaps-to-make-the-string-balanced",
+      "likes": 1679,
+      "dislikes": 63
+    },
+    {
+      "id": 2189,
+      "question_id": 2096,
+      "credit": 6,
+      "title": "Find the Longest Valid Obstacle Course at Each Position",
+      "title_slug": "find-the-longest-valid-obstacle-course-at-each-position",
+      "likes": 1730,
+      "dislikes": 70
+    }
+  ]
+}

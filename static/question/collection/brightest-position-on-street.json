@@ -1,0 +1,70 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2021",
+      "title": "Brightest Position on Street",
+      "titleSlug": "brightest-position-on-street",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Medium",
+      "likes": 146,
+      "dislikes": 3,
+      "similarQuestions": "[{\"title\": \"Minimum Number of Food Buckets to Feed the Hamsters\", \"titleSlug\": \"minimum-number-of-food-buckets-to-feed-the-hamsters\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Count Positions on Street With Required Brightness\", \"titleSlug\": \"count-positions-on-street-with-required-brightness\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.2K\", \"totalSubmission\": \"8.3K\", \"totalAcceptedRaw\": 5208, \"totalSubmissionRaw\": 8346, \"acRate\": \"62.4%\"}",
+      "hints": [
+        "Convert lights into an array of ranges representing the range where each street light can light up and sort the start and end points of the ranges.",
+        "Do we need to traverse all possible positions on the street?",
+        "No, we don't, we only need to go to the start and end points of the ranges for each streetlight."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "count-positions-on-street-with-required-brightness",
+        "title": "Count Positions on Street With Required Brightness",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Convert lights into an array of ranges representing the range where each street light can light up and sort the start and end points of the ranges.",
+      "Do we need to traverse all possible positions on the street?",
+      "No, we don't, we only need to go to the start and end points of the ranges for each streetlight."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  }
+}

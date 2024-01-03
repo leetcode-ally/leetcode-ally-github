@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-111",
+  "data": [
+    {
+      "id": 480,
+      "question_id": 978,
+      "credit": 3,
+      "title": "Valid Mountain Array",
+      "title_slug": "valid-mountain-array",
+      "likes": 2865,
+      "dislikes": 178
+    },
+    {
+      "id": 481,
+      "question_id": 981,
+      "credit": 4,
+      "title": "Delete Columns to Make Sorted",
+      "title_slug": "delete-columns-to-make-sorted",
+      "likes": 1668,
+      "dislikes": 2862
+    },
+    {
+      "id": 482,
+      "question_id": 979,
+      "credit": 5,
+      "title": "DI String Match",
+      "title_slug": "di-string-match",
+      "likes": 2397,
+      "dislikes": 963
+    },
+    {
+      "id": 483,
+      "question_id": 980,
+      "credit": 8,
+      "title": "Find the Shortest Superstring",
+      "title_slug": "find-the-shortest-superstring",
+      "likes": 1398,
+      "dislikes": 144
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-113",
+  "data": [
+    {
+      "id": 3528,
+      "question_id": 3045,
+      "credit": 3,
+      "title": "Minimum Right Shifts to Sort the Array",
+      "title_slug": "minimum-right-shifts-to-sort-the-array",
+      "likes": 183,
+      "dislikes": 6
+    },
+    {
+      "id": 3529,
+      "question_id": 3081,
+      "credit": 4,
+      "title": "Minimum Array Length After Pair Removals",
+      "title_slug": "minimum-array-length-after-pair-removals",
+      "likes": 273,
+      "dislikes": 90
+    },
+    {
+      "id": 3530,
+      "question_id": 2953,
+      "credit": 5,
+      "title": "Count Pairs of Points With Distance k",
+      "title_slug": "count-pairs-of-points-with-distance-k",
+      "likes": 247,
+      "dislikes": 34
+    },
+    {
+      "id": 3531,
+      "question_id": 3105,
+      "credit": 6,
+      "title": "Minimum Edge Reversals So Every Node Is Reachable",
+      "title_slug": "minimum-edge-reversals-so-every-node-is-reachable",
+      "likes": 241,
+      "dislikes": 3
+    }
+  ]
+}

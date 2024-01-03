@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-352",
+  "data": [
+    {
+      "id": 3393,
+      "question_id": 2866,
+      "credit": 3,
+      "title": "Longest Even Odd Subarray With Threshold",
+      "title_slug": "longest-even-odd-subarray-with-threshold",
+      "likes": 262,
+      "dislikes": 248
+    },
+    {
+      "id": 3394,
+      "question_id": 2873,
+      "credit": 4,
+      "title": "Prime Pairs With Target Sum",
+      "title_slug": "prime-pairs-with-target-sum",
+      "likes": 320,
+      "dislikes": 31
+    },
+    {
+      "id": 3395,
+      "question_id": 2868,
+      "credit": 5,
+      "title": "Continuous Subarrays",
+      "title_slug": "continuous-subarrays",
+      "likes": 624,
+      "dislikes": 17
+    },
+    {
+      "id": 3396,
+      "question_id": 2849,
+      "credit": 6,
+      "title": "Sum of Imbalance Numbers of All Subarrays",
+      "title_slug": "sum-of-imbalance-numbers-of-all-subarrays",
+      "likes": 284,
+      "dislikes": 8
+    }
+  ]
+}

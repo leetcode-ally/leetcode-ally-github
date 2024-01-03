@@ -1,0 +1,63 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "2479",
+      "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+      "titleSlug": "maximum-xor-of-two-non-overlapping-subtrees",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 28,
+      "dislikes": 2,
+      "similarQuestions": "[]",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Graph",
+          "slug": "graph"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"578\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 578, \"totalSubmissionRaw\": 1190, \"acRate\": \"48.6%\"}",
+      "hints": [
+        "Try to build the answer bit by bit from the most significant bit to the least significant.",
+        "Use the Trie Data Structure to decide for each bit if it exists in the final answer."
+      ]
+    },
+    "similar": [],
+    "hints": [
+      "Try to build the answer bit by bit from the most significant bit to the least significant.",
+      "Use the Trie Data Structure to decide for each bit if it exists in the final answer."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "569",
+      "title": "Median Employee Salary",
+      "titleSlug": "median-employee-salary",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 317,
+      "dislikes": 150,
+      "similarQuestions": "[{\"title\": \"Find Median Given Frequency of Numbers\", \"titleSlug\": \"find-median-given-frequency-of-numbers\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"37.7K\", \"totalSubmission\": \"57K\", \"totalAcceptedRaw\": 37678, \"totalSubmissionRaw\": 57028, \"acRate\": \"66.1%\"}",
+      "hints": [
+        "Still remember how to select the sum which group by one column?",
+        "Try to think about how to get the median from a sorted list.",
+        "How to get the median one item for odd number list while how to get the median two items for even number list, try to unify them."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "find-median-given-frequency-of-numbers",
+        "title": "Find Median Given Frequency of Numbers",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [
+      "Still remember how to select the sum which group by one column?",
+      "Try to think about how to get the median from a sorted list.",
+      "How to get the median one item for odd number list while how to get the median two items for even number list, try to unify them."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

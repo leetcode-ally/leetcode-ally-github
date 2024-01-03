@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1917",
+      "title": "Leetcodify Friends Recommendations",
+      "titleSlug": "leetcodify-friends-recommendations",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Hard",
+      "likes": 63,
+      "dislikes": 56,
+      "similarQuestions": "[{\"title\": \"Leetcodify Similar Friends\", \"titleSlug\": \"leetcodify-similar-friends\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Strong Friendship\", \"titleSlug\": \"strong-friendship\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"5.6K\", \"totalSubmission\": \"21.1K\", \"totalAcceptedRaw\": 5614, \"totalSubmissionRaw\": 21118, \"acRate\": \"26.6%\"}",
+      "hints": []
+    },
+    "similar": [
+      {
+        "difficulty": "Hard",
+        "titleSlug": "leetcodify-similar-friends",
+        "title": "Leetcodify Similar Friends",
+        "isPaidOnly": true
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "strong-friendship",
+        "title": "Strong Friendship",
+        "isPaidOnly": true
+      }
+    ],
+    "hints": [],
+    "relatedTopics": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  }
+}

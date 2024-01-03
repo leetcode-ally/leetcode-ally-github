@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-205",
+  "data": [
+    {
+      "id": 1586,
+      "question_id": 1698,
+      "credit": 3,
+      "title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+      "title_slug": "replace-all-s-to-avoid-consecutive-repeating-characters",
+      "likes": 546,
+      "dislikes": 172
+    },
+    {
+      "id": 1587,
+      "question_id": 1699,
+      "credit": 5,
+      "title": "Number of Ways Where Square of Number Is Equal to Product of Two Numbers",
+      "title_slug": "number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers",
+      "likes": 359,
+      "dislikes": 52
+    },
+    {
+      "id": 1588,
+      "question_id": 1700,
+      "credit": 5,
+      "title": "Minimum Time to Make Rope Colorful",
+      "title_slug": "minimum-time-to-make-rope-colorful",
+      "likes": 3738,
+      "dislikes": 130
+    },
+    {
+      "id": 1589,
+      "question_id": 1701,
+      "credit": 6,
+      "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+      "title_slug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
+      "likes": 1979,
+      "dislikes": 28
+    }
+  ]
+}

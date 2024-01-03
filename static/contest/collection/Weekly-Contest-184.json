@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-184",
+  "data": [
+    {
+      "id": 1334,
+      "question_id": 1524,
+      "credit": 3,
+      "title": "String Matching in an Array",
+      "title_slug": "string-matching-in-an-array",
+      "likes": 873,
+      "dislikes": 87
+    },
+    {
+      "id": 1335,
+      "question_id": 1525,
+      "credit": 4,
+      "title": "Queries on a Permutation With Key",
+      "title_slug": "queries-on-a-permutation-with-key",
+      "likes": 472,
+      "dislikes": 616
+    },
+    {
+      "id": 1336,
+      "question_id": 1526,
+      "credit": 5,
+      "title": "HTML Entity Parser",
+      "title_slug": "html-entity-parser",
+      "likes": 180,
+      "dislikes": 320
+    },
+    {
+      "id": 1337,
+      "question_id": 1527,
+      "credit": 7,
+      "title": "Number of Ways to Paint N × 3 Grid",
+      "title_slug": "number-of-ways-to-paint-n-3-grid",
+      "likes": 1053,
+      "dislikes": 49
+    }
+  ]
+}

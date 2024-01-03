@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-341",
+  "data": [
+    {
+      "id": 3263,
+      "question_id": 2737,
+      "credit": 3,
+      "title": "Row With Maximum Ones",
+      "title_slug": "row-with-maximum-ones",
+      "likes": 382,
+      "dislikes": 11
+    },
+    {
+      "id": 3264,
+      "question_id": 2694,
+      "credit": 3,
+      "title": "Find the Maximum Divisibility Score",
+      "title_slug": "find-the-maximum-divisibility-score",
+      "likes": 158,
+      "dislikes": 41
+    },
+    {
+      "id": 3265,
+      "question_id": 2736,
+      "credit": 5,
+      "title": "Minimum Additions to Make Valid String",
+      "title_slug": "minimum-additions-to-make-valid-string",
+      "likes": 500,
+      "dislikes": 21
+    },
+    {
+      "id": 3266,
+      "question_id": 2739,
+      "credit": 6,
+      "title": "Minimize the Total Price of the Trips",
+      "title_slug": "minimize-the-total-price-of-the-trips",
+      "likes": 444,
+      "dislikes": 16
+    }
+  ]
+}

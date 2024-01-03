@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-245",
+  "data": [
+    {
+      "id": 2086,
+      "question_id": 2025,
+      "credit": 3,
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "title_slug": "redistribute-characters-to-make-all-strings-equal",
+      "likes": 1065,
+      "dislikes": 73
+    },
+    {
+      "id": 2087,
+      "question_id": 2027,
+      "credit": 4,
+      "title": "Maximum Number of Removable Characters",
+      "title_slug": "maximum-number-of-removable-characters",
+      "likes": 934,
+      "dislikes": 119
+    },
+    {
+      "id": 2088,
+      "question_id": 2026,
+      "credit": 5,
+      "title": "Merge Triplets to Form Target Triplet",
+      "title_slug": "merge-triplets-to-form-target-triplet",
+      "likes": 737,
+      "dislikes": 54
+    },
+    {
+      "id": 2089,
+      "question_id": 2028,
+      "credit": 6,
+      "title": "The Earliest and Latest Rounds Where Players Compete",
+      "title_slug": "the-earliest-and-latest-rounds-where-players-compete",
+      "likes": 225,
+      "dislikes": 18
+    }
+  ]
+}

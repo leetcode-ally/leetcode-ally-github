@@ -1,0 +1,50 @@
+{
+  "status": 200,
+  "message": "Question Data fetched successfully",
+  "data": {
+    "question": {
+      "questionFrontendId": "1474",
+      "title": "Delete N Nodes After M Nodes of a Linked List",
+      "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+      "content": null,
+      "isPaidOnly": true,
+      "difficulty": "Easy",
+      "likes": 390,
+      "dislikes": 13,
+      "similarQuestions": "[{\"title\": \"Remove Nth Node From End of List\", \"titleSlug\": \"remove-nth-node-from-end-of-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Remove Zero Sum Consecutive Nodes from Linked List\", \"titleSlug\": \"remove-zero-sum-consecutive-nodes-from-linked-list\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+      "topicTags": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ],
+      "stats": "{\"totalAccepted\": \"29.1K\", \"totalSubmission\": \"39.8K\", \"totalAcceptedRaw\": 29068, \"totalSubmissionRaw\": 39779, \"acRate\": \"73.1%\"}",
+      "hints": [
+        "Traverse the Linked List, each time you need to delete the next n nodes connect the nodes previous deleting with the next node after deleting."
+      ]
+    },
+    "similar": [
+      {
+        "difficulty": "Medium",
+        "titleSlug": "remove-nth-node-from-end-of-list",
+        "title": "Remove Nth Node From End of List",
+        "isPaidOnly": false
+      },
+      {
+        "difficulty": "Medium",
+        "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+        "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+        "isPaidOnly": false
+      }
+    ],
+    "hints": [
+      "Traverse the Linked List, each time you need to delete the next n nodes connect the nodes previous deleting with the next node after deleting."
+    ],
+    "relatedTopics": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  }
+}

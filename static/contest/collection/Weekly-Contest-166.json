@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-166",
+  "data": [
+    {
+      "id": 1118,
+      "question_id": 1406,
+      "credit": 3,
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "likes": 2458,
+      "dislikes": 226
+    },
+    {
+      "id": 1119,
+      "question_id": 1407,
+      "credit": 4,
+      "title": "Group the People Given the Group Size They Belong To",
+      "title_slug": "group-the-people-given-the-group-size-they-belong-to",
+      "likes": 2891,
+      "dislikes": 681
+    },
+    {
+      "id": 1120,
+      "question_id": 1408,
+      "credit": 5,
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "title_slug": "find-the-smallest-divisor-given-a-threshold",
+      "likes": 2703,
+      "dislikes": 182
+    },
+    {
+      "id": 1121,
+      "question_id": 1409,
+      "credit": 6,
+      "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+      "title_slug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+      "likes": 938,
+      "dislikes": 91
+    }
+  ]
+}
