@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-126",
+  "data": [
+    {
+      "id": 3847,
+      "question_id": 3367,
+      "credit": 3,
+      "title": "Find the Sum of Encrypted Integers",
+      "title_slug": "find-the-sum-of-encrypted-integers",
+      "likes": 64,
+      "dislikes": 9
+    },
+    {
+      "id": 3848,
+      "question_id": 3306,
+      "credit": 4,
+      "title": "Mark Elements on Array by Performing Queries",
+      "title_slug": "mark-elements-on-array-by-performing-queries",
+      "likes": 86,
+      "dislikes": 15
+    },
+    {
+      "id": 3849,
+      "question_id": 3354,
+      "credit": 5,
+      "title": "Replace Question Marks in String to Minimize Its Value",
+      "title_slug": "replace-question-marks-in-string-to-minimize-its-value",
+      "likes": 130,
+      "dislikes": 24
+    },
+    {
+      "id": 3850,
+      "question_id": 3345,
+      "credit": 6,
+      "title": "Find the Sum of the Power of All Subsequences",
+      "title_slug": "find-the-sum-of-the-power-of-all-subsequences",
+      "likes": 102,
+      "dislikes": 1
+    }
+  ]
+}

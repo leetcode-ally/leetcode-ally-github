@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-388",
+  "data": [
+    {
+      "id": 3837,
+      "question_id": 3334,
+      "credit": 2,
+      "title": "Apple Redistribution into Boxes",
+      "title_slug": "apple-redistribution-into-boxes",
+      "likes": 67,
+      "dislikes": 2
+    },
+    {
+      "id": 3838,
+      "question_id": 3351,
+      "credit": 4,
+      "title": "Maximize Happiness of Selected Children",
+      "title_slug": "maximize-happiness-of-selected-children",
+      "likes": 64,
+      "dislikes": 6
+    },
+    {
+      "id": 3839,
+      "question_id": 3356,
+      "credit": 5,
+      "title": "Shortest Uncommon Substring in an Array",
+      "title_slug": "shortest-uncommon-substring-in-an-array",
+      "likes": 107,
+      "dislikes": 9
+    },
+    {
+      "id": 3840,
+      "question_id": 3313,
+      "credit": 6,
+      "title": "Maximum Strength of K Disjoint Subarrays",
+      "title_slug": "maximum-strength-of-k-disjoint-subarrays",
+      "likes": 105,
+      "dislikes": 66
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-127",
+  "data": [
+    {
+      "id": 3881,
+      "question_id": 3381,
+      "credit": 3,
+      "title": "Shortest Subarray With OR at Least K I",
+      "title_slug": "shortest-subarray-with-or-at-least-k-i",
+      "likes": 40,
+      "dislikes": 1
+    },
+    {
+      "id": 3882,
+      "question_id": 3355,
+      "credit": 4,
+      "title": "Minimum Levels to Gain More Points",
+      "title_slug": "minimum-levels-to-gain-more-points",
+      "likes": 38,
+      "dislikes": 10
+    },
+    {
+      "id": 3883,
+      "question_id": 3380,
+      "credit": 5,
+      "title": "Shortest Subarray With OR at Least K II",
+      "title_slug": "shortest-subarray-with-or-at-least-k-ii",
+      "likes": 92,
+      "dislikes": 6
+    },
+    {
+      "id": 3884,
+      "question_id": 3316,
+      "credit": 7,
+      "title": "Find the Sum of Subsequence Powers",
+      "title_slug": "find-the-sum-of-subsequence-powers",
+      "likes": 54,
+      "dislikes": 2
+    }
+  ]
+}

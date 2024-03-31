@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-380",
+  "data": [
+    {
+      "id": 3736,
+      "question_id": 3242,
+      "credit": 3,
+      "title": "Count Elements With Maximum Frequency",
+      "title_slug": "count-elements-with-maximum-frequency",
+      "likes": 587,
+      "dislikes": 64
+    },
+    {
+      "id": 3737,
+      "question_id": 3245,
+      "credit": 4,
+      "title": "Find Beautiful Indices in the Given Array I",
+      "title_slug": "find-beautiful-indices-in-the-given-array-i",
+      "likes": 135,
+      "dislikes": 27
+    },
+    {
+      "id": 3738,
+      "question_id": 3240,
+      "credit": 5,
+      "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+      "title_slug": "maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+      "likes": 171,
+      "dislikes": 98
+    },
+    {
+      "id": 3739,
+      "question_id": 3303,
+      "credit": 6,
+      "title": "Find Beautiful Indices in the Given Array II",
+      "title_slug": "find-beautiful-indices-in-the-given-array-ii",
+      "likes": 146,
+      "dislikes": 10
+    }
+  ]
+}

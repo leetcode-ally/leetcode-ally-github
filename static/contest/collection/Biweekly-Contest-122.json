@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-122",
+  "data": [
+    {
+      "id": 3753,
+      "question_id": 3263,
+      "credit": 3,
+      "title": "Divide an Array Into Subarrays With Minimum Cost I",
+      "title_slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+      "likes": 74,
+      "dislikes": 6
+    },
+    {
+      "id": 3754,
+      "question_id": 3291,
+      "credit": 4,
+      "title": "Find if Array Can Be Sorted",
+      "title_slug": "find-if-array-can-be-sorted",
+      "likes": 100,
+      "dislikes": 11
+    },
+    {
+      "id": 3755,
+      "question_id": 3244,
+      "credit": 5,
+      "title": "Minimize Length of Array Using Operations",
+      "title_slug": "minimize-length-of-array-using-operations",
+      "likes": 144,
+      "dislikes": 37
+    },
+    {
+      "id": 3756,
+      "question_id": 3260,
+      "credit": 7,
+      "title": "Divide an Array Into Subarrays With Minimum Cost II",
+      "title_slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "likes": 91,
+      "dislikes": 11
+    }
+  ]
+}

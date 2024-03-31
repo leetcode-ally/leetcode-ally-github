@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-379",
+  "data": [
+    {
+      "id": 3728,
+      "question_id": 3251,
+      "credit": 3,
+      "title": "Maximum Area of Longest Diagonal Rectangle",
+      "title_slug": "maximum-area-of-longest-diagonal-rectangle",
+      "likes": 89,
+      "dislikes": 13
+    },
+    {
+      "id": 3729,
+      "question_id": 3270,
+      "credit": 4,
+      "title": "Minimum Moves to Capture The Queen",
+      "title_slug": "minimum-moves-to-capture-the-queen",
+      "likes": 139,
+      "dislikes": 187
+    },
+    {
+      "id": 3730,
+      "question_id": 3228,
+      "credit": 5,
+      "title": "Maximum Size of a Set After Removals",
+      "title_slug": "maximum-size-of-a-set-after-removals",
+      "likes": 256,
+      "dislikes": 22
+    },
+    {
+      "id": 3731,
+      "question_id": 3233,
+      "credit": 7,
+      "title": "Maximize the Number of Partitions After Operations",
+      "title_slug": "maximize-the-number-of-partitions-after-operations",
+      "likes": 88,
+      "dislikes": 21
+    }
+  ]
+}

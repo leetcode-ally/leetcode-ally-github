@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-123",
+  "data": [
+    {
+      "id": 3776,
+      "question_id": 3321,
+      "credit": 3,
+      "title": "Type of Triangle",
+      "title_slug": "type-of-triangle",
+      "likes": 68,
+      "dislikes": 9
+    },
+    {
+      "id": 3777,
+      "question_id": 3278,
+      "credit": 4,
+      "title": "Find the Number of Ways to Place People I",
+      "title_slug": "find-the-number-of-ways-to-place-people-i",
+      "likes": 40,
+      "dislikes": 57
+    },
+    {
+      "id": 3778,
+      "question_id": 3265,
+      "credit": 5,
+      "title": "Maximum Good Subarray Sum",
+      "title_slug": "maximum-good-subarray-sum",
+      "likes": 249,
+      "dislikes": 13
+    },
+    {
+      "id": 3779,
+      "question_id": 3277,
+      "credit": 7,
+      "title": "Find the Number of Ways to Place People II",
+      "title_slug": "find-the-number-of-ways-to-place-people-ii",
+      "likes": 80,
+      "dislikes": 14
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-390",
+  "data": [
+    {
+      "id": 3865,
+      "question_id": 3349,
+      "credit": 3,
+      "title": "Maximum Length Substring With Two Occurrences",
+      "title_slug": "maximum-length-substring-with-two-occurrences",
+      "likes": 108,
+      "dislikes": 8
+    },
+    {
+      "id": 3866,
+      "question_id": 3328,
+      "credit": 4,
+      "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+      "title_slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+      "likes": 120,
+      "dislikes": 11
+    },
+    {
+      "id": 3867,
+      "question_id": 3363,
+      "credit": 5,
+      "title": "Most Frequent IDs",
+      "title_slug": "most-frequent-ids",
+      "likes": 176,
+      "dislikes": 22
+    },
+    {
+      "id": 3868,
+      "question_id": 3376,
+      "credit": 6,
+      "title": "Longest Common Suffix Queries",
+      "title_slug": "longest-common-suffix-queries",
+      "likes": 87,
+      "dislikes": 11
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-391",
+  "data": [
+    {
+      "id": 3885,
+      "question_id": 3371,
+      "credit": 3,
+      "title": "Harshad Number",
+      "title_slug": "harshad-number",
+      "likes": 33,
+      "dislikes": 0
+    },
+    {
+      "id": 3886,
+      "question_id": 3336,
+      "credit": 4,
+      "title": "Water Bottles II",
+      "title_slug": "water-bottles-ii",
+      "likes": 37,
+      "dislikes": 10
+    },
+    {
+      "id": 3887,
+      "question_id": 3374,
+      "credit": 5,
+      "title": "Count Alternating Subarrays",
+      "title_slug": "count-alternating-subarrays",
+      "likes": 81,
+      "dislikes": 2
+    },
+    {
+      "id": 3888,
+      "question_id": 3344,
+      "credit": 7,
+      "title": "Minimize Manhattan Distances",
+      "title_slug": "minimize-manhattan-distances",
+      "likes": 60,
+      "dislikes": 4
+    }
+  ]
+}

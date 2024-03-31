@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-374",
+  "data": [
+    {
+      "id": 3661,
+      "question_id": 3221,
+      "credit": 3,
+      "title": "Find the Peaks",
+      "title_slug": "find-the-peaks",
+      "likes": 131,
+      "dislikes": 14
+    },
+    {
+      "id": 3662,
+      "question_id": 3231,
+      "credit": 4,
+      "title": "Minimum Number of Coins to be Added",
+      "title_slug": "minimum-number-of-coins-to-be-added",
+      "likes": 284,
+      "dislikes": 47
+    },
+    {
+      "id": 3663,
+      "question_id": 3223,
+      "credit": 5,
+      "title": "Count Complete Substrings",
+      "title_slug": "count-complete-substrings",
+      "likes": 177,
+      "dislikes": 31
+    },
+    {
+      "id": 3664,
+      "question_id": 3224,
+      "credit": 6,
+      "title": "Count the Number of Infection Sequences",
+      "title_slug": "count-the-number-of-infection-sequences",
+      "likes": 68,
+      "dislikes": 16
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-124",
+  "data": [
+    {
+      "id": 3801,
+      "question_id": 3320,
+      "credit": 3,
+      "title": "Maximum Number of Operations With the Same Score I",
+      "title_slug": "maximum-number-of-operations-with-the-same-score-i",
+      "likes": 58,
+      "dislikes": 14
+    },
+    {
+      "id": 3802,
+      "question_id": 3308,
+      "credit": 4,
+      "title": "Apply Operations to Make String Empty",
+      "title_slug": "apply-operations-to-make-string-empty",
+      "likes": 110,
+      "dislikes": 5
+    },
+    {
+      "id": 3803,
+      "question_id": 3318,
+      "credit": 5,
+      "title": "Maximum Number of Operations With the Same Score II",
+      "title_slug": "maximum-number-of-operations-with-the-same-score-ii",
+      "likes": 118,
+      "dislikes": 11
+    },
+    {
+      "id": 3804,
+      "question_id": 3298,
+      "credit": 6,
+      "title": "Maximize Consecutive Elements in an Array After Modification",
+      "title_slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "likes": 129,
+      "dislikes": 5
+    }
+  ]
+}

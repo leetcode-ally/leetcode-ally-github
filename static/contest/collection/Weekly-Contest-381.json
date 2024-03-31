@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-381",
+  "data": [
+    {
+      "id": 3749,
+      "question_id": 3275,
+      "credit": 3,
+      "title": "Minimum Number of Pushes to Type Word I",
+      "title_slug": "minimum-number-of-pushes-to-type-word-i",
+      "likes": 93,
+      "dislikes": 21
+    },
+    {
+      "id": 3750,
+      "question_id": 3271,
+      "credit": 4,
+      "title": "Count the Number of Houses at a Certain Distance I",
+      "title_slug": "count-the-number-of-houses-at-a-certain-distance-i",
+      "likes": 120,
+      "dislikes": 27
+    },
+    {
+      "id": 3751,
+      "question_id": 3276,
+      "credit": 5,
+      "title": "Minimum Number of Pushes to Type Word II",
+      "title_slug": "minimum-number-of-pushes-to-type-word-ii",
+      "likes": 125,
+      "dislikes": 4
+    },
+    {
+      "id": 3752,
+      "question_id": 3310,
+      "credit": 8,
+      "title": "Count the Number of Houses at a Certain Distance II",
+      "title_slug": "count-the-number-of-houses-at-a-certain-distance-ii",
+      "likes": 67,
+      "dislikes": 21
+    }
+  ]
+}

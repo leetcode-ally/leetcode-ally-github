@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-375",
+  "data": [
+    {
+      "id": 3678,
+      "question_id": 3220,
+      "credit": 3,
+      "title": "Count Tested Devices After Test Operations",
+      "title_slug": "count-tested-devices-after-test-operations",
+      "likes": 121,
+      "dislikes": 10
+    },
+    {
+      "id": 3679,
+      "question_id": 3234,
+      "credit": 4,
+      "title": "Double Modular Exponentiation",
+      "title_slug": "double-modular-exponentiation",
+      "likes": 97,
+      "dislikes": 16
+    },
+    {
+      "id": 3680,
+      "question_id": 3213,
+      "credit": 5,
+      "title": "Count Subarrays Where Max Element Appears at Least K Times",
+      "title_slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+      "likes": 1106,
+      "dislikes": 54
+    },
+    {
+      "id": 3681,
+      "question_id": 3212,
+      "credit": 6,
+      "title": "Count the Number of Good Partitions",
+      "title_slug": "count-the-number-of-good-partitions",
+      "likes": 218,
+      "dislikes": 3
+    }
+  ]
+}

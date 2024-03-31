@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-382",
+  "data": [
+    {
+      "id": 3763,
+      "question_id": 3312,
+      "credit": 2,
+      "title": "Number of Changing Keys",
+      "title_slug": "number-of-changing-keys",
+      "likes": 80,
+      "dislikes": 8
+    },
+    {
+      "id": 3764,
+      "question_id": 3299,
+      "credit": 4,
+      "title": "Find the Maximum Number of Elements in Subset",
+      "title_slug": "find-the-maximum-number-of-elements-in-subset",
+      "likes": 153,
+      "dislikes": 32
+    },
+    {
+      "id": 3765,
+      "question_id": 3279,
+      "credit": 5,
+      "title": "Alice and Bob Playing Flower Game",
+      "title_slug": "alice-and-bob-playing-flower-game",
+      "likes": 81,
+      "dislikes": 66
+    },
+    {
+      "id": 3766,
+      "question_id": 3261,
+      "credit": 8,
+      "title": "Minimize OR of Remaining Elements Using Operations",
+      "title_slug": "minimize-or-of-remaining-elements-using-operations",
+      "likes": 75,
+      "dislikes": 14
+    }
+  ]
+}

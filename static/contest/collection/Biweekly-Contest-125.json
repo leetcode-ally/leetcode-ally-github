@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-125",
+  "data": [
+    {
+      "id": 3823,
+      "question_id": 3331,
+      "credit": 2,
+      "title": "Minimum Operations to Exceed Threshold Value I",
+      "title_slug": "minimum-operations-to-exceed-threshold-value-i",
+      "likes": 48,
+      "dislikes": 3
+    },
+    {
+      "id": 3824,
+      "question_id": 3332,
+      "credit": 4,
+      "title": "Minimum Operations to Exceed Threshold Value II",
+      "title_slug": "minimum-operations-to-exceed-threshold-value-ii",
+      "likes": 76,
+      "dislikes": 5
+    },
+    {
+      "id": 3825,
+      "question_id": 3326,
+      "credit": 5,
+      "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+      "title_slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+      "likes": 137,
+      "dislikes": 17
+    },
+    {
+      "id": 3826,
+      "question_id": 3307,
+      "credit": 6,
+      "title": "Find the Maximum Sum of Node Values",
+      "title_slug": "find-the-maximum-sum-of-node-values",
+      "likes": 80,
+      "dislikes": 12
+    }
+  ]
+}

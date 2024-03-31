@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-384",
+  "data": [
+    {
+      "id": 3789,
+      "question_id": 3330,
+      "credit": 2,
+      "title": "Modify the Matrix",
+      "title_slug": "modify-the-matrix",
+      "likes": 82,
+      "dislikes": 2
+    },
+    {
+      "id": 3790,
+      "question_id": 3269,
+      "credit": 4,
+      "title": "Number of Subarrays That Match a Pattern I",
+      "title_slug": "number-of-subarrays-that-match-a-pattern-i",
+      "likes": 75,
+      "dislikes": 7
+    },
+    {
+      "id": 3791,
+      "question_id": 3317,
+      "credit": 5,
+      "title": "Maximum Palindromes After Operations",
+      "title_slug": "maximum-palindromes-after-operations",
+      "likes": 186,
+      "dislikes": 8
+    },
+    {
+      "id": 3792,
+      "question_id": 3290,
+      "credit": 6,
+      "title": "Number of Subarrays That Match a Pattern II",
+      "title_slug": "number-of-subarrays-that-match-a-pattern-ii",
+      "likes": 127,
+      "dislikes": 5
+    }
+  ]
+}

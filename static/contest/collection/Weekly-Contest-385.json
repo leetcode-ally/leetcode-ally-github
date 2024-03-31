@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-385",
+  "data": [
+    {
+      "id": 3805,
+      "question_id": 3309,
+      "credit": 3,
+      "title": "Count Prefix and Suffix Pairs I",
+      "title_slug": "count-prefix-and-suffix-pairs-i",
+      "likes": 76,
+      "dislikes": 1
+    },
+    {
+      "id": 3806,
+      "question_id": 3329,
+      "credit": 4,
+      "title": "Find the Length of the Longest Common Prefix",
+      "title_slug": "find-the-length-of-the-longest-common-prefix",
+      "likes": 133,
+      "dislikes": 11
+    },
+    {
+      "id": 3807,
+      "question_id": 3314,
+      "credit": 5,
+      "title": "Most Frequent Prime",
+      "title_slug": "most-frequent-prime",
+      "likes": 77,
+      "dislikes": 61
+    },
+    {
+      "id": 3808,
+      "question_id": 3305,
+      "credit": 6,
+      "title": "Count Prefix and Suffix Pairs II",
+      "title_slug": "count-prefix-and-suffix-pairs-ii",
+      "likes": 129,
+      "dislikes": 7
+    }
+  ]
+}

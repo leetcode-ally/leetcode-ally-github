@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-387",
+  "data": [
+    {
+      "id": 3827,
+      "question_id": 3347,
+      "credit": 3,
+      "title": "Distribute Elements Into Two Arrays I",
+      "title_slug": "distribute-elements-into-two-arrays-i",
+      "likes": 55,
+      "dislikes": 14
+    },
+    {
+      "id": 3828,
+      "question_id": 3338,
+      "credit": 4,
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "title_slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "likes": 114,
+      "dislikes": 4
+    },
+    {
+      "id": 3829,
+      "question_id": 3335,
+      "credit": 5,
+      "title": "Minimum Operations to Write the Letter Y on a Grid",
+      "title_slug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+      "likes": 74,
+      "dislikes": 16
+    },
+    {
+      "id": 3830,
+      "question_id": 3350,
+      "credit": 6,
+      "title": "Distribute Elements Into Two Arrays II",
+      "title_slug": "distribute-elements-into-two-arrays-ii",
+      "likes": 118,
+      "dislikes": 11
+    }
+  ]
+}

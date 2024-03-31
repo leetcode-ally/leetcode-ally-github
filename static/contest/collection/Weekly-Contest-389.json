@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-389",
+  "data": [
+    {
+      "id": 3851,
+      "question_id": 3353,
+      "credit": 3,
+      "title": "Existence of a Substring in a String and Its Reverse",
+      "title_slug": "existence-of-a-substring-in-a-string-and-its-reverse",
+      "likes": 60,
+      "dislikes": 0
+    },
+    {
+      "id": 3852,
+      "question_id": 3337,
+      "credit": 4,
+      "title": "Count Substrings Starting and Ending with Given Character",
+      "title_slug": "count-substrings-starting-and-ending-with-given-character",
+      "likes": 87,
+      "dislikes": 2
+    },
+    {
+      "id": 3853,
+      "question_id": 3360,
+      "credit": 5,
+      "title": "Minimum Deletions to Make String K-Special",
+      "title_slug": "minimum-deletions-to-make-string-k-special",
+      "likes": 151,
+      "dislikes": 9
+    },
+    {
+      "id": 3854,
+      "question_id": 3327,
+      "credit": 7,
+      "title": "Minimum Moves to Pick K Ones",
+      "title_slug": "minimum-moves-to-pick-k-ones",
+      "likes": 34,
+      "dislikes": 34
+    }
+  ]
+}

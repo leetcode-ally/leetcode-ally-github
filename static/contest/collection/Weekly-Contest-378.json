@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-378",
+  "data": [
+    {
+      "id": 3711,
+      "question_id": 3246,
+      "credit": 3,
+      "title": "Check if Bitwise OR Has Trailing Zeros",
+      "title_slug": "check-if-bitwise-or-has-trailing-zeros",
+      "likes": 89,
+      "dislikes": 6
+    },
+    {
+      "id": 3712,
+      "question_id": 3267,
+      "credit": 4,
+      "title": "Find Longest Special Substring That Occurs Thrice I",
+      "title_slug": "find-longest-special-substring-that-occurs-thrice-i",
+      "likes": 136,
+      "dislikes": 9
+    },
+    {
+      "id": 3713,
+      "question_id": 3266,
+      "credit": 5,
+      "title": "Find Longest Special Substring That Occurs Thrice II",
+      "title_slug": "find-longest-special-substring-that-occurs-thrice-ii",
+      "likes": 215,
+      "dislikes": 23
+    },
+    {
+      "id": 3714,
+      "question_id": 3203,
+      "credit": 7,
+      "title": "Palindrome Rearrangement Queries",
+      "title_slug": "palindrome-rearrangement-queries",
+      "likes": 77,
+      "dislikes": 24
+    }
+  ]
+}

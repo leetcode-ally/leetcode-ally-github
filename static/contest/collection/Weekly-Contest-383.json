@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-383",
+  "data": [
+    {
+      "id": 3780,
+      "question_id": 3311,
+      "credit": 3,
+      "title": "Ant on the Boundary",
+      "title_slug": "ant-on-the-boundary",
+      "likes": 77,
+      "dislikes": 26
+    },
+    {
+      "id": 3781,
+      "question_id": 3297,
+      "credit": 4,
+      "title": "Minimum Time to Revert Word to Initial State I",
+      "title_slug": "minimum-time-to-revert-word-to-initial-state-i",
+      "likes": 125,
+      "dislikes": 29
+    },
+    {
+      "id": 3782,
+      "question_id": 3272,
+      "credit": 5,
+      "title": "Find the Grid of Region Average",
+      "title_slug": "find-the-grid-of-region-average",
+      "likes": 43,
+      "dislikes": 106
+    },
+    {
+      "id": 3783,
+      "question_id": 3296,
+      "credit": 6,
+      "title": "Minimum Time to Revert Word to Initial State II",
+      "title_slug": "minimum-time-to-revert-word-to-initial-state-ii",
+      "likes": 117,
+      "dislikes": 21
+    }
+  ]
+}

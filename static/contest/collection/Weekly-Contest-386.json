@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-386",
+  "data": [
+    {
+      "id": 3813,
+      "question_id": 3324,
+      "credit": 3,
+      "title": "Split the Array",
+      "title_slug": "split-the-array",
+      "likes": 78,
+      "dislikes": 7
+    },
+    {
+      "id": 3814,
+      "question_id": 3325,
+      "credit": 4,
+      "title": "Find the Largest Area of Square Inside Two Rectangles",
+      "title_slug": "find-the-largest-area-of-square-inside-two-rectangles",
+      "likes": 88,
+      "dislikes": 39
+    },
+    {
+      "id": 3815,
+      "question_id": 3292,
+      "credit": 5,
+      "title": "Earliest Second to Mark Indices I",
+      "title_slug": "earliest-second-to-mark-indices-i",
+      "likes": 142,
+      "dislikes": 68
+    },
+    {
+      "id": 3816,
+      "question_id": 3289,
+      "credit": 6,
+      "title": "Earliest Second to Mark Indices II",
+      "title_slug": "earliest-second-to-mark-indices-ii",
+      "likes": 69,
+      "dislikes": 17
+    }
+  ]
+}

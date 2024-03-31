@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-121",
+  "data": [
+    {
+      "id": 3724,
+      "question_id": 3236,
+      "credit": 3,
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "likes": 89,
+      "dislikes": 199
+    },
+    {
+      "id": 3725,
+      "question_id": 3249,
+      "credit": 4,
+      "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+      "title_slug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+      "likes": 91,
+      "dislikes": 6
+    },
+    {
+      "id": 3726,
+      "question_id": 3239,
+      "credit": 5,
+      "title": "Minimum Number of Operations to Make X and Y Equal",
+      "title_slug": "minimum-number-of-operations-to-make-x-and-y-equal",
+      "likes": 201,
+      "dislikes": 19
+    },
+    {
+      "id": 3727,
+      "question_id": 3243,
+      "credit": 7,
+      "title": "Count the Number of Powerful Integers",
+      "title_slug": "count-the-number-of-powerful-integers",
+      "likes": 90,
+      "dislikes": 6
+    }
+  ]
+}
