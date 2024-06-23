@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2775",
+            "title": "Undefined to Null",
+            "titleSlug": "undefined-to-null",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 14,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"520\", \"totalSubmission\": \"762\", \"totalAcceptedRaw\": 520, \"totalSubmissionRaw\": 762, \"acRate\": \"68.2%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

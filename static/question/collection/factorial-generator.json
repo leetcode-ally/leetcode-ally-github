@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2803",
+            "title": "Factorial Generator",
+            "titleSlug": "factorial-generator",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 17,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"815\", \"totalSubmission\": \"946\", \"totalAcceptedRaw\": 815, \"totalSubmissionRaw\": 946, \"acRate\": \"86.2%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3189",
+            "title": "Minimum Moves to Get a Peaceful Board",
+            "titleSlug": "minimum-moves-to-get-a-peaceful-board",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 11,
+            "dislikes": 3,
+            "similarQuestions": "[{\"title\": \"Transform to Chessboard\", \"titleSlug\": \"transform-to-chessboard\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Most Stones Removed with Same Row or Column\", \"titleSlug\": \"most-stones-removed-with-same-row-or-column\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"279\", \"totalSubmission\": \"364\", \"totalAcceptedRaw\": 279, \"totalSubmissionRaw\": 364, \"acRate\": \"76.6%\"}",
+            "hints": [
+                "Think of a greedy method.",
+                "First, distribute the rooks in individual rows.",
+                "You can do this by sorting all rooks by their rows. Then assign the first one to the first row, the second one to the second row, and so on.",
+                "After you've distributed rooks across all rows, now do the same for columns.",
+                "Sort rooks by their columns and then assign the first one to the first column and so on."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Hard",
+                "titleSlug": "transform-to-chessboard",
+                "title": "Transform to Chessboard",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Medium",
+                "titleSlug": "most-stones-removed-with-same-row-or-column",
+                "title": "Most Stones Removed with Same Row or Column",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Think of a greedy method.",
+            "First, distribute the rooks in individual rows.",
+            "You can do this by sorting all rooks by their rows. Then assign the first one to the first row, the second one to the second row, and so on.",
+            "After you've distributed rooks across all rows, now do the same for columns.",
+            "Sort rooks by their columns and then assign the first one to the first column and so on."
+        ],
+        "relatedTopics": []
+    }
+}

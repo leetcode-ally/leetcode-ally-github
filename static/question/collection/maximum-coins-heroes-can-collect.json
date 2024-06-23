@@ -1,0 +1,88 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2838",
+            "title": "Maximum Coins Heroes Can Collect",
+            "titleSlug": "maximum-coins-heroes-can-collect",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 29,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 1172, \"totalSubmissionRaw\": 1702, \"acRate\": \"68.9%\"}",
+            "hints": [
+                "If a hero can defeat the <code>i<sup>th</sup></code> monster, then he defeats all the monsters having a power less than <code>monster[i]</code>.",
+                "Sort monsters by their powers. Also change the order of the coins array according to this sort.",
+                "Construct a prefix sum array for the updated coins array.",
+                "For each hero, do a binary search and find the last position of the most powerful monster that this hero can defeat.",
+                "If said monster has index <code>i</code>, then the <code>i<sup>th</sup></code> element of the partial sum array would be the answer.",
+                "If a hero can defeat the <code>i<sup>th</sup></code> monster, then he defeats all the monsters having a power less than <code>monster[i]</code>.",
+                "Sort monsters by their powers. Also change the order of the coins array according to this sort.",
+                "Construct a prefix sum array for the updated coins array.",
+                "For each hero, do a binary search and find the last position of the most powerful monster that this hero can defeat.",
+                "If said monster has index <code>i</code>, then the <code>i<sup>th</sup></code> element of the partial sum array would be the answer."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "If a hero can defeat the <code>i<sup>th</sup></code> monster, then he defeats all the monsters having a power less than <code>monster[i]</code>.",
+            "Sort monsters by their powers. Also change the order of the coins array according to this sort.",
+            "Construct a prefix sum array for the updated coins array.",
+            "For each hero, do a binary search and find the last position of the most powerful monster that this hero can defeat.",
+            "If said monster has index <code>i</code>, then the <code>i<sup>th</sup></code> element of the partial sum array would be the answer.",
+            "If a hero can defeat the <code>i<sup>th</sup></code> monster, then he defeats all the monsters having a power less than <code>monster[i]</code>.",
+            "Sort monsters by their powers. Also change the order of the coins array according to this sort.",
+            "Construct a prefix sum array for the updated coins array.",
+            "For each hero, do a binary search and find the last position of the most powerful monster that this hero can defeat.",
+            "If said monster has index <code>i</code>, then the <code>i<sup>th</sup></code> element of the partial sum array would be the answer."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Sorting",
+                "slug": "sorting"
+            },
+            {
+                "name": "Prefix Sum",
+                "slug": "prefix-sum"
+            }
+        ]
+    }
+}

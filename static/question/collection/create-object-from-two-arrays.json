@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2794",
+            "title": "Create Object from Two Arrays",
+            "titleSlug": "create-object-from-two-arrays",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 9,
+            "dislikes": 3,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"930\", \"totalSubmission\": \"1.5K\", \"totalAcceptedRaw\": 930, \"totalSubmissionRaw\": 1468, \"acRate\": \"63.4%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

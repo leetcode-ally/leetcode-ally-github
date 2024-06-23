@@ -1,0 +1,70 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2819",
+            "title": "Minimum Relative Loss After Buying Chocolates",
+            "titleSlug": "minimum-relative-loss-after-buying-chocolates",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 16,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"365\", \"totalSubmission\": \"700\", \"totalAcceptedRaw\": 365, \"totalSubmissionRaw\": 700, \"acRate\": \"52.1%\"}",
+            "hints": [
+                "<div class=\"_1l1MA\">First sort <code>prices</code>.</div>",
+                "<div class=\"_1l1MA\">For one query, imagine <code>m<sub>i</sub></code> is <code>1</code>. It can be shown that Bob should select either the first one (the cheapest one) or the last one (the most expensive).</div>",
+                "<div class=\"_1l1MA\">Now if <code>m<sub>i</sub> > 1</code>, separate the chocolates into two parts. The first part is chocolates having a price less than or equal to <code>k</code>, the rest would be in the second part.</div>",
+                "<div class=\"_1l1MA\">Knowing how many chocolates Bob should pick from the first part is sufficient. Of course, Bob should select a prefix from this part and a suffix from the second part.</div>",
+                "<div class=\"_1l1MA\">To find the number of chocolates from the first part, do a binary search on the first part.</div>"
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "<div class=\"_1l1MA\">First sort <code>prices</code>.</div>",
+            "<div class=\"_1l1MA\">For one query, imagine <code>m<sub>i</sub></code> is <code>1</code>. It can be shown that Bob should select either the first one (the cheapest one) or the last one (the most expensive).</div>",
+            "<div class=\"_1l1MA\">Now if <code>m<sub>i</sub> > 1</code>, separate the chocolates into two parts. The first part is chocolates having a price less than or equal to <code>k</code>, the rest would be in the second part.</div>",
+            "<div class=\"_1l1MA\">Knowing how many chocolates Bob should pick from the first part is sufficient. Of course, Bob should select a prefix from this part and a suffix from the second part.</div>",
+            "<div class=\"_1l1MA\">To find the number of chocolates from the first part, do a binary search on the first part.</div>"
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Sorting",
+                "slug": "sorting"
+            },
+            {
+                "name": "Prefix Sum",
+                "slug": "prefix-sum"
+            }
+        ]
+    }
+}

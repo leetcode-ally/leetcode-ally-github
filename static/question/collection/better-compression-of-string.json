@@ -1,0 +1,75 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3167",
+            "title": "Better Compression of String",
+            "titleSlug": "better-compression-of-string",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 9,
+            "dislikes": 1,
+            "similarQuestions": "[{\"title\": \"String Compression\", \"titleSlug\": \"string-compression\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"781\", \"totalSubmission\": \"917\", \"totalAcceptedRaw\": 781, \"totalSubmissionRaw\": 917, \"acRate\": \"85.2%\"}",
+            "hints": [
+                "This is an implementation problem.",
+                "Try to extract each character with its corresponding frequency.",
+                "Sum the frequencies for a single character.",
+                "Sort characters and append them to a string in alphabetical order."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "string-compression",
+                "title": "String Compression",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "This is an implementation problem.",
+            "Try to extract each character with its corresponding frequency.",
+            "Sum the frequencies for a single character.",
+            "Sort characters and append them to a string in alphabetical order."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Sorting",
+                "slug": "sorting"
+            },
+            {
+                "name": "Counting",
+                "slug": "counting"
+            }
+        ]
+    }
+}

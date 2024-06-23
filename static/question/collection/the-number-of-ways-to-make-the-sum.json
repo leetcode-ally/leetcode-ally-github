@@ -1,0 +1,71 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3183",
+            "title": "The Number of Ways to Make the Sum",
+            "titleSlug": "the-number-of-ways-to-make-the-sum",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 8,
+            "dislikes": 1,
+            "similarQuestions": "[{\"title\": \"Combination Sum\", \"titleSlug\": \"combination-sum\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Climbing Stairs\", \"titleSlug\": \"climbing-stairs\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Coin Change II\", \"titleSlug\": \"coin-change-ii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"540\", \"totalSubmission\": \"848\", \"totalAcceptedRaw\": 540, \"totalSubmissionRaw\": 848, \"acRate\": \"63.7%\"}",
+            "hints": [
+                "Consider using dynamic programming.",
+                "Define <code>dp[i][x]</code> as the number of ways to make the sum <code>x</code> using only the first <code>i</code> coins; and define <code>coin[i]</code> as the value of coin <code>i</code>.",
+                "We can calculate <code>dp[i][x]</code> as the sum of <code>dp[i - 1][x]</code> and <code>dp[i][x - coin[i]]</code>.",
+                "Remember that 4 can at most be multiplied twice, so we calculate the <code>dp</code> for our infinite coins and then manually handle the existence of 4."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "combination-sum",
+                "title": "Combination Sum",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Easy",
+                "titleSlug": "climbing-stairs",
+                "title": "Climbing Stairs",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Medium",
+                "titleSlug": "coin-change-ii",
+                "title": "Coin Change II",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Consider using dynamic programming.",
+            "Define <code>dp[i][x]</code> as the number of ways to make the sum <code>x</code> using only the first <code>i</code> coins; and define <code>coin[i]</code> as the value of coin <code>i</code>.",
+            "We can calculate <code>dp[i][x]</code> as the sum of <code>dp[i - 1][x]</code> and <code>dp[i][x - coin[i]]</code>.",
+            "Remember that 4 can at most be multiplied twice, so we calculate the <code>dp</code> for our infinite coins and then manually handle the existence of 4."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            }
+        ]
+    }
+}

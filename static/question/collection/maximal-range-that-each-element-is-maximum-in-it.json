@@ -1,0 +1,64 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2832",
+            "title": "Maximal Range That Each Element Is Maximum in It",
+            "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 35,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.6K\", \"totalAcceptedRaw\": 1201, \"totalSubmissionRaw\": 1633, \"acRate\": \"73.5%\"}",
+            "hints": [
+                "For each index, we must find the nearest bigger element on both its left and right sides.",
+                "First, find the nearest bigger element on the left side of each element. To do that, use a stack of pairs <code>(value, index)</code>.",
+                "Start iterating from the beginning of the array.",
+                "Whenever we reach an element <code>nums[index]</code>, while the top of the stack is smaller than <code>nums[index]</code>, we pop from the stack.",
+                "If there is an element left in the stack, <code>top.index + 1</code> would be the answer. Otherwise, <code>0</code> is the answer.",
+                "After that, we push <code>(nums[index], index)</code> to the stack and go for the next element."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "For each index, we must find the nearest bigger element on both its left and right sides.",
+            "First, find the nearest bigger element on the left side of each element. To do that, use a stack of pairs <code>(value, index)</code>.",
+            "Start iterating from the beginning of the array.",
+            "Whenever we reach an element <code>nums[index]</code>, while the top of the stack is smaller than <code>nums[index]</code>, we pop from the stack.",
+            "If there is an element left in the stack, <code>top.index + 1</code> would be the answer. Otherwise, <code>0</code> is the answer.",
+            "After that, we push <code>(nums[index], index)</code> to the stack and go for the next element."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "slug": "stack"
+            },
+            {
+                "name": "Monotonic Stack",
+                "slug": "monotonic-stack"
+            }
+        ]
+    }
+}

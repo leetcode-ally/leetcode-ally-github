@@ -1,0 +1,54 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2927",
+            "title": "Distribute Candies Among Children III",
+            "titleSlug": "distribute-candies-among-children-iii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 8,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Combinatorics",
+                    "slug": "combinatorics"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"499\", \"totalSubmission\": \"1.1K\", \"totalAcceptedRaw\": 499, \"totalSubmissionRaw\": 1109, \"acRate\": \"45.0%\"}",
+            "hints": [
+                "Try to solve the problem using combinatorics.",
+                "If the limit didn\u2019t exist, the problem would be distributing <code>n</code> candies between <code>3</code> children.",
+                "The answer to the above problem would be <code>C(n + 2, 2)</code>.",
+                "Now try to combine this with the Inclusion-exclusion principle.",
+                "Apart from the above solution, there are other mathematical solutions that you can think of."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Try to solve the problem using combinatorics.",
+            "If the limit didn\u2019t exist, the problem would be distributing <code>n</code> candies between <code>3</code> children.",
+            "The answer to the above problem would be <code>C(n + 2, 2)</code>.",
+            "Now try to combine this with the Inclusion-exclusion principle.",
+            "Apart from the above solution, there are other mathematical solutions that you can think of."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Combinatorics",
+                "slug": "combinatorics"
+            }
+        ]
+    }
+}

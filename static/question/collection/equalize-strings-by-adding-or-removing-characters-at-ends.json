@@ -1,0 +1,66 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3135",
+            "title": "Equalize Strings by Adding or Removing Characters at Ends",
+            "titleSlug": "equalize-strings-by-adding-or-removing-characters-at-ends",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 9,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Hash Function",
+                    "slug": "hash-function"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"480\", \"totalSubmission\": \"840\", \"totalAcceptedRaw\": 480, \"totalSubmissionRaw\": 840, \"acRate\": \"57.1%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": [
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Sliding Window",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Hash Function",
+                "slug": "hash-function"
+            }
+        ]
+    }
+}

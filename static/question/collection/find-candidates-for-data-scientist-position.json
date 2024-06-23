@@ -1,0 +1,34 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3051",
+            "title": "Find Candidates for Data Scientist Position",
+            "titleSlug": "find-candidates-for-data-scientist-position",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 10,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Database",
+                    "slug": "database"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.7K\", \"totalSubmission\": \"2.4K\", \"totalAcceptedRaw\": 1744, \"totalSubmissionRaw\": 2385, \"acRate\": \"73.1%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": [
+            {
+                "name": "Database",
+                "slug": "database"
+            }
+        ]
+    }
+}

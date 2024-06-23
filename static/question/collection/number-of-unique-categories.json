@@ -1,0 +1,58 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2782",
+            "title": "Number of Unique Categories",
+            "titleSlug": "number-of-unique-categories",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 31,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Interactive",
+                    "slug": "interactive"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"2K\", \"totalSubmission\": \"2.4K\", \"totalAcceptedRaw\": 2013, \"totalSubmissionRaw\": 2417, \"acRate\": \"83.3%\"}",
+            "hints": [
+                "It can be proven that all pairs should be asked from the helper function.",
+                "Iterate from the first element. For each element `i`, ask the helper function `i` with all `j < i`.",
+                "If there is some `j < i` that `i` and `j` belong to the same group, go to next `i`. Otherwise, add one to the current number of groups."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "It can be proven that all pairs should be asked from the helper function.",
+            "Iterate from the first element. For each element `i`, ask the helper function `i` with all `j < i`.",
+            "If there is some `j < i` that `i` and `j` belong to the same group, go to next `i`. Otherwise, add one to the current number of groups."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Union Find",
+                "slug": "union-find"
+            },
+            {
+                "name": "Interactive",
+                "slug": "interactive"
+            },
+            {
+                "name": "Counting",
+                "slug": "counting"
+            }
+        ]
+    }
+}

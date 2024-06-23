@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2823",
+            "title": "Deep Object Filter",
+            "titleSlug": "deep-object-filter",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 13,
+            "dislikes": 3,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"338\", \"totalSubmission\": \"612\", \"totalAcceptedRaw\": 338, \"totalSubmissionRaw\": 612, \"acRate\": \"55.2%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

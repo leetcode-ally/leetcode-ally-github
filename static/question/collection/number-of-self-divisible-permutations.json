@@ -1,0 +1,70 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2992",
+            "title": "Number of Self-Divisible Permutations",
+            "titleSlug": "number-of-self-divisible-permutations",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 16,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.1K\", \"totalSubmission\": \"1.5K\", \"totalAcceptedRaw\": 1129, \"totalSubmissionRaw\": 1530, \"acRate\": \"73.8%\"}",
+            "hints": [
+                "Think of Backtracking."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Think of Backtracking."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Recursion",
+                "slug": "recursion"
+            },
+            {
+                "name": "Bitmask",
+                "slug": "bitmask"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3157",
+            "title": "Find the Level of Tree with Minimum Sum",
+            "titleSlug": "find-the-level-of-tree-with-minimum-sum",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 8,
+            "dislikes": 2,
+            "similarQuestions": "[{\"title\": \"Kth Largest Sum in a Binary Tree\", \"titleSlug\": \"kth-largest-sum-in-a-binary-tree\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"667\", \"totalSubmission\": \"942\", \"totalAcceptedRaw\": 667, \"totalSubmissionRaw\": 942, \"acRate\": \"70.8%\"}",
+            "hints": [
+                "Run a DFS on the tree and update an array sum where sum[i] is the sum for level i.",
+                "The answer is the first minimum element of sum."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "kth-largest-sum-in-a-binary-tree",
+                "title": "Kth Largest Sum in a Binary Tree",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Run a DFS on the tree and update an array sum where sum[i] is the sum for level i.",
+            "The answer is the first minimum element of sum."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Tree",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Binary Tree",
+                "slug": "binary-tree"
+            }
+        ]
+    }
+}

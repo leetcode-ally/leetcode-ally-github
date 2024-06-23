@@ -1,0 +1,56 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3088",
+            "title": "Make String Anti-palindrome",
+            "titleSlug": "make-string-anti-palindrome",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 7,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"354\", \"totalSubmission\": \"650\", \"totalAcceptedRaw\": 354, \"totalSubmissionRaw\": 650, \"acRate\": \"54.5%\"}",
+            "hints": [
+                "Sort the string.",
+                "Check if there are equivalent characters in the middle, if there are, shift the ones from the right side more to the right until they don't overlap."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Sort the string.",
+            "Check if there are equivalent characters in the middle, if there are, shift the ones from the right side more to the right until they don't overlap."
+        ],
+        "relatedTopics": [
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "slug": "sorting"
+            }
+        ]
+    }
+}

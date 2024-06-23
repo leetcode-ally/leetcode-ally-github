@@ -1,0 +1,54 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3073",
+            "title": "Maximum Increasing Triplet Value",
+            "titleSlug": "maximum-increasing-triplet-value",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 11,
+            "dislikes": 4,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"530\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 530, \"totalSubmissionRaw\": 1245, \"acRate\": \"42.6%\"}",
+            "hints": [
+                "For each element, define <code>right[i]</code> as the value of the greatest element with an index greater than <code>i</code>.",
+                "Start iterating from the beginning, define a set containing the elements seen so far.",
+                "When you are at index <code>i</code>, use binary search on the set to find the greatest element on the left of index <code>i</code> that is smaller than <code>nums[i]</code> and name it <code>greatest_left</code>.",
+                "Also check that <code>nums[i] < right[i]</code>.",
+                "If the above conditions hold, then <code>ans = max(ans, greatest_left - nums[i] + right[i])</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "For each element, define <code>right[i]</code> as the value of the greatest element with an index greater than <code>i</code>.",
+            "Start iterating from the beginning, define a set containing the elements seen so far.",
+            "When you are at index <code>i</code>, use binary search on the set to find the greatest element on the left of index <code>i</code> that is smaller than <code>nums[i]</code> and name it <code>greatest_left</code>.",
+            "Also check that <code>nums[i] < right[i]</code>.",
+            "If the above conditions hold, then <code>ans = max(ans, greatest_left - nums[i] + right[i])</code>."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Ordered Set",
+                "slug": "ordered-set"
+            }
+        ]
+    }
+}

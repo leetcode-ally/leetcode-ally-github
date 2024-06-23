@@ -1,0 +1,61 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3032",
+            "title": "Count Numbers With Unique Digits II",
+            "titleSlug": "count-numbers-with-unique-digits-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 17,
+            "dislikes": 4,
+            "similarQuestions": "[{\"title\": \"Count Numbers with Unique Digits\", \"titleSlug\": \"count-numbers-with-unique-digits\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"3.2K\", \"totalSubmission\": \"3.6K\", \"totalAcceptedRaw\": 3170, \"totalSubmissionRaw\": 3622, \"acRate\": \"87.5%\"}",
+            "hints": [
+                "You can traverse over all numbers and check if the current number has unique digits or not."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "count-numbers-with-unique-digits",
+                "title": "Count Numbers with Unique Digits",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "You can traverse over all numbers and check if the current number has unique digits or not."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            }
+        ]
+    }
+}

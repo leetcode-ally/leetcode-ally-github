@@ -1,0 +1,54 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3018",
+            "title": "Maximum Number of Removal Queries That Can Be Processed I",
+            "titleSlug": "maximum-number-of-removal-queries-that-can-be-processed-i",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 5,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"391\", \"totalSubmission\": \"876\", \"totalAcceptedRaw\": 391, \"totalSubmissionRaw\": 876, \"acRate\": \"44.6%\"}",
+            "hints": [
+                "Think of dynamic programming.",
+                "The definition of <code>dp</code>\u00a0is a little unusual. Try to think more.",
+                "Let <code>dp[l][r]</code> be the maximum number of queries we can process if we want <code>a[l], a[l + 1], ..., a[r - 1]</code> not to be removed after processing <code>dp[l][r]</code> queries.",
+                "So <code>dp[0][n] = 0</code> since we can not remove anything.",
+                "The answer would be <code>max(dp[i][i])</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Think of dynamic programming.",
+            "The definition of <code>dp</code>\u00a0is a little unusual. Try to think more.",
+            "Let <code>dp[l][r]</code> be the maximum number of queries we can process if we want <code>a[l], a[l + 1], ..., a[r - 1]</code> not to be removed after processing <code>dp[l][r]</code> queries.",
+            "So <code>dp[0][n] = 0</code> since we can not remove anything.",
+            "The answer would be <code>max(dp[i][i])</code>."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            }
+        ]
+    }
+}

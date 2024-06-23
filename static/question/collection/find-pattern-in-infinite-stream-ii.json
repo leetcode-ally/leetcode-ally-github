@@ -1,0 +1,70 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3037",
+            "title": "Find Pattern in Infinite Stream II",
+            "titleSlug": "find-pattern-in-infinite-stream-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 3,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Rolling Hash",
+                    "slug": "rolling-hash"
+                },
+                {
+                    "name": "String Matching",
+                    "slug": "string-matching"
+                },
+                {
+                    "name": "Hash Function",
+                    "slug": "hash-function"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"499\", \"totalSubmission\": \"712\", \"totalAcceptedRaw\": 499, \"totalSubmissionRaw\": 712, \"acRate\": \"70.1%\"}",
+            "hints": [
+                "Use the KMP algorithm."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Use the KMP algorithm."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Sliding Window",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Rolling Hash",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "String Matching",
+                "slug": "string-matching"
+            },
+            {
+                "name": "Hash Function",
+                "slug": "hash-function"
+            }
+        ]
+    }
+}

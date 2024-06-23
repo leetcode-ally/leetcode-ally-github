@@ -1,0 +1,66 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2950",
+            "title": "Number of Divisible Substrings",
+            "titleSlug": "number-of-divisible-substrings",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 21,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.5K\", \"totalAcceptedRaw\": 1167, \"totalSubmissionRaw\": 1533, \"acRate\": \"76.1%\"}",
+            "hints": [
+                "Iterate over all substrings in <code>O(n * n)</code>.",
+                "For each substring, try to calculate the sum of the mapped values in <code>O(1)</code>.",
+                "To do the above, use a partial sum array."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Iterate over all substrings in <code>O(n * n)</code>.",
+            "For each substring, try to calculate the sum of the mapped values in <code>O(1)</code>.",
+            "To do the above, use a partial sum array."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Counting",
+                "slug": "counting"
+            },
+            {
+                "name": "Prefix Sum",
+                "slug": "prefix-sum"
+            }
+        ]
+    }
+}

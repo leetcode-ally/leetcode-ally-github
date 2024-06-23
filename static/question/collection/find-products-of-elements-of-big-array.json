@@ -1,0 +1,58 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3145",
+            "title": "Find Products of Elements of Big Array",
+            "titleSlug": "find-products-of-elements-of-big-array",
+            "content": "<p>A <strong>powerful array</strong> for an integer <code>x</code> is the shortest sorted array of powers of two that sum up to <code>x</code>. For example, the powerful array for 11 is <code>[1, 2, 8]</code>.</p>\n\n<p>The array <code>big_nums</code> is created by concatenating the <strong>powerful</strong> arrays for every positive integer <code>i</code> in ascending order: 1, 2, 3, and so forth. Thus, <code>big_nums</code> starts as <code>[<u>1</u>, <u>2</u>, <u>1, 2</u>, <u>4</u>, <u>1, 4</u>, <u>2, 4</u>, <u>1, 2, 4</u>, <u>8</u>, ...]</code>.</p>\n\n<p>You are given a 2D integer matrix <code>queries</code>, where for <code>queries[i] = [from<sub>i</sub>, to<sub>i</sub>, mod<sub>i</sub>]</code> you should calculate <code>(big_nums[from<sub>i</sub>] * big_nums[from<sub>i</sub> + 1] * ... * big_nums[to<sub>i</sub>]) % mod<sub>i</sub></code><!-- notionvc: a71131cc-7b52-4786-9a4b-660d6d864f89 -->.</p>\n\n<p>Return an integer array <code>answer</code> such that <code>answer[i]</code> is the answer to the <code>i<sup>th</sup></code> query.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">queries = [[1,3,7]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">[4]</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>There is one query.</p>\n\n<p><code>big_nums[1..3] = [2,1,2]</code>. The product of them is 4. The remainder of 4 under 7 is 4.</p>\n</div>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">queries = [[2,5,3],[7,7,4]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">[2,2]</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>There are two queries.</p>\n\n<p>First query: <code>big_nums[2..5] = [1,2,4,1]</code>. The product of them is 8. The remainder of 8 under 3 is 2.</p>\n\n<p>Second query: <code>big_nums[7] = 2</code>. The remainder of 2 under 4 is 2.</p>\n</div>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= queries.length &lt;= 500</code></li>\n\t<li><code>queries[i].length == 3</code></li>\n\t<li><code>0 &lt;= queries[i][0] &lt;= queries[i][1] &lt;= 10<sup>15</sup></code></li>\n\t<li><code>1 &lt;= queries[i][2] &lt;= 10<sup>5</sup></code></li>\n</ul>\n",
+            "isPaidOnly": false,
+            "difficulty": "Hard",
+            "likes": 48,
+            "dislikes": 13,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.7K\", \"totalSubmission\": \"6.5K\", \"totalAcceptedRaw\": 1705, \"totalSubmissionRaw\": 6529, \"acRate\": \"26.1%\"}",
+            "hints": [
+                "Find a way to calculate <code>f(n, i)</code> which is the total number of numbers in <code>[1, n]</code> when the <code>i<sup>th</sup></code> bit is set in <code>O(log(n))</code> time.",
+                "Use binary search to find the last number for each query (and there might be one \u201cincomplete\u201d number for the query).",
+                "Use a similar way to find the product (we only need to save the sum of exponents of power of <code>2</code>)."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Find a way to calculate <code>f(n, i)</code> which is the total number of numbers in <code>[1, n]</code> when the <code>i<sup>th</sup></code> bit is set in <code>O(log(n))</code> time.",
+            "Use binary search to find the last number for each query (and there might be one \u201cincomplete\u201d number for the query).",
+            "Use a similar way to find the product (we only need to save the sum of exponents of power of <code>2</code>)."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            }
+        ]
+    }
+}

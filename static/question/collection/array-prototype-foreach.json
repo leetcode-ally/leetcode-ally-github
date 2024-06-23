@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2804",
+            "title": "Array Prototype ForEach",
+            "titleSlug": "array-prototype-foreach",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 8,
+            "dislikes": 9,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"806\", \"totalSubmission\": \"911\", \"totalAcceptedRaw\": 806, \"totalSubmissionRaw\": 911, \"acRate\": \"88.5%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

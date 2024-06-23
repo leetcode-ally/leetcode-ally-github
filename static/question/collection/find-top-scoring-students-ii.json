@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3188",
+            "title": "Find Top Scoring Students II",
+            "titleSlug": "find-top-scoring-students-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 4,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"163\", \"totalSubmission\": \"279\", \"totalAcceptedRaw\": 163, \"totalSubmissionRaw\": 279, \"acRate\": \"58.4%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

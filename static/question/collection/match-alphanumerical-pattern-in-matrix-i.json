@@ -1,0 +1,62 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3078",
+            "title": "Match Alphanumerical Pattern in Matrix I",
+            "titleSlug": "match-alphanumerical-pattern-in-matrix-i",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 7,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"397\", \"totalSubmission\": \"590\", \"totalAcceptedRaw\": 397, \"totalSubmissionRaw\": 590, \"acRate\": \"67.3%\"}",
+            "hints": [
+                "Use brute force and check all the possible submatrices."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Use brute force and check all the possible submatrices."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Matrix",
+                "slug": "matrix"
+            }
+        ]
+    }
+}

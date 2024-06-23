@@ -1,0 +1,54 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2847",
+            "title": "Smallest Number With Given Digit Product",
+            "titleSlug": "smallest-number-with-given-digit-product",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 18,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"840\", \"totalSubmission\": \"1.9K\", \"totalAcceptedRaw\": 840, \"totalSubmissionRaw\": 1931, \"acRate\": \"43.5%\"}",
+            "hints": [
+                "Find the prime factors of <code>n</code>.",
+                "If there is a prime factor <code>p</code> such that <code>p >= 11</code>, the answer is <code>-1</code>. Since there are no digits whose products equal <code>p</code>.",
+                "Factors <code>5</code> and <code>7</code> should be included in the answer since their product with any number bigger than <code>1</code> is a 2-digit number.",
+                "For factors <code>2</code> and <code>3</code>, we group every three <code>2</code> into an <code>8</code> and every two <code>3</code> into a <code>9</code>.",
+                "For any leftover <code>2</code> or <code>3</code>, check all the possible combinations."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Find the prime factors of <code>n</code>.",
+            "If there is a prime factor <code>p</code> such that <code>p >= 11</code>, the answer is <code>-1</code>. Since there are no digits whose products equal <code>p</code>.",
+            "Factors <code>5</code> and <code>7</code> should be included in the answer since their product with any number bigger than <code>1</code> is a 2-digit number.",
+            "For factors <code>2</code> and <code>3</code>, we group every three <code>2</code> into an <code>8</code> and every two <code>3</code> into a <code>9</code>.",
+            "For any leftover <code>2</code> or <code>3</code>, check all the possible combinations."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Greedy",
+                "slug": "greedy"
+            }
+        ]
+    }
+}

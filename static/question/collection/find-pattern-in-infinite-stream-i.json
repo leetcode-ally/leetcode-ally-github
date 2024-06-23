@@ -1,0 +1,66 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3023",
+            "title": "Find Pattern in Infinite Stream I",
+            "titleSlug": "find-pattern-in-infinite-stream-i",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 9,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Rolling Hash",
+                    "slug": "rolling-hash"
+                },
+                {
+                    "name": "String Matching",
+                    "slug": "string-matching"
+                },
+                {
+                    "name": "Hash Function",
+                    "slug": "hash-function"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"708\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 708, \"totalSubmissionRaw\": 1183, \"acRate\": \"59.8%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Sliding Window",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Rolling Hash",
+                "slug": "rolling-hash"
+            },
+            {
+                "name": "String Matching",
+                "slug": "string-matching"
+            },
+            {
+                "name": "Hash Function",
+                "slug": "hash-function"
+            }
+        ]
+    }
+}

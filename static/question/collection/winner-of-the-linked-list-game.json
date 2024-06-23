@@ -1,0 +1,42 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3062",
+            "title": "Winner of the Linked List Game",
+            "titleSlug": "winner-of-the-linked-list-game",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 26,
+            "dislikes": 5,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"8.1K\", \"totalSubmission\": \"9.9K\", \"totalAcceptedRaw\": 8103, \"totalSubmissionRaw\": 9923, \"acRate\": \"81.7%\"}",
+            "hints": [
+                "Traverse linked list and try to find pairs.",
+                "For each team, keep the number of its winning games in a variable.",
+                "Compare the winning variables and find the answer."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Traverse linked list and try to find pairs.",
+            "For each team, keep the number of its winning games in a variable.",
+            "Compare the winning variables and find the answer."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Linked List",
+                "slug": "linked-list"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2796",
+            "title": "Repeat String",
+            "titleSlug": "repeat-string",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 25,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"2.1K\", \"totalSubmission\": \"2.3K\", \"totalAcceptedRaw\": 2149, \"totalSubmissionRaw\": 2316, \"acRate\": \"92.8%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

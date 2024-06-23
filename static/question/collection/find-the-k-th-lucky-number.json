@@ -1,0 +1,62 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2802",
+            "title": "Find The K-th Lucky Number",
+            "titleSlug": "find-the-k-th-lucky-number",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 54,
+            "dislikes": 9,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"4.6K\", \"totalSubmission\": \"5.9K\", \"totalAcceptedRaw\": 4638, \"totalSubmissionRaw\": 5945, \"acRate\": \"78.0%\"}",
+            "hints": [
+                "<div class=\"_1l1MA\">The number of lucky numbers with <strong>exactly</strong> <code>n</code> digits is equal to <code>2<sup>n</sup></code>.</div>",
+                "<div class=\"_1l1MA\">We can obtain how many digits the <code>k<sup>th</sup></code>\u00a0lucky number has.</div>",
+                "<div class=\"_1l1MA\">Imagine we know that <code>k<sup>th</sup></code>\u00a0lucky number has <code>c</code>\u00a0digits. Then calculate how many numbers with <code>c</code> digits exist before the <code>k<sup>th</sup></code>\u00a0lucky number.</div>",
+                "<div class=\"_1l1MA\">Imagine the number from the previous hint is <code>x</code>. Now look at the binary representation of\u00a0<code>x</code>\u00a0and add some leading zero to\u00a0make its length equal to\u00a0<code>c</code>.</div>",
+                "<div class=\"_1l1MA\">Replace\u00a0<code>0</code>\u00a0and\u00a0<code>1</code>\u00a0with\u00a0<code>4</code>\u00a0and\u00a0<code>7</code>\u00a0in the number\u00a0you've obtained from the previous hint.</div>"
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "<div class=\"_1l1MA\">The number of lucky numbers with <strong>exactly</strong> <code>n</code> digits is equal to <code>2<sup>n</sup></code>.</div>",
+            "<div class=\"_1l1MA\">We can obtain how many digits the <code>k<sup>th</sup></code>\u00a0lucky number has.</div>",
+            "<div class=\"_1l1MA\">Imagine we know that <code>k<sup>th</sup></code>\u00a0lucky number has <code>c</code>\u00a0digits. Then calculate how many numbers with <code>c</code> digits exist before the <code>k<sup>th</sup></code>\u00a0lucky number.</div>",
+            "<div class=\"_1l1MA\">Imagine the number from the previous hint is <code>x</code>. Now look at the binary representation of\u00a0<code>x</code>\u00a0and add some leading zero to\u00a0make its length equal to\u00a0<code>c</code>.</div>",
+            "<div class=\"_1l1MA\">Replace\u00a0<code>0</code>\u00a0and\u00a0<code>1</code>\u00a0with\u00a0<code>4</code>\u00a0and\u00a0<code>7</code>\u00a0in the number\u00a0you've obtained from the previous hint.</div>"
+        ],
+        "relatedTopics": [
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2774",
+            "title": "Array Upper Bound",
+            "titleSlug": "array-upper-bound",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 21,
+            "dislikes": 2,
+            "similarQuestions": "[{\"title\": \"Array Prototype Last\", \"titleSlug\": \"array-prototype-last\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Group By\", \"titleSlug\": \"group-by\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Snail Traversal\", \"titleSlug\": \"snail-traversal\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"1.2K\", \"totalSubmission\": \"1.5K\", \"totalAcceptedRaw\": 1243, \"totalSubmissionRaw\": 1526, \"acRate\": \"81.5%\"}",
+            "hints": [
+                "Inside the Array.prototype.upperBound function you have access to the \"this\" keyword. You can access array elements, values, and methods. For example \"this[0]\", \"this[1]\", \"this.length\", \"this.map()\", etc.",
+                "The most efficient way to solve this problem is with binary search.",
+                "Choose the middle element and check if it's less than or equal to the goal value. If so, you can rule out the left side of the array."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Easy",
+                "titleSlug": "array-prototype-last",
+                "title": "Array Prototype Last",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Medium",
+                "titleSlug": "group-by",
+                "title": "Group By",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Medium",
+                "titleSlug": "snail-traversal",
+                "title": "Snail Traversal",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Inside the Array.prototype.upperBound function you have access to the \"this\" keyword. You can access array elements, values, and methods. For example \"this[0]\", \"this[1]\", \"this.length\", \"this.map()\", etc.",
+            "The most efficient way to solve this problem is with binary search.",
+            "Choose the middle element and check if it's less than or equal to the goal value. If so, you can rule out the left side of the array."
+        ],
+        "relatedTopics": []
+    }
+}

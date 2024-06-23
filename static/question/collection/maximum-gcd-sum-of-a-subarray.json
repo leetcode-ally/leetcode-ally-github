@@ -1,0 +1,70 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2941",
+            "title": "Maximum GCD-Sum of a Subarray",
+            "titleSlug": "maximum-gcd-sum-of-a-subarray",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 12,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Number Theory",
+                    "slug": "number-theory"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"359\", \"totalSubmission\": \"760\", \"totalAcceptedRaw\": 359, \"totalSubmissionRaw\": 760, \"acRate\": \"47.2%\"}",
+            "hints": [
+                "Try to answer the query of asking GCD of a subarray in <code>O(1)</code> using sparse tables and preprocessing.",
+                "For every index <code>L</code>, let\u2019s find the subarray starting at the index <code>L</code> and maximizing gcd-sum.",
+                "Use the fact that if <code>L</code> is fixed, then by adding one more element to the end of a subarray, two things can happen: the gcd remains the same as the last gcd or becomes at least half of the last one.",
+                "Now we can use binary search to find the last index <code>R</code> such that gcd of the elements of <code>nums[L..R]</code> would be equal to <code>nums[L]</code>.",
+                "Now add <code>nums[R + 1]</code> to the current subarray and continue the process to find the last index that has the same gcd as the current gcd of elements."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Try to answer the query of asking GCD of a subarray in <code>O(1)</code> using sparse tables and preprocessing.",
+            "For every index <code>L</code>, let\u2019s find the subarray starting at the index <code>L</code> and maximizing gcd-sum.",
+            "Use the fact that if <code>L</code> is fixed, then by adding one more element to the end of a subarray, two things can happen: the gcd remains the same as the last gcd or becomes at least half of the last one.",
+            "Now we can use binary search to find the last index <code>R</code> such that gcd of the elements of <code>nums[L..R]</code> would be equal to <code>nums[L]</code>.",
+            "Now add <code>nums[R + 1]</code> to the current subarray and continue the process to find the last index that has the same gcd as the current gcd of elements."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Number Theory",
+                "slug": "number-theory"
+            }
+        ]
+    }
+}

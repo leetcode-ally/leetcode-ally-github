@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2776",
+            "title": "Convert Callback Based Function to Promise Based Function",
+            "titleSlug": "convert-callback-based-function-to-promise-based-function",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 16,
+            "dislikes": 7,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"644\", \"totalSubmission\": \"701\", \"totalAcceptedRaw\": 644, \"totalSubmissionRaw\": 701, \"acRate\": \"91.9%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3119",
+            "title": "Maximum Number of Potholes That Can Be Fixed",
+            "titleSlug": "maximum-number-of-potholes-that-can-be-fixed",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 8,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"663\", \"totalSubmission\": \"1K\", \"totalAcceptedRaw\": 663, \"totalSubmissionRaw\": 1046, \"acRate\": \"63.4%\"}",
+            "hints": [
+                "Find all consecutive blocks of <code>\u2019x\u2019</code>.",
+                "Sort them by their length.",
+                "Try to fix the block from the largest one until you have enough budget."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Find all consecutive blocks of <code>\u2019x\u2019</code>.",
+            "Sort them by their length.",
+            "Try to fix the block from the largest one until you have enough budget."
+        ],
+        "relatedTopics": [
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "slug": "sorting"
+            }
+        ]
+    }
+}

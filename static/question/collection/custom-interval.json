@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2805",
+            "title": "Custom Interval",
+            "titleSlug": "custom-interval",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 16,
+            "dislikes": 7,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"390\", \"totalSubmission\": \"477\", \"totalAcceptedRaw\": 390, \"totalSubmissionRaw\": 477, \"acRate\": \"81.8%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

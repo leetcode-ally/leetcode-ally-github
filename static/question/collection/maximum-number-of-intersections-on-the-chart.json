@@ -1,0 +1,70 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3009",
+            "title": "Maximum Number of Intersections on the Chart",
+            "titleSlug": "maximum-number-of-intersections-on-the-chart",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 27,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Binary Indexed Tree",
+                    "slug": "binary-indexed-tree"
+                },
+                {
+                    "name": "Geometry",
+                    "slug": "geometry"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"3K\", \"totalSubmission\": \"6.5K\", \"totalAcceptedRaw\": 3029, \"totalSubmissionRaw\": 6542, \"acRate\": \"46.3%\"}",
+            "hints": [
+                "We move a horizontal line from the bottom of the chart to the top.",
+                "For each point we reach, the number of intersections might change, so we have to count it.",
+                "If a point we just reached is lower than its previous/next point, the number of intersections increases.",
+                "If a point we just reached is higher than its previous/next point, the number of intersections decreases.",
+                "There is also another solution using Fenwick Tree."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "We move a horizontal line from the bottom of the chart to the top.",
+            "For each point we reach, the number of intersections might change, so we have to count it.",
+            "If a point we just reached is lower than its previous/next point, the number of intersections increases.",
+            "If a point we just reached is higher than its previous/next point, the number of intersections decreases.",
+            "There is also another solution using Fenwick Tree."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Indexed Tree",
+                "slug": "binary-indexed-tree"
+            },
+            {
+                "name": "Geometry",
+                "slug": "geometry"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3060",
+            "title": "User Activities within Time Bounds",
+            "titleSlug": "user-activities-within-time-bounds",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 3,
+            "dislikes": 8,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Database",
+                    "slug": "database"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"682\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 682, \"totalSubmissionRaw\": 1724, \"acRate\": \"39.6%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": [
+            {
+                "name": "Database",
+                "slug": "database"
+            }
+        ]
+    }
+}

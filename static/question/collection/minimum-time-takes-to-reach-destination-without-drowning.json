@@ -1,0 +1,58 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2814",
+            "title": "Minimum Time Takes to Reach Destination Without Drowning",
+            "titleSlug": "minimum-time-takes-to-reach-destination-without-drowning",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 20,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"813\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 813, \"totalSubmissionRaw\": 1283, \"acRate\": \"63.4%\"}",
+            "hints": [
+                "Think of using breadth-first search.",
+                "Use a BFS to find for each cell the time at which it will become flooded.",
+                "Another BFS then simulates your movement, taking into account information gathered by the first BFS."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Think of using breadth-first search.",
+            "Use a BFS to find for each cell the time at which it will become flooded.",
+            "Another BFS then simulates your movement, taking into account information gathered by the first BFS."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Breadth-First Search",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Matrix",
+                "slug": "matrix"
+            }
+        ]
+    }
+}

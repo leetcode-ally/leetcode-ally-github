@@ -1,0 +1,90 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3109",
+            "title": "Find the Index of Permutation",
+            "titleSlug": "find-the-index-of-permutation",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 9,
+            "dislikes": 4,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Binary Indexed Tree",
+                    "slug": "binary-indexed-tree"
+                },
+                {
+                    "name": "Segment Tree",
+                    "slug": "segment-tree"
+                },
+                {
+                    "name": "Merge Sort",
+                    "slug": "merge-sort"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"328\", \"totalSubmission\": \"791\", \"totalAcceptedRaw\": 328, \"totalSubmissionRaw\": 791, \"acRate\": \"41.5%\"}",
+            "hints": [
+                "If <code>perm[0]</code> is <code>x</code>, there are at least <code>(x - 1) * (n - 1)!</code> permutations before <code>perm<c/ode>. (All the ones starting with numbers less than <code>x</code>)",
+                "Can you find out what happens for <code>perm[1]</code> onwards?",
+                "Think about the count of the numbers that can be in place of <code>perm[i]</code> and come before it."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "If <code>perm[0]</code> is <code>x</code>, there are at least <code>(x - 1) * (n - 1)!</code> permutations before <code>perm<c/ode>. (All the ones starting with numbers less than <code>x</code>)",
+            "Can you find out what happens for <code>perm[1]</code> onwards?",
+            "Think about the count of the numbers that can be in place of <code>perm[i]</code> and come before it."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Divide and Conquer",
+                "slug": "divide-and-conquer"
+            },
+            {
+                "name": "Binary Indexed Tree",
+                "slug": "binary-indexed-tree"
+            },
+            {
+                "name": "Segment Tree",
+                "slug": "segment-tree"
+            },
+            {
+                "name": "Merge Sort",
+                "slug": "merge-sort"
+            },
+            {
+                "name": "Ordered Set",
+                "slug": "ordered-set"
+            }
+        ]
+    }
+}

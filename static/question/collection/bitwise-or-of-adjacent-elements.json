@@ -1,0 +1,53 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3173",
+            "title": "Bitwise OR of Adjacent Elements",
+            "titleSlug": "bitwise-or-of-adjacent-elements",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 7,
+            "dislikes": 1,
+            "similarQuestions": "[{\"title\": \"Neighboring Bitwise XOR\", \"titleSlug\": \"neighboring-bitwise-xor\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"809\", \"totalSubmission\": \"835\", \"totalAcceptedRaw\": 809, \"totalSubmissionRaw\": 835, \"acRate\": \"96.9%\"}",
+            "hints": [
+                "Iterate over array and calculate each element of the resulting array using <code>|</code> operation."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "neighboring-bitwise-xor",
+                "title": "Neighboring Bitwise XOR",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Iterate over array and calculate each element of the resulting array using <code>|</code> operation."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            }
+        ]
+    }
+}

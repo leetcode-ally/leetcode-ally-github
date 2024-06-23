@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2793",
+            "title": "Status of Flight Tickets",
+            "titleSlug": "status-of-flight-tickets",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 10,
+            "dislikes": 20,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"1.6K\", \"totalSubmission\": \"2.1K\", \"totalAcceptedRaw\": 1559, \"totalSubmissionRaw\": 2108, \"acRate\": \"74.0%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

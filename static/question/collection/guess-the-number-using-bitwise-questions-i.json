@@ -1,0 +1,48 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3064",
+            "title": "Guess the Number Using Bitwise Questions I",
+            "titleSlug": "guess-the-number-using-bitwise-questions-i",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 9,
+            "dislikes": 4,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Interactive",
+                    "slug": "interactive"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"970\", \"totalSubmission\": \"1.1K\", \"totalAcceptedRaw\": 970, \"totalSubmissionRaw\": 1057, \"acRate\": \"91.8%\"}",
+            "hints": [
+                "Ask <code>2<sup>i</sup></code> for <code>0 <= i < 30</code>.",
+                "If the result is greater than zero for some <code>i</code>, this bit is a set bit in <code>n</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Ask <code>2<sup>i</sup></code> for <code>0 <= i < 30</code>.",
+            "If the result is greater than zero for some <code>i</code>, this bit is a set bit in <code>n</code>."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Interactive",
+                "slug": "interactive"
+            }
+        ]
+    }
+}

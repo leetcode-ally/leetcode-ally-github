@@ -1,0 +1,66 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3004",
+            "title": "Maximum Subtree of the Same Color",
+            "titleSlug": "maximum-subtree-of-the-same-color",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 16,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.1K\", \"totalSubmission\": \"1.7K\", \"totalAcceptedRaw\": 1124, \"totalSubmissionRaw\": 1704, \"acRate\": \"66.0%\"}",
+            "hints": [
+                "For each node, define a <code>flag[v]</code> indicating that the subtree of this node contains only one color or not.",
+                "In the DFS process, when you call <code>dfs(u)</code> from node <code>v</code>, after that DFS of <code>u</code> has finished, check if <code>flag[u] == false</code>, then <code>flag[v]</code> is also <code>false</code>.",
+                "Also if <code>color[v] != color[u]</code>, <code>flag[v]</code> becomes <code>false</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "For each node, define a <code>flag[v]</code> indicating that the subtree of this node contains only one color or not.",
+            "In the DFS process, when you call <code>dfs(u)</code> from node <code>v</code>, after that DFS of <code>u</code> has finished, check if <code>flag[u] == false</code>, then <code>flag[v]</code> is also <code>false</code>.",
+            "Also if <code>color[v] != color[u]</code>, <code>flag[v]</code> becomes <code>false</code>."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Tree",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "slug": "depth-first-search"
+            }
+        ]
+    }
+}

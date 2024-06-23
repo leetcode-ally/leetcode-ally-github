@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2821",
+            "title": "Delay the Resolution of Each Promise",
+            "titleSlug": "delay-the-resolution-of-each-promise",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 16,
+            "dislikes": 5,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"572\", \"totalSubmission\": \"877\", \"totalAcceptedRaw\": 572, \"totalSubmissionRaw\": 877, \"acRate\": \"65.2%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

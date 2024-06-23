@@ -1,0 +1,62 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3141",
+            "title": "Maximum Hamming Distances",
+            "titleSlug": "maximum-hamming-distances",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 10,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"345\", \"totalSubmission\": \"464\", \"totalAcceptedRaw\": 345, \"totalSubmissionRaw\": 464, \"acRate\": \"74.4%\"}",
+            "hints": [
+                "For each <code>nums[i]</code>, complement it (for each bit, if it is 1, it becomes 0 and vice-versa).",
+                "Instead of finding the maximum Hamming distance from <code>x = nums[i]</code>, let's think of finding the minimum Hamming distance from the complement of <code>x</code> to any element of the array.",
+                "Create a graph with <code>V = {0, 1, ..., 2<sup>m</sup> - 1}</code>. Put an edge between two vertices if they differ in exactly one bit.",
+                "Run a multi-source BFS from elements of <code>nums</code>.",
+                "Now for each <code>x</code>, to find its minimum Hamming distance from elements of the array, simply calculate its shortest path from array elements."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "For each <code>nums[i]</code>, complement it (for each bit, if it is 1, it becomes 0 and vice-versa).",
+            "Instead of finding the maximum Hamming distance from <code>x = nums[i]</code>, let's think of finding the minimum Hamming distance from the complement of <code>x</code> to any element of the array.",
+            "Create a graph with <code>V = {0, 1, ..., 2<sup>m</sup> - 1}</code>. Put an edge between two vertices if they differ in exactly one bit.",
+            "Run a multi-source BFS from elements of <code>nums</code>.",
+            "Now for each <code>x</code>, to find its minimum Hamming distance from elements of the array, simply calculate its shortest path from array elements."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Breadth-First Search",
+                "slug": "breadth-first-search"
+            }
+        ]
+    }
+}

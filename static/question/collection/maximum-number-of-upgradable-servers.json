@@ -1,0 +1,54 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3155",
+            "title": "Maximum Number of Upgradable Servers",
+            "titleSlug": "maximum-number-of-upgradable-servers",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 6,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"490\", \"totalSubmission\": \"907\", \"totalAcceptedRaw\": 490, \"totalSubmissionRaw\": 907, \"acRate\": \"54.0%\"}",
+            "hints": [
+                "Use binary search to find the maximum number of servers that can be upgraded for each data center separately."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Use binary search to find the maximum number of servers that can be upgraded for each data center separately."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            }
+        ]
+    }
+}

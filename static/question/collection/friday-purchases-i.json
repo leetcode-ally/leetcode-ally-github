@@ -1,0 +1,34 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2993",
+            "title": "Friday Purchases I",
+            "titleSlug": "friday-purchases-i",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 7,
+            "dislikes": 4,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Database",
+                    "slug": "database"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"1.4K\", \"totalSubmission\": \"1.8K\", \"totalAcceptedRaw\": 1432, \"totalSubmissionRaw\": 1789, \"acRate\": \"80.0%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": [
+            {
+                "name": "Database",
+                "slug": "database"
+            }
+        ]
+    }
+}

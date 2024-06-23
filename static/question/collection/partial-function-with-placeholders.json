@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2797",
+            "title": "Partial Function with Placeholders",
+            "titleSlug": "partial-function-with-placeholders",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 10,
+            "dislikes": 4,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"914\", \"totalSubmission\": \"994\", \"totalAcceptedRaw\": 914, \"totalSubmissionRaw\": 994, \"acRate\": \"92.0%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}

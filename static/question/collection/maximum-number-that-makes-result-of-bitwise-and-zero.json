@@ -1,0 +1,58 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3125",
+            "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+            "titleSlug": "maximum-number-that-makes-result-of-bitwise-and-zero",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 9,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"512\", \"totalSubmission\": \"739\", \"totalAcceptedRaw\": 512, \"totalSubmissionRaw\": 739, \"acRate\": \"69.3%\"}",
+            "hints": [
+                "Examine the set bits of <code>n</code>.",
+                "When performing bitwise AND operations sequentially down from <code>n</code>, the last set bit to turn to 0 identifies the highest set bit.",
+                "If the index of the highest set bit is <code>x</code>, the answer is <code>2<sup>x</sup> - 1</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Examine the set bits of <code>n</code>.",
+            "When performing bitwise AND operations sequentially down from <code>n</code>, the last set bit to turn to 0 identifies the highest set bit.",
+            "If the index of the highest set bit is <code>x</code>, the answer is <code>2<sup>x</sup> - 1</code>."
+        ],
+        "relatedTopics": [
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Greedy",
+                "slug": "greedy"
+            },
+            {
+                "name": "Sorting",
+                "slug": "sorting"
+            }
+        ]
+    }
+}

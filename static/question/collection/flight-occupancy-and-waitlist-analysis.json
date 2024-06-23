@@ -1,0 +1,34 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2783",
+            "title": "Flight Occupancy and Waitlist Analysis",
+            "titleSlug": "flight-occupancy-and-waitlist-analysis",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 16,
+            "dislikes": 4,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Database",
+                    "slug": "database"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"2.3K\", \"totalSubmission\": \"6.1K\", \"totalAcceptedRaw\": 2260, \"totalSubmissionRaw\": 6117, \"acRate\": \"36.9%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": [
+            {
+                "name": "Database",
+                "slug": "database"
+            }
+        ]
+    }
+}

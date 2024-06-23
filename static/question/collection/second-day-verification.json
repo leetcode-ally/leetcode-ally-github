@@ -1,0 +1,34 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3172",
+            "title": "Second Day Verification",
+            "titleSlug": "second-day-verification",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 3,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Database",
+                    "slug": "database"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"447\", \"totalSubmission\": \"564\", \"totalAcceptedRaw\": 447, \"totalSubmissionRaw\": 564, \"acRate\": \"79.3%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": [
+            {
+                "name": "Database",
+                "slug": "database"
+            }
+        ]
+    }
+}

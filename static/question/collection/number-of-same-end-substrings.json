@@ -1,0 +1,72 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2955",
+            "title": "Number of Same-End Substrings",
+            "titleSlug": "number-of-same-end-substrings",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 25,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"878\", \"totalSubmission\": \"1.2K\", \"totalAcceptedRaw\": 878, \"totalSubmissionRaw\": 1245, \"acRate\": \"70.5%\"}",
+            "hints": [
+                "If there are <code>t</code> occurrences of a character in a substring, there exists <code>t * (t - 1) / 2</code> Same-End substrings with that character.",
+                "Try to calculate the number of occurrences of a character in a substring in <code>O(1)</code> using partial sum."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "If there are <code>t</code> occurrences of a character in a substring, there exists <code>t * (t - 1) / 2</code> Same-End substrings with that character.",
+            "Try to calculate the number of occurrences of a character in a substring in <code>O(1)</code> using partial sum."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Counting",
+                "slug": "counting"
+            },
+            {
+                "name": "Prefix Sum",
+                "slug": "prefix-sum"
+            }
+        ]
+    }
+}

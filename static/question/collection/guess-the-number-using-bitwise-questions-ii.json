@@ -1,0 +1,54 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3094",
+            "title": "Guess the Number Using Bitwise Questions II",
+            "titleSlug": "guess-the-number-using-bitwise-questions-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 11,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Interactive",
+                    "slug": "interactive"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"468\", \"totalSubmission\": \"583\", \"totalAcceptedRaw\": 468, \"totalSubmissionRaw\": 583, \"acRate\": \"80.3%\"}",
+            "hints": [
+                "Ask the number 0 and save the result in <code>base</code>.",
+                "Ask <code>2<sup>i</sup></code> for <code>0 <= i < 30</code>.",
+                "If the result is greater than <code>base</code> for some <code>i</code>, then this bit is a set bit in <code>n</code>.",
+                "What can be done to revert the effect of the <code>XOR</code>.",
+                "Doing <code>XOR</code> again with the same number reverts the effect."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Ask the number 0 and save the result in <code>base</code>.",
+            "Ask <code>2<sup>i</sup></code> for <code>0 <= i < 30</code>.",
+            "If the result is greater than <code>base</code> for some <code>i</code>, then this bit is a set bit in <code>n</code>.",
+            "What can be done to revert the effect of the <code>XOR</code>.",
+            "Doing <code>XOR</code> again with the same number reverts the effect."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Interactive",
+                "slug": "interactive"
+            }
+        ]
+    }
+}

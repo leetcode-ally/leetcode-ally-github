@@ -1,0 +1,82 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2969",
+            "title": "Minimum Number of Coins for Fruits II",
+            "titleSlug": "minimum-number-of-coins-for-fruits-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 17,
+            "dislikes": 0,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"558\", \"totalSubmission\": \"998\", \"totalAcceptedRaw\": 558, \"totalSubmissionRaw\": 998, \"acRate\": \"55.9%\"}",
+            "hints": [
+                "Use DP + Fenwick tree.",
+                "There is another creative solution using multiset instead of Fenwick.",
+                "Imagine we want to calculate <code>dp[i]</code> which is the answer to the problem for the first <code>i</code> fruits.",
+                "If we buy <code>l<sup>th</sup></code> fruit from the set of indices: <code>[(i + 1) / 2, (i + 1) / 2 + 1, (i + 1) / 2 + 2, ..., i - 1]</code>, then we can get fruits <code>l + 1, l + 2, ..., i</code> for free.",
+                "We just need to get all the first <code>l - 1</code> fruits as well and the minimum price for that, is <code>dp[l - 1]</code>.",
+                "So at the index\u00a0<code>i</code>, we are looking for such an index\u00a0<code>l</code>\u00a0that <code>dp[l - 1] + prices[l]</code>\u00a0is as minimum as possible.",
+                "We can store these values in a multiset and update the values in it."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Use DP + Fenwick tree.",
+            "There is another creative solution using multiset instead of Fenwick.",
+            "Imagine we want to calculate <code>dp[i]</code> which is the answer to the problem for the first <code>i</code> fruits.",
+            "If we buy <code>l<sup>th</sup></code> fruit from the set of indices: <code>[(i + 1) / 2, (i + 1) / 2 + 1, (i + 1) / 2 + 2, ..., i - 1]</code>, then we can get fruits <code>l + 1, l + 2, ..., i</code> for free.",
+            "We just need to get all the first <code>l - 1</code> fruits as well and the minimum price for that, is <code>dp[l - 1]</code>.",
+            "So at the index\u00a0<code>i</code>, we are looking for such an index\u00a0<code>l</code>\u00a0that <code>dp[l - 1] + prices[l]</code>\u00a0is as minimum as possible.",
+            "We can store these values in a multiset and update the values in it."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Queue",
+                "slug": "queue"
+            },
+            {
+                "name": "Heap (Priority Queue)",
+                "slug": "heap-priority-queue"
+            },
+            {
+                "name": "Monotonic Queue",
+                "slug": "monotonic-queue"
+            }
+        ]
+    }
+}

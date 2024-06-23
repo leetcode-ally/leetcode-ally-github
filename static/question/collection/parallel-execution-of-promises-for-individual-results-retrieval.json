@@ -1,0 +1,24 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "2795",
+            "title": "Parallel Execution of Promises for Individual Results Retrieval",
+            "titleSlug": "parallel-execution-of-promises-for-individual-results-retrieval",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 13,
+            "dislikes": 5,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"540\", \"totalSubmission\": \"615\", \"totalAcceptedRaw\": 540, \"totalSubmissionRaw\": 615, \"acRate\": \"87.8%\"}",
+            "hints": []
+        },
+        "similar": [],
+        "hints": [],
+        "relatedTopics": []
+    }
+}
