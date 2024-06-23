@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-128",
+  "data": [
+    {
+      "id": 3906,
+      "question_id": 3379,
+      "credit": 3,
+      "title": "Score of a String",
+      "title_slug": "score-of-a-string",
+      "likes": 517,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3907,
+      "question_id": 3390,
+      "credit": 4,
+      "title": "Minimum Rectangles to Cover Points",
+      "title_slug": "minimum-rectangles-to-cover-points",
+      "likes": 82,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3908,
+      "question_id": 3389,
+      "credit": 5,
+      "title": "Minimum Time to Visit Disappearing Nodes",
+      "title_slug": "minimum-time-to-visit-disappearing-nodes",
+      "likes": 135,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3909,
+      "question_id": 3382,
+      "credit": 6,
+      "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+      "title_slug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+      "likes": 189,
+      "dislikes": "NA"
+    }
+  ]
+}

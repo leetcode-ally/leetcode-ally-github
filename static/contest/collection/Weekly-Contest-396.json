@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-396",
+  "data": [
+    {
+      "id": 3944,
+      "question_id": 3396,
+      "credit": 3,
+      "title": "Valid Word",
+      "title_slug": "valid-word",
+      "likes": 89,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3945,
+      "question_id": 3384,
+      "credit": 4,
+      "title": "Minimum Number of Operations to Make Word K-Periodic",
+      "title_slug": "minimum-number-of-operations-to-make-word-k-periodic",
+      "likes": 108,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3946,
+      "question_id": 3395,
+      "credit": 5,
+      "title": "Minimum Length of Anagram Concatenation",
+      "title_slug": "minimum-length-of-anagram-concatenation",
+      "likes": 162,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3947,
+      "question_id": 3402,
+      "credit": 8,
+      "title": "Minimum Cost to Equalize Array",
+      "title_slug": "minimum-cost-to-equalize-array",
+      "likes": 111,
+      "dislikes": "NA"
+    }
+  ]
+}

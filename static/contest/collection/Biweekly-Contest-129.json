@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-129",
+  "data": [
+    {
+      "id": 3930,
+      "question_id": 3398,
+      "credit": 3,
+      "title": "Make a Square with the Same Color",
+      "title_slug": "make-a-square-with-the-same-color",
+      "likes": 59,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3931,
+      "question_id": 3388,
+      "credit": 4,
+      "title": "Right Triangles",
+      "title_slug": "right-triangles",
+      "likes": 94,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3932,
+      "question_id": 3406,
+      "credit": 5,
+      "title": "Find All Possible Stable Binary Arrays I",
+      "title_slug": "find-all-possible-stable-binary-arrays-i",
+      "likes": 103,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3933,
+      "question_id": 3407,
+      "credit": 7,
+      "title": "Find All Possible Stable Binary Arrays II",
+      "title_slug": "find-all-possible-stable-binary-arrays-ii",
+      "likes": 53,
+      "dislikes": "NA"
+    }
+  ]
+}

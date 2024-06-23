@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-402",
+  "data": [
+    {
+      "id": 4017,
+      "question_id": 3421,
+      "credit": 3,
+      "title": "Count Pairs That Form a Complete Day I",
+      "title_slug": "count-pairs-that-form-a-complete-day-i",
+      "likes": 70,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4018,
+      "question_id": 3418,
+      "credit": 4,
+      "title": "Count Pairs That Form a Complete Day II",
+      "title_slug": "count-pairs-that-form-a-complete-day-ii",
+      "likes": 119,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4019,
+      "question_id": 3437,
+      "credit": 5,
+      "title": "Maximum Total Damage With Spell Casting",
+      "title_slug": "maximum-total-damage-with-spell-casting",
+      "likes": 119,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4020,
+      "question_id": 3438,
+      "credit": 6,
+      "title": "Peaks in Array",
+      "title_slug": "peaks-in-array",
+      "likes": 89,
+      "dislikes": "NA"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-394",
+  "data": [
+    {
+      "id": 3920,
+      "question_id": 3408,
+      "credit": 3,
+      "title": "Count the Number of Special Characters I",
+      "title_slug": "count-the-number-of-special-characters-i",
+      "likes": 115,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3921,
+      "question_id": 3405,
+      "credit": 4,
+      "title": "Count the Number of Special Characters II",
+      "title_slug": "count-the-number-of-special-characters-ii",
+      "likes": 135,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3922,
+      "question_id": 3404,
+      "credit": 5,
+      "title": "Minimum Number of Operations to Satisfy Conditions",
+      "title_slug": "minimum-number-of-operations-to-satisfy-conditions",
+      "likes": 204,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3923,
+      "question_id": 3386,
+      "credit": 6,
+      "title": "Find Edges in Shortest Paths",
+      "title_slug": "find-edges-in-shortest-paths",
+      "likes": 203,
+      "dislikes": "NA"
+    }
+  ]
+}

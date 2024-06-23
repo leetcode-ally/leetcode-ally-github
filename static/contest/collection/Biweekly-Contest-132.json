@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-132",
+  "data": [
+    {
+      "id": 4003,
+      "question_id": 3447,
+      "credit": 3,
+      "title": "Clear Digits",
+      "title_slug": "clear-digits",
+      "likes": 52,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4004,
+      "question_id": 3413,
+      "credit": 4,
+      "title": "Find The First Player to win K Games in a Row",
+      "title_slug": "find-the-first-player-to-win-k-games-in-a-row",
+      "likes": 94,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4005,
+      "question_id": 3456,
+      "credit": 5,
+      "title": "Find the Maximum Length of a Good Subsequence I",
+      "title_slug": "find-the-maximum-length-of-a-good-subsequence-i",
+      "likes": 102,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4006,
+      "question_id": 3452,
+      "credit": 7,
+      "title": "Find the Maximum Length of a Good Subsequence II",
+      "title_slug": "find-the-maximum-length-of-a-good-subsequence-ii",
+      "likes": 75,
+      "dislikes": "NA"
+    }
+  ]
+}

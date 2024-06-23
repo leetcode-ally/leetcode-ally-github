@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-130",
+  "data": [
+    {
+      "id": 3954,
+      "question_id": 3415,
+      "credit": 3,
+      "title": "Check if Grid Satisfies Conditions",
+      "title_slug": "check-if-grid-satisfies-conditions",
+      "likes": 55,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3955,
+      "question_id": 3419,
+      "credit": 4,
+      "title": "Maximum Points Inside the Square",
+      "title_slug": "maximum-points-inside-the-square",
+      "likes": 132,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3956,
+      "question_id": 3403,
+      "credit": 5,
+      "title": "Minimum Substring Partition of Equal Character Frequency",
+      "title_slug": "minimum-substring-partition-of-equal-character-frequency",
+      "likes": 111,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3957,
+      "question_id": 3411,
+      "credit": 7,
+      "title": "Find Products of Elements of Big Array",
+      "title_slug": "find-products-of-elements-of-big-array",
+      "likes": 48,
+      "dislikes": "NA"
+    }
+  ]
+}

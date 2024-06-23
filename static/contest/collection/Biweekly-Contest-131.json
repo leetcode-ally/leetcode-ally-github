@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-131",
+  "data": [
+    {
+      "id": 3979,
+      "question_id": 3428,
+      "credit": 3,
+      "title": "Find the XOR of Numbers Which Appear Twice",
+      "title_slug": "find-the-xor-of-numbers-which-appear-twice",
+      "likes": 70,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3980,
+      "question_id": 3420,
+      "credit": 4,
+      "title": "Find Occurrences of an Element in an Array",
+      "title_slug": "find-occurrences-of-an-element-in-an-array",
+      "likes": 91,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3981,
+      "question_id": 3434,
+      "credit": 5,
+      "title": "Find the Number of Distinct Colors Among the Balls",
+      "title_slug": "find-the-number-of-distinct-colors-among-the-balls",
+      "likes": 98,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3982,
+      "question_id": 3435,
+      "credit": 8,
+      "title": "Block Placement Queries",
+      "title_slug": "block-placement-queries",
+      "likes": 83,
+      "dislikes": "NA"
+    }
+  ]
+}

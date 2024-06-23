@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-400",
+  "data": [
+    {
+      "id": 3993,
+      "question_id": 3426,
+      "credit": 3,
+      "title": "Minimum Number of Chairs in a Waiting Room",
+      "title_slug": "minimum-number-of-chairs-in-a-waiting-room",
+      "likes": 89,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3994,
+      "question_id": 3430,
+      "credit": 4,
+      "title": "Count Days Without Meetings",
+      "title_slug": "count-days-without-meetings",
+      "likes": 117,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3995,
+      "question_id": 3445,
+      "credit": 5,
+      "title": "Lexicographically Minimum String After Removing Stars",
+      "title_slug": "lexicographically-minimum-string-after-removing-stars",
+      "likes": 173,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3996,
+      "question_id": 3436,
+      "credit": 6,
+      "title": "Find Subarray With Bitwise OR Closest to K",
+      "title_slug": "find-subarray-with-bitwise-or-closest-to-k",
+      "likes": 145,
+      "dislikes": "NA"
+    }
+  ]
+}

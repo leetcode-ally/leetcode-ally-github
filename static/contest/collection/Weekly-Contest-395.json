@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-395",
+  "data": [
+    {
+      "id": 3934,
+      "question_id": 3397,
+      "credit": 3,
+      "title": "Find the Integer Added to Array I",
+      "title_slug": "find-the-integer-added-to-array-i",
+      "likes": 100,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3935,
+      "question_id": 3399,
+      "credit": 4,
+      "title": "Find the Integer Added to Array II",
+      "title_slug": "find-the-integer-added-to-array-ii",
+      "likes": 144,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3936,
+      "question_id": 3394,
+      "credit": 5,
+      "title": "Minimum Array End",
+      "title_slug": "minimum-array-end",
+      "likes": 190,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3937,
+      "question_id": 3362,
+      "credit": 7,
+      "title": "Find the Median of the Uniqueness Array",
+      "title_slug": "find-the-median-of-the-uniqueness-array",
+      "likes": 121,
+      "dislikes": "NA"
+    }
+  ]
+}

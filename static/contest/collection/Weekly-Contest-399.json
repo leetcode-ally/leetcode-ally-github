@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-399",
+  "data": [
+    {
+      "id": 3983,
+      "question_id": 3446,
+      "credit": 3,
+      "title": "Find the Number of Good Pairs I",
+      "title_slug": "find-the-number-of-good-pairs-i",
+      "likes": 75,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3984,
+      "question_id": 3451,
+      "credit": 4,
+      "title": "String Compression III",
+      "title_slug": "string-compression-iii",
+      "likes": 97,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3985,
+      "question_id": 3444,
+      "credit": 5,
+      "title": "Find the Number of Good Pairs II",
+      "title_slug": "find-the-number-of-good-pairs-ii",
+      "likes": 193,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3986,
+      "question_id": 3423,
+      "credit": 8,
+      "title": "Maximum Sum of Subsequence With Non-adjacent Elements",
+      "title_slug": "maximum-sum-of-subsequence-with-non-adjacent-elements",
+      "likes": 90,
+      "dislikes": "NA"
+    }
+  ]
+}

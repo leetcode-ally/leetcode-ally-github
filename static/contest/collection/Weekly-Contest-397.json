@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-397",
+  "data": [
+    {
+      "id": 3958,
+      "question_id": 3412,
+      "credit": 3,
+      "title": "Permutation Difference between Two Strings",
+      "title_slug": "permutation-difference-between-two-strings",
+      "likes": 90,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3959,
+      "question_id": 3383,
+      "credit": 4,
+      "title": "Taking Maximum Energy From the Mystic Dungeon",
+      "title_slug": "taking-maximum-energy-from-the-mystic-dungeon",
+      "likes": 138,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3960,
+      "question_id": 3391,
+      "credit": 5,
+      "title": "Maximum Difference Score in a Grid",
+      "title_slug": "maximum-difference-score-in-a-grid",
+      "likes": 202,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3961,
+      "question_id": 3431,
+      "credit": 7,
+      "title": "Find the Minimum Cost Array Permutation",
+      "title_slug": "find-the-minimum-cost-array-permutation",
+      "likes": 96,
+      "dislikes": "NA"
+    }
+  ]
+}

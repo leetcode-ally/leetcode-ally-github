@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-392",
+  "data": [
+    {
+      "id": 3902,
+      "question_id": 3372,
+      "credit": 3,
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "likes": 102,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3903,
+      "question_id": 3346,
+      "credit": 4,
+      "title": "Lexicographically Smallest String After Operations With Constraint",
+      "title_slug": "lexicographically-smallest-string-after-operations-with-constraint",
+      "likes": 139,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3904,
+      "question_id": 3387,
+      "credit": 5,
+      "title": "Minimum Operations to Make Median of Array Equal to K",
+      "title_slug": "minimum-operations-to-make-median-of-array-equal-to-k",
+      "likes": 123,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3905,
+      "question_id": 3348,
+      "credit": 6,
+      "title": "Minimum Cost Walk in Weighted Graph",
+      "title_slug": "minimum-cost-walk-in-weighted-graph",
+      "likes": 167,
+      "dislikes": "NA"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-401",
+  "data": [
+    {
+      "id": 4007,
+      "question_id": 3450,
+      "credit": 3,
+      "title": "Find the Child Who Has the Ball After K Seconds",
+      "title_slug": "find-the-child-who-has-the-ball-after-k-seconds",
+      "likes": 100,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4008,
+      "question_id": 3422,
+      "credit": 4,
+      "title": "Find the N-th Value After K Seconds",
+      "title_slug": "find-the-n-th-value-after-k-seconds",
+      "likes": 84,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4009,
+      "question_id": 3442,
+      "credit": 5,
+      "title": "Maximum Total Reward Using Operations I",
+      "title_slug": "maximum-total-reward-using-operations-i",
+      "likes": 145,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4010,
+      "question_id": 3443,
+      "credit": 7,
+      "title": "Maximum Total Reward Using Operations II",
+      "title_slug": "maximum-total-reward-using-operations-ii",
+      "likes": 96,
+      "dislikes": "NA"
+    }
+  ]
+}

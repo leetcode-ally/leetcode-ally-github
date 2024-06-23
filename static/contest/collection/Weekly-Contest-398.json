@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-398",
+  "data": [
+    {
+      "id": 3969,
+      "question_id": 3429,
+      "credit": 3,
+      "title": "Special Array I",
+      "title_slug": "special-array-i",
+      "likes": 72,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3970,
+      "question_id": 3427,
+      "credit": 4,
+      "title": "Special Array II",
+      "title_slug": "special-array-ii",
+      "likes": 161,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3971,
+      "question_id": 3416,
+      "credit": 5,
+      "title": "Sum of Digit Differences of All Pairs",
+      "title_slug": "sum-of-digit-differences-of-all-pairs",
+      "likes": 154,
+      "dislikes": "NA"
+    },
+    {
+      "id": 3972,
+      "question_id": 3414,
+      "credit": 6,
+      "title": "Find Number of Ways to Reach the K-th Stair",
+      "title_slug": "find-number-of-ways-to-reach-the-k-th-stair",
+      "likes": 117,
+      "dislikes": "NA"
+    }
+  ]
+}
