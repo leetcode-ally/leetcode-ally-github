@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-406",
+  "data": [
+    {
+      "id": 4066,
+      "question_id": 3484,
+      "credit": 3,
+      "title": "Lexicographically Smallest String After a Swap",
+      "title_slug": "lexicographically-smallest-string-after-a-swap",
+      "likes": 66,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4067,
+      "question_id": 3501,
+      "credit": 4,
+      "title": "Delete Nodes From Linked List Present in Array",
+      "title_slug": "delete-nodes-from-linked-list-present-in-array",
+      "likes": 98,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4068,
+      "question_id": 3494,
+      "credit": 5,
+      "title": "Minimum Cost for Cutting Cake I",
+      "title_slug": "minimum-cost-for-cutting-cake-i",
+      "likes": 141,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4069,
+      "question_id": 3500,
+      "credit": 7,
+      "title": "Minimum Cost for Cutting Cake II",
+      "title_slug": "minimum-cost-for-cutting-cake-ii",
+      "likes": 90,
+      "dislikes": "NA"
+    }
+  ]
+}

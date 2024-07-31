@@ -1,0 +1,97 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3235",
+            "title": "Check if the Rectangle Corner Is Reachable",
+            "titleSlug": "check-if-the-rectangle-corner-is-reachable",
+            "content": "<p>You are given two positive integers <code>X</code> and <code>Y</code>, and a 2D array <code>circles</code>, where <code>circles[i] = [x<sub>i</sub>, y<sub>i</sub>, r<sub>i</sub>]</code> denotes a circle with center at <code>(x<sub>i</sub>, y<sub>i</sub>)</code> and radius <code>r<sub>i</sub></code>.</p>\n\n<p>There is a rectangle in the coordinate plane with its bottom left corner at the origin and top right corner at the coordinate <code>(X, Y)</code>. You need to check whether there is a path from the bottom left corner to the top right corner such that the <strong>entire path</strong> lies inside the rectangle, <strong>does not</strong> touch or lie inside <strong>any</strong> circle, and touches the rectangle <strong>only</strong> at the two corners.</p>\n\n<p>Return <code>true</code> if such a path exists, and <code>false</code> otherwise.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">X = 3, Y = 4, circles = [[2,1,1]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">true</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p><img alt=\"\" src=\"https://assets.leetcode.com/uploads/2024/05/18/example2circle1.png\" style=\"width: 346px; height: 264px;\" /></p>\n\n<p>The black curve shows a possible path between <code>(0, 0)</code> and <code>(3, 4)</code>.</p>\n</div>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">X = 3, Y = 3, circles = [[1,1,2]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">false</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p><img alt=\"\" src=\"https://assets.leetcode.com/uploads/2024/05/18/example1circle.png\" style=\"width: 346px; height: 264px;\" /></p>\n\n<p>No path exists from <code>(0, 0)</code> to <code>(3, 3)</code>.</p>\n</div>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">X = 3, Y = 3, circles = [[2,1,1],[1,2,1]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">false</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p><img alt=\"\" src=\"https://assets.leetcode.com/uploads/2024/05/18/example0circle.png\" style=\"width: 346px; height: 264px;\" /></p>\n\n<p>No path exists from <code>(0, 0)</code> to <code>(3, 3)</code>.</p>\n</div>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>3 &lt;= X, Y &lt;= 10<sup>9</sup></code></li>\n\t<li><code>1 &lt;= circles.length &lt;= 1000</code></li>\n\t<li><code>circles[i].length == 3</code></li>\n\t<li><code>1 &lt;= x<sub>i</sub>, y<sub>i</sub>, r<sub>i</sub> &lt;= 10<sup>9</sup></code></li>\n</ul>\n",
+            "isPaidOnly": false,
+            "difficulty": "Hard",
+            "likes": 64,
+            "dislikes": 14,
+            "similarQuestions": "[{\"title\": \"Queries on Number of Points Inside a Circle\", \"titleSlug\": \"queries-on-number-of-points-inside-a-circle\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Check if Point Is Reachable\", \"titleSlug\": \"check-if-point-is-reachable\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Geometry",
+                    "slug": "geometry"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"4.4K\", \"totalSubmission\": \"16.1K\", \"totalAcceptedRaw\": 4377, \"totalSubmissionRaw\": 16110, \"acRate\": \"27.2%\"}",
+            "hints": [
+                "Create a graph with <code>n + 4</code> vertices.",
+                "Vertices 0 to <code>n - 1</code> represent the circles, vertex <code>n</code> represents upper edge, vertex <code>n + 1</code> represents right edge, vertex <code>n + 2</code> represents lower edge, and vertex <code>n + 3</code> represents left edge.",
+                "Add an edge between these vertices if they intersect or touch.",
+                "Answer will be <code>false</code> when any of two sides left-right, left-bottom, right-top or top-bottom are reachable using the edges."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "queries-on-number-of-points-inside-a-circle",
+                "title": "Queries on Number of Points Inside a Circle",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Hard",
+                "titleSlug": "check-if-point-is-reachable",
+                "title": "Check if Point Is Reachable",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Create a graph with <code>n + 4</code> vertices.",
+            "Vertices 0 to <code>n - 1</code> represent the circles, vertex <code>n</code> represents upper edge, vertex <code>n + 1</code> represents right edge, vertex <code>n + 2</code> represents lower edge, and vertex <code>n + 3</code> represents left edge.",
+            "Add an edge between these vertices if they intersect or touch.",
+            "Answer will be <code>false</code> when any of two sides left-right, left-bottom, right-top or top-bottom are reachable using the edges."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Depth-First Search",
+                "slug": "depth-first-search"
+            },
+            {
+                "name": "Breadth-First Search",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Union Find",
+                "slug": "union-find"
+            },
+            {
+                "name": "Geometry",
+                "slug": "geometry"
+            }
+        ]
+    }
+}

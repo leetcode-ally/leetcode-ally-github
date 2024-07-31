@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-408",
+  "data": [
+    {
+      "id": 4097,
+      "question_id": 3515,
+      "credit": 3,
+      "title": "Find if Digit Game Can Be Won",
+      "title_slug": "find-if-digit-game-can-be-won",
+      "likes": 54,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4098,
+      "question_id": 3507,
+      "credit": 5,
+      "title": "Find the Count of Numbers Which Are Not Special",
+      "title_slug": "find-the-count-of-numbers-which-are-not-special",
+      "likes": 117,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4099,
+      "question_id": 3479,
+      "credit": 5,
+      "title": "Count the Number of Substrings With Dominant Ones",
+      "title_slug": "count-the-number-of-substrings-with-dominant-ones",
+      "likes": 136,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4100,
+      "question_id": 3478,
+      "credit": 7,
+      "title": "Check if the Rectangle Corner Is Reachable",
+      "title_slug": "check-if-the-rectangle-corner-is-reachable",
+      "likes": 64,
+      "dislikes": "NA"
+    }
+  ]
+}

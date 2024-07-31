@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-407",
+  "data": [
+    {
+      "id": 4080,
+      "question_id": 3508,
+      "credit": 3,
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "title_slug": "number-of-bit-changes-to-make-two-integers-equal",
+      "likes": 69,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4081,
+      "question_id": 3462,
+      "credit": 4,
+      "title": "Vowels Game in a String",
+      "title_slug": "vowels-game-in-a-string",
+      "likes": 108,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4082,
+      "question_id": 3493,
+      "credit": 5,
+      "title": "Maximum Number of Operations to Move Ones to the End",
+      "title_slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+      "likes": 125,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4083,
+      "question_id": 3454,
+      "credit": 8,
+      "title": "Minimum Operations to Make Array Equal to Target",
+      "title_slug": "minimum-operations-to-make-array-equal-to-target",
+      "likes": 166,
+      "dislikes": "NA"
+    }
+  ]
+}

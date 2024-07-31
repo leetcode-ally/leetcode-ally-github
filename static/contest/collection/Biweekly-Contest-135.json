@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-135",
+  "data": [
+    {
+      "id": 4076,
+      "question_id": 3511,
+      "credit": 3,
+      "title": "Find the Winning Player in Coin Game",
+      "title_slug": "find-the-winning-player-in-coin-game",
+      "likes": 67,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4077,
+      "question_id": 3455,
+      "credit": 4,
+      "title": "Minimum Length of String After Operations",
+      "title_slug": "minimum-length-of-string-after-operations",
+      "likes": 77,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4078,
+      "question_id": 3498,
+      "credit": 5,
+      "title": "Minimum Array Changes to Make Differences Equal",
+      "title_slug": "minimum-array-changes-to-make-differences-equal",
+      "likes": 172,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4079,
+      "question_id": 3470,
+      "credit": 8,
+      "title": "Maximum Score From Grid Operations",
+      "title_slug": "maximum-score-from-grid-operations",
+      "likes": 44,
+      "dislikes": "NA"
+    }
+  ]
+}

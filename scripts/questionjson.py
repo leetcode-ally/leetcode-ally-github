@@ -9,7 +9,7 @@ with open("static/question/all-questions.json", "r") as f:
     questions = json.load(f)
     for item in questions["questions"]:
         id = int(item["frontendQuestionId"])
-        if int(item["frontendQuestionId"]) == 3095:
+        if int(item["frontendQuestionId"]) > 3199:
             slug = item["titleSlug"]
             url = f"http://localhost:5000/question/data?slug={slug}"
             res = requests.get(url).json()

@@ -1,0 +1,46 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3199",
+            "title": "Count Triplets with Even XOR Set Bits I",
+            "titleSlug": "count-triplets-with-even-xor-set-bits-i",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Easy",
+            "likes": 7,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"529\", \"totalSubmission\": \"620\", \"totalAcceptedRaw\": 529, \"totalSubmissionRaw\": 620, \"acRate\": \"85.3%\"}",
+            "hints": [
+                "Iterate over all possible triplets and calculate its <code>XOR</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Iterate over all possible triplets and calculate its <code>XOR</code>."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            }
+        ]
+    }
+}

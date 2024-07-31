@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-134",
+  "data": [
+    {
+      "id": 4051,
+      "question_id": 3463,
+      "credit": 3,
+      "title": "Alternating Groups I",
+      "title_slug": "alternating-groups-i",
+      "likes": 71,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4052,
+      "question_id": 3264,
+      "credit": 4,
+      "title": "Maximum Points After Enemy Battles",
+      "title_slug": "maximum-points-after-enemy-battles",
+      "likes": 87,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4053,
+      "question_id": 3483,
+      "credit": 5,
+      "title": "Alternating Groups II",
+      "title_slug": "alternating-groups-ii",
+      "likes": 124,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4054,
+      "question_id": 3466,
+      "credit": 7,
+      "title": "Number of Subarrays With AND Value of K",
+      "title_slug": "number-of-subarrays-with-and-value-of-k",
+      "likes": 132,
+      "dislikes": "NA"
+    }
+  ]
+}

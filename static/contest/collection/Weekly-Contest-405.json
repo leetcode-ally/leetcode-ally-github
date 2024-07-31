@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-405",
+  "data": [
+    {
+      "id": 4055,
+      "question_id": 3468,
+      "credit": 3,
+      "title": "Find the Encrypted String",
+      "title_slug": "find-the-encrypted-string",
+      "likes": 69,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4056,
+      "question_id": 3453,
+      "credit": 4,
+      "title": "Generate Binary Strings Without Adjacent Zeros",
+      "title_slug": "generate-binary-strings-without-adjacent-zeros",
+      "likes": 115,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4057,
+      "question_id": 3492,
+      "credit": 5,
+      "title": "Count Submatrices With Equal Frequency of X and Y",
+      "title_slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+      "likes": 124,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4058,
+      "question_id": 3482,
+      "credit": 8,
+      "title": "Construct String with Minimum Cost",
+      "title_slug": "construct-string-with-minimum-cost",
+      "likes": 129,
+      "dislikes": "NA"
+    }
+  ]
+}

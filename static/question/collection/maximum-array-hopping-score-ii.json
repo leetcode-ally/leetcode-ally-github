@@ -1,0 +1,64 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3221",
+            "title": "Maximum Array Hopping Score II",
+            "titleSlug": "maximum-array-hopping-score-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 11,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"292\", \"totalSubmission\": \"424\", \"totalAcceptedRaw\": 292, \"totalSubmissionRaw\": 424, \"acRate\": \"68.9%\"}",
+            "hints": [
+                "It\u2019s always optimal to jump to index <code>j</code> with the maximum value.",
+                "Keep an array <code>suffixMax</code> and store the maximum of each suffix of the array along with its index."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "It\u2019s always optimal to jump to index <code>j</code> with the maximum value.",
+            "Keep an array <code>suffixMax</code> and store the maximum of each suffix of the array along with its index."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Stack",
+                "slug": "stack"
+            },
+            {
+                "name": "Greedy",
+                "slug": "greedy"
+            },
+            {
+                "name": "Monotonic Stack",
+                "slug": "monotonic-stack"
+            }
+        ]
+    }
+}

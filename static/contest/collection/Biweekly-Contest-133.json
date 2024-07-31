@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-133",
+  "data": [
+    {
+      "id": 4027,
+      "question_id": 3476,
+      "credit": 3,
+      "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+      "title_slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "likes": 93,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4028,
+      "question_id": 3475,
+      "credit": 4,
+      "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+      "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+      "likes": 131,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4029,
+      "question_id": 3477,
+      "credit": 5,
+      "title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+      "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+      "likes": 113,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4030,
+      "question_id": 3460,
+      "credit": 7,
+      "title": "Count the Number of Inversions",
+      "title_slug": "count-the-number-of-inversions",
+      "likes": 83,
+      "dislikes": "NA"
+    }
+  ]
+}

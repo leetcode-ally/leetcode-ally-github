@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-403",
+  "data": [
+    {
+      "id": 4031,
+      "question_id": 3471,
+      "credit": 3,
+      "title": "Minimum Average of Smallest and Largest Elements",
+      "title_slug": "minimum-average-of-smallest-and-largest-elements",
+      "likes": 87,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4032,
+      "question_id": 3461,
+      "credit": 4,
+      "title": "Find the Minimum Area to Cover All Ones I",
+      "title_slug": "find-the-minimum-area-to-cover-all-ones-i",
+      "likes": 96,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4033,
+      "question_id": 3464,
+      "credit": 5,
+      "title": "Maximize Total Cost of Alternating Subarrays",
+      "title_slug": "maximize-total-cost-of-alternating-subarrays",
+      "likes": 153,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4034,
+      "question_id": 3459,
+      "credit": 8,
+      "title": "Find the Minimum Area to Cover All Ones II",
+      "title_slug": "find-the-minimum-area-to-cover-all-ones-ii",
+      "likes": 64,
+      "dislikes": "NA"
+    }
+  ]
+}

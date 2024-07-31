@@ -1,0 +1,63 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3201",
+            "title": "Find the Maximum Length of Valid Subsequence I",
+            "titleSlug": "find-the-maximum-length-of-valid-subsequence-i",
+            "content": "You are given an integer array <code>nums</code>.\n<p>A <span data-keyword=\"subsequence-array\">subsequence</span> <code>sub</code> of <code>nums</code> with length <code>x</code> is called <strong>valid</strong> if it satisfies:</p>\n\n<ul>\n\t<li><code>(sub[0] + sub[1]) % 2 == (sub[1] + sub[2]) % 2 == ... == (sub[x - 2] + sub[x - 1]) % 2.</code></li>\n</ul>\n\n<p>Return the length of the <strong>longest</strong> <strong>valid</strong> subsequence of <code>nums</code>.</p>\n\n<p>A <strong>subsequence</strong> is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,2,3,4]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">4</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>The longest valid subsequence is <code>[1, 2, 3, 4]</code>.</p>\n</div>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,2,1,1,2,1,2]</span></p>\n\n<p><strong>Output:</strong> 6</p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>The longest valid subsequence is <code>[1, 2, 1, 2, 1, 2]</code>.</p>\n</div>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,3]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">2</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>The longest valid subsequence is <code>[1, 3]</code>.</p>\n</div>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>2 &lt;= nums.length &lt;= 2 * 10<sup>5</sup></code></li>\n\t<li><code>1 &lt;= nums[i] &lt;= 10<sup>7</sup></code></li>\n</ul>\n",
+            "isPaidOnly": false,
+            "difficulty": "Medium",
+            "likes": 113,
+            "dislikes": 14,
+            "similarQuestions": "[{\"title\": \"Longest Increasing Subsequence\", \"titleSlug\": \"longest-increasing-subsequence\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Length of the Longest Subsequence That Sums to Target\", \"titleSlug\": \"length-of-the-longest-subsequence-that-sums-to-target\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"24K\", \"totalSubmission\": \"64.4K\", \"totalAcceptedRaw\": 23951, \"totalSubmissionRaw\": 64422, \"acRate\": \"37.2%\"}",
+            "hints": [
+                "The possible sequence either contains all even elements, all odd elements, alternate even odd, or alternate odd even elements.",
+                "Considering only the parity of elements, there are only 4 possibilities and we can try all of them.",
+                "When selecting an element with any parity, try to select the earliest one."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "longest-increasing-subsequence",
+                "title": "Longest Increasing Subsequence",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Medium",
+                "titleSlug": "length-of-the-longest-subsequence-that-sums-to-target",
+                "title": "Length of the Longest Subsequence That Sums to Target",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "The possible sequence either contains all even elements, all odd elements, alternate even odd, or alternate odd even elements.",
+            "Considering only the parity of elements, there are only 4 possibilities and we can try all of them.",
+            "When selecting an element with any parity, try to select the earliest one."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            }
+        ]
+    }
+}

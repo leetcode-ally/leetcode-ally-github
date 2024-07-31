@@ -1,0 +1,72 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3205",
+            "title": "Maximum Array Hopping Score I",
+            "titleSlug": "maximum-array-hopping-score-i",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 15,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"717\", \"totalSubmission\": \"886\", \"totalAcceptedRaw\": 717, \"totalSubmissionRaw\": 886, \"acRate\": \"80.9%\"}",
+            "hints": [
+                "Define <code>dp[i]</code> as the maximum score if we start from index <code>i</code>.",
+                "We can calculate <code>dp[i]</code> as the maximum score from hopping to all indices <code>j > i</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Define <code>dp[i]</code> as the maximum score if we start from index <code>i</code>.",
+            "We can calculate <code>dp[i]</code> as the maximum score from hopping to all indices <code>j > i</code>."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Stack",
+                "slug": "stack"
+            },
+            {
+                "name": "Greedy",
+                "slug": "greedy"
+            },
+            {
+                "name": "Monotonic Stack",
+                "slug": "monotonic-stack"
+            }
+        ]
+    }
+}
