@@ -20,6 +20,20 @@
       "duration": "12:57",
       "date": "2024-10-02",
       "url": "https://www.youtube.com/watch?v=Tv97dlZclNY"
+    },
+    "two-sum":{
+      "title": "Two Sum",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/TwoSum.webp",
+      "duration": "06:30",
+      "date": "2024-10-02",
+      "url": "https://youtu.be/kvcPy90yE_s"
+    },
+    "find-all-duplicates-in-an-array":{
+      "title": "Find All Duplicates in an Array",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/FindAllDuplicatesinanArray.webp",
+      "duration": "09:13",
+      "date": "2024-10-02",
+      "url": "https://youtu.be/_kxsJ5DDrfk"
     }
   },
   "striver_sheet": { }
