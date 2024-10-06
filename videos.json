@@ -55,6 +55,13 @@
       "duration": "21:30",
       "date": "2024-10-05",
       "url": "https://www.youtube.com/watch?v=nYHnbGcmpgw"
+    },
+    "sentence-similarity-iii": {
+      "title": "Sentence Similarity III",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SentenceSimilarityIII.webp",
+      "duration": "15:33",
+      "date": "2024-10-06",
+      "url": "https://youtu.be/iMGDkqjX8tc"
     }
   },
   "striver_sheet": { }
