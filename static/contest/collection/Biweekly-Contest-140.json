@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-140",
+  "data": [
+    {
+      "id": 4222,
+      "question_id": 3606,
+      "credit": 3,
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "title_slug": "minimum-element-after-replacement-with-digit-sum",
+      "likes": 39,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4223,
+      "question_id": 3510,
+      "credit": 5,
+      "title": "Maximize the Total Height of Unique Towers",
+      "title_slug": "maximize-the-total-height-of-unique-towers",
+      "likes": 82,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4224,
+      "question_id": 3584,
+      "credit": 5,
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "title_slug": "find-the-lexicographically-smallest-valid-sequence",
+      "likes": 101,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4225,
+      "question_id": 3580,
+      "credit": 6,
+      "title": "Find the Occurrence of First Almost Equal Substring",
+      "title_slug": "find-the-occurrence-of-first-almost-equal-substring",
+      "likes": 41,
+      "dislikes": "NA"
+    }
+  ]
+}

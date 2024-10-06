@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-412",
+  "data": [
+    {
+      "id": 4148,
+      "question_id": 3555,
+      "credit": 3,
+      "title": "Final Array State After K Multiplication Operations I",
+      "title_slug": "final-array-state-after-k-multiplication-operations-i",
+      "likes": 93,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4149,
+      "question_id": 3534,
+      "credit": 4,
+      "title": "Count Almost Equal Pairs I",
+      "title_slug": "count-almost-equal-pairs-i",
+      "likes": 136,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4150,
+      "question_id": 3556,
+      "credit": 7,
+      "title": "Final Array State After K Multiplication Operations II",
+      "title_slug": "final-array-state-after-k-multiplication-operations-ii",
+      "likes": 141,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4151,
+      "question_id": 3544,
+      "credit": 7,
+      "title": "Count Almost Equal Pairs II",
+      "title_slug": "count-almost-equal-pairs-ii",
+      "likes": 67,
+      "dislikes": "NA"
+    }
+  ]
+}

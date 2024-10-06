@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-409",
+  "data": [
+    {
+      "id": 4105,
+      "question_id": 3516,
+      "credit": 3,
+      "title": "Design Neighbor Sum Service",
+      "title_slug": "design-neighbor-sum-service",
+      "likes": 105,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4106,
+      "question_id": 3517,
+      "credit": 4,
+      "title": "Shortest Distance After Road Addition Queries I",
+      "title_slug": "shortest-distance-after-road-addition-queries-i",
+      "likes": 153,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4107,
+      "question_id": 3514,
+      "credit": 7,
+      "title": "Shortest Distance After Road Addition Queries II",
+      "title_slug": "shortest-distance-after-road-addition-queries-ii",
+      "likes": 53,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4108,
+      "question_id": 3527,
+      "credit": 8,
+      "title": "Alternating Groups III",
+      "title_slug": "alternating-groups-iii",
+      "likes": 80,
+      "dislikes": "NA"
+    }
+  ]
+}

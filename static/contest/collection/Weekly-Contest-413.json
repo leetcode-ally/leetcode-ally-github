@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-413",
+  "data": [
+    {
+      "id": 4163,
+      "question_id": 3553,
+      "credit": 3,
+      "title": "Check if Two Chessboard Squares Have the Same Color",
+      "title_slug": "check-if-two-chessboard-squares-have-the-same-color",
+      "likes": 87,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4164,
+      "question_id": 3495,
+      "credit": 5,
+      "title": "K-th Nearest Obstacle Queries",
+      "title_slug": "k-th-nearest-obstacle-queries",
+      "likes": 85,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4165,
+      "question_id": 3563,
+      "credit": 6,
+      "title": "Select Cells in Grid With Maximum Score",
+      "title_slug": "select-cells-in-grid-with-maximum-score",
+      "likes": 193,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4166,
+      "question_id": 3551,
+      "credit": 7,
+      "title": "Maximum XOR Score Subarray Queries",
+      "title_slug": "maximum-xor-score-subarray-queries",
+      "likes": 90,
+      "dislikes": "NA"
+    }
+  ]
+}

@@ -63010,6 +63010,1502 @@
           "slug": "database"
         }
       ]
+    },
+    {
+      "acRate": 78.8249694002448,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3237",
+      "paidOnly": true,
+      "title": "Alt and Tab Simulation",
+      "titleSlug": "alt-and-tab-simulation",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 61.32256276233468,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3238",
+      "paidOnly": false,
+      "title": "Find the Number of Winning Players",
+      "titleSlug": "find-the-number-of-winning-players",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Counting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+          "slug": "counting"
+        }
+      ]
+    },
+    {
+      "acRate": 78.26296743063934,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3239",
+      "paidOnly": false,
+      "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+      "titleSlug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Two Pointers",
+          "id": "VG9waWNUYWdOb2RlOjk=",
+          "slug": "two-pointers"
+        },
+        { "name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix" }
+      ]
+    },
+    {
+      "acRate": 23.180377833143854,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3240",
+      "paidOnly": false,
+      "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+      "titleSlug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Two Pointers",
+          "id": "VG9waWNUYWdOb2RlOjk=",
+          "slug": "two-pointers"
+        },
+        { "name": "Matrix", "id": "VG9waWNUYWdOb2RlOjYxMDUz", "slug": "matrix" }
+      ]
+    },
+    {
+      "acRate": 24.475829030050395,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3241",
+      "paidOnly": false,
+      "title": "Time Taken to Mark All Nodes",
+      "titleSlug": "time-taken-to-mark-all-nodes",
+      "topicTags": [
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        { "name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree" },
+        {
+          "name": "Depth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIx",
+          "slug": "depth-first-search"
+        },
+        { "name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph" }
+      ]
+    },
+    {
+      "acRate": 83.13629055140453,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3242",
+      "paidOnly": false,
+      "title": "Design Neighbor Sum Service",
+      "titleSlug": "design-neighbor-sum-service",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "Design", "id": "VG9waWNUYWdOb2RlOjI1", "slug": "design" },
+        {
+          "name": "Matrix",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 47.33974476176546,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3243",
+      "paidOnly": false,
+      "title": "Shortest Distance After Road Addition Queries I",
+      "titleSlug": "shortest-distance-after-road-addition-queries-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Breadth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIy",
+          "slug": "breadth-first-search"
+        },
+        { "name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph" }
+      ]
+    },
+    {
+      "acRate": 23.720628045479156,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3244",
+      "paidOnly": false,
+      "title": "Shortest Distance After Road Addition Queries II",
+      "titleSlug": "shortest-distance-after-road-addition-queries-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy" },
+        { "name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph" },
+        {
+          "name": "Ordered Set",
+          "id": "VG9waWNUYWdOb2RlOjYxMDcw",
+          "slug": "ordered-set"
+        }
+      ]
+    },
+    {
+      "acRate": 14.484188698807673,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3245",
+      "paidOnly": false,
+      "title": "Alternating Groups III",
+      "titleSlug": "alternating-groups-iii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Binary Indexed Tree",
+          "id": "VG9waWNUYWdOb2RlOjI4",
+          "slug": "binary-indexed-tree"
+        }
+      ]
+    },
+    {
+      "acRate": 83.33333333333334,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3246",
+      "paidOnly": true,
+      "title": "Premier League Table Ranking",
+      "titleSlug": "premier-league-table-ranking",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 55.25164113785558,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3247",
+      "paidOnly": true,
+      "title": "Number of Subsequences with Odd Sum",
+      "titleSlug": "number-of-subsequences-with-odd-sum",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Combinatorics",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+          "slug": "combinatorics"
+        }
+      ]
+    },
+    {
+      "acRate": 82.33567039419853,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3248",
+      "paidOnly": false,
+      "title": "Snake in Matrix",
+      "titleSlug": "snake-in-matrix",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 55.70934256055363,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3249",
+      "paidOnly": false,
+      "title": "Count the Number of Good Nodes",
+      "titleSlug": "count-the-number-of-good-nodes",
+      "topicTags": [
+        { "name": "Tree", "id": "VG9waWNUYWdOb2RlOjIw", "slug": "tree" },
+        {
+          "name": "Depth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIx",
+          "slug": "depth-first-search"
+        }
+      ]
+    },
+    {
+      "acRate": 46.05664230120446,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3250",
+      "paidOnly": false,
+      "title": "Find the Count of Monotonic Pairs I",
+      "titleSlug": "find-the-count-of-monotonic-pairs-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Combinatorics",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Prefix Sum",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+          "slug": "prefix-sum"
+        }
+      ]
+    },
+    {
+      "acRate": 22.733092771505063,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3251",
+      "paidOnly": false,
+      "title": "Find the Count of Monotonic Pairs II",
+      "titleSlug": "find-the-count-of-monotonic-pairs-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Combinatorics",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Prefix Sum",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+          "slug": "prefix-sum"
+        }
+      ]
+    },
+    {
+      "acRate": 56.4927857935627,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3252",
+      "paidOnly": true,
+      "title": "Premier League Table Ranking II",
+      "titleSlug": "premier-league-table-ranking-ii",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 55.55555555555556,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3253",
+      "paidOnly": true,
+      "title": "Construct String with Minimum Cost (Easy)",
+      "titleSlug": "construct-string-with-minimum-cost-easy",
+      "topicTags": []
+    },
+    {
+      "acRate": 53.70162686050537,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3254",
+      "paidOnly": false,
+      "title": "Find the Power of K-Size Subarrays I",
+      "titleSlug": "find-the-power-of-k-size-subarrays-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 26.63834951456311,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3255",
+      "paidOnly": false,
+      "title": "Find the Power of K-Size Subarrays II",
+      "titleSlug": "find-the-power-of-k-size-subarrays-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 14.37349303881154,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3256",
+      "paidOnly": false,
+      "title": "Maximum Value Sum by Placing Three Rooks I",
+      "titleSlug": "maximum-value-sum-by-placing-three-rooks-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+          "slug": "matrix"
+        },
+        {
+          "name": "Enumeration",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+          "slug": "enumeration"
+        }
+      ]
+    },
+    {
+      "acRate": 27.78466557911909,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3257",
+      "paidOnly": false,
+      "title": "Maximum Value Sum by Placing Three Rooks II",
+      "titleSlug": "maximum-value-sum-by-placing-three-rooks-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+          "slug": "matrix"
+        },
+        {
+          "name": "Enumeration",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+          "slug": "enumeration"
+        }
+      ]
+    },
+    {
+      "acRate": 80.11066770889045,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3258",
+      "paidOnly": false,
+      "title": "Count Substrings That Satisfy K-Constraint I",
+      "titleSlug": "count-substrings-that-satisfy-k-constraint-i",
+      "topicTags": [
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 48.91200579385719,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3259",
+      "paidOnly": false,
+      "title": "Maximum Energy Boost From Two Drinks",
+      "titleSlug": "maximum-energy-boost-from-two-drinks",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 14.557853057633082,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3260",
+      "paidOnly": false,
+      "title": "Find the Largest Palindrome Divisible by K",
+      "titleSlug": "find-the-largest-palindrome-divisible-by-k",
+      "topicTags": [
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        { "name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy" },
+        {
+          "name": "Number Theory",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+          "slug": "number-theory"
+        }
+      ]
+    },
+    {
+      "acRate": 21.24033454315922,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3261",
+      "paidOnly": false,
+      "title": "Count Substrings That Satisfy K-Constraint II",
+      "titleSlug": "count-substrings-that-satisfy-k-constraint-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Prefix Sum",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+          "slug": "prefix-sum"
+        }
+      ]
+    },
+    {
+      "acRate": 60.75949367088608,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3262",
+      "paidOnly": true,
+      "title": "Find Overlapping Shifts",
+      "titleSlug": "find-overlapping-shifts",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 95.57069846678023,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3263",
+      "paidOnly": true,
+      "title": "Convert Doubly Linked List to Array I",
+      "titleSlug": "convert-doubly-linked-list-to-array-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Linked List",
+          "id": "VG9waWNUYWdOb2RlOjc=",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Doubly-Linked List",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+          "slug": "doubly-linked-list"
+        }
+      ]
+    },
+    {
+      "acRate": 81.80305602716469,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3264",
+      "paidOnly": false,
+      "title": "Final Array State After K Multiplication Operations I",
+      "titleSlug": "final-array-state-after-k-multiplication-operations-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Heap (Priority Queue)",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 37.006080173805465,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3265",
+      "paidOnly": false,
+      "title": "Count Almost Equal Pairs I",
+      "titleSlug": "count-almost-equal-pairs-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        },
+        {
+          "name": "Counting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+          "slug": "counting"
+        },
+        {
+          "name": "Enumeration",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+          "slug": "enumeration"
+        }
+      ]
+    },
+    {
+      "acRate": 10.069538111081137,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3266",
+      "paidOnly": false,
+      "title": "Final Array State After K Multiplication Operations II",
+      "titleSlug": "final-array-state-after-k-multiplication-operations-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Heap (Priority Queue)",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 20.674463313040693,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3267",
+      "paidOnly": false,
+      "title": "Count Almost Equal Pairs II",
+      "titleSlug": "count-almost-equal-pairs-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        },
+        {
+          "name": "Counting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+          "slug": "counting"
+        },
+        {
+          "name": "Enumeration",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+          "slug": "enumeration"
+        }
+      ]
+    },
+    {
+      "acRate": 75.38071065989847,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3268",
+      "paidOnly": true,
+      "title": "Find Overlapping Shifts II",
+      "titleSlug": "find-overlapping-shifts-ii",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 66.3157894736842,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3269",
+      "paidOnly": true,
+      "title": "Constructing Two Increasing Arrays",
+      "titleSlug": "constructing-two-increasing-arrays",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 76.6039508976643,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3270",
+      "paidOnly": false,
+      "title": "Find the Key of the Numbers",
+      "titleSlug": "find-the-key-of-the-numbers",
+      "topicTags": [
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" }
+      ]
+    },
+    {
+      "acRate": 84.54334861254867,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3271",
+      "paidOnly": false,
+      "title": "Hash Divided String",
+      "titleSlug": "hash-divided-string",
+      "topicTags": [
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 29.528005034612963,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3272",
+      "paidOnly": false,
+      "title": "Find the Count of Good Integers",
+      "titleSlug": "find-the-count-of-good-integers",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Combinatorics",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Enumeration",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+          "slug": "enumeration"
+        }
+      ]
+    },
+    {
+      "acRate": 37.69211744338056,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3273",
+      "paidOnly": false,
+      "title": "Minimum Amount of Damage Dealt to Bob",
+      "titleSlug": "minimum-amount-of-damage-dealt-to-bob",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy" },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        }
+      ]
+    },
+    {
+      "acRate": 69.95632120712301,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3274",
+      "paidOnly": false,
+      "title": "Check if Two Chessboard Squares Have the Same Color",
+      "titleSlug": "check-if-two-chessboard-squares-have-the-same-color",
+      "topicTags": [
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" }
+      ]
+    },
+    {
+      "acRate": 47.66550958501423,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3275",
+      "paidOnly": false,
+      "title": "K-th Nearest Obstacle Queries",
+      "titleSlug": "k-th-nearest-obstacle-queries",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Heap (Priority Queue)",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+          "slug": "heap-priority-queue"
+        }
+      ]
+    },
+    {
+      "acRate": 13.343206434939164,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3276",
+      "paidOnly": false,
+      "title": "Select Cells in Grid With Maximum Score",
+      "titleSlug": "select-cells-in-grid-with-maximum-score",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Matrix",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+          "slug": "matrix"
+        },
+        {
+          "name": "Bitmask",
+          "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+          "slug": "bitmask"
+        }
+      ]
+    },
+    {
+      "acRate": 46.457732949087415,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3277",
+      "paidOnly": false,
+      "title": "Maximum XOR Score Subarray Queries",
+      "titleSlug": "maximum-xor-score-subarray-queries",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 44.46680080482898,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3278",
+      "paidOnly": true,
+      "title": "Find Candidates for Data Scientist Position II",
+      "titleSlug": "find-candidates-for-data-scientist-position-ii",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 57.43707093821511,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3279",
+      "paidOnly": true,
+      "title": "Maximum Total Area Occupied by Pistons",
+      "titleSlug": "maximum-total-area-occupied-by-pistons",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        },
+        {
+          "name": "Counting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+          "slug": "counting"
+        },
+        {
+          "name": "Prefix Sum",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+          "slug": "prefix-sum"
+        }
+      ]
+    },
+    {
+      "acRate": 88.26459454074516,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3280",
+      "paidOnly": false,
+      "title": "Convert Date to Binary",
+      "titleSlug": "convert-date-to-binary",
+      "topicTags": [
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" }
+      ]
+    },
+    {
+      "acRate": 33.869932613113704,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3281",
+      "paidOnly": false,
+      "title": "Maximize Score of Numbers in Ranges",
+      "titleSlug": "maximize-score-of-numbers-in-ranges",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        },
+        { "name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy" },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        }
+      ]
+    },
+    {
+      "acRate": 31.115523319421367,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3282",
+      "paidOnly": false,
+      "title": "Reach End of Array With Max Score",
+      "titleSlug": "reach-end-of-array-with-max-score",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy" }
+      ]
+    },
+    {
+      "acRate": 31.967006674222393,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3283",
+      "paidOnly": false,
+      "title": "Maximum Number of Moves to Kill All Pawns",
+      "titleSlug": "maximum-number-of-moves-to-kill-all-pawns",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Breadth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIy",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Game Theory",
+          "id": "VG9waWNUYWdOb2RlOjYxMDcz",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Bitmask",
+          "id": "VG9waWNUYWdOb2RlOjYxMDc4",
+          "slug": "bitmask"
+        }
+      ]
+    },
+    {
+      "acRate": 51.719394773039895,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3284",
+      "paidOnly": true,
+      "title": "Sum of Consecutive Subarrays",
+      "titleSlug": "sum-of-consecutive-subarrays",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Two Pointers",
+          "id": "VG9waWNUYWdOb2RlOjk=",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 86.583620342622,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3285",
+      "paidOnly": false,
+      "title": "Find Indices of Stable Mountains",
+      "titleSlug": "find-indices-of-stable-mountains",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" }
+      ]
+    },
+    {
+      "acRate": 27.584684286885764,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3286",
+      "paidOnly": false,
+      "title": "Find a Safe Walk Through a Grid",
+      "titleSlug": "find-a-safe-walk-through-a-grid",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Breadth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIy",
+          "slug": "breadth-first-search"
+        },
+        { "name": "Graph", "id": "VG9waWNUYWdOb2RlOjI0", "slug": "graph" },
+        {
+          "name": "Heap (Priority Queue)",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "id": "VG9waWNUYWdOb2RlOjYxMDc2",
+          "slug": "shortest-path"
+        }
+      ]
+    },
+    {
+      "acRate": 15.136937366039533,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3287",
+      "paidOnly": false,
+      "title": "Find the Maximum Sequence Value of Array",
+      "titleSlug": "find-the-maximum-sequence-value-of-array",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        }
+      ]
+    },
+    {
+      "acRate": 15.704737483710959,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3288",
+      "paidOnly": false,
+      "title": "Length of the Longest Increasing Path",
+      "titleSlug": "length-of-the-longest-increasing-path",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        }
+      ]
+    },
+    {
+      "acRate": 88.9129431806083,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3289",
+      "paidOnly": false,
+      "title": "The Two Sneaky Numbers of Digitville",
+      "titleSlug": "the-two-sneaky-numbers-of-digitville",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" }
+      ]
+    },
+    {
+      "acRate": 41.513104566333425,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3290",
+      "paidOnly": false,
+      "title": "Maximum Multiplication Score",
+      "titleSlug": "maximum-multiplication-score",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 18.141909714371845,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3291",
+      "paidOnly": false,
+      "title": "Minimum Number of Valid Strings to Form Target I",
+      "titleSlug": "minimum-number-of-valid-strings-to-form-target-i",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        { "name": "Trie", "id": "VG9waWNUYWdOb2RlOjI3", "slug": "trie" },
+        {
+          "name": "Segment Tree",
+          "id": "VG9waWNUYWdOb2RlOjI5",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Rolling Hash",
+          "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "String Matching",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+          "slug": "string-matching"
+        },
+        {
+          "name": "Hash Function",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+          "slug": "hash-function"
+        }
+      ]
+    },
+    {
+      "acRate": 16.199762678635917,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3292",
+      "paidOnly": false,
+      "title": "Minimum Number of Valid Strings to Form Target II",
+      "titleSlug": "minimum-number-of-valid-strings-to-form-target-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Segment Tree",
+          "id": "VG9waWNUYWdOb2RlOjI5",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Rolling Hash",
+          "id": "VG9waWNUYWdOb2RlOjU2NTk4",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "String Matching",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+          "slug": "string-matching"
+        },
+        {
+          "name": "Hash Function",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+          "slug": "hash-function"
+        }
+      ]
+    },
+    {
+      "acRate": 81.44712430426716,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3293",
+      "paidOnly": true,
+      "title": "Calculate Product Final Price",
+      "titleSlug": "calculate-product-final-price",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 84.1799709724238,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3294",
+      "paidOnly": true,
+      "title": "Convert Doubly Linked List to Array II",
+      "titleSlug": "convert-doubly-linked-list-to-array-ii",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Linked List",
+          "id": "VG9waWNUYWdOb2RlOjc=",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Doubly-Linked List",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU4",
+          "slug": "doubly-linked-list"
+        }
+      ]
+    },
+    {
+      "acRate": 47.203099484486565,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3295",
+      "paidOnly": false,
+      "title": "Report Spam Message",
+      "titleSlug": "report-spam-message",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" }
+      ]
+    },
+    {
+      "acRate": 34.99076965545798,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3296",
+      "paidOnly": false,
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "titleSlug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        }
+      ]
+    },
+    {
+      "acRate": 40.92403628117914,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3297",
+      "paidOnly": false,
+      "title": "Count Substrings That Can Be Rearranged to Contain a String I",
+      "titleSlug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 59.86892829606785,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3298",
+      "paidOnly": false,
+      "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+      "titleSlug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 51.94805194805194,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3299",
+      "paidOnly": true,
+      "title": "Sum of Consecutive Subsequences",
+      "titleSlug": "sum-of-consecutive-subsequences",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 83.0903991171602,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3300",
+      "paidOnly": false,
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "titleSlug": "minimum-element-after-replacement-with-digit-sum",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" }
+      ]
+    },
+    {
+      "acRate": 34.944734926202926,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3301",
+      "paidOnly": false,
+      "title": "Maximize the Total Height of Unique Towers",
+      "titleSlug": "maximize-the-total-height-of-unique-towers",
+      "topicTags": [
+        { "name": "Array", "id": "VG9waWNUYWdOb2RlOjU=", "slug": "array" },
+        { "name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy" },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        }
+      ]
+    },
+    {
+      "acRate": 17.4336071457054,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3302",
+      "paidOnly": false,
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "titleSlug": "find-the-lexicographically-smallest-valid-sequence",
+      "topicTags": [
+        {
+          "name": "Two Pointers",
+          "id": "VG9waWNUYWdOb2RlOjk=",
+          "slug": "two-pointers"
+        },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        { "name": "Greedy", "id": "VG9waWNUYWdOb2RlOjE3", "slug": "greedy" }
+      ]
+    },
+    {
+      "acRate": 10.636512398774808,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3303",
+      "paidOnly": false,
+      "title": "Find the Occurrence of First Almost Equal Substring",
+      "titleSlug": "find-the-occurrence-of-first-almost-equal-substring",
+      "topicTags": [
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "String Matching",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUy",
+          "slug": "string-matching"
+        }
+      ]
+    },
+    {
+      "acRate": 70.40970572645713,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3304",
+      "paidOnly": false,
+      "title": "Find the K-th Character in String Game I",
+      "titleSlug": "find-the-k-th-character-in-string-game-i",
+      "topicTags": [
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Recursion",
+          "id": "VG9waWNUYWdOb2RlOjMx",
+          "slug": "recursion"
+        },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 40.09621166566446,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3305",
+      "paidOnly": false,
+      "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+      "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 19.57181800048758,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3306",
+      "paidOnly": false,
+      "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+      "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        { "name": "String", "id": "VG9waWNUYWdOb2RlOjEw", "slug": "string" },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 27.84516129032258,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3307",
+      "paidOnly": false,
+      "title": "Find the K-th Character in String Game II",
+      "titleSlug": "find-the-k-th-character-in-string-game-ii",
+      "topicTags": [
+        { "name": "Math", "id": "VG9waWNUYWdOb2RlOjg=", "slug": "math" },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Recursion",
+          "id": "VG9waWNUYWdOb2RlOjMx",
+          "slug": "recursion"
+        }
+      ]
+    },
+    {
+      "acRate": 61.39954853273137,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3308",
+      "paidOnly": true,
+      "title": "Find Top Performing Driver",
+      "titleSlug": "find-top-performing-driver",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 63.9187314711562,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3309",
+      "paidOnly": false,
+      "title": "Maximum Possible Number by Binary Concatenation",
+      "titleSlug": "maximum-possible-number-by-binary-concatenation",
+      "topicTags": []
+    },
+    {
+      "acRate": 45.278141586820155,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3310",
+      "paidOnly": false,
+      "title": "Remove Methods From Project",
+      "titleSlug": "remove-methods-from-project",
+      "topicTags": []
+    },
+    {
+      "acRate": 15.554414784394249,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3311",
+      "paidOnly": false,
+      "title": "Construct 2D Grid Matching Graph Layout",
+      "titleSlug": "construct-2d-grid-matching-graph-layout",
+      "topicTags": []
+    },
+    {
+      "acRate": 8.793789549220431,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3312",
+      "paidOnly": false,
+      "title": "Sorted GCD Pair Queries",
+      "titleSlug": "sorted-gcd-pair-queries",
+      "topicTags": []
     }
   ]
 }

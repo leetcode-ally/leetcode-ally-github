@@ -1,0 +1,48 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3269",
+            "title": "Constructing Two Increasing Arrays",
+            "titleSlug": "constructing-two-increasing-arrays",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 6,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"252\", \"totalSubmission\": \"380\", \"totalAcceptedRaw\": 252, \"totalSubmissionRaw\": 380, \"acRate\": \"66.3%\"}",
+            "hints": [
+                "Think of dynamic programming.",
+                "Define <code>dp[i][j][flag]</code> as the answer to the problem if we only consider the first <code>i</code> elements of the first array, the first <code>j</code> elements of the second array, and flag is either 0 or 1 indicating which array contains the largest element."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Think of dynamic programming.",
+            "Define <code>dp[i][j][flag]</code> as the answer to the problem if we only consider the first <code>i</code> elements of the first array, the first <code>j</code> elements of the second array, and flag is either 0 or 1 indicating which array contains the largest element."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            }
+        ]
+    }
+}

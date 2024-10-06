@@ -1,0 +1,62 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3284",
+            "title": "Sum of Consecutive Subarrays",
+            "titleSlug": "sum-of-consecutive-subarrays",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 6,
+            "dislikes": 3,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"376\", \"totalSubmission\": \"727\", \"totalAcceptedRaw\": 376, \"totalSubmissionRaw\": 727, \"acRate\": \"51.7%\"}",
+            "hints": [
+                "Think of dynamic programming.",
+                "Another approach would be a two-pointer.",
+                "Start from the first index and traverse until the last one.",
+                "At each step, store the sum of the suffix that forms a consecutive subarray.",
+                "Do the above for both +1 and -1 and add them up."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Think of dynamic programming.",
+            "Another approach would be a two-pointer.",
+            "Start from the first index and traverse until the last one.",
+            "At each step, store the sum of the suffix that forms a consecutive subarray.",
+            "Do the above for both +1 and -1 and add them up."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Two Pointers",
+                "slug": "two-pointers"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            }
+        ]
+    }
+}

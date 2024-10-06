@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-417",
+  "data": [
+    {
+      "id": 4218,
+      "question_id": 3600,
+      "credit": 3,
+      "title": "Find the K-th Character in String Game I",
+      "title_slug": "find-the-k-th-character-in-string-game-i",
+      "likes": 68,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4219,
+      "question_id": 3570,
+      "credit": 4,
+      "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+      "title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+      "likes": 72,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4220,
+      "question_id": 3569,
+      "credit": 5,
+      "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+      "title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+      "likes": 139,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4221,
+      "question_id": 3601,
+      "credit": 6,
+      "title": "Find the K-th Character in String Game II",
+      "title_slug": "find-the-k-th-character-in-string-game-ii",
+      "likes": 64,
+      "dislikes": "NA"
+    }
+  ]
+}

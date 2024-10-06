@@ -1,0 +1,64 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3299",
+            "title": "Sum of Consecutive Subsequences",
+            "titleSlug": "sum-of-consecutive-subsequences",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 4,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"200\", \"totalSubmission\": \"385\", \"totalAcceptedRaw\": 200, \"totalSubmissionRaw\": 385, \"acRate\": \"51.9%\"}",
+            "hints": [
+                "Try to count the number of times each element occurred in a consecutive subsequence, then you can find the answer easily.",
+                "Think of dynamic programming as a solution to calculate the number in the previous hint.",
+                "Let <code>left_inc[i]</code> be the number of increasing consecutive subsequences ending at <code>nums[i]</code> (except for <code>nums[i]</code> itself).",
+                "Let <code>right_inc[i]</code> be the number of increasing consecutive subsequences starting at <code>nums[i]</code> (except for <code>nums[i]</code> itself).",
+                "Then <code>nums[i]</code> is in <code>left_inc[i] + right_inc[i] + left_inc[i] * right_inc[i] + 1</code> increasing subsequences.",
+                "Do the same for decreasing consecutive subsequences."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Try to count the number of times each element occurred in a consecutive subsequence, then you can find the answer easily.",
+            "Think of dynamic programming as a solution to calculate the number in the previous hint.",
+            "Let <code>left_inc[i]</code> be the number of increasing consecutive subsequences ending at <code>nums[i]</code> (except for <code>nums[i]</code> itself).",
+            "Let <code>right_inc[i]</code> be the number of increasing consecutive subsequences starting at <code>nums[i]</code> (except for <code>nums[i]</code> itself).",
+            "Then <code>nums[i]</code> is in <code>left_inc[i] + right_inc[i] + left_inc[i] * right_inc[i] + 1</code> increasing subsequences.",
+            "Do the same for decreasing consecutive subsequences."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3253",
+            "title": "Construct String with Minimum Cost (Easy)",
+            "titleSlug": "construct-string-with-minimum-cost-easy",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 8,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [],
+            "stats": "{\"totalAccepted\": \"385\", \"totalSubmission\": \"693\", \"totalAcceptedRaw\": 385, \"totalSubmissionRaw\": 693, \"acRate\": \"55.6%\"}",
+            "hints": [
+                "Let <code>dp[i]</code> denote the minimum cost to make <code>s</code> equal to the prefix of <code>target</code> of length <code>i</code>.",
+                "<code>dp[i] = min(costs[k] + dp[j])</code>, where <code>j > i</code> and <code>words[k] == target[i..j]</code>."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Let <code>dp[i]</code> denote the minimum cost to make <code>s</code> equal to the prefix of <code>target</code> of length <code>i</code>.",
+            "<code>dp[i] = min(costs[k] + dp[j])</code>, where <code>j > i</code> and <code>words[k] == target[i..j]</code>."
+        ],
+        "relatedTopics": []
+    }
+}

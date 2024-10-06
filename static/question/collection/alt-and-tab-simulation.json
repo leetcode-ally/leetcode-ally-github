@@ -1,0 +1,60 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3237",
+            "title": "Alt and Tab Simulation",
+            "titleSlug": "alt-and-tab-simulation",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 12,
+            "dislikes": 6,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"644\", \"totalSubmission\": \"817\", \"totalAcceptedRaw\": 644, \"totalSubmissionRaw\": 817, \"acRate\": \"78.8%\"}",
+            "hints": [
+                "Let\u2019s answer the queries offline.",
+                "Start from the <b>last</b> query until you reach the first query.",
+                "Each time, append the value of that query to a <code>ans</code> array if it wasn\u2019t already appended.",
+                "Then start from the <b>beginning</b> of <code>windows</code> and append to <code>ans</code> array if it wasn\u2019t already appended."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Let\u2019s answer the queries offline.",
+            "Start from the <b>last</b> query until you reach the first query.",
+            "Each time, append the value of that query to a <code>ans</code> array if it wasn\u2019t already appended.",
+            "Then start from the <b>beginning</b> of <code>windows</code> and append to <code>ans</code> array if it wasn\u2019t already appended."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "Simulation",
+                "slug": "simulation"
+            }
+        ]
+    }
+}

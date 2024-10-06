@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-416",
+  "data": [
+    {
+      "id": 4214,
+      "question_id": 3541,
+      "credit": 4,
+      "title": "Report Spam Message",
+      "title_slug": "report-spam-message",
+      "likes": 75,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4215,
+      "question_id": 3496,
+      "credit": 5,
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "likes": 191,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4216,
+      "question_id": 3573,
+      "credit": 5,
+      "title": "Count Substrings That Can Be Rearranged to Contain a String I",
+      "title_slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+      "likes": 91,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4217,
+      "question_id": 3572,
+      "credit": 6,
+      "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+      "title_slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+      "likes": 65,
+      "dislikes": "NA"
+    }
+  ]
+}

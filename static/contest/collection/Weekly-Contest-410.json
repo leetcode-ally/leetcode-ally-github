@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-410",
+  "data": [
+    {
+      "id": 4122,
+      "question_id": 3533,
+      "credit": 3,
+      "title": "Snake in Matrix",
+      "title_slug": "snake-in-matrix",
+      "likes": 110,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4123,
+      "question_id": 3486,
+      "credit": 4,
+      "title": "Count the Number of Good Nodes",
+      "title_slug": "count-the-number-of-good-nodes",
+      "likes": 147,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4124,
+      "question_id": 3535,
+      "credit": 6,
+      "title": "Find the Count of Monotonic Pairs I",
+      "title_slug": "find-the-count-of-monotonic-pairs-i",
+      "likes": 123,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4125,
+      "question_id": 3536,
+      "credit": 7,
+      "title": "Find the Count of Monotonic Pairs II",
+      "title_slug": "find-the-count-of-monotonic-pairs-ii",
+      "likes": 81,
+      "dislikes": "NA"
+    }
+  ]
+}

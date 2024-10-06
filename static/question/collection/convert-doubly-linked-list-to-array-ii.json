@@ -1,0 +1,61 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3294",
+            "title": "Convert Doubly Linked List to Array II",
+            "titleSlug": "convert-doubly-linked-list-to-array-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 4,
+            "dislikes": 4,
+            "similarQuestions": "[{\"title\": \"Remove Linked List Elements\", \"titleSlug\": \"remove-linked-list-elements\", \"difficulty\": \"Easy\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"582\", \"totalSubmission\": \"691\", \"totalAcceptedRaw\": 582, \"totalSubmissionRaw\": 691, \"acRate\": \"84.2%\"}",
+            "hints": [
+                "Use the pointer to the previous node to reach the <code>head</code> node."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Easy",
+                "titleSlug": "remove-linked-list-elements",
+                "title": "Remove Linked List Elements",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Use the pointer to the previous node to reach the <code>head</code> node."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Linked List",
+                "slug": "linked-list"
+            },
+            {
+                "name": "Doubly-Linked List",
+                "slug": "doubly-linked-list"
+            }
+        ]
+    }
+}

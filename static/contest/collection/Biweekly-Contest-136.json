@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-136",
+  "data": [
+    {
+      "id": 4101,
+      "question_id": 3519,
+      "credit": 3,
+      "title": "Find the Number of Winning Players",
+      "title_slug": "find-the-number-of-winning-players",
+      "likes": 71,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4102,
+      "question_id": 3526,
+      "credit": 4,
+      "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+      "title_slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+      "likes": 60,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4103,
+      "question_id": 3524,
+      "credit": 5,
+      "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+      "title_slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+      "likes": 117,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4104,
+      "question_id": 3532,
+      "credit": 7,
+      "title": "Time Taken to Mark All Nodes",
+      "title_slug": "time-taken-to-mark-all-nodes",
+      "likes": 89,
+      "dislikes": "NA"
+    }
+  ]
+}

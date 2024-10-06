@@ -1,0 +1,95 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3283",
+            "title": "Maximum Number of Moves to Kill All Pawns",
+            "titleSlug": "maximum-number-of-moves-to-kill-all-pawns",
+            "content": "<p>There is a <code>50 x 50</code> chessboard with <strong>one</strong> knight and some pawns on it. You are given two integers <code>kx</code> and <code>ky</code> where <code>(kx, ky)</code> denotes the position of the knight, and a 2D array <code>positions</code> where <code>positions[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> denotes the position of the pawns on the chessboard.</p>\n\n<p>Alice and Bob play a <em>turn-based</em> game, where Alice goes first. In each player&#39;s turn:</p>\n\n<ul>\n\t<li>The player <em>selects </em>a pawn that still exists on the board and captures it with the knight in the <strong>fewest</strong> possible <strong>moves</strong>. <strong>Note</strong> that the player can select <strong>any</strong> pawn, it <strong>might not</strong> be one that can be captured in the <strong>least</strong> number of moves.</li>\n\t<li><span>In the process of capturing the <em>selected</em> pawn, the knight <strong>may</strong> pass other pawns <strong>without</strong> capturing them</span>. <strong>Only</strong> the <em>selected</em> pawn can be captured in <em>this</em> turn.</li>\n</ul>\n\n<p>Alice is trying to <strong>maximize</strong> the <strong>sum</strong> of the number of moves made by <em>both</em> players until there are no more pawns on the board, whereas Bob tries to <strong>minimize</strong> them.</p>\n\n<p>Return the <strong>maximum</strong> <em>total</em> number of moves made during the game that Alice can achieve, assuming both players play <strong>optimally</strong>.</p>\n\n<p>Note that in one <strong>move, </strong>a chess knight has eight possible positions it can move to, as illustrated below. Each move is two cells in a cardinal direction, then one cell in an orthogonal direction.</p>\n\n<p><img src=\"https://assets.leetcode.com/uploads/2024/08/01/chess_knight.jpg\" style=\"width: 275px; height: 273px;\" /></p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">kx = 1, ky = 1, positions = [[0,0]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">4</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p><img alt=\"\" src=\"https://assets.leetcode.com/uploads/2024/08/16/gif3.gif\" style=\"width: 275px; height: 275px;\" /></p>\n\n<p>The knight takes 4 moves to reach the pawn at <code>(0, 0)</code>.</p>\n</div>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">kx = 0, ky = 2, positions = [[1,1],[2,2],[3,3]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">8</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p><strong><img alt=\"\" src=\"https://assets.leetcode.com/uploads/2024/08/16/gif4.gif\" style=\"width: 320px; height: 320px;\" /></strong></p>\n\n<ul>\n\t<li>Alice picks the pawn at <code>(2, 2)</code> and captures it in two moves: <code>(0, 2) -&gt; (1, 4) -&gt; (2, 2)</code>.</li>\n\t<li>Bob picks the pawn at <code>(3, 3)</code> and captures it in two moves: <code>(2, 2) -&gt; (4, 1) -&gt; (3, 3)</code>.</li>\n\t<li>Alice picks the pawn at <code>(1, 1)</code> and captures it in four moves: <code>(3, 3) -&gt; (4, 1) -&gt; (2, 2) -&gt; (0, 3) -&gt; (1, 1)</code>.</li>\n</ul>\n</div>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">kx = 0, ky = 0, positions = [[1,2],[2,4]]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">3</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<ul>\n\t<li>Alice picks the pawn at <code>(2, 4)</code> and captures it in two moves: <code>(0, 0) -&gt; (1, 2) -&gt; (2, 4)</code>. Note that the pawn at <code>(1, 2)</code> is not captured.</li>\n\t<li>Bob picks the pawn at <code>(1, 2)</code> and captures it in one move: <code>(2, 4) -&gt; (1, 2)</code>.</li>\n</ul>\n</div>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>0 &lt;= kx, ky &lt;= 49</code></li>\n\t<li><code>1 &lt;= positions.length &lt;= 15</code></li>\n\t<li><code>positions[i].length == 2</code></li>\n\t<li><code>0 &lt;= positions[i][0], positions[i][1] &lt;= 49</code></li>\n\t<li>All <code>positions[i]</code> are unique.</li>\n\t<li>The input is generated such that <code>positions[i] != [kx, ky]</code> for all <code>0 &lt;= i &lt; positions.length</code>.</li>\n</ul>\n",
+            "isPaidOnly": false,
+            "difficulty": "Hard",
+            "likes": 101,
+            "dislikes": 10,
+            "similarQuestions": "[{\"title\": \"Knight Probability in Chessboard\", \"titleSlug\": \"knight-probability-in-chessboard\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Check Knight Tour Configuration\", \"titleSlug\": \"check-knight-tour-configuration\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Game Theory",
+                    "slug": "game-theory"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"5.1K\", \"totalSubmission\": \"15.9K\", \"totalAcceptedRaw\": 5077, \"totalSubmissionRaw\": 15882, \"acRate\": \"32.0%\"}",
+            "hints": [
+                "Use BFS to preprocess the minimum number of moves to reach one pawn from the other pawns.",
+                "Consider the knight\u2019s original position as another pawn.",
+                "Use DP with a bitmask to store current pawns that have not been captured."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "knight-probability-in-chessboard",
+                "title": "Knight Probability in Chessboard",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Medium",
+                "titleSlug": "check-knight-tour-configuration",
+                "title": "Check Knight Tour Configuration",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Use BFS to preprocess the minimum number of moves to reach one pawn from the other pawns.",
+            "Consider the knight\u2019s original position as another pawn.",
+            "Use DP with a bitmask to store current pawns that have not been captured."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Bit Manipulation",
+                "slug": "bit-manipulation"
+            },
+            {
+                "name": "Breadth-First Search",
+                "slug": "breadth-first-search"
+            },
+            {
+                "name": "Game Theory",
+                "slug": "game-theory"
+            },
+            {
+                "name": "Bitmask",
+                "slug": "bitmask"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-415",
+  "data": [
+    {
+      "id": 4189,
+      "question_id": 3581,
+      "credit": 3,
+      "title": "The Two Sneaky Numbers of Digitville",
+      "title_slug": "the-two-sneaky-numbers-of-digitville",
+      "likes": 88,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4190,
+      "question_id": 3518,
+      "credit": 5,
+      "title": "Maximum Multiplication Score",
+      "title_slug": "maximum-multiplication-score",
+      "likes": 145,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4191,
+      "question_id": 3559,
+      "credit": 5,
+      "title": "Minimum Number of Valid Strings to Form Target I",
+      "title_slug": "minimum-number-of-valid-strings-to-form-target-i",
+      "likes": 126,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4192,
+      "question_id": 3557,
+      "credit": 8,
+      "title": "Minimum Number of Valid Strings to Form Target II",
+      "title_slug": "minimum-number-of-valid-strings-to-form-target-ii",
+      "likes": 56,
+      "dislikes": "NA"
+    }
+  ]
+}

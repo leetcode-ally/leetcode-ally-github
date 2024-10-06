@@ -3,13 +3,13 @@ import json
 import os
 import time
 
-arr = [2837,2844,2874,2946,2993,3041,3046,3095,3197]
+arr = []
 
 with open("static/question/all-questions.json", "r") as f:
     questions = json.load(f)
     for item in questions["questions"]:
         id = int(item["frontendQuestionId"])
-        if int(item["frontendQuestionId"]) > 3199:
+        if int(item["frontendQuestionId"]) > 3236:
             slug = item["titleSlug"]
             url = f"http://localhost:5000/question/data?slug={slug}"
             res = requests.get(url).json()

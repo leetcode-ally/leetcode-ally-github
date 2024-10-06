@@ -1,0 +1,72 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3247",
+            "title": "Number of Subsequences with Odd Sum",
+            "titleSlug": "number-of-subsequences-with-odd-sum",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 8,
+            "dislikes": 2,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Combinatorics",
+                    "slug": "combinatorics"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"505\", \"totalSubmission\": \"914\", \"totalAcceptedRaw\": 505, \"totalSubmissionRaw\": 914, \"acRate\": \"55.3%\"}",
+            "hints": [
+                "Define <code>dp[i][0]</code> as the answer for the subarray <code>[0, i]</code>.",
+                "Similarly define <code>dp[i][1]</code> as the answer for the subarray <code>[0, i]</code> if we wanted to count even-sum subsequences.",
+                "If <code>nums[i]</code> is odd, <code>dp[i][x] = 2<sup>i</sup></code>.",
+                "Otherwise, <code>dp[i][x] = dp[i - 1][x] * 2</code>.",
+                "<code>dp[0][1] = 1</code> if <code>nums[0]</code> is odd, and 0 otherwise.",
+                "<code>dp[0][0] = 2</code> if <code>nums[0]</code> is even, and 1 otherwise (since an empty subsequence has an even sum)."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Define <code>dp[i][0]</code> as the answer for the subarray <code>[0, i]</code>.",
+            "Similarly define <code>dp[i][1]</code> as the answer for the subarray <code>[0, i]</code> if we wanted to count even-sum subsequences.",
+            "If <code>nums[i]</code> is odd, <code>dp[i][x] = 2<sup>i</sup></code>.",
+            "Otherwise, <code>dp[i][x] = dp[i - 1][x] * 2</code>.",
+            "<code>dp[0][1] = 1</code> if <code>nums[0]</code> is odd, and 0 otherwise.",
+            "<code>dp[0][0] = 2</code> if <code>nums[0]</code> is even, and 1 otherwise (since an empty subsequence has an even sum)."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Math",
+                "slug": "math"
+            },
+            {
+                "name": "Dynamic Programming",
+                "slug": "dynamic-programming"
+            },
+            {
+                "name": "Combinatorics",
+                "slug": "combinatorics"
+            }
+        ]
+    }
+}

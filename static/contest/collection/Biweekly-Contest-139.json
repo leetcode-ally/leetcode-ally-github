@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-139",
+  "data": [
+    {
+      "id": 4185,
+      "question_id": 3582,
+      "credit": 3,
+      "title": "Find Indices of Stable Mountains",
+      "title_slug": "find-indices-of-stable-mountains",
+      "likes": 49,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4186,
+      "question_id": 3558,
+      "credit": 5,
+      "title": "Find a Safe Walk Through a Grid",
+      "title_slug": "find-a-safe-walk-through-a-grid",
+      "likes": 120,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4187,
+      "question_id": 3575,
+      "credit": 6,
+      "title": "Find the Maximum Sequence Value of Array",
+      "title_slug": "find-the-maximum-sequence-value-of-array",
+      "likes": 64,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4188,
+      "question_id": 3571,
+      "credit": 7,
+      "title": "Length of the Longest Increasing Path",
+      "title_slug": "length-of-the-longest-increasing-path",
+      "likes": 78,
+      "dislikes": "NA"
+    }
+  ]
+}

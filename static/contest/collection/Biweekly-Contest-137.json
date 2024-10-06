@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-137",
+  "data": [
+    {
+      "id": 4126,
+      "question_id": 3522,
+      "credit": 4,
+      "title": "Find the Power of K-Size Subarrays I",
+      "title_slug": "find-the-power-of-k-size-subarrays-i",
+      "likes": 71,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4127,
+      "question_id": 3523,
+      "credit": 5,
+      "title": "Find the Power of K-Size Subarrays II",
+      "title_slug": "find-the-power-of-k-size-subarrays-ii",
+      "likes": 113,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4128,
+      "question_id": 3550,
+      "credit": 6,
+      "title": "Maximum Value Sum by Placing Three Rooks I",
+      "title_slug": "maximum-value-sum-by-placing-three-rooks-i",
+      "likes": 94,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4129,
+      "question_id": 3542,
+      "credit": 8,
+      "title": "Maximum Value Sum by Placing Three Rooks II",
+      "title_slug": "maximum-value-sum-by-placing-three-rooks-ii",
+      "likes": 47,
+      "dislikes": "NA"
+    }
+  ]
+}

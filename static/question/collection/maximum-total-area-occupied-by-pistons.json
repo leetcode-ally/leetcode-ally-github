@@ -1,0 +1,84 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3279",
+            "title": "Maximum Total Area Occupied by Pistons",
+            "titleSlug": "maximum-total-area-occupied-by-pistons",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 5,
+            "dislikes": 3,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"251\", \"totalSubmission\": \"437\", \"totalAcceptedRaw\": 251, \"totalSubmissionRaw\": 437, \"acRate\": \"57.4%\"}",
+            "hints": [
+                "Simulate the process.",
+                "We only need to keep track of the times when a piston reaches one end and let\u2019s call these critical points.",
+                "For each piston, find the first time it reaches one end and sort these times (these times are critical points).",
+                "Find a way to calculate the area difference between two consecutive critical points in constant time."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "Simulate the process.",
+            "We only need to keep track of the times when a piston reaches one end and let\u2019s call these critical points.",
+            "For each piston, find the first time it reaches one end and sort these times (these times are critical points).",
+            "Find a way to calculate the area difference between two consecutive critical points in constant time."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Simulation",
+                "slug": "simulation"
+            },
+            {
+                "name": "Counting",
+                "slug": "counting"
+            },
+            {
+                "name": "Prefix Sum",
+                "slug": "prefix-sum"
+            }
+        ]
+    }
+}

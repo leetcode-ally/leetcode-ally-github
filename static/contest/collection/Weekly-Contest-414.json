@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-414",
+  "data": [
+    {
+      "id": 4174,
+      "question_id": 3567,
+      "credit": 3,
+      "title": "Convert Date to Binary",
+      "title_slug": "convert-date-to-binary",
+      "likes": 78,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4175,
+      "question_id": 3485,
+      "credit": 5,
+      "title": "Maximize Score of Numbers in Ranges",
+      "title_slug": "maximize-score-of-numbers-in-ranges",
+      "likes": 183,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4176,
+      "question_id": 3528,
+      "credit": 5,
+      "title": "Reach End of Array With Max Score",
+      "title_slug": "reach-end-of-array-with-max-score",
+      "likes": 182,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4177,
+      "question_id": 3560,
+      "credit": 8,
+      "title": "Maximum Number of Moves to Kill All Pawns",
+      "title_slug": "maximum-number-of-moves-to-kill-all-pawns",
+      "likes": 101,
+      "dislikes": "NA"
+    }
+  ]
+}
