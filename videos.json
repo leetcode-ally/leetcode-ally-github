@@ -1,0 +1,68 @@
+{
+  "videos": {
+    "rank-transform-of-an-array":{
+      "title": "Rank Transform of an Array",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RankTransformofanArray.webp",
+      "duration": "14:58",
+      "date": "2024-10-02",
+      "url": "https://www.youtube.com/watch?v=TY9BipI7N5Q"
+    },
+    "remove-duplicates-from-sorted-array": {
+      "title": "Remove Duplicates from Sorted Array",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RemoveDuplicatesFromSortedArray.webp",
+      "duration": "07:29",
+      "date": "2024-10-02",
+      "url": "https://www.youtube.com/watch?v=SS_1hm9eCew"
+    },
+    "check-if-array-pairs-are-divisible-by-k": {
+      "title": "Check If Array Pairs Are Divisible by K",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/CheckIfArrayPairsAreDivisiblebyK.webp",
+      "duration": "12:57",
+      "date": "2024-10-02",
+      "url": "https://www.youtube.com/watch?v=Tv97dlZclNY"
+    },
+    "two-sum":{
+      "title": "Two Sum",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/TwoSum.webp",
+      "duration": "06:30",
+      "date": "2024-10-02",
+      "url": "https://youtu.be/kvcPy90yE_s"
+    },
+    "find-all-duplicates-in-an-array":{
+      "title": "Find All Duplicates in an Array",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/FindAllDuplicatesinanArray.webp",
+      "duration": "09:13",
+      "date": "2024-10-02",
+      "url": "https://youtu.be/_kxsJ5DDrfk"
+    },
+    "make-sum-divisible-by-p": {
+      "title": "Make Sum Divisible by P",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MakeSumDivisibleByP.webp",
+      "duration": "17:18",
+      "date": "2024-10-03",
+      "url": "https://www.youtube.com/watch?v=Nr_RuivGsAA"
+    },
+    "divide-players-into-teams-of-equal-skill": {
+      "title": "Divide Players Into Teams of Equal Skill",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/DividePlayersIntoTeamsofEqualSkill.webp",
+      "duration": "16:30",
+      "date": "2024-10-04",
+      "url": "https://youtu.be/MHbcs9v8a5Q"
+    },
+    "permutation-in-string": {
+      "title": "Permutation in String",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/PermutationInString.webp",
+      "duration": "21:30",
+      "date": "2024-10-05",
+      "url": "https://www.youtube.com/watch?v=nYHnbGcmpgw"
+    },
+    "sentence-similarity-iii": {
+      "title": "Sentence Similarity III",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SentenceSimilarityIII.webp",
+      "duration": "15:33",
+      "date": "2024-10-06",
+      "url": "https://youtu.be/iMGDkqjX8tc"
+    }
+  },
+  "striver_sheet": { }
+}
