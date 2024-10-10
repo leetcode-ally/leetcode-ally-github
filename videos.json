@@ -90,6 +90,13 @@
       "duration": "25:42",
       "date": "2024-10-10",
       "url": "https://youtu.be/JDd__zlY28s"
+    },
+    "add-two-numbers": {
+      "title": "Add Two Numbers",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/AddTwoNumbers.webp",
+      "duration": "17:22",
+      "date": "2024-10-10",
+      "url": "https://youtu.be/IqKIE6TwDpo"
     }
   },
   "striver_sheet": { }
