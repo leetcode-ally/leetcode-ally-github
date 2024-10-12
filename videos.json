@@ -111,6 +111,13 @@
       "duration": "15:13",
       "date": "2024-10-12",
       "url": "https://youtu.be/jbPOluvZ1_c"
+    },
+    "maximum-subarray": {
+      "title": "Maximum Subarray",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MaximumSubarray.webp",
+      "duration": "08:30",
+      "date": "2024-10-12",
+      "url": "https://youtu.be/ajLfubkyZYM"
     }
   },
   "striver_sheet": { }
