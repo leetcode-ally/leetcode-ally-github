@@ -1,12 +1,5 @@
 {
   "videos": {
-    "convert-the-temperature": {
-      "title": "Convert the Temperature",
-      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/convertTheTemperature.webp",
-      "duration": "01:24",
-      "date": "2024-10-13",
-      "url": "https://www.youtube.com/watch?v=0NL7R_mxqU4"
-    },
     "rank-transform-of-an-array":{
       "title": "Rank Transform of an Array",
       "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RankTransformofanArray.webp",
@@ -132,6 +125,20 @@
       "duration": "17:41",
       "date": "2024-10-13",
       "url": "https://youtu.be/QAIV9z2Li9Y"
+    },
+    "convert-the-temperature": {
+      "title": "Convert the Temperature",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/convertTheTemperature.webp",
+      "duration": "01:24",
+      "date": "2024-10-13",
+      "url": "https://www.youtube.com/watch?v=0NL7R_mxqU4"
+    },
+    "remove-linked-list-elements": {
+      "title": "Remove Linked List Elements",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RemoveLinkedListElements.webp",
+      "duration": "07:50",
+      "date": "2024-10-13",
+      "url": "https://youtu.be/qisdngx9WWg"
     }
   },
   "striver_sheet": { }
