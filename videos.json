@@ -1,5 +1,12 @@
 {
   "videos": {
+    "convert-the-temperature": {
+      "title": "Convert the Temperature",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/convertTheTemperature.webp",
+      "duration": "01:24",
+      "date": "2024-10-13",
+      "url": "https://www.youtube.com/watch?v=0NL7R_mxqU4"
+    },
     "rank-transform-of-an-array":{
       "title": "Rank Transform of an Array",
       "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RankTransformofanArray.webp",
