@@ -181,6 +181,13 @@
       "duration": "12:00",
       "date": "2024-10-18",
       "url": "https://youtu.be/sVJ-VzJTN_g"
+    },
+    "find-kth-bit-in-nth-binary-string": {
+      "title": "Find Kth Bit in Nth Binary String",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/FindKthBitinNthBinaryString.webp",
+      "duration": "13:30",
+      "date": "2024-10-19",
+      "url": "https://youtu.be/wVP3Y4f1Trg"
     }
   },
   "striver_sheet": { }
