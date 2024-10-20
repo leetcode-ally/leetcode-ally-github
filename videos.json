@@ -188,7 +188,15 @@
       "duration": "13:30",
       "date": "2024-10-19",
       "url": "https://youtu.be/wVP3Y4f1Trg"
+    },
+    "parsing-a-boolean-expression": {
+      "title": "Parsing A Boolean Expression",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/ParsingABooleanExpression.webp",
+      "duration": "17:53",
+      "date": "2024-10-20",
+      "url": "https://youtu.be/7aqs6S-vzrg"
     }
+    
   },
   "striver_sheet": { }
 }
