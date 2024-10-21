@@ -195,8 +195,14 @@
       "duration": "17:53",
       "date": "2024-10-20",
       "url": "https://youtu.be/7aqs6S-vzrg"
+    },
+    "split-a-string-into-the-max-number-of-unique-substrings": {
+      "title": "Split a String Into the Max Number of Unique Substrings",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SplitaStringIntotheMaxNumberofUniqueSubstrings.webp",
+      "duration": "13:58",
+      "date": "2024-10-21",
+      "url": "https://youtu.be/-9coh35TPzY"
     }
-    
   },
   "striver_sheet": { }
 }
