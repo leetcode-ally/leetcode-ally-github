@@ -223,6 +223,20 @@
       "duration": "14:16",
       "date": "2024-10-22",
       "url": "https://youtu.be/lO4I5NgcRXQ"
+    },
+    "cousins-in-binary-tree-ii": {
+      "title": "Cousins in Binary Tree II",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/CousinsinBinaryTreeII.webp",
+      "duration": "17:28",
+      "date": "2024-10-23",
+      "url": "https://youtu.be/v33lxsAneFQ"
+    },
+    "remove-sub-folders-from-the-filesystem": {
+      "title": "Remove Sub-Folders from the Filesystem",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RemoveSubFoldersFromSystem.webp",
+      "duration": "08:48",
+      "date": "2024-10-23",
+      "url": "https://youtu.be/XDQ0E3xgcWY"
     }
   },
   "striver_sheet": { }
