@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Biweekly-Contest-141",
+  "data": [
+    {
+      "id": 4244,
+      "question_id": 3605,
+      "credit": 3,
+      "title": "Construct the Minimum Bitwise Array I",
+      "title_slug": "construct-the-minimum-bitwise-array-i",
+      "likes": 52,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4245,
+      "question_id": 3611,
+      "credit": 5,
+      "title": "Construct the Minimum Bitwise Array II",
+      "title_slug": "construct-the-minimum-bitwise-array-ii",
+      "likes": 63,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4246,
+      "question_id": 3487,
+      "credit": 5,
+      "title": "Find Maximum Removals From Source String",
+      "title_slug": "find-maximum-removals-from-source-string",
+      "likes": 103,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4247,
+      "question_id": 3604,
+      "credit": 6,
+      "title": "Find the Number of Possible Ways for an Event",
+      "title_slug": "find-the-number-of-possible-ways-for-an-event",
+      "likes": 55,
+      "dislikes": "NA"
+    }
+  ]
+}

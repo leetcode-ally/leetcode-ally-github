@@ -4,12 +4,14 @@ import os
 import time
 
 arr = []
-
+print("start")
 with open("static/question/all-questions.json", "r") as f:
+    
+    print("inside")
     questions = json.load(f)
     for item in questions["questions"]:
         id = int(item["frontendQuestionId"])
-        if int(item["frontendQuestionId"]) > 3236:
+        if int(item["frontendQuestionId"]) > 3312:
             slug = item["titleSlug"]
             url = f"http://localhost:5000/question/data?slug={slug}"
             res = requests.get(url).json()
@@ -24,3 +26,5 @@ with open("static/question/all-questions.json", "r") as f:
             
             time.sleep(30)
 
+
+print("end")

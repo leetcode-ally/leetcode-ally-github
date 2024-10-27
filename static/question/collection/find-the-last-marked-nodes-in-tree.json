@@ -1,0 +1,65 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3313",
+            "title": "Find the Last Marked Nodes in Tree",
+            "titleSlug": "find-the-last-marked-nodes-in-tree",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 3,
+            "dislikes": 1,
+            "similarQuestions": "[{\"title\": \"Minimum Time to Visit Disappearing Nodes\", \"titleSlug\": \"minimum-time-to-visit-disappearing-nodes\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Time Taken to Mark All Nodes\", \"titleSlug\": \"time-taken-to-mark-all-nodes\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"225\", \"totalSubmission\": \"311\", \"totalAcceptedRaw\": 225, \"totalSubmissionRaw\": 311, \"acRate\": \"72.3%\"}",
+            "hints": [
+                "We need to calculate the height of tree when rooted at each node.",
+                "Find a diameter using two DFS.",
+                "The farthest node from each node must be one of the endpoints of the diameter.",
+                "The last marked node will be one of the end of the diameter, whichever is more distant."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "minimum-time-to-visit-disappearing-nodes",
+                "title": "Minimum Time to Visit Disappearing Nodes",
+                "isPaidOnly": false
+            },
+            {
+                "difficulty": "Hard",
+                "titleSlug": "time-taken-to-mark-all-nodes",
+                "title": "Time Taken to Mark All Nodes",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "We need to calculate the height of tree when rooted at each node.",
+            "Find a diameter using two DFS.",
+            "The farthest node from each node must be one of the endpoints of the diameter.",
+            "The last marked node will be one of the end of the diameter, whichever is more distant."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Tree",
+                "slug": "tree"
+            },
+            {
+                "name": "Depth-First Search",
+                "slug": "depth-first-search"
+            }
+        ]
+    }
+}

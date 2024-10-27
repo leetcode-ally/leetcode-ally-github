@@ -64478,7 +64478,23 @@
       "paidOnly": false,
       "title": "Maximum Possible Number by Binary Concatenation",
       "titleSlug": "maximum-possible-number-by-binary-concatenation",
-      "topicTags": []
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Enumeration",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY2",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "acRate": 45.278141586820155,
@@ -64487,7 +64503,23 @@
       "paidOnly": false,
       "title": "Remove Methods From Project",
       "titleSlug": "remove-methods-from-project",
-      "topicTags": []
+      "topicTags": [
+        {
+          "name": "Depth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIx",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIy",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph",
+          "id": "VG9waWNUYWdOb2RlOjI0",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "acRate": 15.554414784394249,
@@ -64496,7 +64528,28 @@
       "paidOnly": false,
       "title": "Construct 2D Grid Matching Graph Layout",
       "titleSlug": "construct-2d-grid-matching-graph-layout",
-      "topicTags": []
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Graph",
+          "id": "VG9waWNUYWdOb2RlOjI0",
+          "slug": "graph"
+        },
+        {
+          "name": "Matrix",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "acRate": 8.793789549220431,
@@ -64505,6 +64558,549 @@
       "paidOnly": false,
       "title": "Sorted GCD Pair Queries",
       "titleSlug": "sorted-gcd-pair-queries",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "id": "VG9waWNUYWdOb2RlOjg=",
+          "slug": "math"
+        },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Combinatorics",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Counting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDYy",
+          "slug": "counting"
+        },
+        {
+          "name": "Number Theory",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+          "slug": "number-theory"
+        },
+        {
+          "name": "Prefix Sum",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+          "slug": "prefix-sum"
+        }
+      ]
+    },
+    {
+      "acRate": 72.34726688102894,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3313",
+      "paidOnly": true,
+      "title": "Find the Last Marked Nodes in Tree",
+      "titleSlug": "find-the-last-marked-nodes-in-tree",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "id": "VG9waWNUYWdOb2RlOjIw",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIx",
+          "slug": "depth-first-search"
+        }
+      ]
+    },
+    {
+      "acRate": 74.48832245102963,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3314",
+      "paidOnly": false,
+      "title": "Construct the Minimum Bitwise Array I",
+      "titleSlug": "construct-the-minimum-bitwise-array-i",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        }
+      ]
+    },
+    {
+      "acRate": 33.97346283079489,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3315",
+      "paidOnly": false,
+      "title": "Construct the Minimum Bitwise Array II",
+      "titleSlug": "construct-the-minimum-bitwise-array-ii",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "id": "VG9waWNUYWdOb2RlOjE5",
+          "slug": "bit-manipulation"
+        }
+      ]
+    },
+    {
+      "acRate": 36.95357658959538,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3316",
+      "paidOnly": false,
+      "title": "Find Maximum Removals From Source String",
+      "titleSlug": "find-maximum-removals-from-source-string",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "id": "VG9waWNUYWdOb2RlOjk=",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "id": "VG9waWNUYWdOb2RlOjEw",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 37.4735435000557,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3317",
+      "paidOnly": false,
+      "title": "Find the Number of Possible Ways for an Event",
+      "titleSlug": "find-the-number-of-possible-ways-for-an-event",
+      "topicTags": [
+        {
+          "name": "Math",
+          "id": "VG9waWNUYWdOb2RlOjg=",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Combinatorics",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU2",
+          "slug": "combinatorics"
+        }
+      ]
+    },
+    {
+      "acRate": 62.9056632770677,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3318",
+      "paidOnly": false,
+      "title": "Find X-Sum of All K-Long Subarrays I",
+      "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+          "slug": "heap-priority-queue"
+        }
+      ]
+    },
+    {
+      "acRate": 62.02118214104515,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3319",
+      "paidOnly": false,
+      "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+      "titleSlug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+      "topicTags": [
+        {
+          "name": "Tree",
+          "id": "VG9waWNUYWdOb2RlOjIw",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIx",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        },
+        {
+          "name": "Binary Tree",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU3",
+          "slug": "binary-tree"
+        }
+      ]
+    },
+    {
+      "acRate": 32.053210863884715,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3320",
+      "paidOnly": false,
+      "title": "Count The Number of Winning Sequences",
+      "titleSlug": "count-the-number-of-winning-sequences",
+      "topicTags": [
+        {
+          "name": "String",
+          "id": "VG9waWNUYWdOb2RlOjEw",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "id": "VG9waWNUYWdOb2RlOjEz",
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "acRate": 14.445331205107742,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3321",
+      "paidOnly": false,
+      "title": "Find X-Sum of All K-Long Subarrays II",
+      "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+          "slug": "heap-priority-queue"
+        }
+      ]
+    },
+    {
+      "acRate": 76.0752688172043,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3322",
+      "paidOnly": true,
+      "title": "Premier League Table Ranking III",
+      "titleSlug": "premier-league-table-ranking-iii",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 61.54992548435171,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3323",
+      "paidOnly": true,
+      "title": "Minimize Connected Groups by Inserting Interval",
+      "titleSlug": "minimize-connected-groups-by-inserting-interval",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "id": "VG9waWNUYWdOb2RlOjEx",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Sorting",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+          "slug": "sorting"
+        }
+      ]
+    },
+    {
+      "acRate": 79.67359804768925,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3324",
+      "paidOnly": false,
+      "title": "Find the Sequence of Strings Appeared on the Screen",
+      "titleSlug": "find-the-sequence-of-strings-appeared-on-the-screen",
+      "topicTags": [
+        {
+          "name": "String",
+          "id": "VG9waWNUYWdOb2RlOjEw",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+          "slug": "simulation"
+        }
+      ]
+    },
+    {
+      "acRate": 54.53996543754814,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3325",
+      "paidOnly": false,
+      "title": "Count Substrings With K-Frequency Characters I",
+      "titleSlug": "count-substrings-with-k-frequency-characters-i",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "id": "VG9waWNUYWdOb2RlOjEw",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 27.905132192846033,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3326",
+      "paidOnly": false,
+      "title": "Minimum Division Operations to Make Array Non Decreasing",
+      "titleSlug": "minimum-division-operations-to-make-array-non-decreasing",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "id": "VG9waWNUYWdOb2RlOjg=",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "id": "VG9waWNUYWdOb2RlOjE3",
+          "slug": "greedy"
+        },
+        {
+          "name": "Number Theory",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY3",
+          "slug": "number-theory"
+        }
+      ]
+    },
+    {
+      "acRate": 18.500889465839705,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3327",
+      "paidOnly": false,
+      "title": "Check if DFS Strings Are Palindromes",
+      "titleSlug": "check-if-dfs-strings-are-palindromes",
+      "topicTags": [
+        {
+          "name": "Array",
+          "id": "VG9waWNUYWdOb2RlOjU=",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "id": "VG9waWNUYWdOb2RlOjEw",
+          "slug": "string"
+        },
+        {
+          "name": "Tree",
+          "id": "VG9waWNUYWdOb2RlOjIw",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "id": "VG9waWNUYWdOb2RlOjIx",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Hash Function",
+          "id": "VG9waWNUYWdOb2RlOjYxMDY1",
+          "slug": "hash-function"
+        }
+      ]
+    },
+    {
+      "acRate": 82.02614379084967,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3328",
+      "paidOnly": true,
+      "title": "Find Cities in Each State II",
+      "titleSlug": "find-cities-in-each-state-ii",
+      "topicTags": [
+        {
+          "name": "Database",
+          "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+          "slug": "database"
+        }
+      ]
+    },
+    {
+      "acRate": 79.0625,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3329",
+      "paidOnly": true,
+      "title": "Count Substrings With K-Frequency Characters II",
+      "titleSlug": "count-substrings-with-k-frequency-characters-ii",
+      "topicTags": [
+        {
+          "name": "Hash Table",
+          "id": "VG9waWNUYWdOb2RlOjY=",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "id": "VG9waWNUYWdOb2RlOjEw",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+          "slug": "sliding-window"
+        }
+      ]
+    },
+    {
+      "acRate": 52.38320086041814,
+      "difficulty": "Easy",
+      "frontendQuestionId": "3330",
+      "paidOnly": false,
+      "title": "Find the Original Typed String I",
+      "titleSlug": "find-the-original-typed-string-i",
+      "topicTags": []
+    },
+    {
+      "acRate": 47.86965877651399,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3331",
+      "paidOnly": false,
+      "title": "Find Subtree Sizes After Changes",
+      "titleSlug": "find-subtree-sizes-after-changes",
+      "topicTags": []
+    },
+    {
+      "acRate": 44.10043310312536,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3332",
+      "paidOnly": false,
+      "title": "Maximum Points Tourist Can Earn",
+      "titleSlug": "maximum-points-tourist-can-earn",
+      "topicTags": []
+    },
+    {
+      "acRate": 9.311211664152841,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3333",
+      "paidOnly": false,
+      "title": "Find the Original Typed String II",
+      "titleSlug": "find-the-original-typed-string-ii",
+      "topicTags": []
+    },
+    {
+      "acRate": 38.714643565389835,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3334",
+      "paidOnly": false,
+      "title": "Find the Maximum Factor Score of Array",
+      "titleSlug": "find-the-maximum-factor-score-of-array",
+      "topicTags": []
+    },
+    {
+      "acRate": 21.162070491078012,
+      "difficulty": "Medium",
+      "frontendQuestionId": "3335",
+      "paidOnly": false,
+      "title": "Total Characters in String After Transformations I",
+      "titleSlug": "total-characters-in-string-after-transformations-i",
+      "topicTags": []
+    },
+    {
+      "acRate": 30.07417397167903,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3336",
+      "paidOnly": false,
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+      "topicTags": []
+    },
+    {
+      "acRate": 24.586404586404587,
+      "difficulty": "Hard",
+      "frontendQuestionId": "3337",
+      "paidOnly": false,
+      "title": "Total Characters in String After Transformations II",
+      "titleSlug": "total-characters-in-string-after-transformations-ii",
       "topicTags": []
     }
   ]

@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-420",
+  "data": [
+    {
+      "id": 4260,
+      "question_id": 3566,
+      "credit": 4,
+      "title": "Find the Sequence of Strings Appeared on the Screen",
+      "title_slug": "find-the-sequence-of-strings-appeared-on-the-screen",
+      "likes": 92,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4261,
+      "question_id": 3502,
+      "credit": 5,
+      "title": "Count Substrings With K-Frequency Characters I",
+      "title_slug": "count-substrings-with-k-frequency-characters-i",
+      "likes": 82,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4262,
+      "question_id": 3607,
+      "credit": 5,
+      "title": "Minimum Division Operations to Make Array Non Decreasing",
+      "title_slug": "minimum-division-operations-to-make-array-non-decreasing",
+      "likes": 94,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4263,
+      "question_id": 3603,
+      "credit": 7,
+      "title": "Check if DFS Strings Are Palindromes",
+      "title_slug": "check-if-dfs-strings-are-palindromes",
+      "likes": 57,
+      "dislikes": "NA"
+    }
+  ]
+}

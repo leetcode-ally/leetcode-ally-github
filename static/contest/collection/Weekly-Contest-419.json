@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-419",
+  "data": [
+    {
+      "id": 4248,
+      "question_id": 3610,
+      "credit": 3,
+      "title": "Find X-Sum of All K-Long Subarrays I",
+      "title_slug": "find-x-sum-of-all-k-long-subarrays-i",
+      "likes": 84,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4249,
+      "question_id": 3509,
+      "credit": 5,
+      "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+      "title_slug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+      "likes": 84,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4250,
+      "question_id": 3588,
+      "credit": 6,
+      "title": "Count The Number of Winning Sequences",
+      "title_slug": "count-the-number-of-winning-sequences",
+      "likes": 87,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4251,
+      "question_id": 3592,
+      "credit": 7,
+      "title": "Find X-Sum of All K-Long Subarrays II",
+      "title_slug": "find-x-sum-of-all-k-long-subarrays-ii",
+      "likes": 64,
+      "dislikes": "NA"
+    }
+  ]
+}

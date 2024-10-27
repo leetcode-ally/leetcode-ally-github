@@ -1,0 +1,73 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3323",
+            "title": "Minimize Connected Groups by Inserting Interval",
+            "titleSlug": "minimize-connected-groups-by-inserting-interval",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Medium",
+            "likes": 6,
+            "dislikes": 1,
+            "similarQuestions": "[{\"title\": \"Merge Intervals\", \"titleSlug\": \"merge-intervals\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"413\", \"totalSubmission\": \"671\", \"totalAcceptedRaw\": 413, \"totalSubmissionRaw\": 671, \"acRate\": \"61.5%\"}",
+            "hints": [
+                "Sort the intervals.",
+                "Merge all the mergeable intervals.",
+                "For each interval, binary search the latest interval that it can be merged with by adding exactly one interval."
+            ]
+        },
+        "similar": [
+            {
+                "difficulty": "Medium",
+                "titleSlug": "merge-intervals",
+                "title": "Merge Intervals",
+                "isPaidOnly": false
+            }
+        ],
+        "hints": [
+            "Sort the intervals.",
+            "Merge all the mergeable intervals.",
+            "For each interval, binary search the latest interval that it can be merged with by adding exactly one interval."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Array",
+                "slug": "array"
+            },
+            {
+                "name": "Binary Search",
+                "slug": "binary-search"
+            },
+            {
+                "name": "Sliding Window",
+                "slug": "sliding-window"
+            },
+            {
+                "name": "Sorting",
+                "slug": "sorting"
+            }
+        ]
+    }
+}

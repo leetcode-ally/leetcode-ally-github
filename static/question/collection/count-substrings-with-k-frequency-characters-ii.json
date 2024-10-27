@@ -1,0 +1,56 @@
+{
+    "failed": false,
+    "status": 200,
+    "message": "Question Data fetched successfully",
+    "data": {
+        "question": {
+            "questionFrontendId": "3329",
+            "title": "Count Substrings With K-Frequency Characters II",
+            "titleSlug": "count-substrings-with-k-frequency-characters-ii",
+            "content": null,
+            "isPaidOnly": true,
+            "difficulty": "Hard",
+            "likes": 2,
+            "dislikes": 1,
+            "similarQuestions": "[]",
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                }
+            ],
+            "stats": "{\"totalAccepted\": \"253\", \"totalSubmission\": \"320\", \"totalAcceptedRaw\": 253, \"totalSubmissionRaw\": 320, \"acRate\": \"79.1%\"}",
+            "hints": [
+                "If substring <code>[i, j]</code> is valid, then for all <code>k >= j, [i, k]</code> is valid too.",
+                "For each <code>i</code>, find <code>j</code> with a sliding window or binary search."
+            ]
+        },
+        "similar": [],
+        "hints": [
+            "If substring <code>[i, j]</code> is valid, then for all <code>k >= j, [i, k]</code> is valid too.",
+            "For each <code>i</code>, find <code>j</code> with a sliding window or binary search."
+        ],
+        "relatedTopics": [
+            {
+                "name": "Hash Table",
+                "slug": "hash-table"
+            },
+            {
+                "name": "String",
+                "slug": "string"
+            },
+            {
+                "name": "Sliding Window",
+                "slug": "sliding-window"
+            }
+        ]
+    }
+}

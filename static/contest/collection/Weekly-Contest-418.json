@@ -1,0 +1,43 @@
+{
+  "failed": false,
+  "status": 200,
+  "message": "All Questions of Weekly-Contest-418",
+  "data": [
+    {
+      "id": 4233,
+      "question_id": 3579,
+      "credit": 4,
+      "title": "Maximum Possible Number by Binary Concatenation",
+      "title_slug": "maximum-possible-number-by-binary-concatenation",
+      "likes": 93,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4234,
+      "question_id": 3561,
+      "credit": 5,
+      "title": "Remove Methods From Project",
+      "title_slug": "remove-methods-from-project",
+      "likes": 119,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4235,
+      "question_id": 3578,
+      "credit": 7,
+      "title": "Construct 2D Grid Matching Graph Layout",
+      "title_slug": "construct-2d-grid-matching-graph-layout",
+      "likes": 60,
+      "dislikes": "NA"
+    },
+    {
+      "id": 4236,
+      "question_id": 3583,
+      "credit": 8,
+      "title": "Sorted GCD Pair Queries",
+      "title_slug": "sorted-gcd-pair-queries",
+      "likes": 74,
+      "dislikes": "NA"
+    }
+  ]
+}
