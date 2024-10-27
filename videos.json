@@ -62,7 +62,225 @@
       "duration": "15:33",
       "date": "2024-10-06",
       "url": "https://youtu.be/iMGDkqjX8tc"
+    },
+    "minimum-string-length-after-removing-substrings": {
+      "title": "Minimum String Length After Removing Substrings",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/Minimum String LengthAfterRemovingSubstrings.webp",
+      "duration": "11:53",
+      "date": "2024-10-07",
+      "url": "https://youtu.be/Au4fdD4Cev8"
+    },
+    "minimum-number-of-swaps-to-make-the-string-balanced": {
+      "title": "Minimum Number of Swaps to Make the String Balanced",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MinimumNumberofSwapstoMaketheStringBalanced.webp",
+      "duration": "14:33",
+      "date": "2024-10-08",
+      "url": "https://youtu.be/hZyudI2bSaM"
+    },
+    "minimum-add-to-make-parentheses-valid": {
+      "title": "Minimum Add to Make Parentheses Valid",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MinimumAddtoMakeParenthesesValid.webp",
+      "duration": "12:13",
+      "date": "2024-10-09",
+      "url": "https://youtu.be/lhQJaek0gTo"
+    },
+    "maximum-width-ramp": {
+      "title": "Maximum Width Ramp",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MaximumWidthRamp.webp",
+      "duration": "25:42",
+      "date": "2024-10-10",
+      "url": "https://youtu.be/JDd__zlY28s"
+    },
+    "add-two-numbers": {
+      "title": "Add Two Numbers",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/AddTwoNumbers.webp",
+      "duration": "17:22",
+      "date": "2024-10-10",
+      "url": "https://youtu.be/IqKIE6TwDpo"
+    },
+    "palindrome-number": {
+      "title": "Palindrome Number",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/PalindromeNumber.webp",
+      "duration": "12:05",
+      "date": "2024-10-11",
+      "url": "https://youtu.be/4nNEM5FNFtk"
+    },
+    "divide-intervals-into-minimum-number-of-groups": {
+      "title": "Divide Intervals Into Minimum Number of Groups",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/DivideIntervalsIntoMinimumNumberofGroups.webp",
+      "duration": "15:13",
+      "date": "2024-10-12",
+      "url": "https://youtu.be/jbPOluvZ1_c"
+    },
+    "maximum-subarray": {
+      "title": "Maximum Subarray",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MaximumSubarray.webp",
+      "duration": "08:30",
+      "date": "2024-10-12",
+      "url": "https://youtu.be/ajLfubkyZYM"
+    },
+    "smallest-range-covering-elements-from-k-lists": {
+      "title": "Smallest Range Covering Elements from K Lists",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SmallestRangeCoveringElementsfromKLists.webp",
+      "duration": "17:41",
+      "date": "2024-10-13",
+      "url": "https://youtu.be/QAIV9z2Li9Y"
+    },
+    "convert-the-temperature": {
+      "title": "Convert the Temperature",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/convertTheTemperature.webp",
+      "duration": "01:24",
+      "date": "2024-10-13",
+      "url": "https://www.youtube.com/watch?v=0NL7R_mxqU4"
+    },
+    "remove-linked-list-elements": {
+      "title": "Remove Linked List Elements",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RemoveLinkedListElements.webp",
+      "duration": "07:50",
+      "date": "2024-10-13",
+      "url": "https://youtu.be/qisdngx9WWg"
+    },
+    "search-insert-position": {
+      "title": "Search Insert Position",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SearchInsertPosition.webp",
+      "duration": "08:32",
+      "date": "2024-10-13",
+      "url": "https://youtu.be/sSn42hJ9NsM"
+    },
+    "maximal-score-after-applying-k-operations": {
+      "title": "Maximal Score After Applying K Operations",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MaximalScoreAfterApplyingKOperations.webp",
+      "duration": "12:00",
+      "date": "2024-10-14",
+      "url": "https://youtu.be/C2dopV8a5R8"
+    },
+    "separate-black-and-white-balls": {
+      "title": "Separate Black and White Balls",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SeparateBlackAndWhiteBalls.webp",
+      "duration": "09:04",
+      "date": "2024-10-15",
+      "url": "https://youtu.be/TTYlLeYCmjQ"
+    },
+    "longest-happy-string": {
+      "title": "Longest Happy String",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/LongestHappyString.webp",
+      "duration": "14:33",
+      "date": "2024-10-16",
+      "url": "https://youtu.be/KKn418MGJfs"
+    },
+    "maximum-swap": {
+      "title": "Maximum Swap",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MaximumSwap.webp",
+      "duration": "14:19",
+      "date": "2024-10-17",
+      "url": "https://youtu.be/fB1ou9zclBU"
+    },
+    "count-number-of-maximum-bitwise-or-subsets": {
+      "title": "Count Number of Maximum Bitwise-OR Subsets",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/CountNumberofMaximumBitwiseORSubsets.webp",
+      "duration": "12:00",
+      "date": "2024-10-18",
+      "url": "https://youtu.be/sVJ-VzJTN_g"
+    },
+    "find-kth-bit-in-nth-binary-string": {
+      "title": "Find Kth Bit in Nth Binary String",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/FindKthBitinNthBinaryString.webp",
+      "duration": "13:30",
+      "date": "2024-10-19",
+      "url": "https://youtu.be/wVP3Y4f1Trg"
+    },
+    "parsing-a-boolean-expression": {
+      "title": "Parsing A Boolean Expression",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/ParsingABooleanExpression.webp",
+      "duration": "17:53",
+      "date": "2024-10-20",
+      "url": "https://youtu.be/7aqs6S-vzrg"
+    },
+    "split-a-string-into-the-max-number-of-unique-substrings": {
+      "title": "Split a String Into the Max Number of Unique Substrings",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SplitaStringIntotheMaxNumberofUniqueSubstrings.webp",
+      "duration": "13:58",
+      "date": "2024-10-21",
+      "url": "https://youtu.be/-9coh35TPzY"
+    },
+    "combination-sum": {
+      "title": "Combination Sum",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/CombinationSum.webp",
+      "duration": "15:00",
+      "date": "2024-10-21",
+      "url": "https://youtu.be/FzXpb8HSigY"
+    },
+    "set-matrix-zeroes": {
+      "title": "Set Matrix Zeroes",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SetMatrixZeroes.webp",
+      "duration": "16:55",
+      "date": "2024-10-21",
+      "url": "https://youtu.be/Yv83b5TmYzU"
+    },
+    "kth-largest-sum-in-a-binary-tree": {
+      "title": "Kth Largest Sum in a Binary Tree",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/KthLargestSuminaBinaryTree.webp",
+      "duration": "14:16",
+      "date": "2024-10-22",
+      "url": "https://youtu.be/lO4I5NgcRXQ"
+    },
+    "cousins-in-binary-tree-ii": {
+      "title": "Cousins in Binary Tree II",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/CousinsinBinaryTreeII.webp",
+      "duration": "17:28",
+      "date": "2024-10-23",
+      "url": "https://youtu.be/v33lxsAneFQ"
+    },
+    "remove-sub-folders-from-the-filesystem": {
+      "title": "Remove Sub-Folders from the Filesystem",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RemoveSubFoldersFromSystem.webp",
+      "duration": "08:48",
+      "date": "2024-10-23",
+      "url": "https://youtu.be/XDQ0E3xgcWY"
+    },
+    "flip-equivalent-binary-trees": {
+      "title": "Flip Equivalent Binary Trees",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/FlipEquivalentBinaryTrees.webp",
+      "duration": "12:30",
+      "date": "2024-10-24",
+      "url": "https://youtu.be/qCaBvJMyKxQ"
+    },
+    "height-of-binary-tree-after-subtree-removal-queries": {
+      "title": "Height of Binary Tree After Subtree Removal Queries",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/HeightofBinaryTreeAfterSubtreeRemovalQueries.webp",
+      "duration": "25:11",
+      "date": "2024-10-26",
+      "url": "https://youtu.be/UftTxaKsqT0"
+    },
+    "count-square-submatrices-with-all-ones": {
+      "title": "Count Square Submatrices with All Ones",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/CountSquareSubmatriceswithAllOnes.webp",
+      "duration": "15:26",
+      "date": "2024-10-27",
+      "url": "https://youtu.be/cgOcqyHuYxM"
     }
   },
-  "striver_sheet": { }
+  "striver_sheet": {
+    "1" : {
+      "title": "Set Matrix Zeros",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SetMatrixZeroes.webp",
+      "duration": "16:55",
+      "date": "2024-10-21",
+      "url": "https://youtu.be/Yv83b5TmYzU"
+    },
+    "4":{
+      "title": "Maximum Subarray Sum",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/MaximumSubarray.webp",
+      "duration": "08:30",
+      "date": "2024-10-12",
+      "url": "https://youtu.be/ajLfubkyZYM"
+    },
+    "41":{
+      "title": "Remove Duplicates from Sorted Array",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RemoveDuplicatesFromSortedArray.webp",
+      "duration": "07:29",
+      "date": "2024-10-02",
+      "url": "https://www.youtube.com/watch?v=SS_1hm9eCew"
+    }
+  }
 }
