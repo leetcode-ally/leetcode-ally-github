@@ -260,5 +260,13 @@
       "url": "https://youtu.be/cgOcqyHuYxM"
     }
   },
-  "striver_sheet": { }
+  "striver_sheet": {
+    "1" : {
+      "title": "Set Matrix Zeros",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/SetMatrixZeroes.webp",
+      "duration": "16:55",
+      "date": "2024-10-21",
+      "url": "https://youtu.be/Yv83b5TmYzU"
+    }
+  }
 }
