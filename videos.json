@@ -1,5 +1,12 @@
 {
   "videos": {
+    "shortest-subarray-with-or-at-least-k-ii": {
+      "title": "Shortest Subarray With OR at Least K II",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/ShortestSubarrayWithOrAtleastKII.webp",
+      "duration": "22.00",
+      "date": "2024-11-10",
+      "url": "https://www.youtube.com/watch?v=SXiXIiIRKok"
+    },
     "rank-transform-of-an-array":{
       "title": "Rank Transform of an Array",
       "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RankTransformofanArray.webp",
