@@ -442,7 +442,14 @@
       "duration": "15:53",
       "date": "2024-11-12",
       "url": "https://youtu.be/ldHEA8HCox8"
-    }
+    },
+    "29": {
+      "title": "Add Two Numbers As Linked Lists",
+      "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/AddTwoNumbers.webp",
+      "duration": "17:22",
+      "date": "2024-10-10",
+      "url": "https://youtu.be/IqKIE6TwDpo"
+    },
     "41":{
       "title": "Remove Duplicates from Sorted Array",
       "thumbnail": "https://leetcode-ally.github.io/leetcode-ally-github/images/thumbnail/RemoveDuplicatesFromSortedArray.webp",
